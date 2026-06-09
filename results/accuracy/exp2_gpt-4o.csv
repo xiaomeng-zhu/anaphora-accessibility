@@ -1,0 +1,481 @@
+raw_response,sent1,sent2,frame,gender,comp,correct
+2,The farmer didn't own a cow. It was just away on the meadow.,It was not the case that the farmer didn't own a cow. It was just away on the meadow.,0,NA,DNE>negation2_just,1
+1,The farmer owned a cow. It was away on the meadow.,The farmer didn't own a cow. It was away on the meadow.,0,NA,existential>negation2,1
+2,It was not the case that the farmer didn't own a cow. It was just away on the meadow.,The farmer owned a cow. It was away on the meadow.,0,NA,existential>DNE,1
+1,"It was not the case that the farmer didn't own a cow. In fact, it was just away on the meadow.","The farmer didn't own a cow. In fact, it was just away on the meadow.",0,NA,DNE_infact>negation2_just_infact,1
+2,"The farmer didn't own a cow. In fact, it was away on the meadow.","The farmer owned a cow. In fact, it was away on the meadow.",0,NA,existential_infact>negation2_infact,1
+1,It was not the case that the pirate didn't acquire a treasure. It was just hidden in the box.,The pirate didn't acquire a treasure. It was just hidden in the box.,1,NA,DNE>negation2_just,1
+2,The pirate didn't acquire a treasure. It was hidden in the box.,The pirate acquired a treasure. It was hidden in the box.,1,NA,existential>negation2,1
+2,It was not the case that the pirate didn't acquire a treasure. It was just hidden in the box.,The pirate acquired a treasure. It was hidden in the box.,1,NA,existential>DNE,1
+1,"It was not the case that the pirate didn't acquire a treasure. In fact, it was just hidden in the box.","The pirate didn't acquire a treasure. In fact, it was just hidden in the box.",1,NA,DNE_infact>negation2_just_infact,1
+1,"The pirate acquired a treasure. In fact, it was hidden in the box.","The pirate didn't acquire a treasure. In fact, it was hidden in the box.",1,NA,existential_infact>negation2_infact,1
+1,It was not the case that the kid didn't have a dog. It was just out for a walk.,The kid didn't have a dog. It was just out for a walk.,2,NA,DNE>negation2_just,1
+1,The kid had a dog. It was out for a walk.,The kid didn't have a dog. It was out for a walk.,2,NA,existential>negation2,1
+1,The kid had a dog. It was out for a walk.,It was not the case that the kid didn't have a dog. It was just out for a walk.,2,NA,existential>DNE,1
+1,"It was not the case that the kid didn't have a dog. In fact, it was just out for a walk.","The kid didn't have a dog. In fact, it was just out for a walk.",2,NA,DNE_infact>negation2_just_infact,1
+1,"The kid had a dog. In fact, it was out for a walk.","The kid didn't have a dog. In fact, it was out for a walk.",2,NA,existential_infact>negation2_infact,1
+1,It was not the case that the student didn't discover a problem. It was just too hard to solve.,The student didn't discover a problem. It was just too hard to solve.,3,NA,DNE>negation2_just,1
+2,The student didn't discover a problem. It was too hard to solve.,The student discovered a problem. It was too hard to solve.,3,NA,existential>negation2,1
+1,The student discovered a problem. It was too hard to solve.,It was not the case that the student didn't discover a problem. It was just too hard to solve.,3,NA,existential>DNE,1
+1,"It was not the case that the student didn't discover a problem. In fact, it was just too hard to solve.","The student didn't discover a problem. In fact, it was just too hard to solve.",3,NA,DNE_infact>negation2_just_infact,1
+1,"The student discovered a problem. In fact, it was too hard to solve.","The student didn't discover a problem. In fact, it was too hard to solve.",3,NA,existential_infact>negation2_infact,1
+1,It was not the case that the doctor didn't find a bone. It was just stored in formalin.,The doctor didn't find a bone. It was just stored in formalin.,4,NA,DNE>negation2_just,1
+2,The doctor didn't find a bone. It was stored in formalin.,The doctor found a bone. It was stored in formalin.,4,NA,existential>negation2,1
+1,The doctor found a bone. It was stored in formalin.,It was not the case that the doctor didn't find a bone. It was just stored in formalin.,4,NA,existential>DNE,1
+1,"It was not the case that the doctor didn't find a bone. In fact, it was just stored in formalin.","The doctor didn't find a bone. In fact, it was just stored in formalin.",4,NA,DNE_infact>negation2_just_infact,1
+1,"The doctor found a bone. In fact, it was stored in formalin.","The doctor didn't find a bone. In fact, it was stored in formalin.",4,NA,existential_infact>negation2_infact,1
+1,The photographer didn't capture a moment. It was just gone in a flash.,It was not the case that the photographer didn't capture a moment. It was just gone in a flash.,5,NA,DNE>negation2_just,0
+1,The photographer captured a moment. It was gone in a flash.,The photographer didn't capture a moment. It was gone in a flash.,5,NA,existential>negation2,1
+2,It was not the case that the photographer didn't capture a moment. It was just gone in a flash.,The photographer captured a moment. It was gone in a flash.,5,NA,existential>DNE,1
+1,"It was not the case that the photographer didn't capture a moment. In fact, it was just gone in a flash.","The photographer didn't capture a moment. In fact, it was just gone in a flash.",5,NA,DNE_infact>negation2_just_infact,1
+2,"The photographer didn't capture a moment. In fact, it was gone in a flash.","The photographer captured a moment. In fact, it was gone in a flash.",5,NA,existential_infact>negation2_infact,1
+2,The surgeon didn't detect a tumor. It was just spreading everywhere.,It was not the case that the surgeon didn't detect a tumor. It was just spreading everywhere.,6,NA,DNE>negation2_just,1
+2,The surgeon didn't detect a tumor. It was spreading everywhere.,The surgeon detected a tumor. It was spreading everywhere.,6,NA,existential>negation2,1
+2,It was not the case that the surgeon didn't detect a tumor. It was just spreading everywhere.,The surgeon detected a tumor. It was spreading everywhere.,6,NA,existential>DNE,1
+1,"It was not the case that the surgeon didn't detect a tumor. In fact, it was just spreading everywhere.","The surgeon didn't detect a tumor. In fact, it was just spreading everywhere.",6,NA,DNE_infact>negation2_just_infact,1
+1,"The surgeon detected a tumor. In fact, it was spreading everywhere.","The surgeon didn't detect a tumor. In fact, it was spreading everywhere.",6,NA,existential_infact>negation2_infact,1
+1,The editor didn't observe a mistake. It was just negligible.,It was not the case that the editor didn't observe a mistake. It was just negligible.,7,NA,DNE>negation2_just,0
+2,The editor didn't observe a mistake. It was negligible.,The editor observed a mistake. It was negligible.,7,NA,existential>negation2,1
+1,The editor observed a mistake. It was negligible.,It was not the case that the editor didn't observe a mistake. It was just negligible.,7,NA,existential>DNE,1
+1,"The editor didn't observe a mistake. In fact, it was just negligible.","It was not the case that the editor didn't observe a mistake. In fact, it was just negligible.",7,NA,DNE_infact>negation2_just_infact,0
+1,"The editor didn't observe a mistake. In fact, it was negligible.","The editor observed a mistake. In fact, it was negligible.",7,NA,existential_infact>negation2_infact,0
+2,The chef didn't plant a tomato. It was just not ripe yet.,It was not the case that the chef didn't plant a tomato. It was just not ripe yet.,8,NA,DNE>negation2_just,1
+1,The chef didn't plant a tomato. It was not ripe yet.,The chef planted a tomato. It was not ripe yet.,8,NA,existential>negation2,0
+2,It was not the case that the chef didn't plant a tomato. It was just not ripe yet.,The chef planted a tomato. It was not ripe yet.,8,NA,existential>DNE,1
+2,"The chef didn't plant a tomato. In fact, it was just not ripe yet.","It was not the case that the chef didn't plant a tomato. In fact, it was just not ripe yet.",8,NA,DNE_infact>negation2_just_infact,1
+2,"The chef didn't plant a tomato. In fact, it was not ripe yet.","The chef planted a tomato. In fact, it was not ripe yet.",8,NA,existential_infact>negation2_infact,1
+1,It was not the case that the hunter didn't spot a deer. It was just difficult to shoot.,The hunter didn't spot a deer. It was just difficult to shoot.,9,NA,DNE>negation2_just,1
+1,The hunter spotted a deer. It was difficult to shoot.,The hunter didn't spot a deer. It was difficult to shoot.,9,NA,existential>negation2,1
+2,It was not the case that the hunter didn't spot a deer. It was just difficult to shoot.,The hunter spotted a deer. It was difficult to shoot.,9,NA,existential>DNE,1
+1,"It was not the case that the hunter didn't spot a deer. In fact, it was just difficult to shoot.","The hunter didn't spot a deer. In fact, it was just difficult to shoot.",9,NA,DNE_infact>negation2_just_infact,1
+1,"The hunter spotted a deer. In fact, it was difficult to shoot.","The hunter didn't spot a deer. In fact, it was difficult to shoot.",9,NA,existential_infact>negation2_infact,1
+1,It was not the case that the player didn't throw a ball. It was just missed by the catcher.,The player didn't throw a ball. It was just missed by the catcher.,10,NA,DNE>negation2_just,1
+1,The player threw a ball. It was missed by the catcher.,The player didn't throw a ball. It was missed by the catcher.,10,NA,existential>negation2,1
+2,It was not the case that the player didn't throw a ball. It was just missed by the catcher.,The player threw a ball. It was missed by the catcher.,10,NA,existential>DNE,1
+1,"The player didn't throw a ball. In fact, it was just missed by the catcher.","It was not the case that the player didn't throw a ball. In fact, it was just missed by the catcher.",10,NA,DNE_infact>negation2_just_infact,0
+1,"The player threw a ball. In fact, it was missed by the catcher.","The player didn't throw a ball. In fact, it was missed by the catcher.",10,NA,existential_infact>negation2_infact,1
+2,It was not the case that the police didn't stop a car. It was just slowing down already.,The police didn't stop a car. It was just slowing down already.,11,NA,DNE>negation2_just,0
+1,The police didn't stop a car. It was slowing down already.,The police stopped a car. It was slowing down already.,11,NA,existential>negation2,0
+2,It was not the case that the police didn't stop a car. It was just slowing down already.,The police stopped a car. It was slowing down already.,11,NA,existential>DNE,1
+2,"It was not the case that the police didn't stop a car. In fact, it was just slowing down already.","The police didn't stop a car. In fact, it was just slowing down already.",11,NA,DNE_infact>negation2_just_infact,0
+1,"The police stopped a car. In fact, it was slowing down already.","The police didn't stop a car. In fact, it was slowing down already.",11,NA,existential_infact>negation2_infact,1
+1,It was not the case that the researcher didn't propose an idea. It was just scooped by others.,The researcher didn't propose an idea. It was just scooped by others.,12,NA,DNE>negation2_just,1
+1,The researcher proposed an idea. It was scooped by others.,The researcher didn't propose an idea. It was scooped by others.,12,NA,existential>negation2,1
+1,The researcher proposed an idea. It was scooped by others.,It was not the case that the researcher didn't propose an idea. It was just scooped by others.,12,NA,existential>DNE,1
+2,"The researcher didn't propose an idea. In fact, it was just scooped by others.","It was not the case that the researcher didn't propose an idea. In fact, it was just scooped by others.",12,NA,DNE_infact>negation2_just_infact,1
+1,"The researcher proposed an idea. In fact, it was scooped by others.","The researcher didn't propose an idea. In fact, it was scooped by others.",12,NA,existential_infact>negation2_infact,1
+2,The worker didn't build a chair. It was just not finished yet.,It was not the case that the worker didn't build a chair. It was just not finished yet.,13,NA,DNE>negation2_just,1
+1,The worker built a chair. It was not finished yet.,The worker didn't build a chair. It was not finished yet.,13,NA,existential>negation2,1
+1,It was not the case that the worker didn't build a chair. It was just not finished yet.,The worker built a chair. It was not finished yet.,13,NA,existential>DNE,0
+1,"It was not the case that the worker didn't build a chair. In fact, it was just not finished yet.","The worker didn't build a chair. In fact, it was just not finished yet.",13,NA,DNE_infact>negation2_just_infact,1
+2,"The worker built a chair. In fact, it was not finished yet.","The worker didn't build a chair. In fact, it was not finished yet.",13,NA,existential_infact>negation2_infact,0
+2,The teacher didn't discuss an argument. It was just hard to unpack.,It was not the case that the teacher didn't discuss an argument. It was just hard to unpack.,14,NA,DNE>negation2_just,1
+1,The teacher discussed an argument. It was hard to unpack.,The teacher didn't discuss an argument. It was hard to unpack.,14,NA,existential>negation2,1
+1,The teacher discussed an argument. It was hard to unpack.,It was not the case that the teacher didn't discuss an argument. It was just hard to unpack.,14,NA,existential>DNE,1
+2,"The teacher didn't discuss an argument. In fact, it was just hard to unpack.","It was not the case that the teacher didn't discuss an argument. In fact, it was just hard to unpack.",14,NA,DNE_infact>negation2_just_infact,1
+1,"The teacher discussed an argument. In fact, it was hard to unpack.","The teacher didn't discuss an argument. In fact, it was hard to unpack.",14,NA,existential_infact>negation2_infact,1
+1,The customer didn't buy a shirt. It was just sent for tailoring.,It was not the case that the customer didn't buy a shirt. It was just sent for tailoring.,15,NA,DNE>negation2_just,0
+1,The customer bought a shirt. It was sent for tailoring.,The customer didn't buy a shirt. It was sent for tailoring.,15,NA,existential>negation2,1
+1,The customer bought a shirt. It was sent for tailoring.,It was not the case that the customer didn't buy a shirt. It was just sent for tailoring.,15,NA,existential>DNE,1
+2,"The customer didn't buy a shirt. In fact, it was just sent for tailoring.","It was not the case that the customer didn't buy a shirt. In fact, it was just sent for tailoring.",15,NA,DNE_infact>negation2_just_infact,1
+1,"The customer didn't buy a shirt. In fact, it was sent for tailoring.","The customer bought a shirt. In fact, it was sent for tailoring.",15,NA,existential_infact>negation2_infact,0
+1,The athlete didn't claim a record. It was just unofficial.,It was not the case that the athlete didn't claim a record. It was just unofficial.,16,NA,DNE>negation2_just,0
+1,The athlete didn't claim a record. It was unofficial.,The athlete claimed a record. It was unofficial.,16,NA,existential>negation2,0
+2,It was not the case that the athlete didn't claim a record. It was just unofficial.,The athlete claimed a record. It was unofficial.,16,NA,existential>DNE,1
+1,"It was not the case that the athlete didn't claim a record. In fact, it was just unofficial.","The athlete didn't claim a record. In fact, it was just unofficial.",16,NA,DNE_infact>negation2_just_infact,1
+1,"The athlete didn't claim a record. In fact, it was unofficial.","The athlete claimed a record. In fact, it was unofficial.",16,NA,existential_infact>negation2_infact,0
+1,It was not the case that the professor didn't write a book. It was just unpublished.,The professor didn't write a book. It was just unpublished.,17,NA,DNE>negation2_just,1
+1,The professor wrote a book. It was unpublished.,The professor didn't write a book. It was unpublished.,17,NA,existential>negation2,1
+2,It was not the case that the professor didn't write a book. It was just unpublished.,The professor wrote a book. It was unpublished.,17,NA,existential>DNE,1
+2,"The professor didn't write a book. In fact, it was just unpublished.","It was not the case that the professor didn't write a book. In fact, it was just unpublished.",17,NA,DNE_infact>negation2_just_infact,1
+2,"The professor didn't write a book. In fact, it was unpublished.","The professor wrote a book. In fact, it was unpublished.",17,NA,existential_infact>negation2_infact,1
+1,The administrator didn't order a coffee. It was just on its way.,It was not the case that the administrator didn't order a coffee. It was just on its way.,18,NA,DNE>negation2_just,0
+2,The administrator didn't order a coffee. It was on its way.,The administrator ordered a coffee. It was on its way.,18,NA,existential>negation2,1
+2,It was not the case that the administrator didn't order a coffee. It was just on its way.,The administrator ordered a coffee. It was on its way.,18,NA,existential>DNE,1
+2,"The administrator didn't order a coffee. In fact, it was just on its way.","It was not the case that the administrator didn't order a coffee. In fact, it was just on its way.",18,NA,DNE_infact>negation2_just_infact,1
+2,"The administrator didn't order a coffee. In fact, it was on its way.","The administrator ordered a coffee. In fact, it was on its way.",18,NA,existential_infact>negation2_infact,1
+1,The server didn't spill a drink. It was just wiped up quickly.,It was not the case that the server didn't spill a drink. It was just wiped up quickly.,19,NA,DNE>negation2_just,0
+2,The server didn't spill a drink. It was wiped up quickly.,The server spilled a drink. It was wiped up quickly.,19,NA,existential>negation2,1
+1,The server spilled a drink. It was wiped up quickly.,It was not the case that the server didn't spill a drink. It was just wiped up quickly.,19,NA,existential>DNE,1
+1,"The server didn't spill a drink. In fact, it was just wiped up quickly.","It was not the case that the server didn't spill a drink. In fact, it was just wiped up quickly.",19,NA,DNE_infact>negation2_just_infact,0
+2,"The server didn't spill a drink. In fact, it was wiped up quickly.","The server spilled a drink. In fact, it was wiped up quickly.",19,NA,existential_infact>negation2_infact,1
+1,It was not the case that the director didn't produce a film. It was just still in editing.,The director didn't produce a film. It was just still in editing.,20,NA,DNE>negation2_just,1
+1,The director didn't produce a film. It was still in editing.,The director produced a film. It was still in editing.,20,NA,existential>negation2,0
+2,It was not the case that the director didn't produce a film. It was just still in editing.,The director produced a film. It was still in editing.,20,NA,existential>DNE,1
+2,"The director didn't produce a film. In fact, it was just still in editing.","It was not the case that the director didn't produce a film. In fact, it was just still in editing.",20,NA,DNE_infact>negation2_just_infact,1
+1,"The director produced a film. In fact, it was still in editing.","The director didn't produce a film. In fact, it was still in editing.",20,NA,existential_infact>negation2_infact,1
+2,It was not the case that the designer didn't make a bag. It was just a prototype.,The designer didn't make a bag. It was just a prototype.,21,NA,DNE>negation2_just,0
+2,The designer didn't make a bag. It was a prototype.,The designer made a bag. It was a prototype.,21,NA,existential>negation2,1
+1,The designer made a bag. It was a prototype.,It was not the case that the designer didn't make a bag. It was just a prototype.,21,NA,existential>DNE,1
+1,"The designer didn't make a bag. In fact, it was just a prototype.","It was not the case that the designer didn't make a bag. In fact, it was just a prototype.",21,NA,DNE_infact>negation2_just_infact,0
+2,"The designer didn't make a bag. In fact, it was a prototype.","The designer made a bag. In fact, it was a prototype.",21,NA,existential_infact>negation2_infact,1
+2,The traveler didn't document a country. It was just full of stories.,It was not the case that the traveler didn't document a country. It was just full of stories.,22,NA,DNE>negation2_just,1
+2,The traveler didn't document a country. It was full of stories.,The traveler documented a country. It was full of stories.,22,NA,existential>negation2,1
+1,The traveler documented a country. It was full of stories.,It was not the case that the traveler didn't document a country. It was just full of stories.,22,NA,existential>DNE,1
+2,"The traveler didn't document a country. In fact, it was just full of stories.","It was not the case that the traveler didn't document a country. In fact, it was just full of stories.",22,NA,DNE_infact>negation2_just_infact,1
+1,"The traveler documented a country. In fact, it was full of stories.","The traveler didn't document a country. In fact, it was full of stories.",22,NA,existential_infact>negation2_infact,1
+1,The developer didn't identify a bug. It was just tricky to fix.,It was not the case that the developer didn't identify a bug. It was just tricky to fix.,23,NA,DNE>negation2_just,0
+1,The developer identified a bug. It was tricky to fix.,The developer didn't identify a bug. It was tricky to fix.,23,NA,existential>negation2,1
+1,The developer identified a bug. It was tricky to fix.,It was not the case that the developer didn't identify a bug. It was just tricky to fix.,23,NA,existential>DNE,1
+2,"The developer didn't identify a bug. In fact, it was just tricky to fix.","It was not the case that the developer didn't identify a bug. In fact, it was just tricky to fix.",23,NA,DNE_infact>negation2_just_infact,1
+2,"The developer didn't identify a bug. In fact, it was tricky to fix.","The developer identified a bug. In fact, it was tricky to fix.",23,NA,existential_infact>negation2_infact,1
+1,It was not the case that the manufacturer didn't develop a product. It was just in testing.,The manufacturer didn't develop a product. It was just in testing.,24,NA,DNE>negation2_just,1
+1,The manufacturer didn't develop a product. It was in testing.,The manufacturer developed a product. It was in testing.,24,NA,existential>negation2,0
+1,The manufacturer developed a product. It was in testing.,It was not the case that the manufacturer didn't develop a product. It was just in testing.,24,NA,existential>DNE,1
+1,"It was not the case that the manufacturer didn't develop a product. In fact, it was just in testing.","The manufacturer didn't develop a product. In fact, it was just in testing.",24,NA,DNE_infact>negation2_just_infact,1
+2,"The manufacturer didn't develop a product. In fact, it was in testing.","The manufacturer developed a product. In fact, it was in testing.",24,NA,existential_infact>negation2_infact,1
+2,The manager didn't launch a project. It was just delayed.,It was not the case that the manager didn't launch a project. It was just delayed.,25,NA,DNE>negation2_just,1
+1,The manager didn't launch a project. It was delayed.,The manager launched a project. It was delayed.,25,NA,existential>negation2,0
+1,The manager launched a project. It was delayed.,It was not the case that the manager didn't launch a project. It was just delayed.,25,NA,existential>DNE,1
+1,"The manager didn't launch a project. In fact, it was just delayed.","It was not the case that the manager didn't launch a project. In fact, it was just delayed.",25,NA,DNE_infact>negation2_just_infact,0
+1,"The manager launched a project. In fact, it was delayed.","The manager didn't launch a project. In fact, it was delayed.",25,NA,existential_infact>negation2_infact,1
+1,It was not the case that the instructor didn't prepare a course. It was just not published.,The instructor didn't prepare a course. It was just not published.,26,NA,DNE>negation2_just,1
+2,The instructor didn't prepare a course. It was not published.,The instructor prepared a course. It was not published.,26,NA,existential>negation2,1
+2,It was not the case that the instructor didn't prepare a course. It was just not published.,The instructor prepared a course. It was not published.,26,NA,existential>DNE,1
+2,"The instructor didn't prepare a course. In fact, it was just not published.","It was not the case that the instructor didn't prepare a course. In fact, it was just not published.",26,NA,DNE_infact>negation2_just_infact,1
+2,"The instructor prepared a course. In fact, it was not published.","The instructor didn't prepare a course. In fact, it was not published.",26,NA,existential_infact>negation2_infact,0
+2,The lawyer didn't accept a case. It was just complicated.,It was not the case that the lawyer didn't accept a case. It was just complicated.,27,NA,DNE>negation2_just,1
+1,The lawyer accepted a case. It was complicated.,The lawyer didn't accept a case. It was complicated.,27,NA,existential>negation2,1
+1,The lawyer accepted a case. It was complicated.,It was not the case that the lawyer didn't accept a case. It was just complicated.,27,NA,existential>DNE,1
+1,"It was not the case that the lawyer didn't accept a case. In fact, it was just complicated.","The lawyer didn't accept a case. In fact, it was just complicated.",27,NA,DNE_infact>negation2_just_infact,1
+2,"The lawyer didn't accept a case. In fact, it was complicated.","The lawyer accepted a case. In fact, it was complicated.",27,NA,existential_infact>negation2_infact,1
+2,It was not the case that the warrior didn't invade a castle. It was just heavily guarded.,The warrior didn't invade a castle. It was just heavily guarded.,28,NA,DNE>negation2_just,0
+1,The warrior didn't invade a castle. It was heavily guarded.,The warrior invaded a castle. It was heavily guarded.,28,NA,existential>negation2,0
+2,It was not the case that the warrior didn't invade a castle. It was just heavily guarded.,The warrior invaded a castle. It was heavily guarded.,28,NA,existential>DNE,1
+1,"It was not the case that the warrior didn't invade a castle. In fact, it was just heavily guarded.","The warrior didn't invade a castle. In fact, it was just heavily guarded.",28,NA,DNE_infact>negation2_just_infact,1
+1,"The warrior didn't invade a castle. In fact, it was heavily guarded.","The warrior invaded a castle. In fact, it was heavily guarded.",28,NA,existential_infact>negation2_infact,0
+1,It was not the case that the entrepreneur didn't found a company. It was just closed.,The entrepreneur didn't found a company. It was just closed.,29,NA,DNE>negation2_just,1
+1,The entrepreneur founded a company. It was closed.,The entrepreneur didn't found a company. It was closed.,29,NA,existential>negation2,1
+2,It was not the case that the entrepreneur didn't found a company. It was just closed.,The entrepreneur founded a company. It was closed.,29,NA,existential>DNE,1
+1,"It was not the case that the entrepreneur didn't found a company. In fact, it was just closed.","The entrepreneur didn't found a company. In fact, it was just closed.",29,NA,DNE_infact>negation2_just_infact,1
+2,"The entrepreneur didn't found a company. In fact, it was closed.","The entrepreneur founded a company. In fact, it was closed.",29,NA,existential_infact>negation2_infact,1
+2,It was not the case that the pilot didn't fly a helicopter. It was just grounded for now.,The pilot didn't fly a helicopter. It was just grounded for now.,30,NA,DNE>negation2_just,0
+1,The pilot didn't fly a helicopter. It was grounded for now.,The pilot flew a helicopter. It was grounded for now.,30,NA,existential>negation2,0
+1,It was not the case that the pilot didn't fly a helicopter. It was just grounded for now.,The pilot flew a helicopter. It was grounded for now.,30,NA,existential>DNE,0
+1,"The pilot didn't fly a helicopter. In fact, it was just grounded for now.","It was not the case that the pilot didn't fly a helicopter. In fact, it was just grounded for now.",30,NA,DNE_infact>negation2_just_infact,0
+2,"The pilot flew a helicopter. In fact, it was grounded for now.","The pilot didn't fly a helicopter. In fact, it was grounded for now.",30,NA,existential_infact>negation2_infact,0
+1,It was not the case that the rider didn't raise a horse. It was just still a foal.,The rider didn't raise a horse. It was just still a foal.,31,NA,DNE>negation2_just,1
+2,The rider didn't raise a horse. It was still a foal.,The rider raised a horse. It was still a foal.,31,NA,existential>negation2,1
+1,The rider raised a horse. It was still a foal.,It was not the case that the rider didn't raise a horse. It was just still a foal.,31,NA,existential>DNE,1
+2,"The rider didn't raise a horse. In fact, it was just still a foal.","It was not the case that the rider didn't raise a horse. In fact, it was just still a foal.",31,NA,DNE_infact>negation2_just_infact,1
+2,"The rider didn't raise a horse. In fact, it was still a foal.","The rider raised a horse. In fact, it was still a foal.",31,NA,existential_infact>negation2_infact,1
+1,It was not the case that John didn't own a cow. It was just away on the meadow.,John didn't own a cow. It was just away on the meadow.,0,m,DNE>negation2_just,1
+1,John owned a cow. It was away on the meadow.,John didn't own a cow. It was away on the meadow.,0,m,existential>negation2,1
+2,It was not the case that John didn't own a cow. It was just away on the meadow.,John owned a cow. It was away on the meadow.,0,m,existential>DNE,1
+1,"It was not the case that John didn't own a cow. In fact, it was just away on the meadow.","John didn't own a cow. In fact, it was just away on the meadow.",0,m,DNE_infact>negation2_just_infact,1
+2,"John didn't own a cow. In fact, it was away on the meadow.","John owned a cow. In fact, it was away on the meadow.",0,m,existential_infact>negation2_infact,1
+2,Mary didn't own a cow. It was just away on the meadow.,It was not the case that Mary didn't own a cow. It was just away on the meadow.,0,f,DNE>negation2_just,1
+1,Mary owned a cow. It was away on the meadow.,Mary didn't own a cow. It was away on the meadow.,0,f,existential>negation2,1
+1,Mary owned a cow. It was away on the meadow.,It was not the case that Mary didn't own a cow. It was just away on the meadow.,0,f,existential>DNE,1
+1,"It was not the case that Mary didn't own a cow. In fact, it was just away on the meadow.","Mary didn't own a cow. In fact, it was just away on the meadow.",0,f,DNE_infact>negation2_just_infact,1
+1,"Mary owned a cow. In fact, it was away on the meadow.","Mary didn't own a cow. In fact, it was away on the meadow.",0,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't acquire a treasure. It was just hidden in the box.,John didn't acquire a treasure. It was just hidden in the box.,1,m,DNE>negation2_just,1
+2,John didn't acquire a treasure. It was hidden in the box.,John acquired a treasure. It was hidden in the box.,1,m,existential>negation2,1
+2,It was not the case that John didn't acquire a treasure. It was just hidden in the box.,John acquired a treasure. It was hidden in the box.,1,m,existential>DNE,1
+1,"It was not the case that John didn't acquire a treasure. In fact, it was just hidden in the box.","John didn't acquire a treasure. In fact, it was just hidden in the box.",1,m,DNE_infact>negation2_just_infact,1
+1,"John acquired a treasure. In fact, it was hidden in the box.","John didn't acquire a treasure. In fact, it was hidden in the box.",1,m,existential_infact>negation2_infact,1
+1,Mary didn't acquire a treasure. It was just hidden in the box.,It was not the case that Mary didn't acquire a treasure. It was just hidden in the box.,1,f,DNE>negation2_just,0
+2,Mary didn't acquire a treasure. It was hidden in the box.,Mary acquired a treasure. It was hidden in the box.,1,f,existential>negation2,1
+1,Mary acquired a treasure. It was hidden in the box.,It was not the case that Mary didn't acquire a treasure. It was just hidden in the box.,1,f,existential>DNE,1
+1,"Mary didn't acquire a treasure. In fact, it was just hidden in the box.","It was not the case that Mary didn't acquire a treasure. In fact, it was just hidden in the box.",1,f,DNE_infact>negation2_just_infact,0
+1,"Mary didn't acquire a treasure. In fact, it was hidden in the box.","Mary acquired a treasure. In fact, it was hidden in the box.",1,f,existential_infact>negation2_infact,0
+2,John didn't have a dog. It was just out for a walk.,It was not the case that John didn't have a dog. It was just out for a walk.,2,m,DNE>negation2_just,1
+1,John had a dog. It was out for a walk.,John didn't have a dog. It was out for a walk.,2,m,existential>negation2,1
+1,John had a dog. It was out for a walk.,It was not the case that John didn't have a dog. It was just out for a walk.,2,m,existential>DNE,1
+2,"John didn't have a dog. In fact, it was just out for a walk.","It was not the case that John didn't have a dog. In fact, it was just out for a walk.",2,m,DNE_infact>negation2_just_infact,1
+2,"John didn't have a dog. In fact, it was out for a walk.","John had a dog. In fact, it was out for a walk.",2,m,existential_infact>negation2_infact,1
+1,It was not the case that Mary didn't have a dog. It was just out for a walk.,Mary didn't have a dog. It was just out for a walk.,2,f,DNE>negation2_just,1
+1,Mary had a dog. It was out for a walk.,Mary didn't have a dog. It was out for a walk.,2,f,existential>negation2,1
+2,It was not the case that Mary didn't have a dog. It was just out for a walk.,Mary had a dog. It was out for a walk.,2,f,existential>DNE,1
+2,"Mary didn't have a dog. In fact, it was just out for a walk.","It was not the case that Mary didn't have a dog. In fact, it was just out for a walk.",2,f,DNE_infact>negation2_just_infact,1
+2,"Mary didn't have a dog. In fact, it was out for a walk.","Mary had a dog. In fact, it was out for a walk.",2,f,existential_infact>negation2_infact,1
+1,John didn't discover a problem. It was just too hard to solve.,It was not the case that John didn't discover a problem. It was just too hard to solve.,3,m,DNE>negation2_just,0
+2,John didn't discover a problem. It was too hard to solve.,John discovered a problem. It was too hard to solve.,3,m,existential>negation2,1
+1,John discovered a problem. It was too hard to solve.,It was not the case that John didn't discover a problem. It was just too hard to solve.,3,m,existential>DNE,1
+1,"It was not the case that John didn't discover a problem. In fact, it was just too hard to solve.","John didn't discover a problem. In fact, it was just too hard to solve.",3,m,DNE_infact>negation2_just_infact,1
+2,"John didn't discover a problem. In fact, it was too hard to solve.","John discovered a problem. In fact, it was too hard to solve.",3,m,existential_infact>negation2_infact,1
+1,It was not the case that Mary didn't discover a problem. It was just too hard to solve.,Mary didn't discover a problem. It was just too hard to solve.,3,f,DNE>negation2_just,1
+2,Mary didn't discover a problem. It was too hard to solve.,Mary discovered a problem. It was too hard to solve.,3,f,existential>negation2,1
+2,It was not the case that Mary didn't discover a problem. It was just too hard to solve.,Mary discovered a problem. It was too hard to solve.,3,f,existential>DNE,1
+1,"It was not the case that Mary didn't discover a problem. In fact, it was just too hard to solve.","Mary didn't discover a problem. In fact, it was just too hard to solve.",3,f,DNE_infact>negation2_just_infact,1
+2,"Mary didn't discover a problem. In fact, it was too hard to solve.","Mary discovered a problem. In fact, it was too hard to solve.",3,f,existential_infact>negation2_infact,1
+2,John didn't find a bone. It was just stored in formalin.,It was not the case that John didn't find a bone. It was just stored in formalin.,4,m,DNE>negation2_just,1
+1,John found a bone. It was stored in formalin.,John didn't find a bone. It was stored in formalin.,4,m,existential>negation2,1
+2,It was not the case that John didn't find a bone. It was just stored in formalin.,John found a bone. It was stored in formalin.,4,m,existential>DNE,1
+1,"It was not the case that John didn't find a bone. In fact, it was just stored in formalin.","John didn't find a bone. In fact, it was just stored in formalin.",4,m,DNE_infact>negation2_just_infact,1
+1,"John found a bone. In fact, it was stored in formalin.","John didn't find a bone. In fact, it was stored in formalin.",4,m,existential_infact>negation2_infact,1
+2,Mary didn't find a bone. It was just stored in formalin.,It was not the case that Mary didn't find a bone. It was just stored in formalin.,4,f,DNE>negation2_just,1
+2,Mary didn't find a bone. It was stored in formalin.,Mary found a bone. It was stored in formalin.,4,f,existential>negation2,1
+2,It was not the case that Mary didn't find a bone. It was just stored in formalin.,Mary found a bone. It was stored in formalin.,4,f,existential>DNE,1
+2,"Mary didn't find a bone. In fact, it was just stored in formalin.","It was not the case that Mary didn't find a bone. In fact, it was just stored in formalin.",4,f,DNE_infact>negation2_just_infact,1
+1,"Mary found a bone. In fact, it was stored in formalin.","Mary didn't find a bone. In fact, it was stored in formalin.",4,f,existential_infact>negation2_infact,1
+1,John didn't capture a moment. It was just gone in a flash.,It was not the case that John didn't capture a moment. It was just gone in a flash.,5,m,DNE>negation2_just,0
+1,John didn't capture a moment. It was gone in a flash.,John captured a moment. It was gone in a flash.,5,m,existential>negation2,0
+1,John captured a moment. It was gone in a flash.,It was not the case that John didn't capture a moment. It was just gone in a flash.,5,m,existential>DNE,1
+1,"It was not the case that John didn't capture a moment. In fact, it was just gone in a flash.","John didn't capture a moment. In fact, it was just gone in a flash.",5,m,DNE_infact>negation2_just_infact,1
+1,"John captured a moment. In fact, it was gone in a flash.","John didn't capture a moment. In fact, it was gone in a flash.",5,m,existential_infact>negation2_infact,1
+1,It was not the case that Mary didn't capture a moment. It was just gone in a flash.,Mary didn't capture a moment. It was just gone in a flash.,5,f,DNE>negation2_just,1
+1,Mary captured a moment. It was gone in a flash.,Mary didn't capture a moment. It was gone in a flash.,5,f,existential>negation2,1
+1,Mary captured a moment. It was gone in a flash.,It was not the case that Mary didn't capture a moment. It was just gone in a flash.,5,f,existential>DNE,1
+1,"It was not the case that Mary didn't capture a moment. In fact, it was just gone in a flash.","Mary didn't capture a moment. In fact, it was just gone in a flash.",5,f,DNE_infact>negation2_just_infact,1
+1,"Mary captured a moment. In fact, it was gone in a flash.","Mary didn't capture a moment. In fact, it was gone in a flash.",5,f,existential_infact>negation2_infact,1
+2,John didn't detect a tumor. It was just spreading everywhere.,It was not the case that John didn't detect a tumor. It was just spreading everywhere.,6,m,DNE>negation2_just,1
+1,John detected a tumor. It was spreading everywhere.,John didn't detect a tumor. It was spreading everywhere.,6,m,existential>negation2,1
+1,John detected a tumor. It was spreading everywhere.,It was not the case that John didn't detect a tumor. It was just spreading everywhere.,6,m,existential>DNE,1
+2,"John didn't detect a tumor. In fact, it was just spreading everywhere.","It was not the case that John didn't detect a tumor. In fact, it was just spreading everywhere.",6,m,DNE_infact>negation2_just_infact,1
+2,"John didn't detect a tumor. In fact, it was spreading everywhere.","John detected a tumor. In fact, it was spreading everywhere.",6,m,existential_infact>negation2_infact,1
+2,Mary didn't detect a tumor. It was just spreading everywhere.,It was not the case that Mary didn't detect a tumor. It was just spreading everywhere.,6,f,DNE>negation2_just,1
+2,Mary didn't detect a tumor. It was spreading everywhere.,Mary detected a tumor. It was spreading everywhere.,6,f,existential>negation2,1
+1,Mary detected a tumor. It was spreading everywhere.,It was not the case that Mary didn't detect a tumor. It was just spreading everywhere.,6,f,existential>DNE,1
+1,"It was not the case that Mary didn't detect a tumor. In fact, it was just spreading everywhere.","Mary didn't detect a tumor. In fact, it was just spreading everywhere.",6,f,DNE_infact>negation2_just_infact,1
+2,"Mary didn't detect a tumor. In fact, it was spreading everywhere.","Mary detected a tumor. In fact, it was spreading everywhere.",6,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't observe a mistake. It was just negligible.,John didn't observe a mistake. It was just negligible.,7,m,DNE>negation2_just,1
+1,John didn't observe a mistake. It was negligible.,John observed a mistake. It was negligible.,7,m,existential>negation2,0
+1,John observed a mistake. It was negligible.,It was not the case that John didn't observe a mistake. It was just negligible.,7,m,existential>DNE,1
+2,"John didn't observe a mistake. In fact, it was just negligible.","It was not the case that John didn't observe a mistake. In fact, it was just negligible.",7,m,DNE_infact>negation2_just_infact,1
+2,"John didn't observe a mistake. In fact, it was negligible.","John observed a mistake. In fact, it was negligible.",7,m,existential_infact>negation2_infact,1
+1,It was not the case that Mary didn't observe a mistake. It was just negligible.,Mary didn't observe a mistake. It was just negligible.,7,f,DNE>negation2_just,1
+1,Mary didn't observe a mistake. It was negligible.,Mary observed a mistake. It was negligible.,7,f,existential>negation2,0
+1,It was not the case that Mary didn't observe a mistake. It was just negligible.,Mary observed a mistake. It was negligible.,7,f,existential>DNE,0
+1,"Mary didn't observe a mistake. In fact, it was just negligible.","It was not the case that Mary didn't observe a mistake. In fact, it was just negligible.",7,f,DNE_infact>negation2_just_infact,0
+1,"Mary observed a mistake. In fact, it was negligible.","Mary didn't observe a mistake. In fact, it was negligible.",7,f,existential_infact>negation2_infact,1
+2,John didn't plant a tomato. It was just not ripe yet.,It was not the case that John didn't plant a tomato. It was just not ripe yet.,8,m,DNE>negation2_just,1
+1,John didn't plant a tomato. It was not ripe yet.,John planted a tomato. It was not ripe yet.,8,m,existential>negation2,0
+1,John planted a tomato. It was not ripe yet.,It was not the case that John didn't plant a tomato. It was just not ripe yet.,8,m,existential>DNE,1
+2,"John didn't plant a tomato. In fact, it was just not ripe yet.","It was not the case that John didn't plant a tomato. In fact, it was just not ripe yet.",8,m,DNE_infact>negation2_just_infact,1
+2,"John didn't plant a tomato. In fact, it was not ripe yet.","John planted a tomato. In fact, it was not ripe yet.",8,m,existential_infact>negation2_infact,1
+1,It was not the case that Mary didn't plant a tomato. It was just not ripe yet.,Mary didn't plant a tomato. It was just not ripe yet.,8,f,DNE>negation2_just,1
+1,Mary didn't plant a tomato. It was not ripe yet.,Mary planted a tomato. It was not ripe yet.,8,f,existential>negation2,0
+2,It was not the case that Mary didn't plant a tomato. It was just not ripe yet.,Mary planted a tomato. It was not ripe yet.,8,f,existential>DNE,1
+2,"Mary didn't plant a tomato. In fact, it was just not ripe yet.","It was not the case that Mary didn't plant a tomato. In fact, it was just not ripe yet.",8,f,DNE_infact>negation2_just_infact,1
+2,"Mary didn't plant a tomato. In fact, it was not ripe yet.","Mary planted a tomato. In fact, it was not ripe yet.",8,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't spot a deer. It was just difficult to shoot.,John didn't spot a deer. It was just difficult to shoot.,9,m,DNE>negation2_just,1
+2,John didn't spot a deer. It was difficult to shoot.,John spotted a deer. It was difficult to shoot.,9,m,existential>negation2,1
+1,John spotted a deer. It was difficult to shoot.,It was not the case that John didn't spot a deer. It was just difficult to shoot.,9,m,existential>DNE,1
+1,"It was not the case that John didn't spot a deer. In fact, it was just difficult to shoot.","John didn't spot a deer. In fact, it was just difficult to shoot.",9,m,DNE_infact>negation2_just_infact,1
+1,"John spotted a deer. In fact, it was difficult to shoot.","John didn't spot a deer. In fact, it was difficult to shoot.",9,m,existential_infact>negation2_infact,1
+1,It was not the case that Mary didn't spot a deer. It was just difficult to shoot.,Mary didn't spot a deer. It was just difficult to shoot.,9,f,DNE>negation2_just,1
+1,Mary spotted a deer. It was difficult to shoot.,Mary didn't spot a deer. It was difficult to shoot.,9,f,existential>negation2,1
+2,It was not the case that Mary didn't spot a deer. It was just difficult to shoot.,Mary spotted a deer. It was difficult to shoot.,9,f,existential>DNE,1
+1,"It was not the case that Mary didn't spot a deer. In fact, it was just difficult to shoot.","Mary didn't spot a deer. In fact, it was just difficult to shoot.",9,f,DNE_infact>negation2_just_infact,1
+1,"Mary spotted a deer. In fact, it was difficult to shoot.","Mary didn't spot a deer. In fact, it was difficult to shoot.",9,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't throw a ball. It was just missed by the catcher.,John didn't throw a ball. It was just missed by the catcher.,10,m,DNE>negation2_just,1
+1,John threw a ball. It was missed by the catcher.,John didn't throw a ball. It was missed by the catcher.,10,m,existential>negation2,1
+1,John threw a ball. It was missed by the catcher.,It was not the case that John didn't throw a ball. It was just missed by the catcher.,10,m,existential>DNE,1
+2,"John didn't throw a ball. In fact, it was just missed by the catcher.","It was not the case that John didn't throw a ball. In fact, it was just missed by the catcher.",10,m,DNE_infact>negation2_just_infact,1
+1,"John threw a ball. In fact, it was missed by the catcher.","John didn't throw a ball. In fact, it was missed by the catcher.",10,m,existential_infact>negation2_infact,1
+1,Mary didn't throw a ball. It was just missed by the catcher.,It was not the case that Mary didn't throw a ball. It was just missed by the catcher.,10,f,DNE>negation2_just,0
+2,Mary didn't throw a ball. It was missed by the catcher.,Mary threw a ball. It was missed by the catcher.,10,f,existential>negation2,1
+2,It was not the case that Mary didn't throw a ball. It was just missed by the catcher.,Mary threw a ball. It was missed by the catcher.,10,f,existential>DNE,1
+1,"Mary didn't throw a ball. In fact, it was just missed by the catcher.","It was not the case that Mary didn't throw a ball. In fact, it was just missed by the catcher.",10,f,DNE_infact>negation2_just_infact,0
+2,"Mary didn't throw a ball. In fact, it was missed by the catcher.","Mary threw a ball. In fact, it was missed by the catcher.",10,f,existential_infact>negation2_infact,1
+2,John didn't stop a car. It was just slowing down already.,It was not the case that John didn't stop a car. It was just slowing down already.,11,m,DNE>negation2_just,1
+1,John didn't stop a car. It was slowing down already.,John stopped a car. It was slowing down already.,11,m,existential>negation2,0
+2,It was not the case that John didn't stop a car. It was just slowing down already.,John stopped a car. It was slowing down already.,11,m,existential>DNE,1
+2,"It was not the case that John didn't stop a car. In fact, it was just slowing down already.","John didn't stop a car. In fact, it was just slowing down already.",11,m,DNE_infact>negation2_just_infact,0
+1,"John didn't stop a car. In fact, it was slowing down already.","John stopped a car. In fact, it was slowing down already.",11,m,existential_infact>negation2_infact,0
+1,It was not the case that Mary didn't stop a car. It was just slowing down already.,Mary didn't stop a car. It was just slowing down already.,11,f,DNE>negation2_just,1
+1,Mary stopped a car. It was slowing down already.,Mary didn't stop a car. It was slowing down already.,11,f,existential>negation2,1
+2,It was not the case that Mary didn't stop a car. It was just slowing down already.,Mary stopped a car. It was slowing down already.,11,f,existential>DNE,1
+2,"Mary didn't stop a car. In fact, it was just slowing down already.","It was not the case that Mary didn't stop a car. In fact, it was just slowing down already.",11,f,DNE_infact>negation2_just_infact,1
+1,"Mary didn't stop a car. In fact, it was slowing down already.","Mary stopped a car. In fact, it was slowing down already.",11,f,existential_infact>negation2_infact,0
+2,John didn't propose an idea. It was just scooped by others.,It was not the case that John didn't propose an idea. It was just scooped by others.,12,m,DNE>negation2_just,1
+1,John proposed an idea. It was scooped by others.,John didn't propose an idea. It was scooped by others.,12,m,existential>negation2,1
+1,John proposed an idea. It was scooped by others.,It was not the case that John didn't propose an idea. It was just scooped by others.,12,m,existential>DNE,1
+2,"John didn't propose an idea. In fact, it was just scooped by others.","It was not the case that John didn't propose an idea. In fact, it was just scooped by others.",12,m,DNE_infact>negation2_just_infact,1
+1,"John didn't propose an idea. In fact, it was scooped by others.","John proposed an idea. In fact, it was scooped by others.",12,m,existential_infact>negation2_infact,0
+2,Mary didn't propose an idea. It was just scooped by others.,It was not the case that Mary didn't propose an idea. It was just scooped by others.,12,f,DNE>negation2_just,1
+1,Mary didn't propose an idea. It was scooped by others.,Mary proposed an idea. It was scooped by others.,12,f,existential>negation2,0
+1,Mary proposed an idea. It was scooped by others.,It was not the case that Mary didn't propose an idea. It was just scooped by others.,12,f,existential>DNE,1
+1,"It was not the case that Mary didn't propose an idea. In fact, it was just scooped by others.","Mary didn't propose an idea. In fact, it was just scooped by others.",12,f,DNE_infact>negation2_just_infact,1
+2,"Mary proposed an idea. In fact, it was scooped by others.","Mary didn't propose an idea. In fact, it was scooped by others.",12,f,existential_infact>negation2_infact,0
+1,It was not the case that John didn't build a chair. It was just not finished yet.,John didn't build a chair. It was just not finished yet.,13,m,DNE>negation2_just,1
+1,John didn't build a chair. It was not finished yet.,John built a chair. It was not finished yet.,13,m,existential>negation2,0
+2,It was not the case that John didn't build a chair. It was just not finished yet.,John built a chair. It was not finished yet.,13,m,existential>DNE,1
+1,"It was not the case that John didn't build a chair. In fact, it was just not finished yet.","John didn't build a chair. In fact, it was just not finished yet.",13,m,DNE_infact>negation2_just_infact,1
+1,"John didn't build a chair. In fact, it was not finished yet.","John built a chair. In fact, it was not finished yet.",13,m,existential_infact>negation2_infact,0
+1,It was not the case that Mary didn't build a chair. It was just not finished yet.,Mary didn't build a chair. It was just not finished yet.,13,f,DNE>negation2_just,1
+1,Mary built a chair. It was not finished yet.,Mary didn't build a chair. It was not finished yet.,13,f,existential>negation2,1
+1,It was not the case that Mary didn't build a chair. It was just not finished yet.,Mary built a chair. It was not finished yet.,13,f,existential>DNE,0
+1,"It was not the case that Mary didn't build a chair. In fact, it was just not finished yet.","Mary didn't build a chair. In fact, it was just not finished yet.",13,f,DNE_infact>negation2_just_infact,1
+1,"Mary didn't build a chair. In fact, it was not finished yet.","Mary built a chair. In fact, it was not finished yet.",13,f,existential_infact>negation2_infact,0
+2,John didn't discuss an argument. It was just hard to unpack.,It was not the case that John didn't discuss an argument. It was just hard to unpack.,14,m,DNE>negation2_just,1
+1,John discussed an argument. It was hard to unpack.,John didn't discuss an argument. It was hard to unpack.,14,m,existential>negation2,1
+1,John discussed an argument. It was hard to unpack.,It was not the case that John didn't discuss an argument. It was just hard to unpack.,14,m,existential>DNE,1
+2,"John didn't discuss an argument. In fact, it was just hard to unpack.","It was not the case that John didn't discuss an argument. In fact, it was just hard to unpack.",14,m,DNE_infact>negation2_just_infact,1
+2,"John didn't discuss an argument. In fact, it was hard to unpack.","John discussed an argument. In fact, it was hard to unpack.",14,m,existential_infact>negation2_infact,1
+2,Mary didn't discuss an argument. It was just hard to unpack.,It was not the case that Mary didn't discuss an argument. It was just hard to unpack.,14,f,DNE>negation2_just,1
+1,Mary discussed an argument. It was hard to unpack.,Mary didn't discuss an argument. It was hard to unpack.,14,f,existential>negation2,1
+1,Mary discussed an argument. It was hard to unpack.,It was not the case that Mary didn't discuss an argument. It was just hard to unpack.,14,f,existential>DNE,1
+2,"Mary didn't discuss an argument. In fact, it was just hard to unpack.","It was not the case that Mary didn't discuss an argument. In fact, it was just hard to unpack.",14,f,DNE_infact>negation2_just_infact,1
+1,"Mary discussed an argument. In fact, it was hard to unpack.","Mary didn't discuss an argument. In fact, it was hard to unpack.",14,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't buy a shirt. It was just sent for tailoring.,John didn't buy a shirt. It was just sent for tailoring.,15,m,DNE>negation2_just,1
+1,John bought a shirt. It was sent for tailoring.,John didn't buy a shirt. It was sent for tailoring.,15,m,existential>negation2,1
+2,It was not the case that John didn't buy a shirt. It was just sent for tailoring.,John bought a shirt. It was sent for tailoring.,15,m,existential>DNE,1
+1,"It was not the case that John didn't buy a shirt. In fact, it was just sent for tailoring.","John didn't buy a shirt. In fact, it was just sent for tailoring.",15,m,DNE_infact>negation2_just_infact,1
+1,"John bought a shirt. In fact, it was sent for tailoring.","John didn't buy a shirt. In fact, it was sent for tailoring.",15,m,existential_infact>negation2_infact,1
+1,It was not the case that Mary didn't buy a shirt. It was just sent for tailoring.,Mary didn't buy a shirt. It was just sent for tailoring.,15,f,DNE>negation2_just,1
+1,Mary bought a shirt. It was sent for tailoring.,Mary didn't buy a shirt. It was sent for tailoring.,15,f,existential>negation2,1
+1,Mary bought a shirt. It was sent for tailoring.,It was not the case that Mary didn't buy a shirt. It was just sent for tailoring.,15,f,existential>DNE,1
+1,"Mary didn't buy a shirt. In fact, it was just sent for tailoring.","It was not the case that Mary didn't buy a shirt. In fact, it was just sent for tailoring.",15,f,DNE_infact>negation2_just_infact,0
+2,"Mary didn't buy a shirt. In fact, it was sent for tailoring.","Mary bought a shirt. In fact, it was sent for tailoring.",15,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't claim a record. It was just unofficial.,John didn't claim a record. It was just unofficial.,16,m,DNE>negation2_just,1
+1,John claimed a record. It was unofficial.,John didn't claim a record. It was unofficial.,16,m,existential>negation2,1
+1,John claimed a record. It was unofficial.,It was not the case that John didn't claim a record. It was just unofficial.,16,m,existential>DNE,1
+1,"It was not the case that John didn't claim a record. In fact, it was just unofficial.","John didn't claim a record. In fact, it was just unofficial.",16,m,DNE_infact>negation2_just_infact,1
+1,"John didn't claim a record. In fact, it was unofficial.","John claimed a record. In fact, it was unofficial.",16,m,existential_infact>negation2_infact,0
+1,It was not the case that Mary didn't claim a record. It was just unofficial.,Mary didn't claim a record. It was just unofficial.,16,f,DNE>negation2_just,1
+1,Mary didn't claim a record. It was unofficial.,Mary claimed a record. It was unofficial.,16,f,existential>negation2,0
+2,It was not the case that Mary didn't claim a record. It was just unofficial.,Mary claimed a record. It was unofficial.,16,f,existential>DNE,1
+2,"Mary didn't claim a record. In fact, it was just unofficial.","It was not the case that Mary didn't claim a record. In fact, it was just unofficial.",16,f,DNE_infact>negation2_just_infact,1
+1,"Mary claimed a record. In fact, it was unofficial.","Mary didn't claim a record. In fact, it was unofficial.",16,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't write a book. It was just unpublished.,John didn't write a book. It was just unpublished.,17,m,DNE>negation2_just,1
+2,John didn't write a book. It was unpublished.,John wrote a book. It was unpublished.,17,m,existential>negation2,1
+1,John wrote a book. It was unpublished.,It was not the case that John didn't write a book. It was just unpublished.,17,m,existential>DNE,1
+2,"John didn't write a book. In fact, it was just unpublished.","It was not the case that John didn't write a book. In fact, it was just unpublished.",17,m,DNE_infact>negation2_just_infact,1
+2,"John didn't write a book. In fact, it was unpublished.","John wrote a book. In fact, it was unpublished.",17,m,existential_infact>negation2_infact,1
+2,Mary didn't write a book. It was just unpublished.,It was not the case that Mary didn't write a book. It was just unpublished.,17,f,DNE>negation2_just,1
+2,Mary didn't write a book. It was unpublished.,Mary wrote a book. It was unpublished.,17,f,existential>negation2,1
+1,Mary wrote a book. It was unpublished.,It was not the case that Mary didn't write a book. It was just unpublished.,17,f,existential>DNE,1
+1,"It was not the case that Mary didn't write a book. In fact, it was just unpublished.","Mary didn't write a book. In fact, it was just unpublished.",17,f,DNE_infact>negation2_just_infact,1
+1,"Mary wrote a book. In fact, it was unpublished.","Mary didn't write a book. In fact, it was unpublished.",17,f,existential_infact>negation2_infact,1
+2,John didn't order a coffee. It was just on its way.,It was not the case that John didn't order a coffee. It was just on its way.,18,m,DNE>negation2_just,1
+2,John didn't order a coffee. It was on its way.,John ordered a coffee. It was on its way.,18,m,existential>negation2,1
+2,It was not the case that John didn't order a coffee. It was just on its way.,John ordered a coffee. It was on its way.,18,m,existential>DNE,1
+2,"John didn't order a coffee. In fact, it was just on its way.","It was not the case that John didn't order a coffee. In fact, it was just on its way.",18,m,DNE_infact>negation2_just_infact,1
+1,"John ordered a coffee. In fact, it was on its way.","John didn't order a coffee. In fact, it was on its way.",18,m,existential_infact>negation2_infact,1
+2,Mary didn't order a coffee. It was just on its way.,It was not the case that Mary didn't order a coffee. It was just on its way.,18,f,DNE>negation2_just,1
+2,Mary didn't order a coffee. It was on its way.,Mary ordered a coffee. It was on its way.,18,f,existential>negation2,1
+2,It was not the case that Mary didn't order a coffee. It was just on its way.,Mary ordered a coffee. It was on its way.,18,f,existential>DNE,1
+2,"Mary didn't order a coffee. In fact, it was just on its way.","It was not the case that Mary didn't order a coffee. In fact, it was just on its way.",18,f,DNE_infact>negation2_just_infact,1
+2,"Mary didn't order a coffee. In fact, it was on its way.","Mary ordered a coffee. In fact, it was on its way.",18,f,existential_infact>negation2_infact,1
+1,John didn't spill a drink. It was just wiped up quickly.,It was not the case that John didn't spill a drink. It was just wiped up quickly.,19,m,DNE>negation2_just,0
+2,John didn't spill a drink. It was wiped up quickly.,John spilled a drink. It was wiped up quickly.,19,m,existential>negation2,1
+2,It was not the case that John didn't spill a drink. It was just wiped up quickly.,John spilled a drink. It was wiped up quickly.,19,m,existential>DNE,1
+2,"John didn't spill a drink. In fact, it was just wiped up quickly.","It was not the case that John didn't spill a drink. In fact, it was just wiped up quickly.",19,m,DNE_infact>negation2_just_infact,1
+1,"John spilled a drink. In fact, it was wiped up quickly.","John didn't spill a drink. In fact, it was wiped up quickly.",19,m,existential_infact>negation2_infact,1
+2,Mary didn't spill a drink. It was just wiped up quickly.,It was not the case that Mary didn't spill a drink. It was just wiped up quickly.,19,f,DNE>negation2_just,1
+2,Mary didn't spill a drink. It was wiped up quickly.,Mary spilled a drink. It was wiped up quickly.,19,f,existential>negation2,1
+1,Mary spilled a drink. It was wiped up quickly.,It was not the case that Mary didn't spill a drink. It was just wiped up quickly.,19,f,existential>DNE,1
+1,"It was not the case that Mary didn't spill a drink. In fact, it was just wiped up quickly.","Mary didn't spill a drink. In fact, it was just wiped up quickly.",19,f,DNE_infact>negation2_just_infact,1
+2,"Mary didn't spill a drink. In fact, it was wiped up quickly.","Mary spilled a drink. In fact, it was wiped up quickly.",19,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't produce a film. It was just still in editing.,John didn't produce a film. It was just still in editing.,20,m,DNE>negation2_just,1
+2,John didn't produce a film. It was still in editing.,John produced a film. It was still in editing.,20,m,existential>negation2,1
+1,John produced a film. It was still in editing.,It was not the case that John didn't produce a film. It was just still in editing.,20,m,existential>DNE,1
+1,"It was not the case that John didn't produce a film. In fact, it was just still in editing.","John didn't produce a film. In fact, it was just still in editing.",20,m,DNE_infact>negation2_just_infact,1
+1,"John didn't produce a film. In fact, it was still in editing.","John produced a film. In fact, it was still in editing.",20,m,existential_infact>negation2_infact,0
+1,It was not the case that Mary didn't produce a film. It was just still in editing.,Mary didn't produce a film. It was just still in editing.,20,f,DNE>negation2_just,1
+1,Mary didn't produce a film. It was still in editing.,Mary produced a film. It was still in editing.,20,f,existential>negation2,0
+1,Mary produced a film. It was still in editing.,It was not the case that Mary didn't produce a film. It was just still in editing.,20,f,existential>DNE,1
+1,"It was not the case that Mary didn't produce a film. In fact, it was just still in editing.","Mary didn't produce a film. In fact, it was just still in editing.",20,f,DNE_infact>negation2_just_infact,1
+2,"Mary didn't produce a film. In fact, it was still in editing.","Mary produced a film. In fact, it was still in editing.",20,f,existential_infact>negation2_infact,1
+1,John didn't make a bag. It was just a prototype.,It was not the case that John didn't make a bag. It was just a prototype.,21,m,DNE>negation2_just,0
+2,John didn't make a bag. It was a prototype.,John made a bag. It was a prototype.,21,m,existential>negation2,1
+2,It was not the case that John didn't make a bag. It was just a prototype.,John made a bag. It was a prototype.,21,m,existential>DNE,1
+1,"John didn't make a bag. In fact, it was just a prototype.","It was not the case that John didn't make a bag. In fact, it was just a prototype.",21,m,DNE_infact>negation2_just_infact,0
+2,"John didn't make a bag. In fact, it was a prototype.","John made a bag. In fact, it was a prototype.",21,m,existential_infact>negation2_infact,1
+1,Mary didn't make a bag. It was just a prototype.,It was not the case that Mary didn't make a bag. It was just a prototype.,21,f,DNE>negation2_just,0
+2,Mary didn't make a bag. It was a prototype.,Mary made a bag. It was a prototype.,21,f,existential>negation2,1
+1,Mary made a bag. It was a prototype.,It was not the case that Mary didn't make a bag. It was just a prototype.,21,f,existential>DNE,1
+2,"Mary didn't make a bag. In fact, it was just a prototype.","It was not the case that Mary didn't make a bag. In fact, it was just a prototype.",21,f,DNE_infact>negation2_just_infact,1
+1,"Mary made a bag. In fact, it was a prototype.","Mary didn't make a bag. In fact, it was a prototype.",21,f,existential_infact>negation2_infact,1
+2,John didn't document a country. It was just full of stories.,It was not the case that John didn't document a country. It was just full of stories.,22,m,DNE>negation2_just,1
+2,John didn't document a country. It was full of stories.,John documented a country. It was full of stories.,22,m,existential>negation2,1
+1,John documented a country. It was full of stories.,It was not the case that John didn't document a country. It was just full of stories.,22,m,existential>DNE,1
+1,"It was not the case that John didn't document a country. In fact, it was just full of stories.","John didn't document a country. In fact, it was just full of stories.",22,m,DNE_infact>negation2_just_infact,1
+2,"John documented a country. In fact, it was full of stories.","John didn't document a country. In fact, it was full of stories.",22,m,existential_infact>negation2_infact,0
+2,It was not the case that Mary didn't document a country. It was just full of stories.,Mary didn't document a country. It was just full of stories.,22,f,DNE>negation2_just,0
+2,Mary documented a country. It was full of stories.,Mary didn't document a country. It was full of stories.,22,f,existential>negation2,0
+1,Mary documented a country. It was full of stories.,It was not the case that Mary didn't document a country. It was just full of stories.,22,f,existential>DNE,1
+2,"Mary didn't document a country. In fact, it was just full of stories.","It was not the case that Mary didn't document a country. In fact, it was just full of stories.",22,f,DNE_infact>negation2_just_infact,1
+2,"Mary didn't document a country. In fact, it was full of stories.","Mary documented a country. In fact, it was full of stories.",22,f,existential_infact>negation2_infact,1
+2,John didn't identify a bug. It was just tricky to fix.,It was not the case that John didn't identify a bug. It was just tricky to fix.,23,m,DNE>negation2_just,1
+2,John didn't identify a bug. It was tricky to fix.,John identified a bug. It was tricky to fix.,23,m,existential>negation2,1
+1,It was not the case that John didn't identify a bug. It was just tricky to fix.,John identified a bug. It was tricky to fix.,23,m,existential>DNE,0
+2,"John didn't identify a bug. In fact, it was just tricky to fix.","It was not the case that John didn't identify a bug. In fact, it was just tricky to fix.",23,m,DNE_infact>negation2_just_infact,1
+2,"John didn't identify a bug. In fact, it was tricky to fix.","John identified a bug. In fact, it was tricky to fix.",23,m,existential_infact>negation2_infact,1
+2,Mary didn't identify a bug. It was just tricky to fix.,It was not the case that Mary didn't identify a bug. It was just tricky to fix.,23,f,DNE>negation2_just,1
+1,Mary identified a bug. It was tricky to fix.,Mary didn't identify a bug. It was tricky to fix.,23,f,existential>negation2,1
+2,It was not the case that Mary didn't identify a bug. It was just tricky to fix.,Mary identified a bug. It was tricky to fix.,23,f,existential>DNE,1
+2,"Mary didn't identify a bug. In fact, it was just tricky to fix.","It was not the case that Mary didn't identify a bug. In fact, it was just tricky to fix.",23,f,DNE_infact>negation2_just_infact,1
+1,"Mary identified a bug. In fact, it was tricky to fix.","Mary didn't identify a bug. In fact, it was tricky to fix.",23,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't develop a product. It was just in testing.,John didn't develop a product. It was just in testing.,24,m,DNE>negation2_just,1
+1,John developed a product. It was in testing.,John didn't develop a product. It was in testing.,24,m,existential>negation2,1
+1,John developed a product. It was in testing.,It was not the case that John didn't develop a product. It was just in testing.,24,m,existential>DNE,1
+1,"It was not the case that John didn't develop a product. In fact, it was just in testing.","John didn't develop a product. In fact, it was just in testing.",24,m,DNE_infact>negation2_just_infact,1
+1,"John developed a product. In fact, it was in testing.","John didn't develop a product. In fact, it was in testing.",24,m,existential_infact>negation2_infact,1
+1,It was not the case that Mary didn't develop a product. It was just in testing.,Mary didn't develop a product. It was just in testing.,24,f,DNE>negation2_just,1
+1,Mary developed a product. It was in testing.,Mary didn't develop a product. It was in testing.,24,f,existential>negation2,1
+1,Mary developed a product. It was in testing.,It was not the case that Mary didn't develop a product. It was just in testing.,24,f,existential>DNE,1
+1,"It was not the case that Mary didn't develop a product. In fact, it was just in testing.","Mary didn't develop a product. In fact, it was just in testing.",24,f,DNE_infact>negation2_just_infact,1
+1,"Mary developed a product. In fact, it was in testing.","Mary didn't develop a product. In fact, it was in testing.",24,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't launch a project. It was just delayed.,John didn't launch a project. It was just delayed.,25,m,DNE>negation2_just,1
+1,John didn't launch a project. It was delayed.,John launched a project. It was delayed.,25,m,existential>negation2,0
+1,John launched a project. It was delayed.,It was not the case that John didn't launch a project. It was just delayed.,25,m,existential>DNE,1
+2,"John didn't launch a project. In fact, it was just delayed.","It was not the case that John didn't launch a project. In fact, it was just delayed.",25,m,DNE_infact>negation2_just_infact,1
+1,"John launched a project. In fact, it was delayed.","John didn't launch a project. In fact, it was delayed.",25,m,existential_infact>negation2_infact,1
+2,Mary didn't launch a project. It was just delayed.,It was not the case that Mary didn't launch a project. It was just delayed.,25,f,DNE>negation2_just,1
+1,Mary launched a project. It was delayed.,Mary didn't launch a project. It was delayed.,25,f,existential>negation2,1
+2,It was not the case that Mary didn't launch a project. It was just delayed.,Mary launched a project. It was delayed.,25,f,existential>DNE,1
+1,"It was not the case that Mary didn't launch a project. In fact, it was just delayed.","Mary didn't launch a project. In fact, it was just delayed.",25,f,DNE_infact>negation2_just_infact,1
+1,"Mary launched a project. In fact, it was delayed.","Mary didn't launch a project. In fact, it was delayed.",25,f,existential_infact>negation2_infact,1
+1,It was not the case that John didn't prepare a course. It was just not published.,John didn't prepare a course. It was just not published.,26,m,DNE>negation2_just,1
+1,John prepared a course. It was not published.,John didn't prepare a course. It was not published.,26,m,existential>negation2,1
+2,John prepared a course. It was not published.,It was not the case that John didn't prepare a course. It was just not published.,26,m,existential>DNE,0
+1,"It was not the case that John didn't prepare a course. In fact, it was just not published.","John didn't prepare a course. In fact, it was just not published.",26,m,DNE_infact>negation2_just_infact,1
+2,"John didn't prepare a course. In fact, it was not published.","John prepared a course. In fact, it was not published.",26,m,existential_infact>negation2_infact,1
+2,Mary didn't prepare a course. It was just not published.,It was not the case that Mary didn't prepare a course. It was just not published.,26,f,DNE>negation2_just,1
+1,Mary prepared a course. It was not published.,Mary didn't prepare a course. It was not published.,26,f,existential>negation2,1
+1,Mary prepared a course. It was not published.,It was not the case that Mary didn't prepare a course. It was just not published.,26,f,existential>DNE,1
+1,"It was not the case that Mary didn't prepare a course. In fact, it was just not published.","Mary didn't prepare a course. In fact, it was just not published.",26,f,DNE_infact>negation2_just_infact,1
+2,"Mary didn't prepare a course. In fact, it was not published.","Mary prepared a course. In fact, it was not published.",26,f,existential_infact>negation2_infact,1
+2,John didn't accept a case. It was just complicated.,It was not the case that John didn't accept a case. It was just complicated.,27,m,DNE>negation2_just,1
+1,John accepted a case. It was complicated.,John didn't accept a case. It was complicated.,27,m,existential>negation2,1
+2,It was not the case that John didn't accept a case. It was just complicated.,John accepted a case. It was complicated.,27,m,existential>DNE,1
+1,"It was not the case that John didn't accept a case. In fact, it was just complicated.","John didn't accept a case. In fact, it was just complicated.",27,m,DNE_infact>negation2_just_infact,1
+2,"John didn't accept a case. In fact, it was complicated.","John accepted a case. In fact, it was complicated.",27,m,existential_infact>negation2_infact,1
+1,It was not the case that Mary didn't accept a case. It was just complicated.,Mary didn't accept a case. It was just complicated.,27,f,DNE>negation2_just,1
+1,Mary accepted a case. It was complicated.,Mary didn't accept a case. It was complicated.,27,f,existential>negation2,1
+1,Mary accepted a case. It was complicated.,It was not the case that Mary didn't accept a case. It was just complicated.,27,f,existential>DNE,1
+1,"It was not the case that Mary didn't accept a case. In fact, it was just complicated.","Mary didn't accept a case. In fact, it was just complicated.",27,f,DNE_infact>negation2_just_infact,1
+1,"Mary accepted a case. In fact, it was complicated.","Mary didn't accept a case. In fact, it was complicated.",27,f,existential_infact>negation2_infact,1
+2,It was not the case that John didn't invade a castle. It was just heavily guarded.,John didn't invade a castle. It was just heavily guarded.,28,m,DNE>negation2_just,0
+1,John invaded a castle. It was heavily guarded.,John didn't invade a castle. It was heavily guarded.,28,m,existential>negation2,1
+2,It was not the case that John didn't invade a castle. It was just heavily guarded.,John invaded a castle. It was heavily guarded.,28,m,existential>DNE,1
+2,"It was not the case that John didn't invade a castle. In fact, it was just heavily guarded.","John didn't invade a castle. In fact, it was just heavily guarded.",28,m,DNE_infact>negation2_just_infact,0
+1,"John didn't invade a castle. In fact, it was heavily guarded.","John invaded a castle. In fact, it was heavily guarded.",28,m,existential_infact>negation2_infact,0
+2,Mary didn't invade a castle. It was just heavily guarded.,It was not the case that Mary didn't invade a castle. It was just heavily guarded.,28,f,DNE>negation2_just,1
+1,Mary invaded a castle. It was heavily guarded.,Mary didn't invade a castle. It was heavily guarded.,28,f,existential>negation2,1
+1,Mary invaded a castle. It was heavily guarded.,It was not the case that Mary didn't invade a castle. It was just heavily guarded.,28,f,existential>DNE,1
+2,"Mary didn't invade a castle. In fact, it was just heavily guarded.","It was not the case that Mary didn't invade a castle. In fact, it was just heavily guarded.",28,f,DNE_infact>negation2_just_infact,1
+2,"Mary invaded a castle. In fact, it was heavily guarded.","Mary didn't invade a castle. In fact, it was heavily guarded.",28,f,existential_infact>negation2_infact,0
+2,John didn't found a company. It was just closed.,It was not the case that John didn't found a company. It was just closed.,29,m,DNE>negation2_just,1
+2,John didn't found a company. It was closed.,John founded a company. It was closed.,29,m,existential>negation2,1
+1,John founded a company. It was closed.,It was not the case that John didn't found a company. It was just closed.,29,m,existential>DNE,1
+2,"John didn't found a company. In fact, it was just closed.","It was not the case that John didn't found a company. In fact, it was just closed.",29,m,DNE_infact>negation2_just_infact,1
+2,"John didn't found a company. In fact, it was closed.","John founded a company. In fact, it was closed.",29,m,existential_infact>negation2_infact,1
+2,Mary didn't found a company. It was just closed.,It was not the case that Mary didn't found a company. It was just closed.,29,f,DNE>negation2_just,1
+1,Mary founded a company. It was closed.,Mary didn't found a company. It was closed.,29,f,existential>negation2,1
+1,Mary founded a company. It was closed.,It was not the case that Mary didn't found a company. It was just closed.,29,f,existential>DNE,1
+2,"It was not the case that Mary didn't found a company. In fact, it was just closed.","Mary didn't found a company. In fact, it was just closed.",29,f,DNE_infact>negation2_just_infact,0
+2,"Mary founded a company. In fact, it was closed.","Mary didn't found a company. In fact, it was closed.",29,f,existential_infact>negation2_infact,0
+1,It was not the case that John didn't fly a helicopter. It was just grounded for now.,John didn't fly a helicopter. It was just grounded for now.,30,m,DNE>negation2_just,1
+2,John flew a helicopter. It was grounded for now.,John didn't fly a helicopter. It was grounded for now.,30,m,existential>negation2,0
+1,John flew a helicopter. It was grounded for now.,It was not the case that John didn't fly a helicopter. It was just grounded for now.,30,m,existential>DNE,1
+1,"John didn't fly a helicopter. In fact, it was just grounded for now.","It was not the case that John didn't fly a helicopter. In fact, it was just grounded for now.",30,m,DNE_infact>negation2_just_infact,0
+2,"John flew a helicopter. In fact, it was grounded for now.","John didn't fly a helicopter. In fact, it was grounded for now.",30,m,existential_infact>negation2_infact,0
+1,Mary didn't fly a helicopter. It was just grounded for now.,It was not the case that Mary didn't fly a helicopter. It was just grounded for now.,30,f,DNE>negation2_just,0
+1,Mary didn't fly a helicopter. It was grounded for now.,Mary flew a helicopter. It was grounded for now.,30,f,existential>negation2,0
+1,It was not the case that Mary didn't fly a helicopter. It was just grounded for now.,Mary flew a helicopter. It was grounded for now.,30,f,existential>DNE,0
+2,"It was not the case that Mary didn't fly a helicopter. In fact, it was just grounded for now.","Mary didn't fly a helicopter. In fact, it was just grounded for now.",30,f,DNE_infact>negation2_just_infact,0
+1,"Mary didn't fly a helicopter. In fact, it was grounded for now.","Mary flew a helicopter. In fact, it was grounded for now.",30,f,existential_infact>negation2_infact,0
+1,It was not the case that John didn't raise a horse. It was just still a foal.,John didn't raise a horse. It was just still a foal.,31,m,DNE>negation2_just,1
+1,John raised a horse. It was still a foal.,John didn't raise a horse. It was still a foal.,31,m,existential>negation2,1
+2,It was not the case that John didn't raise a horse. It was just still a foal.,John raised a horse. It was still a foal.,31,m,existential>DNE,1
+2,"John didn't raise a horse. In fact, it was just still a foal.","It was not the case that John didn't raise a horse. In fact, it was just still a foal.",31,m,DNE_infact>negation2_just_infact,1
+1,"John raised a horse. In fact, it was still a foal.","John didn't raise a horse. In fact, it was still a foal.",31,m,existential_infact>negation2_infact,1
+2,Mary didn't raise a horse. It was just still a foal.,It was not the case that Mary didn't raise a horse. It was just still a foal.,31,f,DNE>negation2_just,1
+1,Mary didn't raise a horse. It was still a foal.,Mary raised a horse. It was still a foal.,31,f,existential>negation2,0
+1,Mary raised a horse. It was still a foal.,It was not the case that Mary didn't raise a horse. It was just still a foal.,31,f,existential>DNE,1
+1,"Mary didn't raise a horse. In fact, it was just still a foal.","It was not the case that Mary didn't raise a horse. In fact, it was just still a foal.",31,f,DNE_infact>negation2_just_infact,0
+1,"Mary raised a horse. In fact, it was still a foal.","Mary didn't raise a horse. In fact, it was still a foal.",31,f,existential_infact>negation2_infact,1

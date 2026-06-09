@@ -1,0 +1,768 @@
+{"frame": "0", "gender": "NA", "sent": "It was not the case that the farmer didn't own a cow. It was just away on the meadow.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "0", "gender": "NA", "sent": "It was not the case that the farmer didn't own a cow. In fact, it was just away on the meadow.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "0", "gender": "NA", "sent": "The farmer didn't own a cow. It was away on the meadow.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "0", "gender": "NA", "sent": "The farmer didn't own a cow. In fact, it was away on the meadow.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "0", "gender": "NA", "sent": "The farmer didn't own a cow. It was just away on the meadow.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "0", "gender": "NA", "sent": "The farmer didn't own a cow. In fact, it was just away on the meadow.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "0", "gender": "NA", "sent": "The farmer owned a cow. It was away on the meadow.", "subject": "def", "sentence_type": "existential"}
+{"frame": "0", "gender": "NA", "sent": "The farmer owned a cow. In fact, it was away on the meadow.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "1", "gender": "NA", "sent": "It was not the case that the pirate didn't acquire a treasure. It was just hidden in the box.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "1", "gender": "NA", "sent": "It was not the case that the pirate didn't acquire a treasure. In fact, it was just hidden in the box.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "1", "gender": "NA", "sent": "The pirate didn't acquire a treasure. It was hidden in the box.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "1", "gender": "NA", "sent": "The pirate didn't acquire a treasure. In fact, it was hidden in the box.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "1", "gender": "NA", "sent": "The pirate didn't acquire a treasure. It was just hidden in the box.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "1", "gender": "NA", "sent": "The pirate didn't acquire a treasure. In fact, it was just hidden in the box.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "1", "gender": "NA", "sent": "The pirate acquired a treasure. It was hidden in the box.", "subject": "def", "sentence_type": "existential"}
+{"frame": "1", "gender": "NA", "sent": "The pirate acquired a treasure. In fact, it was hidden in the box.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "2", "gender": "NA", "sent": "It was not the case that the kid didn't have a dog. It was just out for a walk.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "2", "gender": "NA", "sent": "It was not the case that the kid didn't have a dog. In fact, it was just out for a walk.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "2", "gender": "NA", "sent": "The kid didn't have a dog. It was out for a walk.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "2", "gender": "NA", "sent": "The kid didn't have a dog. In fact, it was out for a walk.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "2", "gender": "NA", "sent": "The kid didn't have a dog. It was just out for a walk.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "2", "gender": "NA", "sent": "The kid didn't have a dog. In fact, it was just out for a walk.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "2", "gender": "NA", "sent": "The kid had a dog. It was out for a walk.", "subject": "def", "sentence_type": "existential"}
+{"frame": "2", "gender": "NA", "sent": "The kid had a dog. In fact, it was out for a walk.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "3", "gender": "NA", "sent": "It was not the case that the student didn't discover a problem. It was just too hard to solve.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "3", "gender": "NA", "sent": "It was not the case that the student didn't discover a problem. In fact, it was just too hard to solve.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "3", "gender": "NA", "sent": "The student didn't discover a problem. It was too hard to solve.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "3", "gender": "NA", "sent": "The student didn't discover a problem. In fact, it was too hard to solve.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "3", "gender": "NA", "sent": "The student didn't discover a problem. It was just too hard to solve.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "3", "gender": "NA", "sent": "The student didn't discover a problem. In fact, it was just too hard to solve.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "3", "gender": "NA", "sent": "The student discovered a problem. It was too hard to solve.", "subject": "def", "sentence_type": "existential"}
+{"frame": "3", "gender": "NA", "sent": "The student discovered a problem. In fact, it was too hard to solve.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "4", "gender": "NA", "sent": "It was not the case that the doctor didn't find a bone. It was just stored in formalin.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "4", "gender": "NA", "sent": "It was not the case that the doctor didn't find a bone. In fact, it was just stored in formalin.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "4", "gender": "NA", "sent": "The doctor didn't find a bone. It was stored in formalin.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "4", "gender": "NA", "sent": "The doctor didn't find a bone. In fact, it was stored in formalin.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "4", "gender": "NA", "sent": "The doctor didn't find a bone. It was just stored in formalin.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "4", "gender": "NA", "sent": "The doctor didn't find a bone. In fact, it was just stored in formalin.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "4", "gender": "NA", "sent": "The doctor found a bone. It was stored in formalin.", "subject": "def", "sentence_type": "existential"}
+{"frame": "4", "gender": "NA", "sent": "The doctor found a bone. In fact, it was stored in formalin.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "5", "gender": "NA", "sent": "It was not the case that the photographer didn't capture a moment. It was just gone in a flash.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "5", "gender": "NA", "sent": "It was not the case that the photographer didn't capture a moment. In fact, it was just gone in a flash.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "5", "gender": "NA", "sent": "The photographer didn't capture a moment. It was gone in a flash.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "5", "gender": "NA", "sent": "The photographer didn't capture a moment. In fact, it was gone in a flash.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "5", "gender": "NA", "sent": "The photographer didn't capture a moment. It was just gone in a flash.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "5", "gender": "NA", "sent": "The photographer didn't capture a moment. In fact, it was just gone in a flash.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "5", "gender": "NA", "sent": "The photographer captured a moment. It was gone in a flash.", "subject": "def", "sentence_type": "existential"}
+{"frame": "5", "gender": "NA", "sent": "The photographer captured a moment. In fact, it was gone in a flash.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "6", "gender": "NA", "sent": "It was not the case that the surgeon didn't detect a tumor. It was just spreading everywhere.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "6", "gender": "NA", "sent": "It was not the case that the surgeon didn't detect a tumor. In fact, it was just spreading everywhere.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "6", "gender": "NA", "sent": "The surgeon didn't detect a tumor. It was spreading everywhere.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "6", "gender": "NA", "sent": "The surgeon didn't detect a tumor. In fact, it was spreading everywhere.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "6", "gender": "NA", "sent": "The surgeon didn't detect a tumor. It was just spreading everywhere.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "6", "gender": "NA", "sent": "The surgeon didn't detect a tumor. In fact, it was just spreading everywhere.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "6", "gender": "NA", "sent": "The surgeon detected a tumor. It was spreading everywhere.", "subject": "def", "sentence_type": "existential"}
+{"frame": "6", "gender": "NA", "sent": "The surgeon detected a tumor. In fact, it was spreading everywhere.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "7", "gender": "NA", "sent": "It was not the case that the editor didn't observe a mistake. It was just negligible.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "7", "gender": "NA", "sent": "It was not the case that the editor didn't observe a mistake. In fact, it was just negligible.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "7", "gender": "NA", "sent": "The editor didn't observe a mistake. It was negligible.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "7", "gender": "NA", "sent": "The editor didn't observe a mistake. In fact, it was negligible.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "7", "gender": "NA", "sent": "The editor didn't observe a mistake. It was just negligible.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "7", "gender": "NA", "sent": "The editor didn't observe a mistake. In fact, it was just negligible.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "7", "gender": "NA", "sent": "The editor observed a mistake. It was negligible.", "subject": "def", "sentence_type": "existential"}
+{"frame": "7", "gender": "NA", "sent": "The editor observed a mistake. In fact, it was negligible.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "8", "gender": "NA", "sent": "It was not the case that the chef didn't plant a tomato. It was just not ripe yet.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "8", "gender": "NA", "sent": "It was not the case that the chef didn't plant a tomato. In fact, it was just not ripe yet.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "8", "gender": "NA", "sent": "The chef didn't plant a tomato. It was not ripe yet.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "8", "gender": "NA", "sent": "The chef didn't plant a tomato. In fact, it was not ripe yet.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "8", "gender": "NA", "sent": "The chef didn't plant a tomato. It was just not ripe yet.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "8", "gender": "NA", "sent": "The chef didn't plant a tomato. In fact, it was just not ripe yet.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "8", "gender": "NA", "sent": "The chef planted a tomato. It was not ripe yet.", "subject": "def", "sentence_type": "existential"}
+{"frame": "8", "gender": "NA", "sent": "The chef planted a tomato. In fact, it was not ripe yet.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "9", "gender": "NA", "sent": "It was not the case that the hunter didn't spot a deer. It was just difficult to shoot.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "9", "gender": "NA", "sent": "It was not the case that the hunter didn't spot a deer. In fact, it was just difficult to shoot.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "9", "gender": "NA", "sent": "The hunter didn't spot a deer. It was difficult to shoot.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "9", "gender": "NA", "sent": "The hunter didn't spot a deer. In fact, it was difficult to shoot.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "9", "gender": "NA", "sent": "The hunter didn't spot a deer. It was just difficult to shoot.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "9", "gender": "NA", "sent": "The hunter didn't spot a deer. In fact, it was just difficult to shoot.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "9", "gender": "NA", "sent": "The hunter spotted a deer. It was difficult to shoot.", "subject": "def", "sentence_type": "existential"}
+{"frame": "9", "gender": "NA", "sent": "The hunter spotted a deer. In fact, it was difficult to shoot.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "10", "gender": "NA", "sent": "It was not the case that the player didn't throw a ball. It was just missed by the catcher.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "10", "gender": "NA", "sent": "It was not the case that the player didn't throw a ball. In fact, it was just missed by the catcher.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "10", "gender": "NA", "sent": "The player didn't throw a ball. It was missed by the catcher.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "10", "gender": "NA", "sent": "The player didn't throw a ball. In fact, it was missed by the catcher.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "10", "gender": "NA", "sent": "The player didn't throw a ball. It was just missed by the catcher.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "10", "gender": "NA", "sent": "The player didn't throw a ball. In fact, it was just missed by the catcher.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "10", "gender": "NA", "sent": "The player threw a ball. It was missed by the catcher.", "subject": "def", "sentence_type": "existential"}
+{"frame": "10", "gender": "NA", "sent": "The player threw a ball. In fact, it was missed by the catcher.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "11", "gender": "NA", "sent": "It was not the case that the police didn't stop a car. It was just slowing down already.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "11", "gender": "NA", "sent": "It was not the case that the police didn't stop a car. In fact, it was just slowing down already.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "11", "gender": "NA", "sent": "The police didn't stop a car. It was slowing down already.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "11", "gender": "NA", "sent": "The police didn't stop a car. In fact, it was slowing down already.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "11", "gender": "NA", "sent": "The police didn't stop a car. It was just slowing down already.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "11", "gender": "NA", "sent": "The police didn't stop a car. In fact, it was just slowing down already.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "11", "gender": "NA", "sent": "The police stopped a car. It was slowing down already.", "subject": "def", "sentence_type": "existential"}
+{"frame": "11", "gender": "NA", "sent": "The police stopped a car. In fact, it was slowing down already.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "12", "gender": "NA", "sent": "It was not the case that the researcher didn't propose an idea. It was just scooped by others.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "12", "gender": "NA", "sent": "It was not the case that the researcher didn't propose an idea. In fact, it was just scooped by others.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "12", "gender": "NA", "sent": "The researcher didn't propose an idea. It was scooped by others.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "12", "gender": "NA", "sent": "The researcher didn't propose an idea. In fact, it was scooped by others.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "12", "gender": "NA", "sent": "The researcher didn't propose an idea. It was just scooped by others.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "12", "gender": "NA", "sent": "The researcher didn't propose an idea. In fact, it was just scooped by others.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "12", "gender": "NA", "sent": "The researcher proposed an idea. It was scooped by others.", "subject": "def", "sentence_type": "existential"}
+{"frame": "12", "gender": "NA", "sent": "The researcher proposed an idea. In fact, it was scooped by others.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "13", "gender": "NA", "sent": "It was not the case that the worker didn't build a chair. It was just not finished yet.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "13", "gender": "NA", "sent": "It was not the case that the worker didn't build a chair. In fact, it was just not finished yet.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "13", "gender": "NA", "sent": "The worker didn't build a chair. It was not finished yet.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "13", "gender": "NA", "sent": "The worker didn't build a chair. In fact, it was not finished yet.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "13", "gender": "NA", "sent": "The worker didn't build a chair. It was just not finished yet.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "13", "gender": "NA", "sent": "The worker didn't build a chair. In fact, it was just not finished yet.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "13", "gender": "NA", "sent": "The worker built a chair. It was not finished yet.", "subject": "def", "sentence_type": "existential"}
+{"frame": "13", "gender": "NA", "sent": "The worker built a chair. In fact, it was not finished yet.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "14", "gender": "NA", "sent": "It was not the case that the teacher didn't discuss an argument. It was just hard to unpack.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "14", "gender": "NA", "sent": "It was not the case that the teacher didn't discuss an argument. In fact, it was just hard to unpack.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "14", "gender": "NA", "sent": "The teacher didn't discuss an argument. It was hard to unpack.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "14", "gender": "NA", "sent": "The teacher didn't discuss an argument. In fact, it was hard to unpack.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "14", "gender": "NA", "sent": "The teacher didn't discuss an argument. It was just hard to unpack.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "14", "gender": "NA", "sent": "The teacher didn't discuss an argument. In fact, it was just hard to unpack.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "14", "gender": "NA", "sent": "The teacher discussed an argument. It was hard to unpack.", "subject": "def", "sentence_type": "existential"}
+{"frame": "14", "gender": "NA", "sent": "The teacher discussed an argument. In fact, it was hard to unpack.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "15", "gender": "NA", "sent": "It was not the case that the customer didn't buy a shirt. It was just sent for tailoring.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "15", "gender": "NA", "sent": "It was not the case that the customer didn't buy a shirt. In fact, it was just sent for tailoring.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "15", "gender": "NA", "sent": "The customer didn't buy a shirt. It was sent for tailoring.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "15", "gender": "NA", "sent": "The customer didn't buy a shirt. In fact, it was sent for tailoring.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "15", "gender": "NA", "sent": "The customer didn't buy a shirt. It was just sent for tailoring.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "15", "gender": "NA", "sent": "The customer didn't buy a shirt. In fact, it was just sent for tailoring.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "15", "gender": "NA", "sent": "The customer bought a shirt. It was sent for tailoring.", "subject": "def", "sentence_type": "existential"}
+{"frame": "15", "gender": "NA", "sent": "The customer bought a shirt. In fact, it was sent for tailoring.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "16", "gender": "NA", "sent": "It was not the case that the athlete didn't claim a record. It was just unofficial.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "16", "gender": "NA", "sent": "It was not the case that the athlete didn't claim a record. In fact, it was just unofficial.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "16", "gender": "NA", "sent": "The athlete didn't claim a record. It was unofficial.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "16", "gender": "NA", "sent": "The athlete didn't claim a record. In fact, it was unofficial.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "16", "gender": "NA", "sent": "The athlete didn't claim a record. It was just unofficial.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "16", "gender": "NA", "sent": "The athlete didn't claim a record. In fact, it was just unofficial.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "16", "gender": "NA", "sent": "The athlete claimed a record. It was unofficial.", "subject": "def", "sentence_type": "existential"}
+{"frame": "16", "gender": "NA", "sent": "The athlete claimed a record. In fact, it was unofficial.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "17", "gender": "NA", "sent": "It was not the case that the professor didn't write a book. It was just unpublished.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "17", "gender": "NA", "sent": "It was not the case that the professor didn't write a book. In fact, it was just unpublished.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "17", "gender": "NA", "sent": "The professor didn't write a book. It was unpublished.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "17", "gender": "NA", "sent": "The professor didn't write a book. In fact, it was unpublished.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "17", "gender": "NA", "sent": "The professor didn't write a book. It was just unpublished.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "17", "gender": "NA", "sent": "The professor didn't write a book. In fact, it was just unpublished.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "17", "gender": "NA", "sent": "The professor wrote a book. It was unpublished.", "subject": "def", "sentence_type": "existential"}
+{"frame": "17", "gender": "NA", "sent": "The professor wrote a book. In fact, it was unpublished.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "18", "gender": "NA", "sent": "It was not the case that the administrator didn't order a coffee. It was just on its way.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "18", "gender": "NA", "sent": "It was not the case that the administrator didn't order a coffee. In fact, it was just on its way.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "18", "gender": "NA", "sent": "The administrator didn't order a coffee. It was on its way.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "18", "gender": "NA", "sent": "The administrator didn't order a coffee. In fact, it was on its way.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "18", "gender": "NA", "sent": "The administrator didn't order a coffee. It was just on its way.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "18", "gender": "NA", "sent": "The administrator didn't order a coffee. In fact, it was just on its way.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "18", "gender": "NA", "sent": "The administrator ordered a coffee. It was on its way.", "subject": "def", "sentence_type": "existential"}
+{"frame": "18", "gender": "NA", "sent": "The administrator ordered a coffee. In fact, it was on its way.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "19", "gender": "NA", "sent": "It was not the case that the server didn't spill a drink. It was just wiped up quickly.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "19", "gender": "NA", "sent": "It was not the case that the server didn't spill a drink. In fact, it was just wiped up quickly.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "19", "gender": "NA", "sent": "The server didn't spill a drink. It was wiped up quickly.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "19", "gender": "NA", "sent": "The server didn't spill a drink. In fact, it was wiped up quickly.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "19", "gender": "NA", "sent": "The server didn't spill a drink. It was just wiped up quickly.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "19", "gender": "NA", "sent": "The server didn't spill a drink. In fact, it was just wiped up quickly.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "19", "gender": "NA", "sent": "The server spilled a drink. It was wiped up quickly.", "subject": "def", "sentence_type": "existential"}
+{"frame": "19", "gender": "NA", "sent": "The server spilled a drink. In fact, it was wiped up quickly.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "20", "gender": "NA", "sent": "It was not the case that the director didn't produce a film. It was just still in editing.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "20", "gender": "NA", "sent": "It was not the case that the director didn't produce a film. In fact, it was just still in editing.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "20", "gender": "NA", "sent": "The director didn't produce a film. It was still in editing.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "20", "gender": "NA", "sent": "The director didn't produce a film. In fact, it was still in editing.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "20", "gender": "NA", "sent": "The director didn't produce a film. It was just still in editing.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "20", "gender": "NA", "sent": "The director didn't produce a film. In fact, it was just still in editing.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "20", "gender": "NA", "sent": "The director produced a film. It was still in editing.", "subject": "def", "sentence_type": "existential"}
+{"frame": "20", "gender": "NA", "sent": "The director produced a film. In fact, it was still in editing.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "21", "gender": "NA", "sent": "It was not the case that the designer didn't make a bag. It was just a prototype.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "21", "gender": "NA", "sent": "It was not the case that the designer didn't make a bag. In fact, it was just a prototype.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "21", "gender": "NA", "sent": "The designer didn't make a bag. It was a prototype.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "21", "gender": "NA", "sent": "The designer didn't make a bag. In fact, it was a prototype.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "21", "gender": "NA", "sent": "The designer didn't make a bag. It was just a prototype.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "21", "gender": "NA", "sent": "The designer didn't make a bag. In fact, it was just a prototype.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "21", "gender": "NA", "sent": "The designer made a bag. It was a prototype.", "subject": "def", "sentence_type": "existential"}
+{"frame": "21", "gender": "NA", "sent": "The designer made a bag. In fact, it was a prototype.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "22", "gender": "NA", "sent": "It was not the case that the traveler didn't document a country. It was just full of stories.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "22", "gender": "NA", "sent": "It was not the case that the traveler didn't document a country. In fact, it was just full of stories.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "22", "gender": "NA", "sent": "The traveler didn't document a country. It was full of stories.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "22", "gender": "NA", "sent": "The traveler didn't document a country. In fact, it was full of stories.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "22", "gender": "NA", "sent": "The traveler didn't document a country. It was just full of stories.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "22", "gender": "NA", "sent": "The traveler didn't document a country. In fact, it was just full of stories.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "22", "gender": "NA", "sent": "The traveler documented a country. It was full of stories.", "subject": "def", "sentence_type": "existential"}
+{"frame": "22", "gender": "NA", "sent": "The traveler documented a country. In fact, it was full of stories.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "23", "gender": "NA", "sent": "It was not the case that the developer didn't identify a bug. It was just tricky to fix.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "23", "gender": "NA", "sent": "It was not the case that the developer didn't identify a bug. In fact, it was just tricky to fix.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "23", "gender": "NA", "sent": "The developer didn't identify a bug. It was tricky to fix.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "23", "gender": "NA", "sent": "The developer didn't identify a bug. In fact, it was tricky to fix.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "23", "gender": "NA", "sent": "The developer didn't identify a bug. It was just tricky to fix.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "23", "gender": "NA", "sent": "The developer didn't identify a bug. In fact, it was just tricky to fix.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "23", "gender": "NA", "sent": "The developer identified a bug. It was tricky to fix.", "subject": "def", "sentence_type": "existential"}
+{"frame": "23", "gender": "NA", "sent": "The developer identified a bug. In fact, it was tricky to fix.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "24", "gender": "NA", "sent": "It was not the case that the manufacturer didn't develop a product. It was just in testing.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "24", "gender": "NA", "sent": "It was not the case that the manufacturer didn't develop a product. In fact, it was just in testing.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "24", "gender": "NA", "sent": "The manufacturer didn't develop a product. It was in testing.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "24", "gender": "NA", "sent": "The manufacturer didn't develop a product. In fact, it was in testing.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "24", "gender": "NA", "sent": "The manufacturer didn't develop a product. It was just in testing.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "24", "gender": "NA", "sent": "The manufacturer didn't develop a product. In fact, it was just in testing.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "24", "gender": "NA", "sent": "The manufacturer developed a product. It was in testing.", "subject": "def", "sentence_type": "existential"}
+{"frame": "24", "gender": "NA", "sent": "The manufacturer developed a product. In fact, it was in testing.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "25", "gender": "NA", "sent": "It was not the case that the manager didn't launch a project. It was just delayed.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "25", "gender": "NA", "sent": "It was not the case that the manager didn't launch a project. In fact, it was just delayed.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "25", "gender": "NA", "sent": "The manager didn't launch a project. It was delayed.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "25", "gender": "NA", "sent": "The manager didn't launch a project. In fact, it was delayed.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "25", "gender": "NA", "sent": "The manager didn't launch a project. It was just delayed.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "25", "gender": "NA", "sent": "The manager didn't launch a project. In fact, it was just delayed.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "25", "gender": "NA", "sent": "The manager launched a project. It was delayed.", "subject": "def", "sentence_type": "existential"}
+{"frame": "25", "gender": "NA", "sent": "The manager launched a project. In fact, it was delayed.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "26", "gender": "NA", "sent": "It was not the case that the instructor didn't prepare a course. It was just not published.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "26", "gender": "NA", "sent": "It was not the case that the instructor didn't prepare a course. In fact, it was just not published.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "26", "gender": "NA", "sent": "The instructor didn't prepare a course. It was not published.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "26", "gender": "NA", "sent": "The instructor didn't prepare a course. In fact, it was not published.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "26", "gender": "NA", "sent": "The instructor didn't prepare a course. It was just not published.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "26", "gender": "NA", "sent": "The instructor didn't prepare a course. In fact, it was just not published.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "26", "gender": "NA", "sent": "The instructor prepared a course. It was not published.", "subject": "def", "sentence_type": "existential"}
+{"frame": "26", "gender": "NA", "sent": "The instructor prepared a course. In fact, it was not published.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "27", "gender": "NA", "sent": "It was not the case that the lawyer didn't accept a case. It was just complicated.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "27", "gender": "NA", "sent": "It was not the case that the lawyer didn't accept a case. In fact, it was just complicated.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "27", "gender": "NA", "sent": "The lawyer didn't accept a case. It was complicated.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "27", "gender": "NA", "sent": "The lawyer didn't accept a case. In fact, it was complicated.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "27", "gender": "NA", "sent": "The lawyer didn't accept a case. It was just complicated.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "27", "gender": "NA", "sent": "The lawyer didn't accept a case. In fact, it was just complicated.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "27", "gender": "NA", "sent": "The lawyer accepted a case. It was complicated.", "subject": "def", "sentence_type": "existential"}
+{"frame": "27", "gender": "NA", "sent": "The lawyer accepted a case. In fact, it was complicated.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "28", "gender": "NA", "sent": "It was not the case that the warrior didn't invade a castle. It was just heavily guarded.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "28", "gender": "NA", "sent": "It was not the case that the warrior didn't invade a castle. In fact, it was just heavily guarded.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "28", "gender": "NA", "sent": "The warrior didn't invade a castle. It was heavily guarded.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "28", "gender": "NA", "sent": "The warrior didn't invade a castle. In fact, it was heavily guarded.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "28", "gender": "NA", "sent": "The warrior didn't invade a castle. It was just heavily guarded.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "28", "gender": "NA", "sent": "The warrior didn't invade a castle. In fact, it was just heavily guarded.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "28", "gender": "NA", "sent": "The warrior invaded a castle. It was heavily guarded.", "subject": "def", "sentence_type": "existential"}
+{"frame": "28", "gender": "NA", "sent": "The warrior invaded a castle. In fact, it was heavily guarded.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "29", "gender": "NA", "sent": "It was not the case that the entrepreneur didn't found a company. It was just closed.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "29", "gender": "NA", "sent": "It was not the case that the entrepreneur didn't found a company. In fact, it was just closed.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "29", "gender": "NA", "sent": "The entrepreneur didn't found a company. It was closed.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "29", "gender": "NA", "sent": "The entrepreneur didn't found a company. In fact, it was closed.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "29", "gender": "NA", "sent": "The entrepreneur didn't found a company. It was just closed.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "29", "gender": "NA", "sent": "The entrepreneur didn't found a company. In fact, it was just closed.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "29", "gender": "NA", "sent": "The entrepreneur founded a company. It was closed.", "subject": "def", "sentence_type": "existential"}
+{"frame": "29", "gender": "NA", "sent": "The entrepreneur founded a company. In fact, it was closed.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "30", "gender": "NA", "sent": "It was not the case that the pilot didn't fly a helicopter. It was just grounded for now.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "30", "gender": "NA", "sent": "It was not the case that the pilot didn't fly a helicopter. In fact, it was just grounded for now.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "30", "gender": "NA", "sent": "The pilot didn't fly a helicopter. It was grounded for now.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "30", "gender": "NA", "sent": "The pilot didn't fly a helicopter. In fact, it was grounded for now.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "30", "gender": "NA", "sent": "The pilot didn't fly a helicopter. It was just grounded for now.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "30", "gender": "NA", "sent": "The pilot didn't fly a helicopter. In fact, it was just grounded for now.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "30", "gender": "NA", "sent": "The pilot flew a helicopter. It was grounded for now.", "subject": "def", "sentence_type": "existential"}
+{"frame": "30", "gender": "NA", "sent": "The pilot flew a helicopter. In fact, it was grounded for now.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "31", "gender": "NA", "sent": "It was not the case that the rider didn't raise a horse. It was just still a foal.", "subject": "def", "sentence_type": "DNE"}
+{"frame": "31", "gender": "NA", "sent": "It was not the case that the rider didn't raise a horse. In fact, it was just still a foal.", "subject": "def", "sentence_type": "DNE_infact"}
+{"frame": "31", "gender": "NA", "sent": "The rider didn't raise a horse. It was still a foal.", "subject": "def", "sentence_type": "negation2"}
+{"frame": "31", "gender": "NA", "sent": "The rider didn't raise a horse. In fact, it was still a foal.", "subject": "def", "sentence_type": "negation2_infact"}
+{"frame": "31", "gender": "NA", "sent": "The rider didn't raise a horse. It was just still a foal.", "subject": "def", "sentence_type": "negation2_just"}
+{"frame": "31", "gender": "NA", "sent": "The rider didn't raise a horse. In fact, it was just still a foal.", "subject": "def", "sentence_type": "negation2_just_infact"}
+{"frame": "31", "gender": "NA", "sent": "The rider raised a horse. It was still a foal.", "subject": "def", "sentence_type": "existential"}
+{"frame": "31", "gender": "NA", "sent": "The rider raised a horse. In fact, it was still a foal.", "subject": "def", "sentence_type": "existential_infact"}
+{"frame": "0", "gender": "m", "sent": "It was not the case that John didn't own a cow. It was just away on the meadow.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "0", "gender": "m", "sent": "It was not the case that John didn't own a cow. In fact, it was just away on the meadow.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "0", "gender": "m", "sent": "John didn't own a cow. It was away on the meadow.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "0", "gender": "m", "sent": "John didn't own a cow. In fact, it was away on the meadow.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "0", "gender": "m", "sent": "John didn't own a cow. It was just away on the meadow.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "0", "gender": "m", "sent": "John didn't own a cow. In fact, it was just away on the meadow.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "0", "gender": "m", "sent": "John owned a cow. It was away on the meadow.", "subject": "name", "sentence_type": "existential"}
+{"frame": "0", "gender": "m", "sent": "John owned a cow. In fact, it was away on the meadow.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "0", "gender": "f", "sent": "It was not the case that Mary didn't own a cow. It was just away on the meadow.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "0", "gender": "f", "sent": "It was not the case that Mary didn't own a cow. In fact, it was just away on the meadow.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "0", "gender": "f", "sent": "Mary didn't own a cow. It was away on the meadow.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "0", "gender": "f", "sent": "Mary didn't own a cow. In fact, it was away on the meadow.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "0", "gender": "f", "sent": "Mary didn't own a cow. It was just away on the meadow.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "0", "gender": "f", "sent": "Mary didn't own a cow. In fact, it was just away on the meadow.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "0", "gender": "f", "sent": "Mary owned a cow. It was away on the meadow.", "subject": "name", "sentence_type": "existential"}
+{"frame": "0", "gender": "f", "sent": "Mary owned a cow. In fact, it was away on the meadow.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "1", "gender": "m", "sent": "It was not the case that John didn't acquire a treasure. It was just hidden in the box.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "1", "gender": "m", "sent": "It was not the case that John didn't acquire a treasure. In fact, it was just hidden in the box.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "1", "gender": "m", "sent": "John didn't acquire a treasure. It was hidden in the box.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "1", "gender": "m", "sent": "John didn't acquire a treasure. In fact, it was hidden in the box.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "1", "gender": "m", "sent": "John didn't acquire a treasure. It was just hidden in the box.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "1", "gender": "m", "sent": "John didn't acquire a treasure. In fact, it was just hidden in the box.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "1", "gender": "m", "sent": "John acquired a treasure. It was hidden in the box.", "subject": "name", "sentence_type": "existential"}
+{"frame": "1", "gender": "m", "sent": "John acquired a treasure. In fact, it was hidden in the box.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "1", "gender": "f", "sent": "It was not the case that Mary didn't acquire a treasure. It was just hidden in the box.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "1", "gender": "f", "sent": "It was not the case that Mary didn't acquire a treasure. In fact, it was just hidden in the box.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "1", "gender": "f", "sent": "Mary didn't acquire a treasure. It was hidden in the box.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "1", "gender": "f", "sent": "Mary didn't acquire a treasure. In fact, it was hidden in the box.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "1", "gender": "f", "sent": "Mary didn't acquire a treasure. It was just hidden in the box.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "1", "gender": "f", "sent": "Mary didn't acquire a treasure. In fact, it was just hidden in the box.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "1", "gender": "f", "sent": "Mary acquired a treasure. It was hidden in the box.", "subject": "name", "sentence_type": "existential"}
+{"frame": "1", "gender": "f", "sent": "Mary acquired a treasure. In fact, it was hidden in the box.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "2", "gender": "m", "sent": "It was not the case that John didn't have a dog. It was just out for a walk.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "2", "gender": "m", "sent": "It was not the case that John didn't have a dog. In fact, it was just out for a walk.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "2", "gender": "m", "sent": "John didn't have a dog. It was out for a walk.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "2", "gender": "m", "sent": "John didn't have a dog. In fact, it was out for a walk.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "2", "gender": "m", "sent": "John didn't have a dog. It was just out for a walk.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "2", "gender": "m", "sent": "John didn't have a dog. In fact, it was just out for a walk.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "2", "gender": "m", "sent": "John had a dog. It was out for a walk.", "subject": "name", "sentence_type": "existential"}
+{"frame": "2", "gender": "m", "sent": "John had a dog. In fact, it was out for a walk.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "2", "gender": "f", "sent": "It was not the case that Mary didn't have a dog. It was just out for a walk.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "2", "gender": "f", "sent": "It was not the case that Mary didn't have a dog. In fact, it was just out for a walk.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "2", "gender": "f", "sent": "Mary didn't have a dog. It was out for a walk.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "2", "gender": "f", "sent": "Mary didn't have a dog. In fact, it was out for a walk.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "2", "gender": "f", "sent": "Mary didn't have a dog. It was just out for a walk.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "2", "gender": "f", "sent": "Mary didn't have a dog. In fact, it was just out for a walk.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "2", "gender": "f", "sent": "Mary had a dog. It was out for a walk.", "subject": "name", "sentence_type": "existential"}
+{"frame": "2", "gender": "f", "sent": "Mary had a dog. In fact, it was out for a walk.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "3", "gender": "m", "sent": "It was not the case that John didn't discover a problem. It was just too hard to solve.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "3", "gender": "m", "sent": "It was not the case that John didn't discover a problem. In fact, it was just too hard to solve.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "3", "gender": "m", "sent": "John didn't discover a problem. It was too hard to solve.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "3", "gender": "m", "sent": "John didn't discover a problem. In fact, it was too hard to solve.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "3", "gender": "m", "sent": "John didn't discover a problem. It was just too hard to solve.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "3", "gender": "m", "sent": "John didn't discover a problem. In fact, it was just too hard to solve.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "3", "gender": "m", "sent": "John discovered a problem. It was too hard to solve.", "subject": "name", "sentence_type": "existential"}
+{"frame": "3", "gender": "m", "sent": "John discovered a problem. In fact, it was too hard to solve.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "3", "gender": "f", "sent": "It was not the case that Mary didn't discover a problem. It was just too hard to solve.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "3", "gender": "f", "sent": "It was not the case that Mary didn't discover a problem. In fact, it was just too hard to solve.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "3", "gender": "f", "sent": "Mary didn't discover a problem. It was too hard to solve.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "3", "gender": "f", "sent": "Mary didn't discover a problem. In fact, it was too hard to solve.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "3", "gender": "f", "sent": "Mary didn't discover a problem. It was just too hard to solve.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "3", "gender": "f", "sent": "Mary didn't discover a problem. In fact, it was just too hard to solve.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "3", "gender": "f", "sent": "Mary discovered a problem. It was too hard to solve.", "subject": "name", "sentence_type": "existential"}
+{"frame": "3", "gender": "f", "sent": "Mary discovered a problem. In fact, it was too hard to solve.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "4", "gender": "m", "sent": "It was not the case that John didn't find a bone. It was just stored in formalin.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "4", "gender": "m", "sent": "It was not the case that John didn't find a bone. In fact, it was just stored in formalin.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "4", "gender": "m", "sent": "John didn't find a bone. It was stored in formalin.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "4", "gender": "m", "sent": "John didn't find a bone. In fact, it was stored in formalin.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "4", "gender": "m", "sent": "John didn't find a bone. It was just stored in formalin.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "4", "gender": "m", "sent": "John didn't find a bone. In fact, it was just stored in formalin.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "4", "gender": "m", "sent": "John found a bone. It was stored in formalin.", "subject": "name", "sentence_type": "existential"}
+{"frame": "4", "gender": "m", "sent": "John found a bone. In fact, it was stored in formalin.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "4", "gender": "f", "sent": "It was not the case that Mary didn't find a bone. It was just stored in formalin.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "4", "gender": "f", "sent": "It was not the case that Mary didn't find a bone. In fact, it was just stored in formalin.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "4", "gender": "f", "sent": "Mary didn't find a bone. It was stored in formalin.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "4", "gender": "f", "sent": "Mary didn't find a bone. In fact, it was stored in formalin.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "4", "gender": "f", "sent": "Mary didn't find a bone. It was just stored in formalin.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "4", "gender": "f", "sent": "Mary didn't find a bone. In fact, it was just stored in formalin.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "4", "gender": "f", "sent": "Mary found a bone. It was stored in formalin.", "subject": "name", "sentence_type": "existential"}
+{"frame": "4", "gender": "f", "sent": "Mary found a bone. In fact, it was stored in formalin.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "5", "gender": "m", "sent": "It was not the case that John didn't capture a moment. It was just gone in a flash.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "5", "gender": "m", "sent": "It was not the case that John didn't capture a moment. In fact, it was just gone in a flash.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "5", "gender": "m", "sent": "John didn't capture a moment. It was gone in a flash.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "5", "gender": "m", "sent": "John didn't capture a moment. In fact, it was gone in a flash.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "5", "gender": "m", "sent": "John didn't capture a moment. It was just gone in a flash.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "5", "gender": "m", "sent": "John didn't capture a moment. In fact, it was just gone in a flash.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "5", "gender": "m", "sent": "John captured a moment. It was gone in a flash.", "subject": "name", "sentence_type": "existential"}
+{"frame": "5", "gender": "m", "sent": "John captured a moment. In fact, it was gone in a flash.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "5", "gender": "f", "sent": "It was not the case that Mary didn't capture a moment. It was just gone in a flash.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "5", "gender": "f", "sent": "It was not the case that Mary didn't capture a moment. In fact, it was just gone in a flash.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "5", "gender": "f", "sent": "Mary didn't capture a moment. It was gone in a flash.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "5", "gender": "f", "sent": "Mary didn't capture a moment. In fact, it was gone in a flash.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "5", "gender": "f", "sent": "Mary didn't capture a moment. It was just gone in a flash.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "5", "gender": "f", "sent": "Mary didn't capture a moment. In fact, it was just gone in a flash.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "5", "gender": "f", "sent": "Mary captured a moment. It was gone in a flash.", "subject": "name", "sentence_type": "existential"}
+{"frame": "5", "gender": "f", "sent": "Mary captured a moment. In fact, it was gone in a flash.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "6", "gender": "m", "sent": "It was not the case that John didn't detect a tumor. It was just spreading everywhere.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "6", "gender": "m", "sent": "It was not the case that John didn't detect a tumor. In fact, it was just spreading everywhere.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "6", "gender": "m", "sent": "John didn't detect a tumor. It was spreading everywhere.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "6", "gender": "m", "sent": "John didn't detect a tumor. In fact, it was spreading everywhere.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "6", "gender": "m", "sent": "John didn't detect a tumor. It was just spreading everywhere.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "6", "gender": "m", "sent": "John didn't detect a tumor. In fact, it was just spreading everywhere.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "6", "gender": "m", "sent": "John detected a tumor. It was spreading everywhere.", "subject": "name", "sentence_type": "existential"}
+{"frame": "6", "gender": "m", "sent": "John detected a tumor. In fact, it was spreading everywhere.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "6", "gender": "f", "sent": "It was not the case that Mary didn't detect a tumor. It was just spreading everywhere.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "6", "gender": "f", "sent": "It was not the case that Mary didn't detect a tumor. In fact, it was just spreading everywhere.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "6", "gender": "f", "sent": "Mary didn't detect a tumor. It was spreading everywhere.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "6", "gender": "f", "sent": "Mary didn't detect a tumor. In fact, it was spreading everywhere.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "6", "gender": "f", "sent": "Mary didn't detect a tumor. It was just spreading everywhere.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "6", "gender": "f", "sent": "Mary didn't detect a tumor. In fact, it was just spreading everywhere.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "6", "gender": "f", "sent": "Mary detected a tumor. It was spreading everywhere.", "subject": "name", "sentence_type": "existential"}
+{"frame": "6", "gender": "f", "sent": "Mary detected a tumor. In fact, it was spreading everywhere.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "7", "gender": "m", "sent": "It was not the case that John didn't observe a mistake. It was just negligible.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "7", "gender": "m", "sent": "It was not the case that John didn't observe a mistake. In fact, it was just negligible.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "7", "gender": "m", "sent": "John didn't observe a mistake. It was negligible.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "7", "gender": "m", "sent": "John didn't observe a mistake. In fact, it was negligible.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "7", "gender": "m", "sent": "John didn't observe a mistake. It was just negligible.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "7", "gender": "m", "sent": "John didn't observe a mistake. In fact, it was just negligible.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "7", "gender": "m", "sent": "John observed a mistake. It was negligible.", "subject": "name", "sentence_type": "existential"}
+{"frame": "7", "gender": "m", "sent": "John observed a mistake. In fact, it was negligible.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "7", "gender": "f", "sent": "It was not the case that Mary didn't observe a mistake. It was just negligible.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "7", "gender": "f", "sent": "It was not the case that Mary didn't observe a mistake. In fact, it was just negligible.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "7", "gender": "f", "sent": "Mary didn't observe a mistake. It was negligible.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "7", "gender": "f", "sent": "Mary didn't observe a mistake. In fact, it was negligible.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "7", "gender": "f", "sent": "Mary didn't observe a mistake. It was just negligible.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "7", "gender": "f", "sent": "Mary didn't observe a mistake. In fact, it was just negligible.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "7", "gender": "f", "sent": "Mary observed a mistake. It was negligible.", "subject": "name", "sentence_type": "existential"}
+{"frame": "7", "gender": "f", "sent": "Mary observed a mistake. In fact, it was negligible.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "8", "gender": "m", "sent": "It was not the case that John didn't plant a tomato. It was just not ripe yet.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "8", "gender": "m", "sent": "It was not the case that John didn't plant a tomato. In fact, it was just not ripe yet.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "8", "gender": "m", "sent": "John didn't plant a tomato. It was not ripe yet.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "8", "gender": "m", "sent": "John didn't plant a tomato. In fact, it was not ripe yet.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "8", "gender": "m", "sent": "John didn't plant a tomato. It was just not ripe yet.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "8", "gender": "m", "sent": "John didn't plant a tomato. In fact, it was just not ripe yet.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "8", "gender": "m", "sent": "John planted a tomato. It was not ripe yet.", "subject": "name", "sentence_type": "existential"}
+{"frame": "8", "gender": "m", "sent": "John planted a tomato. In fact, it was not ripe yet.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "8", "gender": "f", "sent": "It was not the case that Mary didn't plant a tomato. It was just not ripe yet.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "8", "gender": "f", "sent": "It was not the case that Mary didn't plant a tomato. In fact, it was just not ripe yet.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "8", "gender": "f", "sent": "Mary didn't plant a tomato. It was not ripe yet.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "8", "gender": "f", "sent": "Mary didn't plant a tomato. In fact, it was not ripe yet.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "8", "gender": "f", "sent": "Mary didn't plant a tomato. It was just not ripe yet.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "8", "gender": "f", "sent": "Mary didn't plant a tomato. In fact, it was just not ripe yet.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "8", "gender": "f", "sent": "Mary planted a tomato. It was not ripe yet.", "subject": "name", "sentence_type": "existential"}
+{"frame": "8", "gender": "f", "sent": "Mary planted a tomato. In fact, it was not ripe yet.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "9", "gender": "m", "sent": "It was not the case that John didn't spot a deer. It was just difficult to shoot.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "9", "gender": "m", "sent": "It was not the case that John didn't spot a deer. In fact, it was just difficult to shoot.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "9", "gender": "m", "sent": "John didn't spot a deer. It was difficult to shoot.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "9", "gender": "m", "sent": "John didn't spot a deer. In fact, it was difficult to shoot.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "9", "gender": "m", "sent": "John didn't spot a deer. It was just difficult to shoot.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "9", "gender": "m", "sent": "John didn't spot a deer. In fact, it was just difficult to shoot.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "9", "gender": "m", "sent": "John spotted a deer. It was difficult to shoot.", "subject": "name", "sentence_type": "existential"}
+{"frame": "9", "gender": "m", "sent": "John spotted a deer. In fact, it was difficult to shoot.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "9", "gender": "f", "sent": "It was not the case that Mary didn't spot a deer. It was just difficult to shoot.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "9", "gender": "f", "sent": "It was not the case that Mary didn't spot a deer. In fact, it was just difficult to shoot.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "9", "gender": "f", "sent": "Mary didn't spot a deer. It was difficult to shoot.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "9", "gender": "f", "sent": "Mary didn't spot a deer. In fact, it was difficult to shoot.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "9", "gender": "f", "sent": "Mary didn't spot a deer. It was just difficult to shoot.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "9", "gender": "f", "sent": "Mary didn't spot a deer. In fact, it was just difficult to shoot.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "9", "gender": "f", "sent": "Mary spotted a deer. It was difficult to shoot.", "subject": "name", "sentence_type": "existential"}
+{"frame": "9", "gender": "f", "sent": "Mary spotted a deer. In fact, it was difficult to shoot.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "10", "gender": "m", "sent": "It was not the case that John didn't throw a ball. It was just missed by the catcher.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "10", "gender": "m", "sent": "It was not the case that John didn't throw a ball. In fact, it was just missed by the catcher.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "10", "gender": "m", "sent": "John didn't throw a ball. It was missed by the catcher.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "10", "gender": "m", "sent": "John didn't throw a ball. In fact, it was missed by the catcher.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "10", "gender": "m", "sent": "John didn't throw a ball. It was just missed by the catcher.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "10", "gender": "m", "sent": "John didn't throw a ball. In fact, it was just missed by the catcher.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "10", "gender": "m", "sent": "John threw a ball. It was missed by the catcher.", "subject": "name", "sentence_type": "existential"}
+{"frame": "10", "gender": "m", "sent": "John threw a ball. In fact, it was missed by the catcher.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "10", "gender": "f", "sent": "It was not the case that Mary didn't throw a ball. It was just missed by the catcher.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "10", "gender": "f", "sent": "It was not the case that Mary didn't throw a ball. In fact, it was just missed by the catcher.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "10", "gender": "f", "sent": "Mary didn't throw a ball. It was missed by the catcher.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "10", "gender": "f", "sent": "Mary didn't throw a ball. In fact, it was missed by the catcher.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "10", "gender": "f", "sent": "Mary didn't throw a ball. It was just missed by the catcher.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "10", "gender": "f", "sent": "Mary didn't throw a ball. In fact, it was just missed by the catcher.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "10", "gender": "f", "sent": "Mary threw a ball. It was missed by the catcher.", "subject": "name", "sentence_type": "existential"}
+{"frame": "10", "gender": "f", "sent": "Mary threw a ball. In fact, it was missed by the catcher.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "11", "gender": "m", "sent": "It was not the case that John didn't stop a car. It was just slowing down already.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "11", "gender": "m", "sent": "It was not the case that John didn't stop a car. In fact, it was just slowing down already.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "11", "gender": "m", "sent": "John didn't stop a car. It was slowing down already.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "11", "gender": "m", "sent": "John didn't stop a car. In fact, it was slowing down already.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "11", "gender": "m", "sent": "John didn't stop a car. It was just slowing down already.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "11", "gender": "m", "sent": "John didn't stop a car. In fact, it was just slowing down already.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "11", "gender": "m", "sent": "John stopped a car. It was slowing down already.", "subject": "name", "sentence_type": "existential"}
+{"frame": "11", "gender": "m", "sent": "John stopped a car. In fact, it was slowing down already.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "11", "gender": "f", "sent": "It was not the case that Mary didn't stop a car. It was just slowing down already.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "11", "gender": "f", "sent": "It was not the case that Mary didn't stop a car. In fact, it was just slowing down already.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "11", "gender": "f", "sent": "Mary didn't stop a car. It was slowing down already.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "11", "gender": "f", "sent": "Mary didn't stop a car. In fact, it was slowing down already.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "11", "gender": "f", "sent": "Mary didn't stop a car. It was just slowing down already.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "11", "gender": "f", "sent": "Mary didn't stop a car. In fact, it was just slowing down already.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "11", "gender": "f", "sent": "Mary stopped a car. It was slowing down already.", "subject": "name", "sentence_type": "existential"}
+{"frame": "11", "gender": "f", "sent": "Mary stopped a car. In fact, it was slowing down already.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "12", "gender": "m", "sent": "It was not the case that John didn't propose an idea. It was just scooped by others.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "12", "gender": "m", "sent": "It was not the case that John didn't propose an idea. In fact, it was just scooped by others.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "12", "gender": "m", "sent": "John didn't propose an idea. It was scooped by others.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "12", "gender": "m", "sent": "John didn't propose an idea. In fact, it was scooped by others.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "12", "gender": "m", "sent": "John didn't propose an idea. It was just scooped by others.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "12", "gender": "m", "sent": "John didn't propose an idea. In fact, it was just scooped by others.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "12", "gender": "m", "sent": "John proposed an idea. It was scooped by others.", "subject": "name", "sentence_type": "existential"}
+{"frame": "12", "gender": "m", "sent": "John proposed an idea. In fact, it was scooped by others.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "12", "gender": "f", "sent": "It was not the case that Mary didn't propose an idea. It was just scooped by others.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "12", "gender": "f", "sent": "It was not the case that Mary didn't propose an idea. In fact, it was just scooped by others.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "12", "gender": "f", "sent": "Mary didn't propose an idea. It was scooped by others.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "12", "gender": "f", "sent": "Mary didn't propose an idea. In fact, it was scooped by others.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "12", "gender": "f", "sent": "Mary didn't propose an idea. It was just scooped by others.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "12", "gender": "f", "sent": "Mary didn't propose an idea. In fact, it was just scooped by others.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "12", "gender": "f", "sent": "Mary proposed an idea. It was scooped by others.", "subject": "name", "sentence_type": "existential"}
+{"frame": "12", "gender": "f", "sent": "Mary proposed an idea. In fact, it was scooped by others.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "13", "gender": "m", "sent": "It was not the case that John didn't build a chair. It was just not finished yet.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "13", "gender": "m", "sent": "It was not the case that John didn't build a chair. In fact, it was just not finished yet.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "13", "gender": "m", "sent": "John didn't build a chair. It was not finished yet.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "13", "gender": "m", "sent": "John didn't build a chair. In fact, it was not finished yet.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "13", "gender": "m", "sent": "John didn't build a chair. It was just not finished yet.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "13", "gender": "m", "sent": "John didn't build a chair. In fact, it was just not finished yet.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "13", "gender": "m", "sent": "John built a chair. It was not finished yet.", "subject": "name", "sentence_type": "existential"}
+{"frame": "13", "gender": "m", "sent": "John built a chair. In fact, it was not finished yet.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "13", "gender": "f", "sent": "It was not the case that Mary didn't build a chair. It was just not finished yet.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "13", "gender": "f", "sent": "It was not the case that Mary didn't build a chair. In fact, it was just not finished yet.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "13", "gender": "f", "sent": "Mary didn't build a chair. It was not finished yet.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "13", "gender": "f", "sent": "Mary didn't build a chair. In fact, it was not finished yet.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "13", "gender": "f", "sent": "Mary didn't build a chair. It was just not finished yet.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "13", "gender": "f", "sent": "Mary didn't build a chair. In fact, it was just not finished yet.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "13", "gender": "f", "sent": "Mary built a chair. It was not finished yet.", "subject": "name", "sentence_type": "existential"}
+{"frame": "13", "gender": "f", "sent": "Mary built a chair. In fact, it was not finished yet.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "14", "gender": "m", "sent": "It was not the case that John didn't discuss an argument. It was just hard to unpack.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "14", "gender": "m", "sent": "It was not the case that John didn't discuss an argument. In fact, it was just hard to unpack.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "14", "gender": "m", "sent": "John didn't discuss an argument. It was hard to unpack.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "14", "gender": "m", "sent": "John didn't discuss an argument. In fact, it was hard to unpack.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "14", "gender": "m", "sent": "John didn't discuss an argument. It was just hard to unpack.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "14", "gender": "m", "sent": "John didn't discuss an argument. In fact, it was just hard to unpack.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "14", "gender": "m", "sent": "John discussed an argument. It was hard to unpack.", "subject": "name", "sentence_type": "existential"}
+{"frame": "14", "gender": "m", "sent": "John discussed an argument. In fact, it was hard to unpack.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "14", "gender": "f", "sent": "It was not the case that Mary didn't discuss an argument. It was just hard to unpack.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "14", "gender": "f", "sent": "It was not the case that Mary didn't discuss an argument. In fact, it was just hard to unpack.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "14", "gender": "f", "sent": "Mary didn't discuss an argument. It was hard to unpack.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "14", "gender": "f", "sent": "Mary didn't discuss an argument. In fact, it was hard to unpack.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "14", "gender": "f", "sent": "Mary didn't discuss an argument. It was just hard to unpack.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "14", "gender": "f", "sent": "Mary didn't discuss an argument. In fact, it was just hard to unpack.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "14", "gender": "f", "sent": "Mary discussed an argument. It was hard to unpack.", "subject": "name", "sentence_type": "existential"}
+{"frame": "14", "gender": "f", "sent": "Mary discussed an argument. In fact, it was hard to unpack.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "15", "gender": "m", "sent": "It was not the case that John didn't buy a shirt. It was just sent for tailoring.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "15", "gender": "m", "sent": "It was not the case that John didn't buy a shirt. In fact, it was just sent for tailoring.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "15", "gender": "m", "sent": "John didn't buy a shirt. It was sent for tailoring.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "15", "gender": "m", "sent": "John didn't buy a shirt. In fact, it was sent for tailoring.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "15", "gender": "m", "sent": "John didn't buy a shirt. It was just sent for tailoring.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "15", "gender": "m", "sent": "John didn't buy a shirt. In fact, it was just sent for tailoring.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "15", "gender": "m", "sent": "John bought a shirt. It was sent for tailoring.", "subject": "name", "sentence_type": "existential"}
+{"frame": "15", "gender": "m", "sent": "John bought a shirt. In fact, it was sent for tailoring.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "15", "gender": "f", "sent": "It was not the case that Mary didn't buy a shirt. It was just sent for tailoring.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "15", "gender": "f", "sent": "It was not the case that Mary didn't buy a shirt. In fact, it was just sent for tailoring.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "15", "gender": "f", "sent": "Mary didn't buy a shirt. It was sent for tailoring.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "15", "gender": "f", "sent": "Mary didn't buy a shirt. In fact, it was sent for tailoring.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "15", "gender": "f", "sent": "Mary didn't buy a shirt. It was just sent for tailoring.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "15", "gender": "f", "sent": "Mary didn't buy a shirt. In fact, it was just sent for tailoring.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "15", "gender": "f", "sent": "Mary bought a shirt. It was sent for tailoring.", "subject": "name", "sentence_type": "existential"}
+{"frame": "15", "gender": "f", "sent": "Mary bought a shirt. In fact, it was sent for tailoring.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "16", "gender": "m", "sent": "It was not the case that John didn't claim a record. It was just unofficial.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "16", "gender": "m", "sent": "It was not the case that John didn't claim a record. In fact, it was just unofficial.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "16", "gender": "m", "sent": "John didn't claim a record. It was unofficial.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "16", "gender": "m", "sent": "John didn't claim a record. In fact, it was unofficial.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "16", "gender": "m", "sent": "John didn't claim a record. It was just unofficial.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "16", "gender": "m", "sent": "John didn't claim a record. In fact, it was just unofficial.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "16", "gender": "m", "sent": "John claimed a record. It was unofficial.", "subject": "name", "sentence_type": "existential"}
+{"frame": "16", "gender": "m", "sent": "John claimed a record. In fact, it was unofficial.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "16", "gender": "f", "sent": "It was not the case that Mary didn't claim a record. It was just unofficial.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "16", "gender": "f", "sent": "It was not the case that Mary didn't claim a record. In fact, it was just unofficial.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "16", "gender": "f", "sent": "Mary didn't claim a record. It was unofficial.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "16", "gender": "f", "sent": "Mary didn't claim a record. In fact, it was unofficial.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "16", "gender": "f", "sent": "Mary didn't claim a record. It was just unofficial.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "16", "gender": "f", "sent": "Mary didn't claim a record. In fact, it was just unofficial.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "16", "gender": "f", "sent": "Mary claimed a record. It was unofficial.", "subject": "name", "sentence_type": "existential"}
+{"frame": "16", "gender": "f", "sent": "Mary claimed a record. In fact, it was unofficial.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "17", "gender": "m", "sent": "It was not the case that John didn't write a book. It was just unpublished.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "17", "gender": "m", "sent": "It was not the case that John didn't write a book. In fact, it was just unpublished.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "17", "gender": "m", "sent": "John didn't write a book. It was unpublished.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "17", "gender": "m", "sent": "John didn't write a book. In fact, it was unpublished.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "17", "gender": "m", "sent": "John didn't write a book. It was just unpublished.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "17", "gender": "m", "sent": "John didn't write a book. In fact, it was just unpublished.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "17", "gender": "m", "sent": "John wrote a book. It was unpublished.", "subject": "name", "sentence_type": "existential"}
+{"frame": "17", "gender": "m", "sent": "John wrote a book. In fact, it was unpublished.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "17", "gender": "f", "sent": "It was not the case that Mary didn't write a book. It was just unpublished.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "17", "gender": "f", "sent": "It was not the case that Mary didn't write a book. In fact, it was just unpublished.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "17", "gender": "f", "sent": "Mary didn't write a book. It was unpublished.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "17", "gender": "f", "sent": "Mary didn't write a book. In fact, it was unpublished.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "17", "gender": "f", "sent": "Mary didn't write a book. It was just unpublished.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "17", "gender": "f", "sent": "Mary didn't write a book. In fact, it was just unpublished.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "17", "gender": "f", "sent": "Mary wrote a book. It was unpublished.", "subject": "name", "sentence_type": "existential"}
+{"frame": "17", "gender": "f", "sent": "Mary wrote a book. In fact, it was unpublished.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "18", "gender": "m", "sent": "It was not the case that John didn't order a coffee. It was just on its way.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "18", "gender": "m", "sent": "It was not the case that John didn't order a coffee. In fact, it was just on its way.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "18", "gender": "m", "sent": "John didn't order a coffee. It was on its way.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "18", "gender": "m", "sent": "John didn't order a coffee. In fact, it was on its way.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "18", "gender": "m", "sent": "John didn't order a coffee. It was just on its way.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "18", "gender": "m", "sent": "John didn't order a coffee. In fact, it was just on its way.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "18", "gender": "m", "sent": "John ordered a coffee. It was on its way.", "subject": "name", "sentence_type": "existential"}
+{"frame": "18", "gender": "m", "sent": "John ordered a coffee. In fact, it was on its way.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "18", "gender": "f", "sent": "It was not the case that Mary didn't order a coffee. It was just on its way.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "18", "gender": "f", "sent": "It was not the case that Mary didn't order a coffee. In fact, it was just on its way.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "18", "gender": "f", "sent": "Mary didn't order a coffee. It was on its way.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "18", "gender": "f", "sent": "Mary didn't order a coffee. In fact, it was on its way.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "18", "gender": "f", "sent": "Mary didn't order a coffee. It was just on its way.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "18", "gender": "f", "sent": "Mary didn't order a coffee. In fact, it was just on its way.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "18", "gender": "f", "sent": "Mary ordered a coffee. It was on its way.", "subject": "name", "sentence_type": "existential"}
+{"frame": "18", "gender": "f", "sent": "Mary ordered a coffee. In fact, it was on its way.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "19", "gender": "m", "sent": "It was not the case that John didn't spill a drink. It was just wiped up quickly.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "19", "gender": "m", "sent": "It was not the case that John didn't spill a drink. In fact, it was just wiped up quickly.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "19", "gender": "m", "sent": "John didn't spill a drink. It was wiped up quickly.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "19", "gender": "m", "sent": "John didn't spill a drink. In fact, it was wiped up quickly.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "19", "gender": "m", "sent": "John didn't spill a drink. It was just wiped up quickly.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "19", "gender": "m", "sent": "John didn't spill a drink. In fact, it was just wiped up quickly.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "19", "gender": "m", "sent": "John spilled a drink. It was wiped up quickly.", "subject": "name", "sentence_type": "existential"}
+{"frame": "19", "gender": "m", "sent": "John spilled a drink. In fact, it was wiped up quickly.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "19", "gender": "f", "sent": "It was not the case that Mary didn't spill a drink. It was just wiped up quickly.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "19", "gender": "f", "sent": "It was not the case that Mary didn't spill a drink. In fact, it was just wiped up quickly.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "19", "gender": "f", "sent": "Mary didn't spill a drink. It was wiped up quickly.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "19", "gender": "f", "sent": "Mary didn't spill a drink. In fact, it was wiped up quickly.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "19", "gender": "f", "sent": "Mary didn't spill a drink. It was just wiped up quickly.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "19", "gender": "f", "sent": "Mary didn't spill a drink. In fact, it was just wiped up quickly.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "19", "gender": "f", "sent": "Mary spilled a drink. It was wiped up quickly.", "subject": "name", "sentence_type": "existential"}
+{"frame": "19", "gender": "f", "sent": "Mary spilled a drink. In fact, it was wiped up quickly.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "20", "gender": "m", "sent": "It was not the case that John didn't produce a film. It was just still in editing.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "20", "gender": "m", "sent": "It was not the case that John didn't produce a film. In fact, it was just still in editing.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "20", "gender": "m", "sent": "John didn't produce a film. It was still in editing.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "20", "gender": "m", "sent": "John didn't produce a film. In fact, it was still in editing.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "20", "gender": "m", "sent": "John didn't produce a film. It was just still in editing.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "20", "gender": "m", "sent": "John didn't produce a film. In fact, it was just still in editing.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "20", "gender": "m", "sent": "John produced a film. It was still in editing.", "subject": "name", "sentence_type": "existential"}
+{"frame": "20", "gender": "m", "sent": "John produced a film. In fact, it was still in editing.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "20", "gender": "f", "sent": "It was not the case that Mary didn't produce a film. It was just still in editing.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "20", "gender": "f", "sent": "It was not the case that Mary didn't produce a film. In fact, it was just still in editing.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "20", "gender": "f", "sent": "Mary didn't produce a film. It was still in editing.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "20", "gender": "f", "sent": "Mary didn't produce a film. In fact, it was still in editing.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "20", "gender": "f", "sent": "Mary didn't produce a film. It was just still in editing.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "20", "gender": "f", "sent": "Mary didn't produce a film. In fact, it was just still in editing.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "20", "gender": "f", "sent": "Mary produced a film. It was still in editing.", "subject": "name", "sentence_type": "existential"}
+{"frame": "20", "gender": "f", "sent": "Mary produced a film. In fact, it was still in editing.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "21", "gender": "m", "sent": "It was not the case that John didn't make a bag. It was just a prototype.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "21", "gender": "m", "sent": "It was not the case that John didn't make a bag. In fact, it was just a prototype.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "21", "gender": "m", "sent": "John didn't make a bag. It was a prototype.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "21", "gender": "m", "sent": "John didn't make a bag. In fact, it was a prototype.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "21", "gender": "m", "sent": "John didn't make a bag. It was just a prototype.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "21", "gender": "m", "sent": "John didn't make a bag. In fact, it was just a prototype.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "21", "gender": "m", "sent": "John made a bag. It was a prototype.", "subject": "name", "sentence_type": "existential"}
+{"frame": "21", "gender": "m", "sent": "John made a bag. In fact, it was a prototype.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "21", "gender": "f", "sent": "It was not the case that Mary didn't make a bag. It was just a prototype.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "21", "gender": "f", "sent": "It was not the case that Mary didn't make a bag. In fact, it was just a prototype.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "21", "gender": "f", "sent": "Mary didn't make a bag. It was a prototype.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "21", "gender": "f", "sent": "Mary didn't make a bag. In fact, it was a prototype.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "21", "gender": "f", "sent": "Mary didn't make a bag. It was just a prototype.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "21", "gender": "f", "sent": "Mary didn't make a bag. In fact, it was just a prototype.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "21", "gender": "f", "sent": "Mary made a bag. It was a prototype.", "subject": "name", "sentence_type": "existential"}
+{"frame": "21", "gender": "f", "sent": "Mary made a bag. In fact, it was a prototype.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "22", "gender": "m", "sent": "It was not the case that John didn't document a country. It was just full of stories.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "22", "gender": "m", "sent": "It was not the case that John didn't document a country. In fact, it was just full of stories.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "22", "gender": "m", "sent": "John didn't document a country. It was full of stories.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "22", "gender": "m", "sent": "John didn't document a country. In fact, it was full of stories.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "22", "gender": "m", "sent": "John didn't document a country. It was just full of stories.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "22", "gender": "m", "sent": "John didn't document a country. In fact, it was just full of stories.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "22", "gender": "m", "sent": "John documented a country. It was full of stories.", "subject": "name", "sentence_type": "existential"}
+{"frame": "22", "gender": "m", "sent": "John documented a country. In fact, it was full of stories.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "22", "gender": "f", "sent": "It was not the case that Mary didn't document a country. It was just full of stories.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "22", "gender": "f", "sent": "It was not the case that Mary didn't document a country. In fact, it was just full of stories.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "22", "gender": "f", "sent": "Mary didn't document a country. It was full of stories.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "22", "gender": "f", "sent": "Mary didn't document a country. In fact, it was full of stories.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "22", "gender": "f", "sent": "Mary didn't document a country. It was just full of stories.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "22", "gender": "f", "sent": "Mary didn't document a country. In fact, it was just full of stories.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "22", "gender": "f", "sent": "Mary documented a country. It was full of stories.", "subject": "name", "sentence_type": "existential"}
+{"frame": "22", "gender": "f", "sent": "Mary documented a country. In fact, it was full of stories.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "23", "gender": "m", "sent": "It was not the case that John didn't identify a bug. It was just tricky to fix.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "23", "gender": "m", "sent": "It was not the case that John didn't identify a bug. In fact, it was just tricky to fix.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "23", "gender": "m", "sent": "John didn't identify a bug. It was tricky to fix.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "23", "gender": "m", "sent": "John didn't identify a bug. In fact, it was tricky to fix.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "23", "gender": "m", "sent": "John didn't identify a bug. It was just tricky to fix.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "23", "gender": "m", "sent": "John didn't identify a bug. In fact, it was just tricky to fix.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "23", "gender": "m", "sent": "John identified a bug. It was tricky to fix.", "subject": "name", "sentence_type": "existential"}
+{"frame": "23", "gender": "m", "sent": "John identified a bug. In fact, it was tricky to fix.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "23", "gender": "f", "sent": "It was not the case that Mary didn't identify a bug. It was just tricky to fix.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "23", "gender": "f", "sent": "It was not the case that Mary didn't identify a bug. In fact, it was just tricky to fix.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "23", "gender": "f", "sent": "Mary didn't identify a bug. It was tricky to fix.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "23", "gender": "f", "sent": "Mary didn't identify a bug. In fact, it was tricky to fix.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "23", "gender": "f", "sent": "Mary didn't identify a bug. It was just tricky to fix.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "23", "gender": "f", "sent": "Mary didn't identify a bug. In fact, it was just tricky to fix.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "23", "gender": "f", "sent": "Mary identified a bug. It was tricky to fix.", "subject": "name", "sentence_type": "existential"}
+{"frame": "23", "gender": "f", "sent": "Mary identified a bug. In fact, it was tricky to fix.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "24", "gender": "m", "sent": "It was not the case that John didn't develop a product. It was just in testing.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "24", "gender": "m", "sent": "It was not the case that John didn't develop a product. In fact, it was just in testing.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "24", "gender": "m", "sent": "John didn't develop a product. It was in testing.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "24", "gender": "m", "sent": "John didn't develop a product. In fact, it was in testing.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "24", "gender": "m", "sent": "John didn't develop a product. It was just in testing.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "24", "gender": "m", "sent": "John didn't develop a product. In fact, it was just in testing.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "24", "gender": "m", "sent": "John developed a product. It was in testing.", "subject": "name", "sentence_type": "existential"}
+{"frame": "24", "gender": "m", "sent": "John developed a product. In fact, it was in testing.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "24", "gender": "f", "sent": "It was not the case that Mary didn't develop a product. It was just in testing.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "24", "gender": "f", "sent": "It was not the case that Mary didn't develop a product. In fact, it was just in testing.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "24", "gender": "f", "sent": "Mary didn't develop a product. It was in testing.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "24", "gender": "f", "sent": "Mary didn't develop a product. In fact, it was in testing.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "24", "gender": "f", "sent": "Mary didn't develop a product. It was just in testing.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "24", "gender": "f", "sent": "Mary didn't develop a product. In fact, it was just in testing.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "24", "gender": "f", "sent": "Mary developed a product. It was in testing.", "subject": "name", "sentence_type": "existential"}
+{"frame": "24", "gender": "f", "sent": "Mary developed a product. In fact, it was in testing.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "25", "gender": "m", "sent": "It was not the case that John didn't launch a project. It was just delayed.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "25", "gender": "m", "sent": "It was not the case that John didn't launch a project. In fact, it was just delayed.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "25", "gender": "m", "sent": "John didn't launch a project. It was delayed.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "25", "gender": "m", "sent": "John didn't launch a project. In fact, it was delayed.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "25", "gender": "m", "sent": "John didn't launch a project. It was just delayed.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "25", "gender": "m", "sent": "John didn't launch a project. In fact, it was just delayed.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "25", "gender": "m", "sent": "John launched a project. It was delayed.", "subject": "name", "sentence_type": "existential"}
+{"frame": "25", "gender": "m", "sent": "John launched a project. In fact, it was delayed.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "25", "gender": "f", "sent": "It was not the case that Mary didn't launch a project. It was just delayed.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "25", "gender": "f", "sent": "It was not the case that Mary didn't launch a project. In fact, it was just delayed.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "25", "gender": "f", "sent": "Mary didn't launch a project. It was delayed.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "25", "gender": "f", "sent": "Mary didn't launch a project. In fact, it was delayed.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "25", "gender": "f", "sent": "Mary didn't launch a project. It was just delayed.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "25", "gender": "f", "sent": "Mary didn't launch a project. In fact, it was just delayed.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "25", "gender": "f", "sent": "Mary launched a project. It was delayed.", "subject": "name", "sentence_type": "existential"}
+{"frame": "25", "gender": "f", "sent": "Mary launched a project. In fact, it was delayed.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "26", "gender": "m", "sent": "It was not the case that John didn't prepare a course. It was just not published.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "26", "gender": "m", "sent": "It was not the case that John didn't prepare a course. In fact, it was just not published.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "26", "gender": "m", "sent": "John didn't prepare a course. It was not published.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "26", "gender": "m", "sent": "John didn't prepare a course. In fact, it was not published.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "26", "gender": "m", "sent": "John didn't prepare a course. It was just not published.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "26", "gender": "m", "sent": "John didn't prepare a course. In fact, it was just not published.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "26", "gender": "m", "sent": "John prepared a course. It was not published.", "subject": "name", "sentence_type": "existential"}
+{"frame": "26", "gender": "m", "sent": "John prepared a course. In fact, it was not published.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "26", "gender": "f", "sent": "It was not the case that Mary didn't prepare a course. It was just not published.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "26", "gender": "f", "sent": "It was not the case that Mary didn't prepare a course. In fact, it was just not published.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "26", "gender": "f", "sent": "Mary didn't prepare a course. It was not published.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "26", "gender": "f", "sent": "Mary didn't prepare a course. In fact, it was not published.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "26", "gender": "f", "sent": "Mary didn't prepare a course. It was just not published.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "26", "gender": "f", "sent": "Mary didn't prepare a course. In fact, it was just not published.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "26", "gender": "f", "sent": "Mary prepared a course. It was not published.", "subject": "name", "sentence_type": "existential"}
+{"frame": "26", "gender": "f", "sent": "Mary prepared a course. In fact, it was not published.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "27", "gender": "m", "sent": "It was not the case that John didn't accept a case. It was just complicated.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "27", "gender": "m", "sent": "It was not the case that John didn't accept a case. In fact, it was just complicated.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "27", "gender": "m", "sent": "John didn't accept a case. It was complicated.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "27", "gender": "m", "sent": "John didn't accept a case. In fact, it was complicated.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "27", "gender": "m", "sent": "John didn't accept a case. It was just complicated.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "27", "gender": "m", "sent": "John didn't accept a case. In fact, it was just complicated.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "27", "gender": "m", "sent": "John accepted a case. It was complicated.", "subject": "name", "sentence_type": "existential"}
+{"frame": "27", "gender": "m", "sent": "John accepted a case. In fact, it was complicated.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "27", "gender": "f", "sent": "It was not the case that Mary didn't accept a case. It was just complicated.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "27", "gender": "f", "sent": "It was not the case that Mary didn't accept a case. In fact, it was just complicated.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "27", "gender": "f", "sent": "Mary didn't accept a case. It was complicated.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "27", "gender": "f", "sent": "Mary didn't accept a case. In fact, it was complicated.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "27", "gender": "f", "sent": "Mary didn't accept a case. It was just complicated.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "27", "gender": "f", "sent": "Mary didn't accept a case. In fact, it was just complicated.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "27", "gender": "f", "sent": "Mary accepted a case. It was complicated.", "subject": "name", "sentence_type": "existential"}
+{"frame": "27", "gender": "f", "sent": "Mary accepted a case. In fact, it was complicated.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "28", "gender": "m", "sent": "It was not the case that John didn't invade a castle. It was just heavily guarded.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "28", "gender": "m", "sent": "It was not the case that John didn't invade a castle. In fact, it was just heavily guarded.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "28", "gender": "m", "sent": "John didn't invade a castle. It was heavily guarded.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "28", "gender": "m", "sent": "John didn't invade a castle. In fact, it was heavily guarded.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "28", "gender": "m", "sent": "John didn't invade a castle. It was just heavily guarded.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "28", "gender": "m", "sent": "John didn't invade a castle. In fact, it was just heavily guarded.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "28", "gender": "m", "sent": "John invaded a castle. It was heavily guarded.", "subject": "name", "sentence_type": "existential"}
+{"frame": "28", "gender": "m", "sent": "John invaded a castle. In fact, it was heavily guarded.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "28", "gender": "f", "sent": "It was not the case that Mary didn't invade a castle. It was just heavily guarded.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "28", "gender": "f", "sent": "It was not the case that Mary didn't invade a castle. In fact, it was just heavily guarded.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "28", "gender": "f", "sent": "Mary didn't invade a castle. It was heavily guarded.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "28", "gender": "f", "sent": "Mary didn't invade a castle. In fact, it was heavily guarded.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "28", "gender": "f", "sent": "Mary didn't invade a castle. It was just heavily guarded.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "28", "gender": "f", "sent": "Mary didn't invade a castle. In fact, it was just heavily guarded.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "28", "gender": "f", "sent": "Mary invaded a castle. It was heavily guarded.", "subject": "name", "sentence_type": "existential"}
+{"frame": "28", "gender": "f", "sent": "Mary invaded a castle. In fact, it was heavily guarded.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "29", "gender": "m", "sent": "It was not the case that John didn't found a company. It was just closed.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "29", "gender": "m", "sent": "It was not the case that John didn't found a company. In fact, it was just closed.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "29", "gender": "m", "sent": "John didn't found a company. It was closed.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "29", "gender": "m", "sent": "John didn't found a company. In fact, it was closed.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "29", "gender": "m", "sent": "John didn't found a company. It was just closed.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "29", "gender": "m", "sent": "John didn't found a company. In fact, it was just closed.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "29", "gender": "m", "sent": "John founded a company. It was closed.", "subject": "name", "sentence_type": "existential"}
+{"frame": "29", "gender": "m", "sent": "John founded a company. In fact, it was closed.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "29", "gender": "f", "sent": "It was not the case that Mary didn't found a company. It was just closed.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "29", "gender": "f", "sent": "It was not the case that Mary didn't found a company. In fact, it was just closed.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "29", "gender": "f", "sent": "Mary didn't found a company. It was closed.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "29", "gender": "f", "sent": "Mary didn't found a company. In fact, it was closed.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "29", "gender": "f", "sent": "Mary didn't found a company. It was just closed.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "29", "gender": "f", "sent": "Mary didn't found a company. In fact, it was just closed.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "29", "gender": "f", "sent": "Mary founded a company. It was closed.", "subject": "name", "sentence_type": "existential"}
+{"frame": "29", "gender": "f", "sent": "Mary founded a company. In fact, it was closed.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "30", "gender": "m", "sent": "It was not the case that John didn't fly a helicopter. It was just grounded for now.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "30", "gender": "m", "sent": "It was not the case that John didn't fly a helicopter. In fact, it was just grounded for now.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "30", "gender": "m", "sent": "John didn't fly a helicopter. It was grounded for now.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "30", "gender": "m", "sent": "John didn't fly a helicopter. In fact, it was grounded for now.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "30", "gender": "m", "sent": "John didn't fly a helicopter. It was just grounded for now.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "30", "gender": "m", "sent": "John didn't fly a helicopter. In fact, it was just grounded for now.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "30", "gender": "m", "sent": "John flew a helicopter. It was grounded for now.", "subject": "name", "sentence_type": "existential"}
+{"frame": "30", "gender": "m", "sent": "John flew a helicopter. In fact, it was grounded for now.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "30", "gender": "f", "sent": "It was not the case that Mary didn't fly a helicopter. It was just grounded for now.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "30", "gender": "f", "sent": "It was not the case that Mary didn't fly a helicopter. In fact, it was just grounded for now.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "30", "gender": "f", "sent": "Mary didn't fly a helicopter. It was grounded for now.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "30", "gender": "f", "sent": "Mary didn't fly a helicopter. In fact, it was grounded for now.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "30", "gender": "f", "sent": "Mary didn't fly a helicopter. It was just grounded for now.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "30", "gender": "f", "sent": "Mary didn't fly a helicopter. In fact, it was just grounded for now.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "30", "gender": "f", "sent": "Mary flew a helicopter. It was grounded for now.", "subject": "name", "sentence_type": "existential"}
+{"frame": "30", "gender": "f", "sent": "Mary flew a helicopter. In fact, it was grounded for now.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "31", "gender": "m", "sent": "It was not the case that John didn't raise a horse. It was just still a foal.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "31", "gender": "m", "sent": "It was not the case that John didn't raise a horse. In fact, it was just still a foal.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "31", "gender": "m", "sent": "John didn't raise a horse. It was still a foal.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "31", "gender": "m", "sent": "John didn't raise a horse. In fact, it was still a foal.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "31", "gender": "m", "sent": "John didn't raise a horse. It was just still a foal.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "31", "gender": "m", "sent": "John didn't raise a horse. In fact, it was just still a foal.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "31", "gender": "m", "sent": "John raised a horse. It was still a foal.", "subject": "name", "sentence_type": "existential"}
+{"frame": "31", "gender": "m", "sent": "John raised a horse. In fact, it was still a foal.", "subject": "name", "sentence_type": "existential_infact"}
+{"frame": "31", "gender": "f", "sent": "It was not the case that Mary didn't raise a horse. It was just still a foal.", "subject": "name", "sentence_type": "DNE"}
+{"frame": "31", "gender": "f", "sent": "It was not the case that Mary didn't raise a horse. In fact, it was just still a foal.", "subject": "name", "sentence_type": "DNE_infact"}
+{"frame": "31", "gender": "f", "sent": "Mary didn't raise a horse. It was still a foal.", "subject": "name", "sentence_type": "negation2"}
+{"frame": "31", "gender": "f", "sent": "Mary didn't raise a horse. In fact, it was still a foal.", "subject": "name", "sentence_type": "negation2_infact"}
+{"frame": "31", "gender": "f", "sent": "Mary didn't raise a horse. It was just still a foal.", "subject": "name", "sentence_type": "negation2_just"}
+{"frame": "31", "gender": "f", "sent": "Mary didn't raise a horse. In fact, it was just still a foal.", "subject": "name", "sentence_type": "negation2_just_infact"}
+{"frame": "31", "gender": "f", "sent": "Mary raised a horse. It was still a foal.", "subject": "name", "sentence_type": "existential"}
+{"frame": "31", "gender": "f", "sent": "Mary raised a horse. In fact, it was still a foal.", "subject": "name", "sentence_type": "existential_infact"}

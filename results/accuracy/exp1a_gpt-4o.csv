@@ -1,0 +1,65 @@
+gender,frame,sent1,sent2,raw_response,correct
+m,0,Every farmer worked in the field. He dreamed of the harvest.,A farmer worked in the field. He dreamed of the harvest.,1,0
+f,0,Every farmer worked in the field. She dreamed of the harvest.,A farmer worked in the field. She dreamed of the harvest.,2,1
+m,1,A pirate sailed across the ocean. He laughed as the waves crashed around.,Every pirate sailed across the ocean. He laughed as the waves crashed around.,1,1
+f,1,Every pirate sailed across the ocean. She laughed as the waves crashed around.,A pirate sailed across the ocean. She laughed as the waves crashed around.,2,1
+m,2,Every kid played in the park. He shouted with joy.,A kid played in the park. He shouted with joy.,2,1
+f,2,A kid played in the park. She shouted with joy.,Every kid played in the park. She shouted with joy.,1,1
+m,3,Every student studied in the library. He stared at the pages.,A student studied in the library. He stared at the pages.,2,1
+f,3,A student studied in the library. She stared at the pages.,Every student studied in the library. She stared at the pages.,1,1
+m,4,A doctor waited in the hallway. He spoke to the nurse.,Every doctor waited in the hallway. He spoke to the nurse.,1,1
+f,4,Every doctor waited in the hallway. She spoke to the nurse.,A doctor waited in the hallway. She spoke to the nurse.,2,1
+m,5,Every photographer stood by the fountain. He waited for the shot.,A photographer stood by the fountain. He waited for the shot.,1,0
+f,5,Every photographer stood by the fountain. She waited for the shot.,A photographer stood by the fountain. She waited for the shot.,1,0
+m,6,A surgeon operated in the hospital. He cried from the weight of responsibility.,Every surgeon operated in the hospital. He cried from the weight of responsibility.,1,1
+f,6,Every surgeon operated in the hospital. She cried from the weight of responsibility.,A surgeon operated in the hospital. She cried from the weight of responsibility.,2,1
+m,7,An editor signed at the desk. He sighed at the workload.,Every editor signed at the desk. He sighed at the workload.,2,0
+f,7,Every editor signed at the desk. She sighed at the workload.,An editor signed at the desk. She sighed at the workload.,2,1
+m,8,A chef cooked in the kitchen. He danced to the background music.,Every chef cooked in the kitchen. He danced to the background music.,1,1
+f,8,Every chef cooked in the kitchen. She danced to the background music.,A chef cooked in the kitchen. She danced to the background music.,2,1
+m,9,Every hunter hid in the bushes. He listened for footsteps.,A hunter hid in the bushes. He listened for footsteps.,2,1
+f,9,Every hunter hid in the bushes. She listened for footsteps.,A hunter hid in the bushes. She listened for footsteps.,2,1
+m,10,Every player rested on the bench. He cheered for the team.,A player rested on the bench. He cheered for the team.,2,1
+f,10,A player rested on the bench. She cheered for the team.,Every player rested on the bench. She cheered for the team.,1,1
+m,11,A police stood by the intersection. He waved at the cars.,Every police stood by the intersection. He waved at the cars.,1,1
+f,11,A police stood by the intersection. She waved at the cars.,Every police stood by the intersection. She waved at the cars.,1,1
+m,12,A researcher hesitated before an experiment. He wandered through the notes.,Every researcher hesitated before an experiment. He wandered through the notes.,1,1
+f,12,Every researcher hesitated before an experiment. She wandered through the notes.,A researcher hesitated before an experiment. She wandered through the notes.,2,1
+m,13,Every worker stretched during a break. He stumbled on the floor.,A worker stretched during a break. He stumbled on the floor.,2,1
+f,13,Every worker stretched during a break. She stumbled on the floor.,A worker stretched during a break. She stumbled on the floor.,2,1
+m,14,A teacher paused before answering. He sat back to consider the question.,Every teacher paused before answering. He sat back to consider the question.,1,1
+f,14,A teacher paused before answering. She sat back to consider the question.,Every teacher paused before answering. She sat back to consider the question.,1,1
+m,15,Every customer browsed through the store. He paused at the shelf.,A customer browsed through the store. He paused at the shelf.,2,1
+f,15,Every customer browsed through the store. She paused at the shelf.,A customer browsed through the store. She paused at the shelf.,2,1
+m,16,Every athlete trained at the gym. He breathed heavily to maintain focus.,An athlete trained at the gym. He breathed heavily to maintain focus.,1,0
+f,16,Every athlete trained at the gym. She breathed heavily to maintain focus.,An athlete trained at the gym. She breathed heavily to maintain focus.,2,1
+m,17,A professor lectured in the classroom. He wrote equations on the board.,Every professor lectured in the classroom. He wrote equations on the board.,1,1
+f,17,Every professor lectured in the classroom. She wrote equations on the board.,A professor lectured in the classroom. She wrote equations on the board.,2,1
+m,18,An administrator paced in the office. He gestured while speaking.,Every administrator paced in the office. He gestured while speaking.,1,1
+f,18,An administrator paced in the office. She gestured while speaking.,Every administrator paced in the office. She gestured while speaking.,1,1
+m,19,Every server hurried across the dining room. He smiled at the guests.,A server hurried across the dining room. He smiled at the guests.,2,1
+f,19,Every server hurried across the dining room. She smiled at the guests.,A server hurried across the dining room. She smiled at the guests.,2,1
+m,20,Every director paused between takes. He nodded at the actors.,A director paused between takes. He nodded at the actors.,1,0
+f,20,A director paused between takes. She nodded at the actors.,Every director paused between takes. She nodded at the actors.,1,1
+m,21,Every designer sketched on a tablet. He persisted to perfect the lines.,A designer sketched on a tablet. He persisted to perfect the lines.,1,0
+f,21,Every designer sketched on a tablet. She persisted to perfect the lines.,A designer sketched on a tablet. She persisted to perfect the lines.,2,1
+m,22,Every traveler wandered through the streets. He jumped over the puddle.,A traveler wandered through the streets. He jumped over the puddle.,2,1
+f,22,A traveler wandered through the streets. She jumped over the puddle.,Every traveler wandered through the streets. She jumped over the puddle.,1,1
+m,23,Every developer coded in a cafe. He typed rapidly to meet the deadline.,A developer coded in a cafe. He typed rapidly to meet the deadline.,2,1
+f,23,Every developer coded in a cafe. She typed rapidly to meet the deadline.,A developer coded in a cafe. She typed rapidly to meet the deadline.,2,1
+m,24,A manufacturer assembled a chair. He counted the screws.,Every manufacturer assembled a chair. He counted the screws.,1,1
+f,24,A manufacturer assembled a chair. She counted the screws.,Every manufacturer assembled a chair. She counted the screws.,1,1
+m,25,Every manager relaxed after the meeting. He stretched to relieve tension.,A manager relaxed after the meeting. He stretched to relieve tension.,1,0
+f,25,A manager relaxed after the meeting. She stretched to relieve tension.,Every manager relaxed after the meeting. She stretched to relieve tension.,1,1
+m,26,Every instructor balanced on one leg. He fell onto the mat.,An instructor balanced on one leg. He fell onto the mat.,2,1
+f,26,An instructor balanced on one leg. She fell onto the mat.,Every instructor balanced on one leg. She fell onto the mat.,1,1
+m,27,A lawyer waved before speaking. He rose from the chair.,Every lawyer waved before speaking. He rose from the chair.,1,1
+f,27,A lawyer waved before speaking. She rose from the chair.,Every lawyer waved before speaking. She rose from the chair.,1,1
+m,28,A warrior trained in the courtyard. He crawled under the beam.,Every warrior trained in the courtyard. He crawled under the beam.,1,1
+f,28,Every warrior trained in the courtyard. She crawled under the beam.,A warrior trained in the courtyard. She crawled under the beam.,2,1
+m,29,An entrepreneur leaned against the wall. He rested to regain energy.,Every entrepreneur leaned against the wall. He rested to regain energy.,1,1
+f,29,An entrepreneur leaned against the wall. She rested to regain energy.,Every entrepreneur leaned against the wall. She rested to regain energy.,1,1
+m,30,Every pilot sat in the helicopter. He focused on the controls.,A pilot sat in the helicopter. He focused on the controls.,2,1
+f,30,Every pilot sat in the helicopter. She focused on the controls.,A pilot sat in the helicopter. She focused on the controls.,2,1
+m,31,Every rider biked on the street. He sang to enjoy the ride.,A rider biked on the street. He sang to enjoy the ride.,1,0
+f,31,Every rider biked on the street. She sang to enjoy the ride.,A rider biked on the street. She sang to enjoy the ride.,2,1

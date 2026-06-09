@@ -1,0 +1,576 @@
+{"frame": 0, "gender": "m", "sent": "A farmer worked in the field before he dreamed of the harvest.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 0, "gender": "m", "sent": "A farmer worked in the field. He dreamed of the harvest.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 0, "gender": "m", "sent": "Every farmer worked in the field before he dreamed of the harvest.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 0, "gender": "m", "sent": "Every farmer worked in the field. He dreamed of the harvest.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 0, "gender": "m", "sent": "No farmer worked in the field before he dreamed of the harvest.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 0, "gender": "m", "sent": "No farmer worked in the field. He dreamed of the harvest.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 0, "gender": "f", "sent": "A farmer worked in the field before she dreamed of the harvest.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 0, "gender": "f", "sent": "A farmer worked in the field. She dreamed of the harvest.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 0, "gender": "f", "sent": "Every farmer worked in the field before she dreamed of the harvest.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 0, "gender": "f", "sent": "Every farmer worked in the field. She dreamed of the harvest.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 0, "gender": "f", "sent": "No farmer worked in the field before she dreamed of the harvest.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 0, "gender": "f", "sent": "No farmer worked in the field. She dreamed of the harvest.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 0, "gender": "p", "sent": "A farmer worked in the field before they dreamed of the harvest.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 0, "gender": "p", "sent": "A farmer worked in the field. They dreamed of the harvest.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 0, "gender": "p", "sent": "Every farmer worked in the field before they dreamed of the harvest.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 0, "gender": "p", "sent": "Every farmer worked in the field. They dreamed of the harvest.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 0, "gender": "p", "sent": "No farmer worked in the field before they dreamed of the harvest.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 0, "gender": "p", "sent": "No farmer worked in the field. They dreamed of the harvest.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 1, "gender": "m", "sent": "A pirate sailed across the ocean before he laughed as the waves crashed around.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 1, "gender": "m", "sent": "A pirate sailed across the ocean. He laughed as the waves crashed around.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 1, "gender": "m", "sent": "Every pirate sailed across the ocean before he laughed as the waves crashed around.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 1, "gender": "m", "sent": "Every pirate sailed across the ocean. He laughed as the waves crashed around.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 1, "gender": "m", "sent": "No pirate sailed across the ocean before he laughed as the waves crashed around.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 1, "gender": "m", "sent": "No pirate sailed across the ocean. He laughed as the waves crashed around.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 1, "gender": "f", "sent": "A pirate sailed across the ocean before she laughed as the waves crashed around.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 1, "gender": "f", "sent": "A pirate sailed across the ocean. She laughed as the waves crashed around.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 1, "gender": "f", "sent": "Every pirate sailed across the ocean before she laughed as the waves crashed around.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 1, "gender": "f", "sent": "Every pirate sailed across the ocean. She laughed as the waves crashed around.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 1, "gender": "f", "sent": "No pirate sailed across the ocean before she laughed as the waves crashed around.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 1, "gender": "f", "sent": "No pirate sailed across the ocean. She laughed as the waves crashed around.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 1, "gender": "p", "sent": "A pirate sailed across the ocean before they laughed as the waves crashed around.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 1, "gender": "p", "sent": "A pirate sailed across the ocean. They laughed as the waves crashed around.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 1, "gender": "p", "sent": "Every pirate sailed across the ocean before they laughed as the waves crashed around.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 1, "gender": "p", "sent": "Every pirate sailed across the ocean. They laughed as the waves crashed around.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 1, "gender": "p", "sent": "No pirate sailed across the ocean before they laughed as the waves crashed around.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 1, "gender": "p", "sent": "No pirate sailed across the ocean. They laughed as the waves crashed around.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 2, "gender": "m", "sent": "A kid played in the park before he shouted with joy.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 2, "gender": "m", "sent": "A kid played in the park. He shouted with joy.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 2, "gender": "m", "sent": "Every kid played in the park before he shouted with joy.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 2, "gender": "m", "sent": "Every kid played in the park. He shouted with joy.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 2, "gender": "m", "sent": "No kid played in the park before he shouted with joy.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 2, "gender": "m", "sent": "No kid played in the park. He shouted with joy.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 2, "gender": "f", "sent": "A kid played in the park before she shouted with joy.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 2, "gender": "f", "sent": "A kid played in the park. She shouted with joy.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 2, "gender": "f", "sent": "Every kid played in the park before she shouted with joy.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 2, "gender": "f", "sent": "Every kid played in the park. She shouted with joy.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 2, "gender": "f", "sent": "No kid played in the park before she shouted with joy.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 2, "gender": "f", "sent": "No kid played in the park. She shouted with joy.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 2, "gender": "p", "sent": "A kid played in the park before they shouted with joy.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 2, "gender": "p", "sent": "A kid played in the park. They shouted with joy.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 2, "gender": "p", "sent": "Every kid played in the park before they shouted with joy.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 2, "gender": "p", "sent": "Every kid played in the park. They shouted with joy.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 2, "gender": "p", "sent": "No kid played in the park before they shouted with joy.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 2, "gender": "p", "sent": "No kid played in the park. They shouted with joy.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 3, "gender": "m", "sent": "A student studied in the library before he stared at the pages.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 3, "gender": "m", "sent": "A student studied in the library. He stared at the pages.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 3, "gender": "m", "sent": "Every student studied in the library before he stared at the pages.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 3, "gender": "m", "sent": "Every student studied in the library. He stared at the pages.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 3, "gender": "m", "sent": "No student studied in the library before he stared at the pages.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 3, "gender": "m", "sent": "No student studied in the library. He stared at the pages.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 3, "gender": "f", "sent": "A student studied in the library before she stared at the pages.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 3, "gender": "f", "sent": "A student studied in the library. She stared at the pages.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 3, "gender": "f", "sent": "Every student studied in the library before she stared at the pages.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 3, "gender": "f", "sent": "Every student studied in the library. She stared at the pages.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 3, "gender": "f", "sent": "No student studied in the library before she stared at the pages.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 3, "gender": "f", "sent": "No student studied in the library. She stared at the pages.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 3, "gender": "p", "sent": "A student studied in the library before they stared at the pages.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 3, "gender": "p", "sent": "A student studied in the library. They stared at the pages.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 3, "gender": "p", "sent": "Every student studied in the library before they stared at the pages.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 3, "gender": "p", "sent": "Every student studied in the library. They stared at the pages.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 3, "gender": "p", "sent": "No student studied in the library before they stared at the pages.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 3, "gender": "p", "sent": "No student studied in the library. They stared at the pages.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 4, "gender": "m", "sent": "A doctor waited in the hallway before he spoke to the nurse.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 4, "gender": "m", "sent": "A doctor waited in the hallway. He spoke to the nurse.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 4, "gender": "m", "sent": "Every doctor waited in the hallway before he spoke to the nurse.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 4, "gender": "m", "sent": "Every doctor waited in the hallway. He spoke to the nurse.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 4, "gender": "m", "sent": "No doctor waited in the hallway before he spoke to the nurse.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 4, "gender": "m", "sent": "No doctor waited in the hallway. He spoke to the nurse.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 4, "gender": "f", "sent": "A doctor waited in the hallway before she spoke to the nurse.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 4, "gender": "f", "sent": "A doctor waited in the hallway. She spoke to the nurse.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 4, "gender": "f", "sent": "Every doctor waited in the hallway before she spoke to the nurse.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 4, "gender": "f", "sent": "Every doctor waited in the hallway. She spoke to the nurse.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 4, "gender": "f", "sent": "No doctor waited in the hallway before she spoke to the nurse.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 4, "gender": "f", "sent": "No doctor waited in the hallway. She spoke to the nurse.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 4, "gender": "p", "sent": "A doctor waited in the hallway before they spoke to the nurse.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 4, "gender": "p", "sent": "A doctor waited in the hallway. They spoke to the nurse.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 4, "gender": "p", "sent": "Every doctor waited in the hallway before they spoke to the nurse.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 4, "gender": "p", "sent": "Every doctor waited in the hallway. They spoke to the nurse.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 4, "gender": "p", "sent": "No doctor waited in the hallway before they spoke to the nurse.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 4, "gender": "p", "sent": "No doctor waited in the hallway. They spoke to the nurse.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 5, "gender": "m", "sent": "A photographer stood by the fountain before he waited for the shot.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 5, "gender": "m", "sent": "A photographer stood by the fountain. He waited for the shot.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 5, "gender": "m", "sent": "Every photographer stood by the fountain before he waited for the shot.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 5, "gender": "m", "sent": "Every photographer stood by the fountain. He waited for the shot.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 5, "gender": "m", "sent": "No photographer stood by the fountain before he waited for the shot.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 5, "gender": "m", "sent": "No photographer stood by the fountain. He waited for the shot.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 5, "gender": "f", "sent": "A photographer stood by the fountain before she waited for the shot.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 5, "gender": "f", "sent": "A photographer stood by the fountain. She waited for the shot.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 5, "gender": "f", "sent": "Every photographer stood by the fountain before she waited for the shot.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 5, "gender": "f", "sent": "Every photographer stood by the fountain. She waited for the shot.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 5, "gender": "f", "sent": "No photographer stood by the fountain before she waited for the shot.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 5, "gender": "f", "sent": "No photographer stood by the fountain. She waited for the shot.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 5, "gender": "p", "sent": "A photographer stood by the fountain before they waited for the shot.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 5, "gender": "p", "sent": "A photographer stood by the fountain. They waited for the shot.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 5, "gender": "p", "sent": "Every photographer stood by the fountain before they waited for the shot.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 5, "gender": "p", "sent": "Every photographer stood by the fountain. They waited for the shot.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 5, "gender": "p", "sent": "No photographer stood by the fountain before they waited for the shot.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 5, "gender": "p", "sent": "No photographer stood by the fountain. They waited for the shot.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 6, "gender": "m", "sent": "A surgeon operated in the hospital before he cried from the weight of responsibility.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 6, "gender": "m", "sent": "A surgeon operated in the hospital. He cried from the weight of responsibility.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 6, "gender": "m", "sent": "Every surgeon operated in the hospital before he cried from the weight of responsibility.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 6, "gender": "m", "sent": "Every surgeon operated in the hospital. He cried from the weight of responsibility.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 6, "gender": "m", "sent": "No surgeon operated in the hospital before he cried from the weight of responsibility.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 6, "gender": "m", "sent": "No surgeon operated in the hospital. He cried from the weight of responsibility.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 6, "gender": "f", "sent": "A surgeon operated in the hospital before she cried from the weight of responsibility.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 6, "gender": "f", "sent": "A surgeon operated in the hospital. She cried from the weight of responsibility.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 6, "gender": "f", "sent": "Every surgeon operated in the hospital before she cried from the weight of responsibility.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 6, "gender": "f", "sent": "Every surgeon operated in the hospital. She cried from the weight of responsibility.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 6, "gender": "f", "sent": "No surgeon operated in the hospital before she cried from the weight of responsibility.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 6, "gender": "f", "sent": "No surgeon operated in the hospital. She cried from the weight of responsibility.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 6, "gender": "p", "sent": "A surgeon operated in the hospital before they cried from the weight of responsibility.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 6, "gender": "p", "sent": "A surgeon operated in the hospital. They cried from the weight of responsibility.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 6, "gender": "p", "sent": "Every surgeon operated in the hospital before they cried from the weight of responsibility.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 6, "gender": "p", "sent": "Every surgeon operated in the hospital. They cried from the weight of responsibility.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 6, "gender": "p", "sent": "No surgeon operated in the hospital before they cried from the weight of responsibility.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 6, "gender": "p", "sent": "No surgeon operated in the hospital. They cried from the weight of responsibility.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 7, "gender": "m", "sent": "An editor signed at the desk before he sighed at the workload.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 7, "gender": "m", "sent": "An editor signed at the desk. He sighed at the workload.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 7, "gender": "m", "sent": "Every editor signed at the desk before he sighed at the workload.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 7, "gender": "m", "sent": "Every editor signed at the desk. He sighed at the workload.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 7, "gender": "m", "sent": "No editor signed at the desk before he sighed at the workload.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 7, "gender": "m", "sent": "No editor signed at the desk. He sighed at the workload.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 7, "gender": "f", "sent": "An editor signed at the desk before she sighed at the workload.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 7, "gender": "f", "sent": "An editor signed at the desk. She sighed at the workload.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 7, "gender": "f", "sent": "Every editor signed at the desk before she sighed at the workload.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 7, "gender": "f", "sent": "Every editor signed at the desk. She sighed at the workload.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 7, "gender": "f", "sent": "No editor signed at the desk before she sighed at the workload.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 7, "gender": "f", "sent": "No editor signed at the desk. She sighed at the workload.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 7, "gender": "p", "sent": "An editor signed at the desk before they sighed at the workload.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 7, "gender": "p", "sent": "An editor signed at the desk. They sighed at the workload.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 7, "gender": "p", "sent": "Every editor signed at the desk before they sighed at the workload.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 7, "gender": "p", "sent": "Every editor signed at the desk. They sighed at the workload.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 7, "gender": "p", "sent": "No editor signed at the desk before they sighed at the workload.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 7, "gender": "p", "sent": "No editor signed at the desk. They sighed at the workload.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 8, "gender": "m", "sent": "A chef cooked in the kitchen before he danced to the background music.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 8, "gender": "m", "sent": "A chef cooked in the kitchen. He danced to the background music.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 8, "gender": "m", "sent": "Every chef cooked in the kitchen before he danced to the background music.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 8, "gender": "m", "sent": "Every chef cooked in the kitchen. He danced to the background music.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 8, "gender": "m", "sent": "No chef cooked in the kitchen before he danced to the background music.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 8, "gender": "m", "sent": "No chef cooked in the kitchen. He danced to the background music.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 8, "gender": "f", "sent": "A chef cooked in the kitchen before she danced to the background music.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 8, "gender": "f", "sent": "A chef cooked in the kitchen. She danced to the background music.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 8, "gender": "f", "sent": "Every chef cooked in the kitchen before she danced to the background music.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 8, "gender": "f", "sent": "Every chef cooked in the kitchen. She danced to the background music.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 8, "gender": "f", "sent": "No chef cooked in the kitchen before she danced to the background music.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 8, "gender": "f", "sent": "No chef cooked in the kitchen. She danced to the background music.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 8, "gender": "p", "sent": "A chef cooked in the kitchen before they danced to the background music.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 8, "gender": "p", "sent": "A chef cooked in the kitchen. They danced to the background music.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 8, "gender": "p", "sent": "Every chef cooked in the kitchen before they danced to the background music.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 8, "gender": "p", "sent": "Every chef cooked in the kitchen. They danced to the background music.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 8, "gender": "p", "sent": "No chef cooked in the kitchen before they danced to the background music.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 8, "gender": "p", "sent": "No chef cooked in the kitchen. They danced to the background music.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 9, "gender": "m", "sent": "A hunter hid in the bushes before he listened for footsteps.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 9, "gender": "m", "sent": "A hunter hid in the bushes. He listened for footsteps.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 9, "gender": "m", "sent": "Every hunter hid in the bushes before he listened for footsteps.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 9, "gender": "m", "sent": "Every hunter hid in the bushes. He listened for footsteps.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 9, "gender": "m", "sent": "No hunter hid in the bushes before he listened for footsteps.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 9, "gender": "m", "sent": "No hunter hid in the bushes. He listened for footsteps.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 9, "gender": "f", "sent": "A hunter hid in the bushes before she listened for footsteps.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 9, "gender": "f", "sent": "A hunter hid in the bushes. She listened for footsteps.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 9, "gender": "f", "sent": "Every hunter hid in the bushes before she listened for footsteps.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 9, "gender": "f", "sent": "Every hunter hid in the bushes. She listened for footsteps.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 9, "gender": "f", "sent": "No hunter hid in the bushes before she listened for footsteps.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 9, "gender": "f", "sent": "No hunter hid in the bushes. She listened for footsteps.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 9, "gender": "p", "sent": "A hunter hid in the bushes before they listened for footsteps.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 9, "gender": "p", "sent": "A hunter hid in the bushes. They listened for footsteps.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 9, "gender": "p", "sent": "Every hunter hid in the bushes before they listened for footsteps.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 9, "gender": "p", "sent": "Every hunter hid in the bushes. They listened for footsteps.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 9, "gender": "p", "sent": "No hunter hid in the bushes before they listened for footsteps.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 9, "gender": "p", "sent": "No hunter hid in the bushes. They listened for footsteps.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 10, "gender": "m", "sent": "A player rested on the bench before he cheered for the team.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 10, "gender": "m", "sent": "A player rested on the bench. He cheered for the team.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 10, "gender": "m", "sent": "Every player rested on the bench before he cheered for the team.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 10, "gender": "m", "sent": "Every player rested on the bench. He cheered for the team.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 10, "gender": "m", "sent": "No player rested on the bench before he cheered for the team.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 10, "gender": "m", "sent": "No player rested on the bench. He cheered for the team.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 10, "gender": "f", "sent": "A player rested on the bench before she cheered for the team.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 10, "gender": "f", "sent": "A player rested on the bench. She cheered for the team.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 10, "gender": "f", "sent": "Every player rested on the bench before she cheered for the team.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 10, "gender": "f", "sent": "Every player rested on the bench. She cheered for the team.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 10, "gender": "f", "sent": "No player rested on the bench before she cheered for the team.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 10, "gender": "f", "sent": "No player rested on the bench. She cheered for the team.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 10, "gender": "p", "sent": "A player rested on the bench before they cheered for the team.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 10, "gender": "p", "sent": "A player rested on the bench. They cheered for the team.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 10, "gender": "p", "sent": "Every player rested on the bench before they cheered for the team.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 10, "gender": "p", "sent": "Every player rested on the bench. They cheered for the team.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 10, "gender": "p", "sent": "No player rested on the bench before they cheered for the team.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 10, "gender": "p", "sent": "No player rested on the bench. They cheered for the team.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 11, "gender": "m", "sent": "A police stood by the intersection before he waved at the cars.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 11, "gender": "m", "sent": "A police stood by the intersection. He waved at the cars.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 11, "gender": "m", "sent": "Every police stood by the intersection before he waved at the cars.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 11, "gender": "m", "sent": "Every police stood by the intersection. He waved at the cars.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 11, "gender": "m", "sent": "No police stood by the intersection before he waved at the cars.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 11, "gender": "m", "sent": "No police stood by the intersection. He waved at the cars.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 11, "gender": "f", "sent": "A police stood by the intersection before she waved at the cars.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 11, "gender": "f", "sent": "A police stood by the intersection. She waved at the cars.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 11, "gender": "f", "sent": "Every police stood by the intersection before she waved at the cars.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 11, "gender": "f", "sent": "Every police stood by the intersection. She waved at the cars.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 11, "gender": "f", "sent": "No police stood by the intersection before she waved at the cars.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 11, "gender": "f", "sent": "No police stood by the intersection. She waved at the cars.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 11, "gender": "p", "sent": "A police stood by the intersection before they waved at the cars.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 11, "gender": "p", "sent": "A police stood by the intersection. They waved at the cars.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 11, "gender": "p", "sent": "Every police stood by the intersection before they waved at the cars.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 11, "gender": "p", "sent": "Every police stood by the intersection. They waved at the cars.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 11, "gender": "p", "sent": "No police stood by the intersection before they waved at the cars.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 11, "gender": "p", "sent": "No police stood by the intersection. They waved at the cars.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 12, "gender": "m", "sent": "A researcher hesitated before an experiment before he wandered through the notes.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 12, "gender": "m", "sent": "A researcher hesitated before an experiment. He wandered through the notes.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 12, "gender": "m", "sent": "Every researcher hesitated before an experiment before he wandered through the notes.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 12, "gender": "m", "sent": "Every researcher hesitated before an experiment. He wandered through the notes.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 12, "gender": "m", "sent": "No researcher hesitated before an experiment before he wandered through the notes.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 12, "gender": "m", "sent": "No researcher hesitated before an experiment. He wandered through the notes.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 12, "gender": "f", "sent": "A researcher hesitated before an experiment before she wandered through the notes.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 12, "gender": "f", "sent": "A researcher hesitated before an experiment. She wandered through the notes.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 12, "gender": "f", "sent": "Every researcher hesitated before an experiment before she wandered through the notes.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 12, "gender": "f", "sent": "Every researcher hesitated before an experiment. She wandered through the notes.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 12, "gender": "f", "sent": "No researcher hesitated before an experiment before she wandered through the notes.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 12, "gender": "f", "sent": "No researcher hesitated before an experiment. She wandered through the notes.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 12, "gender": "p", "sent": "A researcher hesitated before an experiment before they wandered through the notes.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 12, "gender": "p", "sent": "A researcher hesitated before an experiment. They wandered through the notes.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 12, "gender": "p", "sent": "Every researcher hesitated before an experiment before they wandered through the notes.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 12, "gender": "p", "sent": "Every researcher hesitated before an experiment. They wandered through the notes.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 12, "gender": "p", "sent": "No researcher hesitated before an experiment before they wandered through the notes.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 12, "gender": "p", "sent": "No researcher hesitated before an experiment. They wandered through the notes.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 13, "gender": "m", "sent": "A worker stretched during a break before he stumbled on the floor.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 13, "gender": "m", "sent": "A worker stretched during a break. He stumbled on the floor.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 13, "gender": "m", "sent": "Every worker stretched during a break before he stumbled on the floor.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 13, "gender": "m", "sent": "Every worker stretched during a break. He stumbled on the floor.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 13, "gender": "m", "sent": "No worker stretched during a break before he stumbled on the floor.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 13, "gender": "m", "sent": "No worker stretched during a break. He stumbled on the floor.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 13, "gender": "f", "sent": "A worker stretched during a break before she stumbled on the floor.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 13, "gender": "f", "sent": "A worker stretched during a break. She stumbled on the floor.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 13, "gender": "f", "sent": "Every worker stretched during a break before she stumbled on the floor.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 13, "gender": "f", "sent": "Every worker stretched during a break. She stumbled on the floor.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 13, "gender": "f", "sent": "No worker stretched during a break before she stumbled on the floor.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 13, "gender": "f", "sent": "No worker stretched during a break. She stumbled on the floor.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 13, "gender": "p", "sent": "A worker stretched during a break before they stumbled on the floor.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 13, "gender": "p", "sent": "A worker stretched during a break. They stumbled on the floor.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 13, "gender": "p", "sent": "Every worker stretched during a break before they stumbled on the floor.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 13, "gender": "p", "sent": "Every worker stretched during a break. They stumbled on the floor.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 13, "gender": "p", "sent": "No worker stretched during a break before they stumbled on the floor.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 13, "gender": "p", "sent": "No worker stretched during a break. They stumbled on the floor.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 14, "gender": "m", "sent": "A teacher paused before answering before he sat back to consider the question.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 14, "gender": "m", "sent": "A teacher paused before answering. He sat back to consider the question.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 14, "gender": "m", "sent": "Every teacher paused before answering before he sat back to consider the question.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 14, "gender": "m", "sent": "Every teacher paused before answering. He sat back to consider the question.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 14, "gender": "m", "sent": "No teacher paused before answering before he sat back to consider the question.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 14, "gender": "m", "sent": "No teacher paused before answering. He sat back to consider the question.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 14, "gender": "f", "sent": "A teacher paused before answering before she sat back to consider the question.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 14, "gender": "f", "sent": "A teacher paused before answering. She sat back to consider the question.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 14, "gender": "f", "sent": "Every teacher paused before answering before she sat back to consider the question.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 14, "gender": "f", "sent": "Every teacher paused before answering. She sat back to consider the question.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 14, "gender": "f", "sent": "No teacher paused before answering before she sat back to consider the question.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 14, "gender": "f", "sent": "No teacher paused before answering. She sat back to consider the question.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 14, "gender": "p", "sent": "A teacher paused before answering before they sat back to consider the question.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 14, "gender": "p", "sent": "A teacher paused before answering. They sat back to consider the question.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 14, "gender": "p", "sent": "Every teacher paused before answering before they sat back to consider the question.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 14, "gender": "p", "sent": "Every teacher paused before answering. They sat back to consider the question.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 14, "gender": "p", "sent": "No teacher paused before answering before they sat back to consider the question.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 14, "gender": "p", "sent": "No teacher paused before answering. They sat back to consider the question.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 15, "gender": "m", "sent": "A customer browsed through the store before he paused at the shelf.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 15, "gender": "m", "sent": "A customer browsed through the store. He paused at the shelf.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 15, "gender": "m", "sent": "Every customer browsed through the store before he paused at the shelf.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 15, "gender": "m", "sent": "Every customer browsed through the store. He paused at the shelf.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 15, "gender": "m", "sent": "No customer browsed through the store before he paused at the shelf.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 15, "gender": "m", "sent": "No customer browsed through the store. He paused at the shelf.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 15, "gender": "f", "sent": "A customer browsed through the store before she paused at the shelf.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 15, "gender": "f", "sent": "A customer browsed through the store. She paused at the shelf.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 15, "gender": "f", "sent": "Every customer browsed through the store before she paused at the shelf.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 15, "gender": "f", "sent": "Every customer browsed through the store. She paused at the shelf.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 15, "gender": "f", "sent": "No customer browsed through the store before she paused at the shelf.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 15, "gender": "f", "sent": "No customer browsed through the store. She paused at the shelf.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 15, "gender": "p", "sent": "A customer browsed through the store before they paused at the shelf.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 15, "gender": "p", "sent": "A customer browsed through the store. They paused at the shelf.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 15, "gender": "p", "sent": "Every customer browsed through the store before they paused at the shelf.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 15, "gender": "p", "sent": "Every customer browsed through the store. They paused at the shelf.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 15, "gender": "p", "sent": "No customer browsed through the store before they paused at the shelf.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 15, "gender": "p", "sent": "No customer browsed through the store. They paused at the shelf.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 16, "gender": "m", "sent": "An athlete trained at the gym before he breathed heavily to maintain focus.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 16, "gender": "m", "sent": "An athlete trained at the gym. He breathed heavily to maintain focus.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 16, "gender": "m", "sent": "Every athlete trained at the gym before he breathed heavily to maintain focus.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 16, "gender": "m", "sent": "Every athlete trained at the gym. He breathed heavily to maintain focus.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 16, "gender": "m", "sent": "No athlete trained at the gym before he breathed heavily to maintain focus.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 16, "gender": "m", "sent": "No athlete trained at the gym. He breathed heavily to maintain focus.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 16, "gender": "f", "sent": "An athlete trained at the gym before she breathed heavily to maintain focus.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 16, "gender": "f", "sent": "An athlete trained at the gym. She breathed heavily to maintain focus.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 16, "gender": "f", "sent": "Every athlete trained at the gym before she breathed heavily to maintain focus.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 16, "gender": "f", "sent": "Every athlete trained at the gym. She breathed heavily to maintain focus.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 16, "gender": "f", "sent": "No athlete trained at the gym before she breathed heavily to maintain focus.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 16, "gender": "f", "sent": "No athlete trained at the gym. She breathed heavily to maintain focus.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 16, "gender": "p", "sent": "An athlete trained at the gym before they breathed heavily to maintain focus.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 16, "gender": "p", "sent": "An athlete trained at the gym. They breathed heavily to maintain focus.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 16, "gender": "p", "sent": "Every athlete trained at the gym before they breathed heavily to maintain focus.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 16, "gender": "p", "sent": "Every athlete trained at the gym. They breathed heavily to maintain focus.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 16, "gender": "p", "sent": "No athlete trained at the gym before they breathed heavily to maintain focus.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 16, "gender": "p", "sent": "No athlete trained at the gym. They breathed heavily to maintain focus.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 17, "gender": "m", "sent": "A professor lectured in the classroom before he wrote equations on the board.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 17, "gender": "m", "sent": "A professor lectured in the classroom. He wrote equations on the board.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 17, "gender": "m", "sent": "Every professor lectured in the classroom before he wrote equations on the board.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 17, "gender": "m", "sent": "Every professor lectured in the classroom. He wrote equations on the board.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 17, "gender": "m", "sent": "No professor lectured in the classroom before he wrote equations on the board.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 17, "gender": "m", "sent": "No professor lectured in the classroom. He wrote equations on the board.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 17, "gender": "f", "sent": "A professor lectured in the classroom before she wrote equations on the board.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 17, "gender": "f", "sent": "A professor lectured in the classroom. She wrote equations on the board.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 17, "gender": "f", "sent": "Every professor lectured in the classroom before she wrote equations on the board.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 17, "gender": "f", "sent": "Every professor lectured in the classroom. She wrote equations on the board.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 17, "gender": "f", "sent": "No professor lectured in the classroom before she wrote equations on the board.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 17, "gender": "f", "sent": "No professor lectured in the classroom. She wrote equations on the board.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 17, "gender": "p", "sent": "A professor lectured in the classroom before they wrote equations on the board.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 17, "gender": "p", "sent": "A professor lectured in the classroom. They wrote equations on the board.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 17, "gender": "p", "sent": "Every professor lectured in the classroom before they wrote equations on the board.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 17, "gender": "p", "sent": "Every professor lectured in the classroom. They wrote equations on the board.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 17, "gender": "p", "sent": "No professor lectured in the classroom before they wrote equations on the board.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 17, "gender": "p", "sent": "No professor lectured in the classroom. They wrote equations on the board.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 18, "gender": "m", "sent": "An administrator paced in the office before he gestured while speaking.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 18, "gender": "m", "sent": "An administrator paced in the office. He gestured while speaking.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 18, "gender": "m", "sent": "Every administrator paced in the office before he gestured while speaking.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 18, "gender": "m", "sent": "Every administrator paced in the office. He gestured while speaking.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 18, "gender": "m", "sent": "No administrator paced in the office before he gestured while speaking.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 18, "gender": "m", "sent": "No administrator paced in the office. He gestured while speaking.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 18, "gender": "f", "sent": "An administrator paced in the office before she gestured while speaking.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 18, "gender": "f", "sent": "An administrator paced in the office. She gestured while speaking.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 18, "gender": "f", "sent": "Every administrator paced in the office before she gestured while speaking.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 18, "gender": "f", "sent": "Every administrator paced in the office. She gestured while speaking.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 18, "gender": "f", "sent": "No administrator paced in the office before she gestured while speaking.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 18, "gender": "f", "sent": "No administrator paced in the office. She gestured while speaking.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 18, "gender": "p", "sent": "An administrator paced in the office before they gestured while speaking.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 18, "gender": "p", "sent": "An administrator paced in the office. They gestured while speaking.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 18, "gender": "p", "sent": "Every administrator paced in the office before they gestured while speaking.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 18, "gender": "p", "sent": "Every administrator paced in the office. They gestured while speaking.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 18, "gender": "p", "sent": "No administrator paced in the office before they gestured while speaking.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 18, "gender": "p", "sent": "No administrator paced in the office. They gestured while speaking.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 19, "gender": "m", "sent": "A server hurried across the dining room before he smiled at the guests.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 19, "gender": "m", "sent": "A server hurried across the dining room. He smiled at the guests.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 19, "gender": "m", "sent": "Every server hurried across the dining room before he smiled at the guests.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 19, "gender": "m", "sent": "Every server hurried across the dining room. He smiled at the guests.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 19, "gender": "m", "sent": "No server hurried across the dining room before he smiled at the guests.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 19, "gender": "m", "sent": "No server hurried across the dining room. He smiled at the guests.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 19, "gender": "f", "sent": "A server hurried across the dining room before she smiled at the guests.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 19, "gender": "f", "sent": "A server hurried across the dining room. She smiled at the guests.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 19, "gender": "f", "sent": "Every server hurried across the dining room before she smiled at the guests.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 19, "gender": "f", "sent": "Every server hurried across the dining room. She smiled at the guests.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 19, "gender": "f", "sent": "No server hurried across the dining room before she smiled at the guests.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 19, "gender": "f", "sent": "No server hurried across the dining room. She smiled at the guests.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 19, "gender": "p", "sent": "A server hurried across the dining room before they smiled at the guests.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 19, "gender": "p", "sent": "A server hurried across the dining room. They smiled at the guests.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 19, "gender": "p", "sent": "Every server hurried across the dining room before they smiled at the guests.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 19, "gender": "p", "sent": "Every server hurried across the dining room. They smiled at the guests.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 19, "gender": "p", "sent": "No server hurried across the dining room before they smiled at the guests.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 19, "gender": "p", "sent": "No server hurried across the dining room. They smiled at the guests.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 20, "gender": "m", "sent": "A director paused between takes before he nodded at the actors.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 20, "gender": "m", "sent": "A director paused between takes. He nodded at the actors.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 20, "gender": "m", "sent": "Every director paused between takes before he nodded at the actors.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 20, "gender": "m", "sent": "Every director paused between takes. He nodded at the actors.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 20, "gender": "m", "sent": "No director paused between takes before he nodded at the actors.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 20, "gender": "m", "sent": "No director paused between takes. He nodded at the actors.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 20, "gender": "f", "sent": "A director paused between takes before she nodded at the actors.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 20, "gender": "f", "sent": "A director paused between takes. She nodded at the actors.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 20, "gender": "f", "sent": "Every director paused between takes before she nodded at the actors.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 20, "gender": "f", "sent": "Every director paused between takes. She nodded at the actors.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 20, "gender": "f", "sent": "No director paused between takes before she nodded at the actors.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 20, "gender": "f", "sent": "No director paused between takes. She nodded at the actors.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 20, "gender": "p", "sent": "A director paused between takes before they nodded at the actors.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 20, "gender": "p", "sent": "A director paused between takes. They nodded at the actors.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 20, "gender": "p", "sent": "Every director paused between takes before they nodded at the actors.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 20, "gender": "p", "sent": "Every director paused between takes. They nodded at the actors.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 20, "gender": "p", "sent": "No director paused between takes before they nodded at the actors.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 20, "gender": "p", "sent": "No director paused between takes. They nodded at the actors.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 21, "gender": "m", "sent": "A designer sketched on a tablet before he persisted to perfect the lines.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 21, "gender": "m", "sent": "A designer sketched on a tablet. He persisted to perfect the lines.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 21, "gender": "m", "sent": "Every designer sketched on a tablet before he persisted to perfect the lines.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 21, "gender": "m", "sent": "Every designer sketched on a tablet. He persisted to perfect the lines.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 21, "gender": "m", "sent": "No designer sketched on a tablet before he persisted to perfect the lines.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 21, "gender": "m", "sent": "No designer sketched on a tablet. He persisted to perfect the lines.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 21, "gender": "f", "sent": "A designer sketched on a tablet before she persisted to perfect the lines.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 21, "gender": "f", "sent": "A designer sketched on a tablet. She persisted to perfect the lines.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 21, "gender": "f", "sent": "Every designer sketched on a tablet before she persisted to perfect the lines.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 21, "gender": "f", "sent": "Every designer sketched on a tablet. She persisted to perfect the lines.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 21, "gender": "f", "sent": "No designer sketched on a tablet before she persisted to perfect the lines.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 21, "gender": "f", "sent": "No designer sketched on a tablet. She persisted to perfect the lines.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 21, "gender": "p", "sent": "A designer sketched on a tablet before they persisted to perfect the lines.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 21, "gender": "p", "sent": "A designer sketched on a tablet. They persisted to perfect the lines.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 21, "gender": "p", "sent": "Every designer sketched on a tablet before they persisted to perfect the lines.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 21, "gender": "p", "sent": "Every designer sketched on a tablet. They persisted to perfect the lines.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 21, "gender": "p", "sent": "No designer sketched on a tablet before they persisted to perfect the lines.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 21, "gender": "p", "sent": "No designer sketched on a tablet. They persisted to perfect the lines.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 22, "gender": "m", "sent": "A traveler wandered through the streets before he jumped over the puddle.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 22, "gender": "m", "sent": "A traveler wandered through the streets. He jumped over the puddle.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 22, "gender": "m", "sent": "Every traveler wandered through the streets before he jumped over the puddle.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 22, "gender": "m", "sent": "Every traveler wandered through the streets. He jumped over the puddle.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 22, "gender": "m", "sent": "No traveler wandered through the streets before he jumped over the puddle.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 22, "gender": "m", "sent": "No traveler wandered through the streets. He jumped over the puddle.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 22, "gender": "f", "sent": "A traveler wandered through the streets before she jumped over the puddle.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 22, "gender": "f", "sent": "A traveler wandered through the streets. She jumped over the puddle.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 22, "gender": "f", "sent": "Every traveler wandered through the streets before she jumped over the puddle.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 22, "gender": "f", "sent": "Every traveler wandered through the streets. She jumped over the puddle.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 22, "gender": "f", "sent": "No traveler wandered through the streets before she jumped over the puddle.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 22, "gender": "f", "sent": "No traveler wandered through the streets. She jumped over the puddle.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 22, "gender": "p", "sent": "A traveler wandered through the streets before they jumped over the puddle.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 22, "gender": "p", "sent": "A traveler wandered through the streets. They jumped over the puddle.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 22, "gender": "p", "sent": "Every traveler wandered through the streets before they jumped over the puddle.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 22, "gender": "p", "sent": "Every traveler wandered through the streets. They jumped over the puddle.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 22, "gender": "p", "sent": "No traveler wandered through the streets before they jumped over the puddle.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 22, "gender": "p", "sent": "No traveler wandered through the streets. They jumped over the puddle.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 23, "gender": "m", "sent": "A developer coded in a cafe before he typed rapidly to meet the deadline.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 23, "gender": "m", "sent": "A developer coded in a cafe. He typed rapidly to meet the deadline.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 23, "gender": "m", "sent": "Every developer coded in a cafe before he typed rapidly to meet the deadline.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 23, "gender": "m", "sent": "Every developer coded in a cafe. He typed rapidly to meet the deadline.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 23, "gender": "m", "sent": "No developer coded in a cafe before he typed rapidly to meet the deadline.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 23, "gender": "m", "sent": "No developer coded in a cafe. He typed rapidly to meet the deadline.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 23, "gender": "f", "sent": "A developer coded in a cafe before she typed rapidly to meet the deadline.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 23, "gender": "f", "sent": "A developer coded in a cafe. She typed rapidly to meet the deadline.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 23, "gender": "f", "sent": "Every developer coded in a cafe before she typed rapidly to meet the deadline.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 23, "gender": "f", "sent": "Every developer coded in a cafe. She typed rapidly to meet the deadline.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 23, "gender": "f", "sent": "No developer coded in a cafe before she typed rapidly to meet the deadline.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 23, "gender": "f", "sent": "No developer coded in a cafe. She typed rapidly to meet the deadline.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 23, "gender": "p", "sent": "A developer coded in a cafe before they typed rapidly to meet the deadline.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 23, "gender": "p", "sent": "A developer coded in a cafe. They typed rapidly to meet the deadline.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 23, "gender": "p", "sent": "Every developer coded in a cafe before they typed rapidly to meet the deadline.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 23, "gender": "p", "sent": "Every developer coded in a cafe. They typed rapidly to meet the deadline.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 23, "gender": "p", "sent": "No developer coded in a cafe before they typed rapidly to meet the deadline.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 23, "gender": "p", "sent": "No developer coded in a cafe. They typed rapidly to meet the deadline.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 24, "gender": "m", "sent": "A manufacturer assembled a chair before he counted the screws.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 24, "gender": "m", "sent": "A manufacturer assembled a chair. He counted the screws.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 24, "gender": "m", "sent": "Every manufacturer assembled a chair before he counted the screws.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 24, "gender": "m", "sent": "Every manufacturer assembled a chair. He counted the screws.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 24, "gender": "m", "sent": "No manufacturer assembled a chair before he counted the screws.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 24, "gender": "m", "sent": "No manufacturer assembled a chair. He counted the screws.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 24, "gender": "f", "sent": "A manufacturer assembled a chair before she counted the screws.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 24, "gender": "f", "sent": "A manufacturer assembled a chair. She counted the screws.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 24, "gender": "f", "sent": "Every manufacturer assembled a chair before she counted the screws.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 24, "gender": "f", "sent": "Every manufacturer assembled a chair. She counted the screws.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 24, "gender": "f", "sent": "No manufacturer assembled a chair before she counted the screws.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 24, "gender": "f", "sent": "No manufacturer assembled a chair. She counted the screws.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 24, "gender": "p", "sent": "A manufacturer assembled a chair before they counted the screws.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 24, "gender": "p", "sent": "A manufacturer assembled a chair. They counted the screws.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 24, "gender": "p", "sent": "Every manufacturer assembled a chair before they counted the screws.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 24, "gender": "p", "sent": "Every manufacturer assembled a chair. They counted the screws.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 24, "gender": "p", "sent": "No manufacturer assembled a chair before they counted the screws.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 24, "gender": "p", "sent": "No manufacturer assembled a chair. They counted the screws.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 25, "gender": "m", "sent": "A manager relaxed after the meeting before he stretched to relieve tension.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 25, "gender": "m", "sent": "A manager relaxed after the meeting. He stretched to relieve tension.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 25, "gender": "m", "sent": "Every manager relaxed after the meeting before he stretched to relieve tension.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 25, "gender": "m", "sent": "Every manager relaxed after the meeting. He stretched to relieve tension.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 25, "gender": "m", "sent": "No manager relaxed after the meeting before he stretched to relieve tension.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 25, "gender": "m", "sent": "No manager relaxed after the meeting. He stretched to relieve tension.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 25, "gender": "f", "sent": "A manager relaxed after the meeting before she stretched to relieve tension.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 25, "gender": "f", "sent": "A manager relaxed after the meeting. She stretched to relieve tension.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 25, "gender": "f", "sent": "Every manager relaxed after the meeting before she stretched to relieve tension.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 25, "gender": "f", "sent": "Every manager relaxed after the meeting. She stretched to relieve tension.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 25, "gender": "f", "sent": "No manager relaxed after the meeting before she stretched to relieve tension.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 25, "gender": "f", "sent": "No manager relaxed after the meeting. She stretched to relieve tension.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 25, "gender": "p", "sent": "A manager relaxed after the meeting before they stretched to relieve tension.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 25, "gender": "p", "sent": "A manager relaxed after the meeting. They stretched to relieve tension.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 25, "gender": "p", "sent": "Every manager relaxed after the meeting before they stretched to relieve tension.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 25, "gender": "p", "sent": "Every manager relaxed after the meeting. They stretched to relieve tension.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 25, "gender": "p", "sent": "No manager relaxed after the meeting before they stretched to relieve tension.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 25, "gender": "p", "sent": "No manager relaxed after the meeting. They stretched to relieve tension.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 26, "gender": "m", "sent": "An instructor balanced on one leg before he fell onto the mat.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 26, "gender": "m", "sent": "An instructor balanced on one leg. He fell onto the mat.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 26, "gender": "m", "sent": "Every instructor balanced on one leg before he fell onto the mat.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 26, "gender": "m", "sent": "Every instructor balanced on one leg. He fell onto the mat.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 26, "gender": "m", "sent": "No instructor balanced on one leg before he fell onto the mat.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 26, "gender": "m", "sent": "No instructor balanced on one leg. He fell onto the mat.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 26, "gender": "f", "sent": "An instructor balanced on one leg before she fell onto the mat.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 26, "gender": "f", "sent": "An instructor balanced on one leg. She fell onto the mat.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 26, "gender": "f", "sent": "Every instructor balanced on one leg before she fell onto the mat.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 26, "gender": "f", "sent": "Every instructor balanced on one leg. She fell onto the mat.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 26, "gender": "f", "sent": "No instructor balanced on one leg before she fell onto the mat.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 26, "gender": "f", "sent": "No instructor balanced on one leg. She fell onto the mat.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 26, "gender": "p", "sent": "An instructor balanced on one leg before they fell onto the mat.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 26, "gender": "p", "sent": "An instructor balanced on one leg. They fell onto the mat.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 26, "gender": "p", "sent": "Every instructor balanced on one leg before they fell onto the mat.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 26, "gender": "p", "sent": "Every instructor balanced on one leg. They fell onto the mat.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 26, "gender": "p", "sent": "No instructor balanced on one leg before they fell onto the mat.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 26, "gender": "p", "sent": "No instructor balanced on one leg. They fell onto the mat.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 27, "gender": "m", "sent": "A lawyer waved before speaking before he rose from the chair.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 27, "gender": "m", "sent": "A lawyer waved before speaking. He rose from the chair.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 27, "gender": "m", "sent": "Every lawyer waved before speaking before he rose from the chair.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 27, "gender": "m", "sent": "Every lawyer waved before speaking. He rose from the chair.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 27, "gender": "m", "sent": "No lawyer waved before speaking before he rose from the chair.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 27, "gender": "m", "sent": "No lawyer waved before speaking. He rose from the chair.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 27, "gender": "f", "sent": "A lawyer waved before speaking before she rose from the chair.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 27, "gender": "f", "sent": "A lawyer waved before speaking. She rose from the chair.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 27, "gender": "f", "sent": "Every lawyer waved before speaking before she rose from the chair.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 27, "gender": "f", "sent": "Every lawyer waved before speaking. She rose from the chair.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 27, "gender": "f", "sent": "No lawyer waved before speaking before she rose from the chair.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 27, "gender": "f", "sent": "No lawyer waved before speaking. She rose from the chair.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 27, "gender": "p", "sent": "A lawyer waved before speaking before they rose from the chair.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 27, "gender": "p", "sent": "A lawyer waved before speaking. They rose from the chair.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 27, "gender": "p", "sent": "Every lawyer waved before speaking before they rose from the chair.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 27, "gender": "p", "sent": "Every lawyer waved before speaking. They rose from the chair.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 27, "gender": "p", "sent": "No lawyer waved before speaking before they rose from the chair.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 27, "gender": "p", "sent": "No lawyer waved before speaking. They rose from the chair.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 28, "gender": "m", "sent": "A warrior trained in the courtyard before he crawled under the beam.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 28, "gender": "m", "sent": "A warrior trained in the courtyard. He crawled under the beam.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 28, "gender": "m", "sent": "Every warrior trained in the courtyard before he crawled under the beam.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 28, "gender": "m", "sent": "Every warrior trained in the courtyard. He crawled under the beam.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 28, "gender": "m", "sent": "No warrior trained in the courtyard before he crawled under the beam.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 28, "gender": "m", "sent": "No warrior trained in the courtyard. He crawled under the beam.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 28, "gender": "f", "sent": "A warrior trained in the courtyard before she crawled under the beam.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 28, "gender": "f", "sent": "A warrior trained in the courtyard. She crawled under the beam.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 28, "gender": "f", "sent": "Every warrior trained in the courtyard before she crawled under the beam.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 28, "gender": "f", "sent": "Every warrior trained in the courtyard. She crawled under the beam.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 28, "gender": "f", "sent": "No warrior trained in the courtyard before she crawled under the beam.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 28, "gender": "f", "sent": "No warrior trained in the courtyard. She crawled under the beam.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 28, "gender": "p", "sent": "A warrior trained in the courtyard before they crawled under the beam.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 28, "gender": "p", "sent": "A warrior trained in the courtyard. They crawled under the beam.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 28, "gender": "p", "sent": "Every warrior trained in the courtyard before they crawled under the beam.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 28, "gender": "p", "sent": "Every warrior trained in the courtyard. They crawled under the beam.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 28, "gender": "p", "sent": "No warrior trained in the courtyard before they crawled under the beam.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 28, "gender": "p", "sent": "No warrior trained in the courtyard. They crawled under the beam.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 29, "gender": "m", "sent": "An entrepreneur leaned against the wall before he rested to regain energy.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 29, "gender": "m", "sent": "An entrepreneur leaned against the wall. He rested to regain energy.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 29, "gender": "m", "sent": "Every entrepreneur leaned against the wall before he rested to regain energy.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 29, "gender": "m", "sent": "Every entrepreneur leaned against the wall. He rested to regain energy.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 29, "gender": "m", "sent": "No entrepreneur leaned against the wall before he rested to regain energy.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 29, "gender": "m", "sent": "No entrepreneur leaned against the wall. He rested to regain energy.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 29, "gender": "f", "sent": "An entrepreneur leaned against the wall before she rested to regain energy.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 29, "gender": "f", "sent": "An entrepreneur leaned against the wall. She rested to regain energy.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 29, "gender": "f", "sent": "Every entrepreneur leaned against the wall before she rested to regain energy.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 29, "gender": "f", "sent": "Every entrepreneur leaned against the wall. She rested to regain energy.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 29, "gender": "f", "sent": "No entrepreneur leaned against the wall before she rested to regain energy.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 29, "gender": "f", "sent": "No entrepreneur leaned against the wall. She rested to regain energy.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 29, "gender": "p", "sent": "An entrepreneur leaned against the wall before they rested to regain energy.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 29, "gender": "p", "sent": "An entrepreneur leaned against the wall. They rested to regain energy.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 29, "gender": "p", "sent": "Every entrepreneur leaned against the wall before they rested to regain energy.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 29, "gender": "p", "sent": "Every entrepreneur leaned against the wall. They rested to regain energy.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 29, "gender": "p", "sent": "No entrepreneur leaned against the wall before they rested to regain energy.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 29, "gender": "p", "sent": "No entrepreneur leaned against the wall. They rested to regain energy.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 30, "gender": "m", "sent": "A pilot sat in the helicopter before he focused on the controls.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 30, "gender": "m", "sent": "A pilot sat in the helicopter. He focused on the controls.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 30, "gender": "m", "sent": "Every pilot sat in the helicopter before he focused on the controls.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 30, "gender": "m", "sent": "Every pilot sat in the helicopter. He focused on the controls.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 30, "gender": "m", "sent": "No pilot sat in the helicopter before he focused on the controls.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 30, "gender": "m", "sent": "No pilot sat in the helicopter. He focused on the controls.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 30, "gender": "f", "sent": "A pilot sat in the helicopter before she focused on the controls.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 30, "gender": "f", "sent": "A pilot sat in the helicopter. She focused on the controls.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 30, "gender": "f", "sent": "Every pilot sat in the helicopter before she focused on the controls.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 30, "gender": "f", "sent": "Every pilot sat in the helicopter. She focused on the controls.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 30, "gender": "f", "sent": "No pilot sat in the helicopter before she focused on the controls.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 30, "gender": "f", "sent": "No pilot sat in the helicopter. She focused on the controls.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 30, "gender": "p", "sent": "A pilot sat in the helicopter before they focused on the controls.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 30, "gender": "p", "sent": "A pilot sat in the helicopter. They focused on the controls.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 30, "gender": "p", "sent": "Every pilot sat in the helicopter before they focused on the controls.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 30, "gender": "p", "sent": "Every pilot sat in the helicopter. They focused on the controls.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 30, "gender": "p", "sent": "No pilot sat in the helicopter before they focused on the controls.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 30, "gender": "p", "sent": "No pilot sat in the helicopter. They focused on the controls.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 31, "gender": "m", "sent": "A rider biked on the street before he sang to enjoy the ride.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 31, "gender": "m", "sent": "A rider biked on the street. He sang to enjoy the ride.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 31, "gender": "m", "sent": "Every rider biked on the street before he sang to enjoy the ride.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 31, "gender": "m", "sent": "Every rider biked on the street. He sang to enjoy the ride.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 31, "gender": "m", "sent": "No rider biked on the street before he sang to enjoy the ride.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 31, "gender": "m", "sent": "No rider biked on the street. He sang to enjoy the ride.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 31, "gender": "f", "sent": "A rider biked on the street before she sang to enjoy the ride.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 31, "gender": "f", "sent": "A rider biked on the street. She sang to enjoy the ride.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 31, "gender": "f", "sent": "Every rider biked on the street before she sang to enjoy the ride.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 31, "gender": "f", "sent": "Every rider biked on the street. She sang to enjoy the ride.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 31, "gender": "f", "sent": "No rider biked on the street before she sang to enjoy the ride.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 31, "gender": "f", "sent": "No rider biked on the street. She sang to enjoy the ride.", "sentence_type": "no", "scope": "outScope"}
+{"frame": 31, "gender": "p", "sent": "A rider biked on the street before they sang to enjoy the ride.", "sentence_type": "ext", "scope": "inScope"}
+{"frame": 31, "gender": "p", "sent": "A rider biked on the street. They sang to enjoy the ride.", "sentence_type": "ext", "scope": "outScope"}
+{"frame": 31, "gender": "p", "sent": "Every rider biked on the street before they sang to enjoy the ride.", "sentence_type": "uni", "scope": "inScope"}
+{"frame": 31, "gender": "p", "sent": "Every rider biked on the street. They sang to enjoy the ride.", "sentence_type": "uni", "scope": "outScope"}
+{"frame": 31, "gender": "p", "sent": "No rider biked on the street before they sang to enjoy the ride.", "sentence_type": "no", "scope": "inScope"}
+{"frame": 31, "gender": "p", "sent": "No rider biked on the street. They sang to enjoy the ride.", "sentence_type": "no", "scope": "outScope"}

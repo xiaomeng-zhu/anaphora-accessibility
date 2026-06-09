@@ -1,0 +1,481 @@
+correct,effect_size,frame,gender,comp,subject,good_sent,bad_sent
+1,1.7817151993513107,0,NA,DNE>negation2_just,def,It was not the case that the farmer didn't own a cow. It was just away on the meadow.,The farmer didn't own a cow. It was just away on the meadow.
+1,1.0960925817489624,0,NA,existential>negation2,def,The farmer owned a cow. It was away on the meadow.,The farmer didn't own a cow. It was away on the meadow.
+1,4.032028175890446,0,NA,existential>DNE,def,The farmer owned a cow. It was away on the meadow.,It was not the case that the farmer didn't own a cow. It was just away on the meadow.
+1,6.013082593679428,0,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the farmer didn't own a cow. In fact, it was just away on the meadow.","The farmer didn't own a cow. In fact, it was just away on the meadow."
+0,-2.2805042266845703,0,NA,existential_infact>negation2_infact,def,"The farmer owned a cow. In fact, it was away on the meadow.","The farmer didn't own a cow. In fact, it was away on the meadow."
+1,2.2370113730430603,1,NA,DNE>negation2_just,def,It was not the case that the pirate didn't acquire a treasure. It was just hidden in the box.,The pirate didn't acquire a treasure. It was just hidden in the box.
+1,0.6503216028213501,1,NA,existential>negation2,def,The pirate acquired a treasure. It was hidden in the box.,The pirate didn't acquire a treasure. It was hidden in the box.
+1,2.8343793749809265,1,NA,existential>DNE,def,The pirate acquired a treasure. It was hidden in the box.,It was not the case that the pirate didn't acquire a treasure. It was just hidden in the box.
+1,3.3217997178435326,1,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the pirate didn't acquire a treasure. In fact, it was just hidden in the box.","The pirate didn't acquire a treasure. In fact, it was just hidden in the box."
+0,-0.495814248919487,1,NA,existential_infact>negation2_infact,def,"The pirate acquired a treasure. In fact, it was hidden in the box.","The pirate didn't acquire a treasure. In fact, it was hidden in the box."
+0,-0.9369985014200211,2,NA,DNE>negation2_just,def,It was not the case that the kid didn't have a dog. It was just out for a walk.,The kid didn't have a dog. It was just out for a walk.
+1,2.1206127256155014,2,NA,existential>negation2,def,The kid had a dog. It was out for a walk.,The kid didn't have a dog. It was out for a walk.
+1,4.253102675080299,2,NA,existential>DNE,def,The kid had a dog. It was out for a walk.,It was not the case that the kid didn't have a dog. It was just out for a walk.
+1,1.6709567233920097,2,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the kid didn't have a dog. In fact, it was just out for a walk.","The kid didn't have a dog. In fact, it was just out for a walk."
+0,-0.06130731850862503,2,NA,existential_infact>negation2_infact,def,"The kid had a dog. In fact, it was out for a walk.","The kid didn't have a dog. In fact, it was out for a walk."
+1,1.9691902101039886,3,NA,DNE>negation2_just,def,It was not the case that the student didn't discover a problem. It was just too hard to solve.,The student didn't discover a problem. It was just too hard to solve.
+0,-0.22551310062408447,3,NA,existential>negation2,def,The student discovered a problem. It was too hard to solve.,The student didn't discover a problem. It was too hard to solve.
+0,-0.838949590921402,3,NA,existential>DNE,def,The student discovered a problem. It was too hard to solve.,It was not the case that the student didn't discover a problem. It was just too hard to solve.
+1,1.8164978623390198,3,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the student didn't discover a problem. In fact, it was just too hard to solve.","The student didn't discover a problem. In fact, it was just too hard to solve."
+1,0.5778333842754364,3,NA,existential_infact>negation2_infact,def,"The student discovered a problem. In fact, it was too hard to solve.","The student didn't discover a problem. In fact, it was too hard to solve."
+1,4.996438026428223,4,NA,DNE>negation2_just,def,It was not the case that the doctor didn't find a bone. It was just stored in formalin.,The doctor didn't find a bone. It was just stored in formalin.
+1,1.5826079845428467,4,NA,existential>negation2,def,The doctor found a bone. It was stored in formalin.,The doctor didn't find a bone. It was stored in formalin.
+1,7.6274206936359406,4,NA,existential>DNE,def,The doctor found a bone. It was stored in formalin.,It was not the case that the doctor didn't find a bone. It was just stored in formalin.
+1,5.6185067892074585,4,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the doctor didn't find a bone. In fact, it was just stored in formalin.","The doctor didn't find a bone. In fact, it was just stored in formalin."
+1,1.776121512055397,4,NA,existential_infact>negation2_infact,def,"The doctor found a bone. In fact, it was stored in formalin.","The doctor didn't find a bone. In fact, it was stored in formalin."
+0,-0.31776389479637146,5,NA,DNE>negation2_just,def,It was not the case that the photographer didn't capture a moment. It was just gone in a flash.,The photographer didn't capture a moment. It was just gone in a flash.
+1,0.1663568615913391,5,NA,existential>negation2,def,The photographer captured a moment. It was gone in a flash.,The photographer didn't capture a moment. It was gone in a flash.
+1,6.321840554475784,5,NA,existential>DNE,def,The photographer captured a moment. It was gone in a flash.,It was not the case that the photographer didn't capture a moment. It was just gone in a flash.
+1,0.9309685975313187,5,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the photographer didn't capture a moment. In fact, it was just gone in a flash.","The photographer didn't capture a moment. In fact, it was just gone in a flash."
+0,-1.4761953204870224,5,NA,existential_infact>negation2_infact,def,"The photographer captured a moment. In fact, it was gone in a flash.","The photographer didn't capture a moment. In fact, it was gone in a flash."
+0,-0.7549668401479721,6,NA,DNE>negation2_just,def,It was not the case that the surgeon didn't detect a tumor. It was just spreading everywhere.,The surgeon didn't detect a tumor. It was just spreading everywhere.
+1,0.17899972200393677,6,NA,existential>negation2,def,The surgeon detected a tumor. It was spreading everywhere.,The surgeon didn't detect a tumor. It was spreading everywhere.
+1,5.111928150057793,6,NA,existential>DNE,def,The surgeon detected a tumor. It was spreading everywhere.,It was not the case that the surgeon didn't detect a tumor. It was just spreading everywhere.
+1,2.662302777171135,6,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the surgeon didn't detect a tumor. In fact, it was just spreading everywhere.","The surgeon didn't detect a tumor. In fact, it was just spreading everywhere."
+1,1.8349171429872513,6,NA,existential_infact>negation2_infact,def,"The surgeon detected a tumor. In fact, it was spreading everywhere.","The surgeon didn't detect a tumor. In fact, it was spreading everywhere."
+1,1.9840961396694183,7,NA,DNE>negation2_just,def,It was not the case that the editor didn't observe a mistake. It was just negligible.,The editor didn't observe a mistake. It was just negligible.
+0,-0.3484710454940796,7,NA,existential>negation2,def,The editor observed a mistake. It was negligible.,The editor didn't observe a mistake. It was negligible.
+1,1.0115346014499664,7,NA,existential>DNE,def,The editor observed a mistake. It was negligible.,It was not the case that the editor didn't observe a mistake. It was just negligible.
+1,1.724877953529358,7,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the editor didn't observe a mistake. In fact, it was just negligible.","The editor didn't observe a mistake. In fact, it was just negligible."
+0,-0.9354522079229355,7,NA,existential_infact>negation2_infact,def,"The editor observed a mistake. In fact, it was negligible.","The editor didn't observe a mistake. In fact, it was negligible."
+1,0.7754306793212891,8,NA,DNE>negation2_just,def,It was not the case that the chef didn't plant a tomato. It was just not ripe yet.,The chef didn't plant a tomato. It was just not ripe yet.
+1,0.7337213754653931,8,NA,existential>negation2,def,The chef planted a tomato. It was not ripe yet.,The chef didn't plant a tomato. It was not ripe yet.
+1,0.7522194385528564,8,NA,existential>DNE,def,The chef planted a tomato. It was not ripe yet.,It was not the case that the chef didn't plant a tomato. It was just not ripe yet.
+1,2.6993238776922226,8,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the chef didn't plant a tomato. In fact, it was just not ripe yet.","The chef didn't plant a tomato. In fact, it was just not ripe yet."
+0,-1.0499044358730316,8,NA,existential_infact>negation2_infact,def,"The chef planted a tomato. In fact, it was not ripe yet.","The chef didn't plant a tomato. In fact, it was not ripe yet."
+1,5.980623960494995,9,NA,DNE>negation2_just,def,It was not the case that the hunter didn't spot a deer. It was just difficult to shoot.,The hunter didn't spot a deer. It was just difficult to shoot.
+1,1.7253038138151169,9,NA,existential>negation2,def,The hunter spotted a deer. It was difficult to shoot.,The hunter didn't spot a deer. It was difficult to shoot.
+1,1.028958722949028,9,NA,existential>DNE,def,The hunter spotted a deer. It was difficult to shoot.,It was not the case that the hunter didn't spot a deer. It was just difficult to shoot.
+1,4.069151185452938,9,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the hunter didn't spot a deer. In fact, it was just difficult to shoot.","The hunter didn't spot a deer. In fact, it was just difficult to shoot."
+0,-4.53196582198143,9,NA,existential_infact>negation2_infact,def,"The hunter spotted a deer. In fact, it was difficult to shoot.","The hunter didn't spot a deer. In fact, it was difficult to shoot."
+1,1.3745154440402985,10,NA,DNE>negation2_just,def,It was not the case that the player didn't throw a ball. It was just missed by the catcher.,The player didn't throw a ball. It was just missed by the catcher.
+1,3.010008156299591,10,NA,existential>negation2,def,The player threw a ball. It was missed by the catcher.,The player didn't throw a ball. It was missed by the catcher.
+1,5.2327772080898285,10,NA,existential>DNE,def,The player threw a ball. It was missed by the catcher.,It was not the case that the player didn't throw a ball. It was just missed by the catcher.
+1,2.6771706640720367,10,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the player didn't throw a ball. In fact, it was just missed by the catcher.","The player didn't throw a ball. In fact, it was just missed by the catcher."
+0,-1.876894511282444,10,NA,existential_infact>negation2_infact,def,"The player threw a ball. In fact, it was missed by the catcher.","The player didn't throw a ball. In fact, it was missed by the catcher."
+0,-3.7717462331056595,11,NA,DNE>negation2_just,def,It was not the case that the police didn't stop a car. It was just slowing down already.,The police didn't stop a car. It was just slowing down already.
+0,-3.73683799803257,11,NA,existential>negation2,def,The police stopped a car. It was slowing down already.,The police didn't stop a car. It was slowing down already.
+1,4.427588373422623,11,NA,existential>DNE,def,The police stopped a car. It was slowing down already.,It was not the case that the police didn't stop a car. It was just slowing down already.
+0,-3.3300292044878006,11,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the police didn't stop a car. In fact, it was just slowing down already.","The police didn't stop a car. In fact, it was just slowing down already."
+0,-4.820960238575935,11,NA,existential_infact>negation2_infact,def,"The police stopped a car. In fact, it was slowing down already.","The police didn't stop a car. In fact, it was slowing down already."
+1,4.459870606660843,12,NA,DNE>negation2_just,def,It was not the case that the researcher didn't propose an idea. It was just scooped by others.,The researcher didn't propose an idea. It was just scooped by others.
+1,0.5723578780889511,12,NA,existential>negation2,def,The researcher proposed an idea. It was scooped by others.,The researcher didn't propose an idea. It was scooped by others.
+1,2.3260664492845535,12,NA,existential>DNE,def,The researcher proposed an idea. It was scooped by others.,It was not the case that the researcher didn't propose an idea. It was just scooped by others.
+1,5.022159546613693,12,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the researcher didn't propose an idea. In fact, it was just scooped by others.","The researcher didn't propose an idea. In fact, it was just scooped by others."
+0,-4.675991997122765,12,NA,existential_infact>negation2_infact,def,"The researcher proposed an idea. In fact, it was scooped by others.","The researcher didn't propose an idea. In fact, it was scooped by others."
+1,2.535452216863632,13,NA,DNE>negation2_just,def,It was not the case that the worker didn't build a chair. It was just not finished yet.,The worker didn't build a chair. It was just not finished yet.
+1,2.812127709388733,13,NA,existential>negation2,def,The worker built a chair. It was not finished yet.,The worker didn't build a chair. It was not finished yet.
+1,4.580000013113022,13,NA,existential>DNE,def,The worker built a chair. It was not finished yet.,It was not the case that the worker didn't build a chair. It was just not finished yet.
+1,2.5069172233343124,13,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the worker didn't build a chair. In fact, it was just not finished yet.","The worker didn't build a chair. In fact, it was just not finished yet."
+1,1.1520709693431854,13,NA,existential_infact>negation2_infact,def,"The worker built a chair. In fact, it was not finished yet.","The worker didn't build a chair. In fact, it was not finished yet."
+1,4.24190428853035,14,NA,DNE>negation2_just,def,It was not the case that the teacher didn't discuss an argument. It was just hard to unpack.,The teacher didn't discuss an argument. It was just hard to unpack.
+1,0.2696254253387451,14,NA,existential>negation2,def,The teacher discussed an argument. It was hard to unpack.,The teacher didn't discuss an argument. It was hard to unpack.
+0,-0.042166948318481445,14,NA,existential>DNE,def,The teacher discussed an argument. It was hard to unpack.,It was not the case that the teacher didn't discuss an argument. It was just hard to unpack.
+1,4.0741164311766624,14,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the teacher didn't discuss an argument. In fact, it was just hard to unpack.","The teacher didn't discuss an argument. In fact, it was just hard to unpack."
+0,-4.643905036151409,14,NA,existential_infact>negation2_infact,def,"The teacher discussed an argument. In fact, it was hard to unpack.","The teacher didn't discuss an argument. In fact, it was hard to unpack."
+1,1.2166471821255982,15,NA,DNE>negation2_just,def,It was not the case that the customer didn't buy a shirt. It was just sent for tailoring.,The customer didn't buy a shirt. It was just sent for tailoring.
+1,8.206210063653998,15,NA,existential>negation2,def,The customer bought a shirt. It was sent for tailoring.,The customer didn't buy a shirt. It was sent for tailoring.
+1,11.490161338238977,15,NA,existential>DNE,def,The customer bought a shirt. It was sent for tailoring.,It was not the case that the customer didn't buy a shirt. It was just sent for tailoring.
+1,3.3606712608598173,15,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the customer didn't buy a shirt. In fact, it was just sent for tailoring.","The customer didn't buy a shirt. In fact, it was just sent for tailoring."
+1,2.631464833393693,15,NA,existential_infact>negation2_infact,def,"The customer bought a shirt. In fact, it was sent for tailoring.","The customer didn't buy a shirt. In fact, it was sent for tailoring."
+0,-0.48784393072128296,16,NA,DNE>negation2_just,def,It was not the case that the athlete didn't claim a record. It was just unofficial.,The athlete didn't claim a record. It was just unofficial.
+0,-1.9987451434135437,16,NA,existential>negation2,def,The athlete claimed a record. It was unofficial.,The athlete didn't claim a record. It was unofficial.
+1,4.755009293556213,16,NA,existential>DNE,def,The athlete claimed a record. It was unofficial.,It was not the case that the athlete didn't claim a record. It was just unofficial.
+1,0.01728425920009613,16,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the athlete didn't claim a record. In fact, it was just unofficial.","The athlete didn't claim a record. In fact, it was just unofficial."
+1,0.16703881323337555,16,NA,existential_infact>negation2_infact,def,"The athlete claimed a record. In fact, it was unofficial.","The athlete didn't claim a record. In fact, it was unofficial."
+1,4.636907011270523,17,NA,DNE>negation2_just,def,It was not the case that the professor didn't write a book. It was just unpublished.,The professor didn't write a book. It was just unpublished.
+1,1.1557945609092712,17,NA,existential>negation2,def,The professor wrote a book. It was unpublished.,The professor didn't write a book. It was unpublished.
+1,1.2771773636341095,17,NA,existential>DNE,def,The professor wrote a book. It was unpublished.,It was not the case that the professor didn't write a book. It was just unpublished.
+1,3.639888718724251,17,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the professor didn't write a book. In fact, it was just unpublished.","The professor didn't write a book. In fact, it was just unpublished."
+0,-3.21829941123724,17,NA,existential_infact>negation2_infact,def,"The professor wrote a book. In fact, it was unpublished.","The professor didn't write a book. In fact, it was unpublished."
+1,0.1837913691997528,18,NA,DNE>negation2_just,def,It was not the case that the administrator didn't order a coffee. It was just on its way.,The administrator didn't order a coffee. It was just on its way.
+1,4.279985196888447,18,NA,existential>negation2,def,The administrator ordered a coffee. It was on its way.,The administrator didn't order a coffee. It was on its way.
+1,6.15987903624773,18,NA,existential>DNE,def,The administrator ordered a coffee. It was on its way.,It was not the case that the administrator didn't order a coffee. It was just on its way.
+1,4.788664254359901,18,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the administrator didn't order a coffee. In fact, it was just on its way.","The administrator didn't order a coffee. In fact, it was just on its way."
+0,-2.6212568171322346,18,NA,existential_infact>negation2_infact,def,"The administrator ordered a coffee. In fact, it was on its way.","The administrator didn't order a coffee. In fact, it was on its way."
+1,3.27604641020298,19,NA,DNE>negation2_just,def,It was not the case that the server didn't spill a drink. It was just wiped up quickly.,The server didn't spill a drink. It was just wiped up quickly.
+1,2.8638594150543213,19,NA,existential>negation2,def,The server spilled a drink. It was wiped up quickly.,The server didn't spill a drink. It was wiped up quickly.
+1,4.180510148406029,19,NA,existential>DNE,def,The server spilled a drink. It was wiped up quickly.,It was not the case that the server didn't spill a drink. It was just wiped up quickly.
+1,3.198145553469658,19,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the server didn't spill a drink. In fact, it was just wiped up quickly.","The server didn't spill a drink. In fact, it was just wiped up quickly."
+0,-2.6194952726364136,19,NA,existential_infact>negation2_infact,def,"The server spilled a drink. In fact, it was wiped up quickly.","The server didn't spill a drink. In fact, it was wiped up quickly."
+1,4.587150603532791,20,NA,DNE>negation2_just,def,It was not the case that the director didn't produce a film. It was just still in editing.,The director didn't produce a film. It was just still in editing.
+0,-1.4159448146820068,20,NA,existential>negation2,def,The director produced a film. It was still in editing.,The director didn't produce a film. It was still in editing.
+1,4.384002655744553,20,NA,existential>DNE,def,The director produced a film. It was still in editing.,It was not the case that the director didn't produce a film. It was just still in editing.
+1,6.767805323004723,20,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the director didn't produce a film. In fact, it was just still in editing.","The director didn't produce a film. In fact, it was just still in editing."
+0,-3.005360335111618,20,NA,existential_infact>negation2_infact,def,"The director produced a film. In fact, it was still in editing.","The director didn't produce a film. In fact, it was still in editing."
+0,-0.1355651617050171,21,NA,DNE>negation2_just,def,It was not the case that the designer didn't make a bag. It was just a prototype.,The designer didn't make a bag. It was just a prototype.
+0,-1.4314876794815063,21,NA,existential>negation2,def,The designer made a bag. It was a prototype.,The designer didn't make a bag. It was a prototype.
+1,0.09180200099945068,21,NA,existential>DNE,def,The designer made a bag. It was a prototype.,It was not the case that the designer didn't make a bag. It was just a prototype.
+1,0.420887753367424,21,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the designer didn't make a bag. In fact, it was just a prototype.","The designer didn't make a bag. In fact, it was just a prototype."
+0,-0.7627349346876144,21,NA,existential_infact>negation2_infact,def,"The designer made a bag. In fact, it was a prototype.","The designer didn't make a bag. In fact, it was a prototype."
+0,-2.6533569768071175,22,NA,DNE>negation2_just,def,It was not the case that the traveler didn't document a country. It was just full of stories.,The traveler didn't document a country. It was just full of stories.
+1,2.5539917778223753,22,NA,existential>negation2,def,The traveler documented a country. It was full of stories.,The traveler didn't document a country. It was full of stories.
+1,8.92190813831985,22,NA,existential>DNE,def,The traveler documented a country. It was full of stories.,It was not the case that the traveler didn't document a country. It was just full of stories.
+0,-0.550227664411068,22,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the traveler didn't document a country. In fact, it was just full of stories.","The traveler didn't document a country. In fact, it was just full of stories."
+1,0.9167789481580257,22,NA,existential_infact>negation2_infact,def,"The traveler documented a country. In fact, it was full of stories.","The traveler didn't document a country. In fact, it was full of stories."
+1,5.054948925971985,23,NA,DNE>negation2_just,def,It was not the case that the developer didn't identify a bug. It was just tricky to fix.,The developer didn't identify a bug. It was just tricky to fix.
+1,4.150708854198456,23,NA,existential>negation2,def,The developer identified a bug. It was tricky to fix.,The developer didn't identify a bug. It was tricky to fix.
+1,2.441807210445404,23,NA,existential>DNE,def,The developer identified a bug. It was tricky to fix.,It was not the case that the developer didn't identify a bug. It was just tricky to fix.
+1,2.916223794221878,23,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the developer didn't identify a bug. In fact, it was just tricky to fix.","The developer didn't identify a bug. In fact, it was just tricky to fix."
+1,2.3706125915050507,23,NA,existential_infact>negation2_infact,def,"The developer identified a bug. In fact, it was tricky to fix.","The developer didn't identify a bug. In fact, it was tricky to fix."
+1,3.0667818188667297,24,NA,DNE>negation2_just,def,It was not the case that the manufacturer didn't develop a product. It was just in testing.,The manufacturer didn't develop a product. It was just in testing.
+1,2.4919010400772095,24,NA,existential>negation2,def,The manufacturer developed a product. It was in testing.,The manufacturer didn't develop a product. It was in testing.
+1,1.7348255515098572,24,NA,existential>DNE,def,The manufacturer developed a product. It was in testing.,It was not the case that the manufacturer didn't develop a product. It was just in testing.
+1,4.704451858997345,24,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the manufacturer didn't develop a product. In fact, it was just in testing.","The manufacturer didn't develop a product. In fact, it was just in testing."
+1,1.3640805035829544,24,NA,existential_infact>negation2_infact,def,"The manufacturer developed a product. In fact, it was in testing.","The manufacturer didn't develop a product. In fact, it was in testing."
+1,3.554020404815674,25,NA,DNE>negation2_just,def,It was not the case that the manager didn't launch a project. It was just delayed.,The manager didn't launch a project. It was just delayed.
+0,-0.906203031539917,25,NA,existential>negation2,def,The manager launched a project. It was delayed.,The manager didn't launch a project. It was delayed.
+0,-0.3459038734436035,25,NA,existential>DNE,def,The manager launched a project. It was delayed.,It was not the case that the manager didn't launch a project. It was just delayed.
+1,3.3251955956220627,25,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the manager didn't launch a project. In fact, it was just delayed.","The manager didn't launch a project. In fact, it was just delayed."
+0,-4.0047080516815186,25,NA,existential_infact>negation2_infact,def,"The manager launched a project. In fact, it was delayed.","The manager didn't launch a project. In fact, it was delayed."
+1,5.090101674199104,26,NA,DNE>negation2_just,def,It was not the case that the instructor didn't prepare a course. It was just not published.,The instructor didn't prepare a course. It was just not published.
+1,0.4853391647338867,26,NA,existential>negation2,def,The instructor prepared a course. It was not published.,The instructor didn't prepare a course. It was not published.
+1,2.4284906834363937,26,NA,existential>DNE,def,The instructor prepared a course. It was not published.,It was not the case that the instructor didn't prepare a course. It was just not published.
+1,4.158707857131958,26,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the instructor didn't prepare a course. In fact, it was just not published.","The instructor didn't prepare a course. In fact, it was just not published."
+0,-3.1192942708730698,26,NA,existential_infact>negation2_infact,def,"The instructor prepared a course. In fact, it was not published.","The instructor didn't prepare a course. In fact, it was not published."
+1,3.1092847138643265,27,NA,DNE>negation2_just,def,It was not the case that the lawyer didn't accept a case. It was just complicated.,The lawyer didn't accept a case. It was just complicated.
+1,1.4864678382873535,27,NA,existential>negation2,def,The lawyer accepted a case. It was complicated.,The lawyer didn't accept a case. It was complicated.
+1,5.209604248404503,27,NA,existential>DNE,def,The lawyer accepted a case. It was complicated.,It was not the case that the lawyer didn't accept a case. It was just complicated.
+1,4.803234115242958,27,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the lawyer didn't accept a case. In fact, it was just complicated.","The lawyer didn't accept a case. In fact, it was just complicated."
+1,1.0290846675634384,27,NA,existential_infact>negation2_infact,def,"The lawyer accepted a case. In fact, it was complicated.","The lawyer didn't accept a case. In fact, it was complicated."
+1,1.9410843700170517,28,NA,DNE>negation2_just,def,It was not the case that the warrior didn't invade a castle. It was just heavily guarded.,The warrior didn't invade a castle. It was just heavily guarded.
+1,2.5165953040122986,28,NA,existential>negation2,def,The warrior invaded a castle. It was heavily guarded.,The warrior didn't invade a castle. It was heavily guarded.
+1,6.7358060628175735,28,NA,existential>DNE,def,The warrior invaded a castle. It was heavily guarded.,It was not the case that the warrior didn't invade a castle. It was just heavily guarded.
+1,2.1854133307933807,28,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the warrior didn't invade a castle. In fact, it was just heavily guarded.","The warrior didn't invade a castle. In fact, it was just heavily guarded."
+0,-2.4324501305818558,28,NA,existential_infact>negation2_infact,def,"The warrior invaded a castle. In fact, it was heavily guarded.","The warrior didn't invade a castle. In fact, it was heavily guarded."
+1,3.7294291257858276,29,NA,DNE>negation2_just,def,It was not the case that the entrepreneur didn't found a company. It was just closed.,The entrepreneur didn't found a company. It was just closed.
+0,-0.621532678604126,29,NA,existential>negation2,def,The entrepreneur founded a company. It was closed.,The entrepreneur didn't found a company. It was closed.
+1,0.9312261343002319,29,NA,existential>DNE,def,The entrepreneur founded a company. It was closed.,It was not the case that the entrepreneur didn't found a company. It was just closed.
+1,1.8196724355220795,29,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the entrepreneur didn't found a company. In fact, it was just closed.","The entrepreneur didn't found a company. In fact, it was just closed."
+0,-2.8454981222748756,29,NA,existential_infact>negation2_infact,def,"The entrepreneur founded a company. In fact, it was closed.","The entrepreneur didn't found a company. In fact, it was closed."
+0,-0.1520417332649231,30,NA,DNE>negation2_just,def,It was not the case that the pilot didn't fly a helicopter. It was just grounded for now.,The pilot didn't fly a helicopter. It was just grounded for now.
+0,-0.27381569147109985,30,NA,existential>negation2,def,The pilot flew a helicopter. It was grounded for now.,The pilot didn't fly a helicopter. It was grounded for now.
+1,3.4698872566223145,30,NA,existential>DNE,def,The pilot flew a helicopter. It was grounded for now.,It was not the case that the pilot didn't fly a helicopter. It was just grounded for now.
+0,-1.1601828634738922,30,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the pilot didn't fly a helicopter. In fact, it was just grounded for now.","The pilot didn't fly a helicopter. In fact, it was just grounded for now."
+0,-2.0693875551223755,30,NA,existential_infact>negation2_infact,def,"The pilot flew a helicopter. In fact, it was grounded for now.","The pilot didn't fly a helicopter. In fact, it was grounded for now."
+1,1.0966559601947665,31,NA,DNE>negation2_just,def,It was not the case that the rider didn't raise a horse. It was just still a foal.,The rider didn't raise a horse. It was just still a foal.
+1,0.24888682691380382,31,NA,existential>negation2,def,The rider raised a horse. It was still a foal.,The rider didn't raise a horse. It was still a foal.
+1,7.702865826431662,31,NA,existential>DNE,def,The rider raised a horse. It was still a foal.,It was not the case that the rider didn't raise a horse. It was just still a foal.
+1,1.185658142901957,31,NA,DNE_infact>negation2_just_infact,def,"It was not the case that the rider didn't raise a horse. In fact, it was just still a foal.","The rider didn't raise a horse. In fact, it was just still a foal."
+0,-2.717869450803846,31,NA,existential_infact>negation2_infact,def,"The rider raised a horse. In fact, it was still a foal.","The rider didn't raise a horse. In fact, it was still a foal."
+1,1.970463290810585,0,m,DNE>negation2_just,name,It was not the case that John didn't own a cow. It was just away on the meadow.,John didn't own a cow. It was just away on the meadow.
+1,1.1004747152328491,0,m,existential>negation2,name,John owned a cow. It was away on the meadow.,John didn't own a cow. It was away on the meadow.
+1,4.59506431221962,0,m,existential>DNE,name,John owned a cow. It was away on the meadow.,It was not the case that John didn't own a cow. It was just away on the meadow.
+1,4.654672771692276,0,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't own a cow. In fact, it was just away on the meadow.","John didn't own a cow. In fact, it was just away on the meadow."
+0,-2.69986754655838,0,m,existential_infact>negation2_infact,name,"John owned a cow. In fact, it was away on the meadow.","John didn't own a cow. In fact, it was away on the meadow."
+1,1.7988184988498688,0,f,DNE>negation2_just,name,It was not the case that Mary didn't own a cow. It was just away on the meadow.,Mary didn't own a cow. It was just away on the meadow.
+1,1.1964154690504074,0,f,existential>negation2,name,Mary owned a cow. It was away on the meadow.,Mary didn't own a cow. It was away on the meadow.
+1,5.152763664722443,0,f,existential>DNE,name,Mary owned a cow. It was away on the meadow.,It was not the case that Mary didn't own a cow. It was just away on the meadow.
+1,4.8206872045993805,0,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't own a cow. In fact, it was just away on the meadow.","Mary didn't own a cow. In fact, it was just away on the meadow."
+0,-2.0135350823402405,0,f,existential_infact>negation2_infact,name,"Mary owned a cow. In fact, it was away on the meadow.","Mary didn't own a cow. In fact, it was away on the meadow."
+1,1.811328411102295,1,m,DNE>negation2_just,name,It was not the case that John didn't acquire a treasure. It was just hidden in the box.,John didn't acquire a treasure. It was just hidden in the box.
+1,1.3960065841674805,1,m,existential>negation2,name,John acquired a treasure. It was hidden in the box.,John didn't acquire a treasure. It was hidden in the box.
+1,3.5639017820358276,1,m,existential>DNE,name,John acquired a treasure. It was hidden in the box.,It was not the case that John didn't acquire a treasure. It was just hidden in the box.
+1,2.29446379840374,1,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't acquire a treasure. In fact, it was just hidden in the box.","John didn't acquire a treasure. In fact, it was just hidden in the box."
+1,0.7506949603557587,1,m,existential_infact>negation2_infact,name,"John acquired a treasure. In fact, it was hidden in the box.","John didn't acquire a treasure. In fact, it was hidden in the box."
+1,1.3070523738861084,1,f,DNE>negation2_just,name,It was not the case that Mary didn't acquire a treasure. It was just hidden in the box.,Mary didn't acquire a treasure. It was just hidden in the box.
+1,0.9107374548912048,1,f,existential>negation2,name,Mary acquired a treasure. It was hidden in the box.,Mary didn't acquire a treasure. It was hidden in the box.
+1,3.564420700073242,1,f,existential>DNE,name,Mary acquired a treasure. It was hidden in the box.,It was not the case that Mary didn't acquire a treasure. It was just hidden in the box.
+1,1.0438547134399414,1,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't acquire a treasure. In fact, it was just hidden in the box.","Mary didn't acquire a treasure. In fact, it was just hidden in the box."
+0,-0.6048415154218674,1,f,existential_infact>negation2_infact,name,"Mary acquired a treasure. In fact, it was hidden in the box.","Mary didn't acquire a treasure. In fact, it was hidden in the box."
+1,2.2151065096259117,2,m,DNE>negation2_just,name,It was not the case that John didn't have a dog. It was just out for a walk.,John didn't have a dog. It was just out for a walk.
+1,2.8982158452272415,2,m,existential>negation2,name,John had a dog. It was out for a walk.,John didn't have a dog. It was out for a walk.
+1,2.453325442969799,2,m,existential>DNE,name,John had a dog. It was out for a walk.,It was not the case that John didn't have a dog. It was just out for a walk.
+1,4.678001441061497,2,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't have a dog. In fact, it was just out for a walk.","John didn't have a dog. In fact, it was just out for a walk."
+0,-0.2901167869567871,2,m,existential_infact>negation2_infact,name,"John had a dog. In fact, it was out for a walk.","John didn't have a dog. In fact, it was out for a walk."
+1,1.6564787104725838,2,f,DNE>negation2_just,name,It was not the case that Mary didn't have a dog. It was just out for a walk.,Mary didn't have a dog. It was just out for a walk.
+1,2.547044426202774,2,f,existential>negation2,name,Mary had a dog. It was out for a walk.,Mary didn't have a dog. It was out for a walk.
+1,2.0018302127718925,2,f,existential>DNE,name,Mary had a dog. It was out for a walk.,It was not the case that Mary didn't have a dog. It was just out for a walk.
+1,4.8055573254823685,2,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't have a dog. In fact, it was just out for a walk.","Mary didn't have a dog. In fact, it was just out for a walk."
+1,0.11076388508081436,2,f,existential_infact>negation2_infact,name,"Mary had a dog. In fact, it was out for a walk.","Mary didn't have a dog. In fact, it was out for a walk."
+1,3.5847226828336716,3,m,DNE>negation2_just,name,It was not the case that John didn't discover a problem. It was just too hard to solve.,John didn't discover a problem. It was just too hard to solve.
+1,1.5849712789058685,3,m,existential>negation2,name,John discovered a problem. It was too hard to solve.,John didn't discover a problem. It was too hard to solve.
+0,-0.7237130850553513,3,m,existential>DNE,name,John discovered a problem. It was too hard to solve.,It was not the case that John didn't discover a problem. It was just too hard to solve.
+1,2.7992342561483383,3,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't discover a problem. In fact, it was just too hard to solve.","John didn't discover a problem. In fact, it was just too hard to solve."
+1,0.8597005903720856,3,m,existential_infact>negation2_infact,name,"John discovered a problem. In fact, it was too hard to solve.","John didn't discover a problem. In fact, it was too hard to solve."
+1,2.988019973039627,3,f,DNE>negation2_just,name,It was not the case that Mary didn't discover a problem. It was just too hard to solve.,Mary didn't discover a problem. It was just too hard to solve.
+1,1.9038283824920654,3,f,existential>negation2,name,Mary discovered a problem. It was too hard to solve.,Mary didn't discover a problem. It was too hard to solve.
+1,0.4831428527832031,3,f,existential>DNE,name,Mary discovered a problem. It was too hard to solve.,It was not the case that Mary didn't discover a problem. It was just too hard to solve.
+1,2.995723247528076,3,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't discover a problem. In fact, it was just too hard to solve.","Mary didn't discover a problem. In fact, it was just too hard to solve."
+1,1.2440924644470215,3,f,existential_infact>negation2_infact,name,"Mary discovered a problem. In fact, it was too hard to solve.","Mary didn't discover a problem. In fact, it was too hard to solve."
+1,0.10451239347457886,4,m,DNE>negation2_just,name,It was not the case that John didn't find a bone. It was just stored in formalin.,John didn't find a bone. It was just stored in formalin.
+1,3.0866572856903076,4,m,existential>negation2,name,John found a bone. It was stored in formalin.,John didn't find a bone. It was stored in formalin.
+1,8.42723661661148,4,m,existential>DNE,name,John found a bone. It was stored in formalin.,It was not the case that John didn't find a bone. It was just stored in formalin.
+1,1.0440880954265594,4,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't find a bone. In fact, it was just stored in formalin.","John didn't find a bone. In fact, it was just stored in formalin."
+0,-0.273954376578331,4,m,existential_infact>negation2_infact,name,"John found a bone. In fact, it was stored in formalin.","John didn't find a bone. In fact, it was stored in formalin."
+0,-1.2252651751041412,4,f,DNE>negation2_just,name,It was not the case that Mary didn't find a bone. It was just stored in formalin.,Mary didn't find a bone. It was just stored in formalin.
+1,2.8561337292194366,4,f,existential>negation2,name,Mary found a bone. It was stored in formalin.,Mary didn't find a bone. It was stored in formalin.
+1,8.889293789863586,4,f,existential>DNE,name,Mary found a bone. It was stored in formalin.,It was not the case that Mary didn't find a bone. It was just stored in formalin.
+1,0.019771352410316467,4,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't find a bone. In fact, it was just stored in formalin.","Mary didn't find a bone. In fact, it was just stored in formalin."
+0,-0.5096966475248337,4,f,existential_infact>negation2_infact,name,"Mary found a bone. In fact, it was stored in formalin.","Mary didn't find a bone. In fact, it was stored in formalin."
+0,-3.651233434677124,5,m,DNE>negation2_just,name,It was not the case that John didn't capture a moment. It was just gone in a flash.,John didn't capture a moment. It was just gone in a flash.
+0,-0.6052523255348206,5,m,existential>negation2,name,John captured a moment. It was gone in a flash.,John didn't capture a moment. It was gone in a flash.
+1,7.442459285259247,5,m,existential>DNE,name,John captured a moment. It was gone in a flash.,It was not the case that John didn't capture a moment. It was just gone in a flash.
+0,-0.1046762466430664,5,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't capture a moment. In fact, it was just gone in a flash.","John didn't capture a moment. In fact, it was just gone in a flash."
+0,-2.781474933028221,5,m,existential_infact>negation2_infact,name,"John captured a moment. In fact, it was gone in a flash.","John didn't capture a moment. In fact, it was gone in a flash."
+0,-3.774207890033722,5,f,DNE>negation2_just,name,It was not the case that Mary didn't capture a moment. It was just gone in a flash.,Mary didn't capture a moment. It was just gone in a flash.
+0,-1.3569433093070984,5,f,existential>negation2,name,Mary captured a moment. It was gone in a flash.,Mary didn't capture a moment. It was gone in a flash.
+1,7.044413208961487,5,f,existential>DNE,name,Mary captured a moment. It was gone in a flash.,It was not the case that Mary didn't capture a moment. It was just gone in a flash.
+1,0.003605782985687256,5,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't capture a moment. In fact, it was just gone in a flash.","Mary didn't capture a moment. In fact, it was just gone in a flash."
+0,-3.8141804188489914,5,f,existential_infact>negation2_infact,name,"Mary captured a moment. In fact, it was gone in a flash.","Mary didn't capture a moment. In fact, it was gone in a flash."
+0,-2.5578944385051727,6,m,DNE>negation2_just,name,It was not the case that John didn't detect a tumor. It was just spreading everywhere.,John didn't detect a tumor. It was just spreading everywhere.
+1,2.126481831073761,6,m,existential>negation2,name,John detected a tumor. It was spreading everywhere.,John didn't detect a tumor. It was spreading everywhere.
+1,8.505642026662827,6,m,existential>DNE,name,John detected a tumor. It was spreading everywhere.,It was not the case that John didn't detect a tumor. It was just spreading everywhere.
+1,1.6800947040319443,6,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't detect a tumor. In fact, it was just spreading everywhere.","John didn't detect a tumor. In fact, it was just spreading everywhere."
+1,2.279695760458708,6,m,existential_infact>negation2_infact,name,"John detected a tumor. In fact, it was spreading everywhere.","John didn't detect a tumor. In fact, it was spreading everywhere."
+0,-2.716960221529007,6,f,DNE>negation2_just,name,It was not the case that Mary didn't detect a tumor. It was just spreading everywhere.,Mary didn't detect a tumor. It was just spreading everywhere.
+1,1.6848861575126648,6,f,existential>negation2,name,Mary detected a tumor. It was spreading everywhere.,Mary didn't detect a tumor. It was spreading everywhere.
+1,8.339184552431107,6,f,existential>DNE,name,Mary detected a tumor. It was spreading everywhere.,It was not the case that Mary didn't detect a tumor. It was just spreading everywhere.
+1,1.5595633015036583,6,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't detect a tumor. In fact, it was just spreading everywhere.","Mary didn't detect a tumor. In fact, it was just spreading everywhere."
+1,1.6051251962780952,6,f,existential_infact>negation2_infact,name,"Mary detected a tumor. In fact, it was spreading everywhere.","Mary didn't detect a tumor. In fact, it was spreading everywhere."
+1,1.2696533799171448,7,m,DNE>negation2_just,name,It was not the case that John didn't observe a mistake. It was just negligible.,John didn't observe a mistake. It was just negligible.
+1,0.4172680974006653,7,m,existential>negation2,name,John observed a mistake. It was negligible.,John didn't observe a mistake. It was negligible.
+1,3.077938199043274,7,m,existential>DNE,name,John observed a mistake. It was negligible.,It was not the case that John didn't observe a mistake. It was just negligible.
+1,1.069959744811058,7,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't observe a mistake. In fact, it was just negligible.","John didn't observe a mistake. In fact, it was just negligible."
+0,-0.7500414997339249,7,m,existential_infact>negation2_infact,name,"John observed a mistake. In fact, it was negligible.","John didn't observe a mistake. In fact, it was negligible."
+1,1.6802059412002563,7,f,DNE>negation2_just,name,It was not the case that Mary didn't observe a mistake. It was just negligible.,Mary didn't observe a mistake. It was just negligible.
+1,0.846237063407898,7,f,existential>negation2,name,Mary observed a mistake. It was negligible.,Mary didn't observe a mistake. It was negligible.
+1,3.1916325092315674,7,f,existential>DNE,name,Mary observed a mistake. It was negligible.,It was not the case that Mary didn't observe a mistake. It was just negligible.
+1,1.572960965335369,7,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't observe a mistake. In fact, it was just negligible.","Mary didn't observe a mistake. In fact, it was just negligible."
+0,-0.22384967654943466,7,f,existential_infact>negation2_infact,name,"Mary observed a mistake. In fact, it was negligible.","Mary didn't observe a mistake. In fact, it was negligible."
+1,3.234738051891327,8,m,DNE>negation2_just,name,It was not the case that John didn't plant a tomato. It was just not ripe yet.,John didn't plant a tomato. It was just not ripe yet.
+0,-0.6750515103340149,8,m,existential>negation2,name,John planted a tomato. It was not ripe yet.,John didn't plant a tomato. It was not ripe yet.
+1,0.8208766579627991,8,m,existential>DNE,name,John planted a tomato. It was not ripe yet.,It was not the case that John didn't plant a tomato. It was just not ripe yet.
+1,4.061272695660591,8,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't plant a tomato. In fact, it was just not ripe yet.","John didn't plant a tomato. In fact, it was just not ripe yet."
+0,-2.7868040800094604,8,m,existential_infact>negation2_infact,name,"John planted a tomato. In fact, it was not ripe yet.","John didn't plant a tomato. In fact, it was not ripe yet."
+1,4.61051344871521,8,f,DNE>negation2_just,name,It was not the case that Mary didn't plant a tomato. It was just not ripe yet.,Mary didn't plant a tomato. It was just not ripe yet.
+1,0.9692764282226562,8,f,existential>negation2,name,Mary planted a tomato. It was not ripe yet.,Mary didn't plant a tomato. It was not ripe yet.
+1,1.2653096914291382,8,f,existential>DNE,name,Mary planted a tomato. It was not ripe yet.,It was not the case that Mary didn't plant a tomato. It was just not ripe yet.
+1,4.831720098853111,8,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't plant a tomato. In fact, it was just not ripe yet.","Mary didn't plant a tomato. In fact, it was just not ripe yet."
+0,-1.9260336011648178,8,f,existential_infact>negation2_infact,name,"Mary planted a tomato. In fact, it was not ripe yet.","Mary didn't plant a tomato. In fact, it was not ripe yet."
+1,7.017005354166031,9,m,DNE>negation2_just,name,It was not the case that John didn't spot a deer. It was just difficult to shoot.,John didn't spot a deer. It was just difficult to shoot.
+1,3.4699867367744446,9,m,existential>negation2,name,John spotted a deer. It was difficult to shoot.,John didn't spot a deer. It was difficult to shoot.
+1,1.1887366771697998,9,m,existential>DNE,name,John spotted a deer. It was difficult to shoot.,It was not the case that John didn't spot a deer. It was just difficult to shoot.
+1,2.8679127395153046,9,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't spot a deer. In fact, it was just difficult to shoot.","John didn't spot a deer. In fact, it was just difficult to shoot."
+0,-3.1130466237664223,9,m,existential_infact>negation2_infact,name,"John spotted a deer. In fact, it was difficult to shoot.","John didn't spot a deer. In fact, it was difficult to shoot."
+1,6.663021624088287,9,f,DNE>negation2_just,name,It was not the case that Mary didn't spot a deer. It was just difficult to shoot.,Mary didn't spot a deer. It was just difficult to shoot.
+1,2.6227258145809174,9,f,existential>negation2,name,Mary spotted a deer. It was difficult to shoot.,Mary didn't spot a deer. It was difficult to shoot.
+1,0.8012365102767944,9,f,existential>DNE,name,Mary spotted a deer. It was difficult to shoot.,It was not the case that Mary didn't spot a deer. It was just difficult to shoot.
+1,3.4341011941432953,9,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't spot a deer. In fact, it was just difficult to shoot.","Mary didn't spot a deer. In fact, it was just difficult to shoot."
+0,-4.121454834938049,9,f,existential_infact>negation2_infact,name,"Mary spotted a deer. In fact, it was difficult to shoot.","Mary didn't spot a deer. In fact, it was difficult to shoot."
+1,3.258680522441864,10,m,DNE>negation2_just,name,It was not the case that John didn't throw a ball. It was just missed by the catcher.,John didn't throw a ball. It was just missed by the catcher.
+1,3.5334153175354004,10,m,existential>negation2,name,John threw a ball. It was missed by the catcher.,John didn't throw a ball. It was missed by the catcher.
+1,4.216121256351471,10,m,existential>DNE,name,John threw a ball. It was missed by the catcher.,It was not the case that John didn't throw a ball. It was just missed by the catcher.
+1,2.501701697707176,10,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't throw a ball. In fact, it was just missed by the catcher.","John didn't throw a ball. In fact, it was just missed by the catcher."
+0,-5.604492738842964,10,m,existential_infact>negation2_infact,name,"John threw a ball. In fact, it was missed by the catcher.","John didn't throw a ball. In fact, it was missed by the catcher."
+1,3.7080811858177185,10,f,DNE>negation2_just,name,It was not the case that Mary didn't throw a ball. It was just missed by the catcher.,Mary didn't throw a ball. It was just missed by the catcher.
+1,2.950333893299103,10,f,existential>negation2,name,Mary threw a ball. It was missed by the catcher.,Mary didn't throw a ball. It was missed by the catcher.
+1,3.3346502780914307,10,f,existential>DNE,name,Mary threw a ball. It was missed by the catcher.,It was not the case that Mary didn't throw a ball. It was just missed by the catcher.
+1,2.7994542196393013,10,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't throw a ball. In fact, it was just missed by the catcher.","Mary didn't throw a ball. In fact, it was just missed by the catcher."
+0,-4.910419501364231,10,f,existential_infact>negation2_infact,name,"Mary threw a ball. In fact, it was missed by the catcher.","Mary didn't throw a ball. In fact, it was missed by the catcher."
+0,-1.5296655893325806,11,m,DNE>negation2_just,name,It was not the case that John didn't stop a car. It was just slowing down already.,John didn't stop a car. It was just slowing down already.
+0,-0.5426329374313354,11,m,existential>negation2,name,John stopped a car. It was slowing down already.,John didn't stop a car. It was slowing down already.
+1,5.76655587553978,11,m,existential>DNE,name,John stopped a car. It was slowing down already.,It was not the case that John didn't stop a car. It was just slowing down already.
+0,-1.2471260726451874,11,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't stop a car. In fact, it was just slowing down already.","John didn't stop a car. In fact, it was just slowing down already."
+0,-3.012505531311035,11,m,existential_infact>negation2_infact,name,"John stopped a car. In fact, it was slowing down already.","John didn't stop a car. In fact, it was slowing down already."
+0,-1.485238716006279,11,f,DNE>negation2_just,name,It was not the case that Mary didn't stop a car. It was just slowing down already.,Mary didn't stop a car. It was just slowing down already.
+0,-1.0004692375659943,11,f,existential>negation2,name,Mary stopped a car. It was slowing down already.,Mary didn't stop a car. It was slowing down already.
+1,5.6485951989889145,11,f,existential>DNE,name,Mary stopped a car. It was slowing down already.,It was not the case that Mary didn't stop a car. It was just slowing down already.
+0,-1.229741670191288,11,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't stop a car. In fact, it was just slowing down already.","Mary didn't stop a car. In fact, it was just slowing down already."
+0,-3.094987839460373,11,f,existential_infact>negation2_infact,name,"Mary stopped a car. In fact, it was slowing down already.","Mary didn't stop a car. In fact, it was slowing down already."
+1,6.454105198383331,12,m,DNE>negation2_just,name,It was not the case that John didn't propose an idea. It was just scooped by others.,John didn't propose an idea. It was just scooped by others.
+0,-2.826259970664978,12,m,existential>negation2,name,John proposed an idea. It was scooped by others.,John didn't propose an idea. It was scooped by others.
+0,-3.026764750480652,12,m,existential>DNE,name,John proposed an idea. It was scooped by others.,It was not the case that John didn't propose an idea. It was just scooped by others.
+1,5.188684716820717,12,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't propose an idea. In fact, it was just scooped by others.","John didn't propose an idea. In fact, it was just scooped by others."
+0,-1.7368677705526352,12,m,existential_infact>negation2_infact,name,"John proposed an idea. In fact, it was scooped by others.","John didn't propose an idea. In fact, it was scooped by others."
+1,6.411067605018616,12,f,DNE>negation2_just,name,It was not the case that Mary didn't propose an idea. It was just scooped by others.,Mary didn't propose an idea. It was just scooped by others.
+0,-2.4806665778160095,12,f,existential>negation2,name,Mary proposed an idea. It was scooped by others.,Mary didn't propose an idea. It was scooped by others.
+0,-2.748344600200653,12,f,existential>DNE,name,Mary proposed an idea. It was scooped by others.,It was not the case that Mary didn't propose an idea. It was just scooped by others.
+1,4.976788684725761,12,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't propose an idea. In fact, it was just scooped by others.","Mary didn't propose an idea. In fact, it was just scooped by others."
+0,-2.89987513422966,12,f,existential_infact>negation2_infact,name,"Mary proposed an idea. In fact, it was scooped by others.","Mary didn't propose an idea. In fact, it was scooped by others."
+1,8.07917046546936,13,m,DNE>negation2_just,name,It was not the case that John didn't build a chair. It was just not finished yet.,John didn't build a chair. It was just not finished yet.
+1,3.7722991704940796,13,m,existential>negation2,name,John built a chair. It was not finished yet.,John didn't build a chair. It was not finished yet.
+1,2.0832496285438538,13,m,existential>DNE,name,John built a chair. It was not finished yet.,It was not the case that John didn't build a chair. It was just not finished yet.
+1,7.340671256184578,13,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't build a chair. In fact, it was just not finished yet.","John didn't build a chair. In fact, it was just not finished yet."
+1,0.7628312110900879,13,m,existential_infact>negation2_infact,name,"John built a chair. In fact, it was not finished yet.","John didn't build a chair. In fact, it was not finished yet."
+1,7.349641859531403,13,f,DNE>negation2_just,name,It was not the case that Mary didn't build a chair. It was just not finished yet.,Mary didn't build a chair. It was just not finished yet.
+1,2.7118637561798096,13,f,existential>negation2,name,Mary built a chair. It was not finished yet.,Mary didn't build a chair. It was not finished yet.
+1,1.5918212532997131,13,f,existential>DNE,name,Mary built a chair. It was not finished yet.,It was not the case that Mary didn't build a chair. It was just not finished yet.
+1,7.06523485481739,13,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't build a chair. In fact, it was just not finished yet.","Mary didn't build a chair. In fact, it was just not finished yet."
+0,-0.23608222603797913,13,f,existential_infact>negation2_infact,name,"Mary built a chair. In fact, it was not finished yet.","Mary didn't build a chair. In fact, it was not finished yet."
+1,2.3329993784427643,14,m,DNE>negation2_just,name,It was not the case that John didn't discuss an argument. It was just hard to unpack.,John didn't discuss an argument. It was just hard to unpack.
+0,-0.3487599790096283,14,m,existential>negation2,name,John discussed an argument. It was hard to unpack.,John didn't discuss an argument. It was hard to unpack.
+1,1.1790729761123657,14,m,existential>DNE,name,John discussed an argument. It was hard to unpack.,It was not the case that John didn't discuss an argument. It was just hard to unpack.
+1,1.7229936197400093,14,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't discuss an argument. In fact, it was just hard to unpack.","John didn't discuss an argument. In fact, it was just hard to unpack."
+0,-3.7148895263671875,14,m,existential_infact>negation2_infact,name,"John discussed an argument. In fact, it was hard to unpack.","John didn't discuss an argument. In fact, it was hard to unpack."
+1,1.3677415251731873,14,f,DNE>negation2_just,name,It was not the case that Mary didn't discuss an argument. It was just hard to unpack.,Mary didn't discuss an argument. It was just hard to unpack.
+0,-1.7356793284416199,14,f,existential>negation2,name,Mary discussed an argument. It was hard to unpack.,Mary didn't discuss an argument. It was hard to unpack.
+1,1.0853267908096313,14,f,existential>DNE,name,Mary discussed an argument. It was hard to unpack.,It was not the case that Mary didn't discuss an argument. It was just hard to unpack.
+1,0.9265310987830162,14,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't discuss an argument. In fact, it was just hard to unpack.","Mary didn't discuss an argument. In fact, it was just hard to unpack."
+0,-5.02490771561861,14,f,existential_infact>negation2_infact,name,"Mary discussed an argument. In fact, it was hard to unpack.","Mary didn't discuss an argument. In fact, it was hard to unpack."
+1,1.7124917772598565,15,m,DNE>negation2_just,name,It was not the case that John didn't buy a shirt. It was just sent for tailoring.,John didn't buy a shirt. It was just sent for tailoring.
+1,5.644488672260195,15,m,existential>negation2,name,John bought a shirt. It was sent for tailoring.,John didn't buy a shirt. It was sent for tailoring.
+1,6.822564612142742,15,m,existential>DNE,name,John bought a shirt. It was sent for tailoring.,It was not the case that John didn't buy a shirt. It was just sent for tailoring.
+1,3.8907877618912607,15,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't buy a shirt. In fact, it was just sent for tailoring.","John didn't buy a shirt. In fact, it was just sent for tailoring."
+0,-0.8959971512667835,15,m,existential_infact>negation2_infact,name,"John bought a shirt. In fact, it was sent for tailoring.","John didn't buy a shirt. In fact, it was sent for tailoring."
+1,0.8380273557268083,15,f,DNE>negation2_just,name,It was not the case that Mary didn't buy a shirt. It was just sent for tailoring.,Mary didn't buy a shirt. It was just sent for tailoring.
+1,5.305332591291517,15,f,existential>negation2,name,Mary bought a shirt. It was sent for tailoring.,Mary didn't buy a shirt. It was sent for tailoring.
+1,7.633638642961159,15,f,existential>DNE,name,Mary bought a shirt. It was sent for tailoring.,It was not the case that Mary didn't buy a shirt. It was just sent for tailoring.
+1,3.338339520036243,15,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't buy a shirt. In fact, it was just sent for tailoring.","Mary didn't buy a shirt. In fact, it was just sent for tailoring."
+0,-2.9566427262034267,15,f,existential_infact>negation2_infact,name,"Mary bought a shirt. In fact, it was sent for tailoring.","Mary didn't buy a shirt. In fact, it was sent for tailoring."
+0,-0.9951989054679871,16,m,DNE>negation2_just,name,It was not the case that John didn't claim a record. It was just unofficial.,John didn't claim a record. It was just unofficial.
+0,-1.020563781261444,16,m,existential>negation2,name,John claimed a record. It was unofficial.,John didn't claim a record. It was unofficial.
+1,4.28374183177948,16,m,existential>DNE,name,John claimed a record. It was unofficial.,It was not the case that John didn't claim a record. It was just unofficial.
+0,-0.8522320091724396,16,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't claim a record. In fact, it was just unofficial.","John didn't claim a record. In fact, it was just unofficial."
+0,-1.2839563637971878,16,m,existential_infact>negation2_infact,name,"John claimed a record. In fact, it was unofficial.","John didn't claim a record. In fact, it was unofficial."
+0,-0.7197296917438507,16,f,DNE>negation2_just,name,It was not the case that Mary didn't claim a record. It was just unofficial.,Mary didn't claim a record. It was just unofficial.
+0,-1.6529924869537354,16,f,existential>negation2,name,Mary claimed a record. It was unofficial.,Mary didn't claim a record. It was unofficial.
+1,3.9508451521396637,16,f,existential>DNE,name,Mary claimed a record. It was unofficial.,It was not the case that Mary didn't claim a record. It was just unofficial.
+0,-1.0817941725254059,16,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't claim a record. In fact, it was just unofficial.","Mary didn't claim a record. In fact, it was just unofficial."
+0,-2.842544138431549,16,f,existential_infact>negation2_infact,name,"Mary claimed a record. In fact, it was unofficial.","Mary didn't claim a record. In fact, it was unofficial."
+1,3.931032955646515,17,m,DNE>negation2_just,name,It was not the case that John didn't write a book. It was just unpublished.,John didn't write a book. It was just unpublished.
+1,2.032763719558716,17,m,existential>negation2,name,John wrote a book. It was unpublished.,John didn't write a book. It was unpublished.
+1,3.0828368067741394,17,m,existential>DNE,name,John wrote a book. It was unpublished.,It was not the case that John didn't write a book. It was just unpublished.
+1,3.914568766951561,17,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't write a book. In fact, it was just unpublished.","John didn't write a book. In fact, it was just unpublished."
+0,-1.123606190085411,17,m,existential_infact>negation2_infact,name,"John wrote a book. In fact, it was unpublished.","John didn't write a book. In fact, it was unpublished."
+1,5.589866101741791,17,f,DNE>negation2_just,name,It was not the case that Mary didn't write a book. It was just unpublished.,Mary didn't write a book. It was just unpublished.
+1,2.4788613319396973,17,f,existential>negation2,name,Mary wrote a book. It was unpublished.,Mary didn't write a book. It was unpublished.
+1,2.2582350969314575,17,f,existential>DNE,name,Mary wrote a book. It was unpublished.,It was not the case that Mary didn't write a book. It was just unpublished.
+1,5.804403945803642,17,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't write a book. In fact, it was just unpublished.","Mary didn't write a book. In fact, it was just unpublished."
+0,-0.7470303326845169,17,f,existential_infact>negation2_infact,name,"Mary wrote a book. In fact, it was unpublished.","Mary didn't write a book. In fact, it was unpublished."
+1,2.832531787455082,18,m,DNE>negation2_just,name,It was not the case that John didn't order a coffee. It was just on its way.,John didn't order a coffee. It was just on its way.
+1,3.262611348181963,18,m,existential>negation2,name,John ordered a coffee. It was on its way.,John didn't order a coffee. It was on its way.
+1,4.338356893509626,18,m,existential>DNE,name,John ordered a coffee. It was on its way.,It was not the case that John didn't order a coffee. It was just on its way.
+1,4.863088263198733,18,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't order a coffee. In fact, it was just on its way.","John didn't order a coffee. In fact, it was just on its way."
+0,-3.6439371034502983,18,m,existential_infact>negation2_infact,name,"John ordered a coffee. In fact, it was on its way.","John didn't order a coffee. In fact, it was on its way."
+1,3.5253589935600758,18,f,DNE>negation2_just,name,It was not the case that Mary didn't order a coffee. It was just on its way.,Mary didn't order a coffee. It was just on its way.
+1,4.098931817337871,18,f,existential>negation2,name,Mary ordered a coffee. It was on its way.,Mary didn't order a coffee. It was on its way.
+1,4.618124881759286,18,f,existential>DNE,name,Mary ordered a coffee. It was on its way.,It was not the case that Mary didn't order a coffee. It was just on its way.
+1,5.545145341195166,18,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't order a coffee. In fact, it was just on its way.","Mary didn't order a coffee. In fact, it was just on its way."
+0,-2.4185883067548275,18,f,existential_infact>negation2_infact,name,"Mary ordered a coffee. In fact, it was on its way.","Mary didn't order a coffee. In fact, it was on its way."
+1,1.8268116414546967,19,m,DNE>negation2_just,name,It was not the case that John didn't spill a drink. It was just wiped up quickly.,John didn't spill a drink. It was just wiped up quickly.
+1,1.5996770858764648,19,m,existential>negation2,name,John spilled a drink. It was wiped up quickly.,John didn't spill a drink. It was wiped up quickly.
+1,4.685816377401352,19,m,existential>DNE,name,John spilled a drink. It was wiped up quickly.,It was not the case that John didn't spill a drink. It was just wiped up quickly.
+1,2.2404380068182945,19,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't spill a drink. In fact, it was just wiped up quickly.","John didn't spill a drink. In fact, it was just wiped up quickly."
+0,-4.218403674662113,19,m,existential_infact>negation2_infact,name,"John spilled a drink. In fact, it was wiped up quickly.","John didn't spill a drink. In fact, it was wiped up quickly."
+1,2.5259046256542206,19,f,DNE>negation2_just,name,It was not the case that Mary didn't spill a drink. It was just wiped up quickly.,Mary didn't spill a drink. It was just wiped up quickly.
+1,1.8360189199447632,19,f,existential>negation2,name,Mary spilled a drink. It was wiped up quickly.,Mary didn't spill a drink. It was wiped up quickly.
+1,4.16357347369194,19,f,existential>DNE,name,Mary spilled a drink. It was wiped up quickly.,It was not the case that Mary didn't spill a drink. It was just wiped up quickly.
+1,2.7659861221909523,19,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't spill a drink. In fact, it was just wiped up quickly.","Mary didn't spill a drink. In fact, it was just wiped up quickly."
+0,-3.710018940269947,19,f,existential_infact>negation2_infact,name,"Mary spilled a drink. In fact, it was wiped up quickly.","Mary didn't spill a drink. In fact, it was wiped up quickly."
+1,4.8286722004413605,20,m,DNE>negation2_just,name,It was not the case that John didn't produce a film. It was just still in editing.,John didn't produce a film. It was just still in editing.
+1,1.299798309803009,20,m,existential>negation2,name,John produced a film. It was still in editing.,John didn't produce a film. It was still in editing.
+1,5.4458105862140656,20,m,existential>DNE,name,John produced a film. It was still in editing.,It was not the case that John didn't produce a film. It was just still in editing.
+1,8.921489283442497,20,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't produce a film. In fact, it was just still in editing.","John didn't produce a film. In fact, it was just still in editing."
+1,0.44532206654548645,20,m,existential_infact>negation2_infact,name,"John produced a film. In fact, it was still in editing.","John didn't produce a film. In fact, it was still in editing."
+1,3.9633223116397858,20,f,DNE>negation2_just,name,It was not the case that Mary didn't produce a film. It was just still in editing.,Mary didn't produce a film. It was just still in editing.
+1,0.7625851035118103,20,f,existential>negation2,name,Mary produced a film. It was still in editing.,Mary didn't produce a film. It was still in editing.
+1,6.111767441034317,20,f,existential>DNE,name,Mary produced a film. It was still in editing.,It was not the case that Mary didn't produce a film. It was just still in editing.
+1,8.195451691746712,20,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't produce a film. In fact, it was just still in editing.","Mary didn't produce a film. In fact, it was just still in editing."
+0,-1.5997094810009003,20,f,existential_infact>negation2_infact,name,"Mary produced a film. In fact, it was still in editing.","Mary didn't produce a film. In fact, it was still in editing."
+0,-0.9068560600280762,21,m,DNE>negation2_just,name,It was not the case that John didn't make a bag. It was just a prototype.,John didn't make a bag. It was just a prototype.
+0,-0.16464471817016602,21,m,existential>negation2,name,John made a bag. It was a prototype.,John didn't make a bag. It was a prototype.
+1,2.684532642364502,21,m,existential>DNE,name,John made a bag. It was a prototype.,It was not the case that John didn't make a bag. It was just a prototype.
+1,1.0783734619617462,21,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't make a bag. In fact, it was just a prototype.","John didn't make a bag. In fact, it was just a prototype."
+1,0.5424276441335678,21,m,existential_infact>negation2_infact,name,"John made a bag. In fact, it was a prototype.","John didn't make a bag. In fact, it was a prototype."
+0,-0.06525075435638428,21,f,DNE>negation2_just,name,It was not the case that Mary didn't make a bag. It was just a prototype.,Mary didn't make a bag. It was just a prototype.
+0,-0.15893137454986572,21,f,existential>negation2,name,Mary made a bag. It was a prototype.,Mary didn't make a bag. It was a prototype.
+1,1.7255852222442627,21,f,existential>DNE,name,Mary made a bag. It was a prototype.,It was not the case that Mary didn't make a bag. It was just a prototype.
+1,1.3818549513816833,21,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't make a bag. In fact, it was just a prototype.","Mary didn't make a bag. In fact, it was just a prototype."
+1,0.24390070140361786,21,f,existential_infact>negation2_infact,name,"Mary made a bag. In fact, it was a prototype.","Mary didn't make a bag. In fact, it was a prototype."
+0,-2.136117823421955,22,m,DNE>negation2_just,name,It was not the case that John didn't document a country. It was just full of stories.,John didn't document a country. It was just full of stories.
+1,0.2815339174121618,22,m,existential>negation2,name,John documented a country. It was full of stories.,John didn't document a country. It was full of stories.
+1,6.180501064285636,22,m,existential>DNE,name,John documented a country. It was full of stories.,It was not the case that John didn't document a country. It was just full of stories.
+1,0.36656714230775833,22,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't document a country. In fact, it was just full of stories.","John didn't document a country. In fact, it was just full of stories."
+1,0.21479403972625732,22,m,existential_infact>negation2_infact,name,"John documented a country. In fact, it was full of stories.","John didn't document a country. In fact, it was full of stories."
+0,-2.4668375477194786,22,f,DNE>negation2_just,name,It was not the case that Mary didn't document a country. It was just full of stories.,Mary didn't document a country. It was just full of stories.
+1,0.91898587718606,22,f,existential>negation2,name,Mary documented a country. It was full of stories.,Mary didn't document a country. It was full of stories.
+1,6.708673600107431,22,f,existential>DNE,name,Mary documented a country. It was full of stories.,It was not the case that Mary didn't document a country. It was just full of stories.
+1,0.2203795462846756,22,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't document a country. In fact, it was just full of stories.","Mary didn't document a country. In fact, it was just full of stories."
+1,0.10950983315706253,22,f,existential_infact>negation2_infact,name,"Mary documented a country. In fact, it was full of stories.","Mary didn't document a country. In fact, it was full of stories."
+1,6.303994387388229,23,m,DNE>negation2_just,name,It was not the case that John didn't identify a bug. It was just tricky to fix.,John didn't identify a bug. It was just tricky to fix.
+1,5.536565363407135,23,m,existential>negation2,name,John identified a bug. It was tricky to fix.,John didn't identify a bug. It was tricky to fix.
+1,2.5071909725666046,23,m,existential>DNE,name,John identified a bug. It was tricky to fix.,It was not the case that John didn't identify a bug. It was just tricky to fix.
+1,2.0202557146549225,23,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't identify a bug. In fact, it was just tricky to fix.","John didn't identify a bug. In fact, it was just tricky to fix."
+1,2.3767351657152176,23,m,existential_infact>negation2_infact,name,"John identified a bug. In fact, it was tricky to fix.","John didn't identify a bug. In fact, it was tricky to fix."
+1,5.99989378452301,23,f,DNE>negation2_just,name,It was not the case that Mary didn't identify a bug. It was just tricky to fix.,Mary didn't identify a bug. It was just tricky to fix.
+1,5.050339043140411,23,f,existential>negation2,name,Mary identified a bug. It was tricky to fix.,Mary didn't identify a bug. It was tricky to fix.
+1,2.256664514541626,23,f,existential>DNE,name,Mary identified a bug. It was tricky to fix.,It was not the case that Mary didn't identify a bug. It was just tricky to fix.
+1,2.726693883538246,23,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't identify a bug. In fact, it was just tricky to fix.","Mary didn't identify a bug. In fact, it was just tricky to fix."
+1,2.6397020667791367,23,f,existential_infact>negation2_infact,name,"Mary identified a bug. In fact, it was tricky to fix.","Mary didn't identify a bug. In fact, it was tricky to fix."
+1,1.6812397241592407,24,m,DNE>negation2_just,name,It was not the case that John didn't develop a product. It was just in testing.,John didn't develop a product. It was just in testing.
+1,0.349112868309021,24,m,existential>negation2,name,John developed a product. It was in testing.,John didn't develop a product. It was in testing.
+1,1.072515845298767,24,m,existential>DNE,name,John developed a product. It was in testing.,It was not the case that John didn't develop a product. It was just in testing.
+1,2.29838627576828,24,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't develop a product. In fact, it was just in testing.","John didn't develop a product. In fact, it was just in testing."
+0,-1.0316483452916145,24,m,existential_infact>negation2_infact,name,"John developed a product. In fact, it was in testing.","John didn't develop a product. In fact, it was in testing."
+1,0.8254370987415314,24,f,DNE>negation2_just,name,It was not the case that Mary didn't develop a product. It was just in testing.,Mary didn't develop a product. It was just in testing.
+1,0.3104935884475708,24,f,existential>negation2,name,Mary developed a product. It was in testing.,Mary didn't develop a product. It was in testing.
+1,1.97508105635643,24,f,existential>DNE,name,Mary developed a product. It was in testing.,It was not the case that Mary didn't develop a product. It was just in testing.
+1,1.2575301826000214,24,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't develop a product. In fact, it was just in testing.","Mary didn't develop a product. In fact, it was just in testing."
+0,-0.8268503993749619,24,f,existential_infact>negation2_infact,name,"Mary developed a product. In fact, it was in testing.","Mary didn't develop a product. In fact, it was in testing."
+1,6.149582892656326,25,m,DNE>negation2_just,name,It was not the case that John didn't launch a project. It was just delayed.,John didn't launch a project. It was just delayed.
+1,0.6274409890174866,25,m,existential>negation2,name,John launched a project. It was delayed.,John didn't launch a project. It was delayed.
+0,-1.231132596731186,25,m,existential>DNE,name,John launched a project. It was delayed.,It was not the case that John didn't launch a project. It was just delayed.
+1,4.223850324749947,25,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't launch a project. In fact, it was just delayed.","John didn't launch a project. In fact, it was just delayed."
+0,-3.33893521130085,25,m,existential_infact>negation2_infact,name,"John launched a project. In fact, it was delayed.","John didn't launch a project. In fact, it was delayed."
+1,5.946680068969727,25,f,DNE>negation2_just,name,It was not the case that Mary didn't launch a project. It was just delayed.,Mary didn't launch a project. It was just delayed.
+1,0.6788581609725952,25,f,existential>negation2,name,Mary launched a project. It was delayed.,Mary didn't launch a project. It was delayed.
+0,-0.7436846494674683,25,f,existential>DNE,name,Mary launched a project. It was delayed.,It was not the case that Mary didn't launch a project. It was just delayed.
+1,4.639945641160011,25,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't launch a project. In fact, it was just delayed.","Mary didn't launch a project. In fact, it was just delayed."
+0,-3.3453836739063263,25,f,existential_infact>negation2_infact,name,"Mary launched a project. In fact, it was delayed.","Mary didn't launch a project. In fact, it was delayed."
+1,8.30644029378891,26,m,DNE>negation2_just,name,It was not the case that John didn't prepare a course. It was just not published.,John didn't prepare a course. It was just not published.
+0,-0.9692168235778809,26,m,existential>negation2,name,John prepared a course. It was not published.,John didn't prepare a course. It was not published.
+0,-1.938203513622284,26,m,existential>DNE,name,John prepared a course. It was not published.,It was not the case that John didn't prepare a course. It was just not published.
+1,7.601907566189766,26,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't prepare a course. In fact, it was just not published.","John didn't prepare a course. In fact, it was just not published."
+0,-1.9938809871673584,26,m,existential_infact>negation2_infact,name,"John prepared a course. In fact, it was not published.","John didn't prepare a course. In fact, it was not published."
+1,7.931092411279678,26,f,DNE>negation2_just,name,It was not the case that Mary didn't prepare a course. It was just not published.,Mary didn't prepare a course. It was just not published.
+0,-0.453263521194458,26,f,existential>negation2,name,Mary prepared a course. It was not published.,Mary didn't prepare a course. It was not published.
+0,-0.37808534502983093,26,f,existential>DNE,name,Mary prepared a course. It was not published.,It was not the case that Mary didn't prepare a course. It was just not published.
+1,7.073998793959618,26,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't prepare a course. In fact, it was just not published.","Mary didn't prepare a course. In fact, it was just not published."
+0,-1.8954985290765762,26,f,existential_infact>negation2_infact,name,"Mary prepared a course. In fact, it was not published.","Mary didn't prepare a course. In fact, it was not published."
+1,2.3764404356479645,27,m,DNE>negation2_just,name,It was not the case that John didn't accept a case. It was just complicated.,John didn't accept a case. It was just complicated.
+1,0.07133936882019043,27,m,existential>negation2,name,John accepted a case. It was complicated.,John didn't accept a case. It was complicated.
+1,4.371057718992233,27,m,existential>DNE,name,John accepted a case. It was complicated.,It was not the case that John didn't accept a case. It was just complicated.
+1,5.201361574232578,27,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't accept a case. In fact, it was just complicated.","John didn't accept a case. In fact, it was just complicated."
+1,0.48387955874204636,27,m,existential_infact>negation2_infact,name,"John accepted a case. In fact, it was complicated.","John didn't accept a case. In fact, it was complicated."
+1,2.40245720744133,27,f,DNE>negation2_just,name,It was not the case that Mary didn't accept a case. It was just complicated.,Mary didn't accept a case. It was just complicated.
+1,0.40404629707336426,27,f,existential>negation2,name,Mary accepted a case. It was complicated.,Mary didn't accept a case. It was complicated.
+1,4.685882121324539,27,f,existential>DNE,name,Mary accepted a case. It was complicated.,It was not the case that Mary didn't accept a case. It was just complicated.
+1,5.59125991910696,27,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't accept a case. In fact, it was just complicated.","Mary didn't accept a case. In fact, it was just complicated."
+1,0.7362356260418892,27,f,existential_infact>negation2_infact,name,"Mary accepted a case. In fact, it was complicated.","Mary didn't accept a case. In fact, it was complicated."
+1,1.399923950433731,28,m,DNE>negation2_just,name,It was not the case that John didn't invade a castle. It was just heavily guarded.,John didn't invade a castle. It was just heavily guarded.
+1,3.438710868358612,28,m,existential>negation2,name,John invaded a castle. It was heavily guarded.,John didn't invade a castle. It was heavily guarded.
+1,7.5952973663806915,28,m,existential>DNE,name,John invaded a castle. It was heavily guarded.,It was not the case that John didn't invade a castle. It was just heavily guarded.
+1,2.198882043361664,28,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't invade a castle. In fact, it was just heavily guarded.","John didn't invade a castle. In fact, it was just heavily guarded."
+0,-3.5764219760894775,28,m,existential_infact>negation2_infact,name,"John invaded a castle. In fact, it was heavily guarded.","John didn't invade a castle. In fact, it was heavily guarded."
+1,1.566289484500885,28,f,DNE>negation2_just,name,It was not the case that Mary didn't invade a castle. It was just heavily guarded.,Mary didn't invade a castle. It was just heavily guarded.
+1,2.401850402355194,28,f,existential>negation2,name,Mary invaded a castle. It was heavily guarded.,Mary didn't invade a castle. It was heavily guarded.
+1,6.98831045627594,28,f,existential>DNE,name,Mary invaded a castle. It was heavily guarded.,It was not the case that Mary didn't invade a castle. It was just heavily guarded.
+1,2.209209069609642,28,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't invade a castle. In fact, it was just heavily guarded.","Mary didn't invade a castle. In fact, it was just heavily guarded."
+0,-4.243996322154999,28,f,existential_infact>negation2_infact,name,"Mary invaded a castle. In fact, it was heavily guarded.","Mary didn't invade a castle. In fact, it was heavily guarded."
+1,1.4261500835418701,29,m,DNE>negation2_just,name,It was not the case that John didn't found a company. It was just closed.,John didn't found a company. It was just closed.
+0,-6.084940075874329,29,m,existential>negation2,name,John founded a company. It was closed.,John didn't found a company. It was closed.
+0,-1.3570064306259155,29,m,existential>DNE,name,John founded a company. It was closed.,It was not the case that John didn't found a company. It was just closed.
+1,0.5838156044483185,29,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't found a company. In fact, it was just closed.","John didn't found a company. In fact, it was just closed."
+0,-7.732544109225273,29,m,existential_infact>negation2_infact,name,"John founded a company. In fact, it was closed.","John didn't found a company. In fact, it was closed."
+1,2.6456061601638794,29,f,DNE>negation2_just,name,It was not the case that Mary didn't found a company. It was just closed.,Mary didn't found a company. It was just closed.
+0,-4.059283018112183,29,f,existential>negation2,name,Mary founded a company. It was closed.,Mary didn't found a company. It was closed.
+0,-1.4949703216552734,29,f,existential>DNE,name,Mary founded a company. It was closed.,It was not the case that Mary didn't found a company. It was just closed.
+1,1.6283657550811768,29,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't found a company. In fact, it was just closed.","Mary didn't found a company. In fact, it was just closed."
+0,-7.547724515199661,29,f,existential_infact>negation2_infact,name,"Mary founded a company. In fact, it was closed.","Mary didn't found a company. In fact, it was closed."
+1,2.0463566184043884,30,m,DNE>negation2_just,name,It was not the case that John didn't fly a helicopter. It was just grounded for now.,John didn't fly a helicopter. It was just grounded for now.
+0,-0.17501330375671387,30,m,existential>negation2,name,John flew a helicopter. It was grounded for now.,John didn't fly a helicopter. It was grounded for now.
+1,0.9672091603279114,30,m,existential>DNE,name,John flew a helicopter. It was grounded for now.,It was not the case that John didn't fly a helicopter. It was just grounded for now.
+1,1.1916548609733582,30,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't fly a helicopter. In fact, it was just grounded for now.","John didn't fly a helicopter. In fact, it was just grounded for now."
+0,-0.70594622194767,30,m,existential_infact>negation2_infact,name,"John flew a helicopter. In fact, it was grounded for now.","John didn't fly a helicopter. In fact, it was grounded for now."
+1,1.6258249282836914,30,f,DNE>negation2_just,name,It was not the case that Mary didn't fly a helicopter. It was just grounded for now.,Mary didn't fly a helicopter. It was just grounded for now.
+0,-0.5106854438781738,30,f,existential>negation2,name,Mary flew a helicopter. It was grounded for now.,Mary didn't fly a helicopter. It was grounded for now.
+1,0.9392094612121582,30,f,existential>DNE,name,Mary flew a helicopter. It was grounded for now.,It was not the case that Mary didn't fly a helicopter. It was just grounded for now.
+1,1.2860275357961655,30,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't fly a helicopter. In fact, it was just grounded for now.","Mary didn't fly a helicopter. In fact, it was just grounded for now."
+0,-1.002548709511757,30,f,existential_infact>negation2_infact,name,"Mary flew a helicopter. In fact, it was grounded for now.","Mary didn't fly a helicopter. In fact, it was grounded for now."
+1,3.334104286506772,31,m,DNE>negation2_just,name,It was not the case that John didn't raise a horse. It was just still a foal.,John didn't raise a horse. It was just still a foal.
+1,2.8589053680188954,31,m,existential>negation2,name,John raised a horse. It was still a foal.,John didn't raise a horse. It was still a foal.
+1,7.411619712132961,31,m,existential>DNE,name,John raised a horse. It was still a foal.,It was not the case that John didn't raise a horse. It was just still a foal.
+1,6.8908544927835464,31,m,DNE_infact>negation2_just_infact,name,"It was not the case that John didn't raise a horse. In fact, it was just still a foal.","John didn't raise a horse. In fact, it was just still a foal."
+1,4.149370071943849,31,m,existential_infact>negation2_infact,name,"John raised a horse. In fact, it was still a foal.","John didn't raise a horse. In fact, it was still a foal."
+1,2.593913286924362,31,f,DNE>negation2_just,name,It was not the case that Mary didn't raise a horse. It was just still a foal.,Mary didn't raise a horse. It was just still a foal.
+1,1.3141771708615124,31,f,existential>negation2,name,Mary raised a horse. It was still a foal.,Mary didn't raise a horse. It was still a foal.
+1,7.1529811401851475,31,f,existential>DNE,name,Mary raised a horse. It was still a foal.,It was not the case that Mary didn't raise a horse. It was just still a foal.
+1,6.954168161377311,31,f,DNE_infact>negation2_just_infact,name,"It was not the case that Mary didn't raise a horse. In fact, it was just still a foal.","Mary didn't raise a horse. In fact, it was just still a foal."
+1,3.4200429427437484,31,f,existential_infact>negation2_infact,name,"Mary raised a horse. In fact, it was still a foal.","Mary didn't raise a horse. In fact, it was still a foal."

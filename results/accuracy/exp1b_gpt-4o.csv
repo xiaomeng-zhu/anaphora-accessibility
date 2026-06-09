@@ -1,0 +1,1281 @@
+raw_response,sent1,sent2,frame,gender,comp,correct
+1,"John owns a cow, and he beats it. He also feeds it.","If John owns a cow, he beats it. He also feeds it.",0,m,a>if,1
+1,"John owns a cow, and he beats it. He also feeds it.","Whenever John owns a cow, he beats it. He also feeds it.",0,m,a>whenever,1
+1,"John owns a cow, and he beats it. It is a big one.","If John owns a cow, he beats it. It is a big one.",0,m,a>if,1
+1,"John owns a cow, and he beats it. It is a big one.","Whenever John owns a cow, he beats it. It is a big one.",0,m,a>whenever,1
+1,"If Mary owns a cow, she beats it. She also feeds it.","Mary owns a cow, and she beats it. She also feeds it.",0,f,a>if,0
+1,"Mary owns a cow, and she beats it. She also feeds it.","Whenever Mary owns a cow, she beats it. She also feeds it.",0,f,a>whenever,1
+1,"Mary owns a cow, and she beats it. It is a big one.","If Mary owns a cow, she beats it. It is a big one.",0,f,a>if,1
+1,"Mary owns a cow, and she beats it. It is a big one.","Whenever Mary owns a cow, she beats it. It is a big one.",0,f,a>whenever,1
+2,"If John owns a cow, he beats it. He also sells it.","John owns a cow, and he beats it. He also sells it.",0,m,a>if,1
+1,"John owns a cow, and he beats it. He also sells it.","Whenever John owns a cow, he beats it. He also sells it.",0,m,a>whenever,1
+2,"If John owns a cow, he beats it. It is a healthy one.","John owns a cow, and he beats it. It is a healthy one.",0,m,a>if,1
+2,"Whenever John owns a cow, he beats it. It is a healthy one.","John owns a cow, and he beats it. It is a healthy one.",0,m,a>whenever,1
+1,"Mary owns a cow, and she beats it. She also sells it.","If Mary owns a cow, she beats it. She also sells it.",0,f,a>if,1
+1,"Mary owns a cow, and she beats it. She also sells it.","Whenever Mary owns a cow, she beats it. She also sells it.",0,f,a>whenever,1
+1,"Mary owns a cow, and she beats it. It is a healthy one.","If Mary owns a cow, she beats it. It is a healthy one.",0,f,a>if,1
+1,"Mary owns a cow, and she beats it. It is a healthy one.","Whenever Mary owns a cow, she beats it. It is a healthy one.",0,f,a>whenever,1
+1,"John owns a cow, and he beats it. He also cleans it.","If John owns a cow, he beats it. He also cleans it.",0,m,a>if,1
+1,"Whenever John owns a cow, he beats it. He also cleans it.","John owns a cow, and he beats it. He also cleans it.",0,m,a>whenever,0
+2,"If John owns a cow, he beats it. It is a brown one.","John owns a cow, and he beats it. It is a brown one.",0,m,a>if,1
+1,"Whenever John owns a cow, he beats it. It is a brown one.","John owns a cow, and he beats it. It is a brown one.",0,m,a>whenever,0
+1,"If Mary owns a cow, she beats it. She also cleans it.","Mary owns a cow, and she beats it. She also cleans it.",0,f,a>if,0
+1,"Whenever Mary owns a cow, she beats it. She also cleans it.","Mary owns a cow, and she beats it. She also cleans it.",0,f,a>whenever,0
+1,"Mary owns a cow, and she beats it. It is a brown one.","If Mary owns a cow, she beats it. It is a brown one.",0,f,a>if,1
+1,"Mary owns a cow, and she beats it. It is a brown one.","Whenever Mary owns a cow, she beats it. It is a brown one.",0,f,a>whenever,1
+1,"John owns a cow, and he beats it. He also protects it.","If John owns a cow, he beats it. He also protects it.",0,m,a>if,1
+2,"Whenever John owns a cow, he beats it. He also protects it.","John owns a cow, and he beats it. He also protects it.",0,m,a>whenever,1
+2,"If John owns a cow, he beats it. It is a black one.","John owns a cow, and he beats it. It is a black one.",0,m,a>if,1
+1,"Whenever John owns a cow, he beats it. It is a black one.","John owns a cow, and he beats it. It is a black one.",0,m,a>whenever,0
+1,"Mary owns a cow, and she beats it. She also protects it.","If Mary owns a cow, she beats it. She also protects it.",0,f,a>if,1
+1,"Mary owns a cow, and she beats it. She also protects it.","Whenever Mary owns a cow, she beats it. She also protects it.",0,f,a>whenever,1
+1,"Mary owns a cow, and she beats it. It is a black one.","If Mary owns a cow, she beats it. It is a black one.",0,f,a>if,1
+1,"Whenever Mary owns a cow, she beats it. It is a black one.","Mary owns a cow, and she beats it. It is a black one.",0,f,a>whenever,0
+1,"John owns a cow, and he beats it. He also tends it.","If John owns a cow, he beats it. He also tends it.",0,m,a>if,1
+1,"Whenever John owns a cow, he beats it. He also tends it.","John owns a cow, and he beats it. He also tends it.",0,m,a>whenever,0
+2,"If John owns a cow, he beats it. It is a young one.","John owns a cow, and he beats it. It is a young one.",0,m,a>if,1
+1,"John owns a cow, and he beats it. It is a young one.","Whenever John owns a cow, he beats it. It is a young one.",0,m,a>whenever,1
+2,"If Mary owns a cow, she beats it. She also tends it.","Mary owns a cow, and she beats it. She also tends it.",0,f,a>if,1
+1,"Whenever Mary owns a cow, she beats it. She also tends it.","Mary owns a cow, and she beats it. She also tends it.",0,f,a>whenever,0
+1,"If Mary owns a cow, she beats it. It is a young one.","Mary owns a cow, and she beats it. It is a young one.",0,f,a>if,0
+1,"Whenever Mary owns a cow, she beats it. It is a young one.","Mary owns a cow, and she beats it. It is a young one.",0,f,a>whenever,0
+1,"If John acquires a treasure, he keeps it. He also hides it.","John acquires a treasure, and he keeps it. He also hides it.",1,m,a>if,0
+1,"Whenever John acquires a treasure, he keeps it. He also hides it.","John acquires a treasure, and he keeps it. He also hides it.",1,m,a>whenever,0
+2,"John acquires a treasure, and he keeps it. It is a hidden one.","If John acquires a treasure, he keeps it. It is a hidden one.",1,m,a>if,0
+2,"John acquires a treasure, and he keeps it. It is a hidden one.","Whenever John acquires a treasure, he keeps it. It is a hidden one.",1,m,a>whenever,0
+1,"Mary acquires a treasure, and she keeps it. She also hides it.","If Mary acquires a treasure, she keeps it. She also hides it.",1,f,a>if,1
+1,"Mary acquires a treasure, and she keeps it. She also hides it.","Whenever Mary acquires a treasure, she keeps it. She also hides it.",1,f,a>whenever,1
+2,"If Mary acquires a treasure, she keeps it. It is a hidden one.","Mary acquires a treasure, and she keeps it. It is a hidden one.",1,f,a>if,1
+2,"Whenever Mary acquires a treasure, she keeps it. It is a hidden one.","Mary acquires a treasure, and she keeps it. It is a hidden one.",1,f,a>whenever,1
+1,"John acquires a treasure, and he keeps it. He also buries it.","If John acquires a treasure, he keeps it. He also buries it.",1,m,a>if,1
+1,"John acquires a treasure, and he keeps it. He also buries it.","Whenever John acquires a treasure, he keeps it. He also buries it.",1,m,a>whenever,1
+1,"If John acquires a treasure, he keeps it. It is an ancient one.","John acquires a treasure, and he keeps it. It is an ancient one.",1,m,a>if,0
+2,"John acquires a treasure, and he keeps it. It is an ancient one.","Whenever John acquires a treasure, he keeps it. It is an ancient one.",1,m,a>whenever,0
+1,"Mary acquires a treasure, and she keeps it. She also buries it.","If Mary acquires a treasure, she keeps it. She also buries it.",1,f,a>if,1
+1,"Mary acquires a treasure, and she keeps it. She also buries it.","Whenever Mary acquires a treasure, she keeps it. She also buries it.",1,f,a>whenever,1
+2,"If Mary acquires a treasure, she keeps it. It is an ancient one.","Mary acquires a treasure, and she keeps it. It is an ancient one.",1,f,a>if,1
+2,"Mary acquires a treasure, and she keeps it. It is an ancient one.","Whenever Mary acquires a treasure, she keeps it. It is an ancient one.",1,f,a>whenever,0
+1,"John acquires a treasure, and he keeps it. He also guards it.","If John acquires a treasure, he keeps it. He also guards it.",1,m,a>if,1
+1,"Whenever John acquires a treasure, he keeps it. He also guards it.","John acquires a treasure, and he keeps it. He also guards it.",1,m,a>whenever,0
+1,"John acquires a treasure, and he keeps it. It is a valuable one.","If John acquires a treasure, he keeps it. It is a valuable one.",1,m,a>if,1
+2,"John acquires a treasure, and he keeps it. It is a valuable one.","Whenever John acquires a treasure, he keeps it. It is a valuable one.",1,m,a>whenever,0
+1,"If Mary acquires a treasure, she keeps it. She also guards it.","Mary acquires a treasure, and she keeps it. She also guards it.",1,f,a>if,0
+1,"Whenever Mary acquires a treasure, she keeps it. She also guards it.","Mary acquires a treasure, and she keeps it. She also guards it.",1,f,a>whenever,0
+1,"If Mary acquires a treasure, she keeps it. It is a valuable one.","Mary acquires a treasure, and she keeps it. It is a valuable one.",1,f,a>if,0
+1,"Whenever Mary acquires a treasure, she keeps it. It is a valuable one.","Mary acquires a treasure, and she keeps it. It is a valuable one.",1,f,a>whenever,0
+1,"John acquires a treasure, and he keeps it. He also protects it.","If John acquires a treasure, he keeps it. He also protects it.",1,m,a>if,1
+2,"John acquires a treasure, and he keeps it. He also protects it.","Whenever John acquires a treasure, he keeps it. He also protects it.",1,m,a>whenever,0
+2,"If John acquires a treasure, he keeps it. It is a mysterious one.","John acquires a treasure, and he keeps it. It is a mysterious one.",1,m,a>if,1
+2,"John acquires a treasure, and he keeps it. It is a mysterious one.","Whenever John acquires a treasure, he keeps it. It is a mysterious one.",1,m,a>whenever,0
+1,"If Mary acquires a treasure, she keeps it. She also protects it.","Mary acquires a treasure, and she keeps it. She also protects it.",1,f,a>if,0
+1,"Whenever Mary acquires a treasure, she keeps it. She also protects it.","Mary acquires a treasure, and she keeps it. She also protects it.",1,f,a>whenever,0
+1,"If Mary acquires a treasure, she keeps it. It is a mysterious one.","Mary acquires a treasure, and she keeps it. It is a mysterious one.",1,f,a>if,0
+2,"Mary acquires a treasure, and she keeps it. It is a mysterious one.","Whenever Mary acquires a treasure, she keeps it. It is a mysterious one.",1,f,a>whenever,0
+2,"If John acquires a treasure, he keeps it. He also spends it.","John acquires a treasure, and he keeps it. He also spends it.",1,m,a>if,1
+1,"Whenever John acquires a treasure, he keeps it. He also spends it.","John acquires a treasure, and he keeps it. He also spends it.",1,m,a>whenever,0
+2,"If John acquires a treasure, he keeps it. It is a lost one.","John acquires a treasure, and he keeps it. It is a lost one.",1,m,a>if,1
+2,"Whenever John acquires a treasure, he keeps it. It is a lost one.","John acquires a treasure, and he keeps it. It is a lost one.",1,m,a>whenever,1
+1,"Mary acquires a treasure, and she keeps it. She also spends it.","If Mary acquires a treasure, she keeps it. She also spends it.",1,f,a>if,1
+2,"Whenever Mary acquires a treasure, she keeps it. She also spends it.","Mary acquires a treasure, and she keeps it. She also spends it.",1,f,a>whenever,1
+2,"Mary acquires a treasure, and she keeps it. It is a lost one.","If Mary acquires a treasure, she keeps it. It is a lost one.",1,f,a>if,0
+2,"Mary acquires a treasure, and she keeps it. It is a lost one.","Whenever Mary acquires a treasure, she keeps it. It is a lost one.",1,f,a>whenever,0
+1,"If John sees a dog, he chases it. He also hugs it.","John sees a dog, and he chases it. He also hugs it.",2,m,a>if,0
+2,"John sees a dog, and he chases it. He also hugs it.","Whenever John sees a dog, he chases it. He also hugs it.",2,m,a>whenever,0
+1,"If John sees a dog, he chases it. It is a friendly one.","John sees a dog, and he chases it. It is a friendly one.",2,m,a>if,0
+2,"John sees a dog, and he chases it. It is a friendly one.","Whenever John sees a dog, he chases it. It is a friendly one.",2,m,a>whenever,0
+1,"If Mary sees a dog, she chases it. She also hugs it.","Mary sees a dog, and she chases it. She also hugs it.",2,f,a>if,0
+1,"Whenever Mary sees a dog, she chases it. She also hugs it.","Mary sees a dog, and she chases it. She also hugs it.",2,f,a>whenever,0
+1,"If Mary sees a dog, she chases it. It is a friendly one.","Mary sees a dog, and she chases it. It is a friendly one.",2,f,a>if,0
+1,"Whenever Mary sees a dog, she chases it. It is a friendly one.","Mary sees a dog, and she chases it. It is a friendly one.",2,f,a>whenever,0
+1,"John sees a dog, and he chases it. He also feeds it.","If John sees a dog, he chases it. He also feeds it.",2,m,a>if,1
+2,"John sees a dog, and he chases it. He also feeds it.","Whenever John sees a dog, he chases it. He also feeds it.",2,m,a>whenever,0
+1,"If John sees a dog, he chases it. It is a big one.","John sees a dog, and he chases it. It is a big one.",2,m,a>if,0
+2,"John sees a dog, and he chases it. It is a big one.","Whenever John sees a dog, he chases it. It is a big one.",2,m,a>whenever,0
+1,"Mary sees a dog, and she chases it. She also feeds it.","If Mary sees a dog, she chases it. She also feeds it.",2,f,a>if,1
+1,"Whenever Mary sees a dog, she chases it. She also feeds it.","Mary sees a dog, and she chases it. She also feeds it.",2,f,a>whenever,0
+1,"If Mary sees a dog, she chases it. It is a big one.","Mary sees a dog, and she chases it. It is a big one.",2,f,a>if,0
+2,"Mary sees a dog, and she chases it. It is a big one.","Whenever Mary sees a dog, she chases it. It is a big one.",2,f,a>whenever,0
+1,"John sees a dog, and he chases it. He also names it.","If John sees a dog, he chases it. He also names it.",2,m,a>if,1
+2,"John sees a dog, and he chases it. He also names it.","Whenever John sees a dog, he chases it. He also names it.",2,m,a>whenever,0
+1,"John sees a dog, and he chases it. It is a small one.","If John sees a dog, he chases it. It is a small one.",2,m,a>if,1
+1,"Whenever John sees a dog, he chases it. It is a small one.","John sees a dog, and he chases it. It is a small one.",2,m,a>whenever,0
+1,"Mary sees a dog, and she chases it. She also names it.","If Mary sees a dog, she chases it. She also names it.",2,f,a>if,1
+1,"Mary sees a dog, and she chases it. She also names it.","Whenever Mary sees a dog, she chases it. She also names it.",2,f,a>whenever,1
+1,"If Mary sees a dog, she chases it. It is a small one.","Mary sees a dog, and she chases it. It is a small one.",2,f,a>if,0
+1,"Whenever Mary sees a dog, she chases it. It is a small one.","Mary sees a dog, and she chases it. It is a small one.",2,f,a>whenever,0
+1,"If John sees a dog, he chases it. He also watches it.","John sees a dog, and he chases it. He also watches it.",2,m,a>if,0
+2,"John sees a dog, and he chases it. He also watches it.","Whenever John sees a dog, he chases it. He also watches it.",2,m,a>whenever,0
+1,"If John sees a dog, he chases it. It is a cute one.","John sees a dog, and he chases it. It is a cute one.",2,m,a>if,0
+1,"Whenever John sees a dog, he chases it. It is a cute one.","John sees a dog, and he chases it. It is a cute one.",2,m,a>whenever,0
+1,"If Mary sees a dog, she chases it. She also watches it.","Mary sees a dog, and she chases it. She also watches it.",2,f,a>if,0
+1,"Whenever Mary sees a dog, she chases it. She also watches it.","Mary sees a dog, and she chases it. She also watches it.",2,f,a>whenever,0
+1,"Mary sees a dog, and she chases it. It is a cute one.","If Mary sees a dog, she chases it. It is a cute one.",2,f,a>if,1
+2,"Mary sees a dog, and she chases it. It is a cute one.","Whenever Mary sees a dog, she chases it. It is a cute one.",2,f,a>whenever,0
+1,"John sees a dog, and he chases it. He also follows it.","If John sees a dog, he chases it. He also follows it.",2,m,a>if,1
+2,"John sees a dog, and he chases it. He also follows it.","Whenever John sees a dog, he chases it. He also follows it.",2,m,a>whenever,0
+1,"If John sees a dog, he chases it. It is a brown one.","John sees a dog, and he chases it. It is a brown one.",2,m,a>if,0
+1,"Whenever John sees a dog, he chases it. It is a brown one.","John sees a dog, and he chases it. It is a brown one.",2,m,a>whenever,0
+1,"Mary sees a dog, and she chases it. She also follows it.","If Mary sees a dog, she chases it. She also follows it.",2,f,a>if,1
+1,"Whenever Mary sees a dog, she chases it. She also follows it.","Mary sees a dog, and she chases it. She also follows it.",2,f,a>whenever,0
+1,"If Mary sees a dog, she chases it. It is a brown one.","Mary sees a dog, and she chases it. It is a brown one.",2,f,a>if,0
+1,"Whenever Mary sees a dog, she chases it. It is a brown one.","Mary sees a dog, and she chases it. It is a brown one.",2,f,a>whenever,0
+1,"If John discovers a problem, he solves it. He also addresses it.","John discovers a problem, and he solves it. He also addresses it.",3,m,a>if,0
+1,"Whenever John discovers a problem, he solves it. He also addresses it.","John discovers a problem, and he solves it. He also addresses it.",3,m,a>whenever,0
+1,"If John discovers a problem, he solves it. It is a challenging one.","John discovers a problem, and he solves it. It is a challenging one.",3,m,a>if,0
+2,"John discovers a problem, and he solves it. It is a challenging one.","Whenever John discovers a problem, he solves it. It is a challenging one.",3,m,a>whenever,0
+1,"If Mary discovers a problem, she solves it. She also addresses it.","Mary discovers a problem, and she solves it. She also addresses it.",3,f,a>if,0
+2,"Mary discovers a problem, and she solves it. She also addresses it.","Whenever Mary discovers a problem, she solves it. She also addresses it.",3,f,a>whenever,0
+1,"Mary discovers a problem, and she solves it. It is a challenging one.","If Mary discovers a problem, she solves it. It is a challenging one.",3,f,a>if,1
+1,"Whenever Mary discovers a problem, she solves it. It is a challenging one.","Mary discovers a problem, and she solves it. It is a challenging one.",3,f,a>whenever,0
+1,"John discovers a problem, and he solves it. He also reports it.","If John discovers a problem, he solves it. He also reports it.",3,m,a>if,1
+2,"John discovers a problem, and he solves it. He also reports it.","Whenever John discovers a problem, he solves it. He also reports it.",3,m,a>whenever,0
+1,"John discovers a problem, and he solves it. It is a complex one.","If John discovers a problem, he solves it. It is a complex one.",3,m,a>if,1
+1,"John discovers a problem, and he solves it. It is a complex one.","Whenever John discovers a problem, he solves it. It is a complex one.",3,m,a>whenever,1
+1,"If Mary discovers a problem, she solves it. She also reports it.","Mary discovers a problem, and she solves it. She also reports it.",3,f,a>if,0
+1,"Whenever Mary discovers a problem, she solves it. She also reports it.","Mary discovers a problem, and she solves it. She also reports it.",3,f,a>whenever,0
+1,"If Mary discovers a problem, she solves it. It is a complex one.","Mary discovers a problem, and she solves it. It is a complex one.",3,f,a>if,0
+1,"Whenever Mary discovers a problem, she solves it. It is a complex one.","Mary discovers a problem, and she solves it. It is a complex one.",3,f,a>whenever,0
+1,"If John discovers a problem, he solves it. He also documents it.","John discovers a problem, and he solves it. He also documents it.",3,m,a>if,0
+2,"John discovers a problem, and he solves it. He also documents it.","Whenever John discovers a problem, he solves it. He also documents it.",3,m,a>whenever,0
+1,"If John discovers a problem, he solves it. It is a difficult one.","John discovers a problem, and he solves it. It is a difficult one.",3,m,a>if,0
+1,"John discovers a problem, and he solves it. It is a difficult one.","Whenever John discovers a problem, he solves it. It is a difficult one.",3,m,a>whenever,1
+1,"Mary discovers a problem, and she solves it. She also documents it.","If Mary discovers a problem, she solves it. She also documents it.",3,f,a>if,1
+1,"Whenever Mary discovers a problem, she solves it. She also documents it.","Mary discovers a problem, and she solves it. She also documents it.",3,f,a>whenever,0
+1,"If Mary discovers a problem, she solves it. It is a difficult one.","Mary discovers a problem, and she solves it. It is a difficult one.",3,f,a>if,0
+1,"Mary discovers a problem, and she solves it. It is a difficult one.","Whenever Mary discovers a problem, she solves it. It is a difficult one.",3,f,a>whenever,1
+1,"If John discovers a problem, he solves it. He also analyzes it.","John discovers a problem, and he solves it. He also analyzes it.",3,m,a>if,0
+1,"Whenever John discovers a problem, he solves it. He also analyzes it.","John discovers a problem, and he solves it. He also analyzes it.",3,m,a>whenever,0
+1,"If John discovers a problem, he solves it. It is an interesting one.","John discovers a problem, and he solves it. It is an interesting one.",3,m,a>if,0
+1,"Whenever John discovers a problem, he solves it. It is an interesting one.","John discovers a problem, and he solves it. It is an interesting one.",3,m,a>whenever,0
+1,"If Mary discovers a problem, she solves it. She also analyzes it.","Mary discovers a problem, and she solves it. She also analyzes it.",3,f,a>if,0
+2,"Mary discovers a problem, and she solves it. She also analyzes it.","Whenever Mary discovers a problem, she solves it. She also analyzes it.",3,f,a>whenever,0
+1,"Mary discovers a problem, and she solves it. It is an interesting one.","If Mary discovers a problem, she solves it. It is an interesting one.",3,f,a>if,1
+2,"Mary discovers a problem, and she solves it. It is an interesting one.","Whenever Mary discovers a problem, she solves it. It is an interesting one.",3,f,a>whenever,0
+1,"If John discovers a problem, he solves it. He also fixes it.","John discovers a problem, and he solves it. He also fixes it.",3,m,a>if,0
+1,"Whenever John discovers a problem, he solves it. He also fixes it.","John discovers a problem, and he solves it. He also fixes it.",3,m,a>whenever,0
+1,"If John discovers a problem, he solves it. It is a significant one.","John discovers a problem, and he solves it. It is a significant one.",3,m,a>if,0
+1,"Whenever John discovers a problem, he solves it. It is a significant one.","John discovers a problem, and he solves it. It is a significant one.",3,m,a>whenever,0
+1,"Mary discovers a problem, and she solves it. She also fixes it.","If Mary discovers a problem, she solves it. She also fixes it.",3,f,a>if,1
+2,"Mary discovers a problem, and she solves it. She also fixes it.","Whenever Mary discovers a problem, she solves it. She also fixes it.",3,f,a>whenever,0
+1,"If Mary discovers a problem, she solves it. It is a significant one.","Mary discovers a problem, and she solves it. It is a significant one.",3,f,a>if,0
+1,"Whenever Mary discovers a problem, she solves it. It is a significant one.","Mary discovers a problem, and she solves it. It is a significant one.",3,f,a>whenever,0
+1,"John finds a bone, and he brushes it. He also examines it.","If John finds a bone, he brushes it. He also examines it.",4,m,a>if,1
+2,"John finds a bone, and he brushes it. He also examines it.","Whenever John finds a bone, he brushes it. He also examines it.",4,m,a>whenever,0
+2,"If John finds a bone, he brushes it. It is a broken one.","John finds a bone, and he brushes it. It is a broken one.",4,m,a>if,1
+1,"Whenever John finds a bone, he brushes it. It is a broken one.","John finds a bone, and he brushes it. It is a broken one.",4,m,a>whenever,0
+1,"Mary finds a bone, and she brushes it. She also examines it.","If Mary finds a bone, she brushes it. She also examines it.",4,f,a>if,1
+1,"Whenever Mary finds a bone, she brushes it. She also examines it.","Mary finds a bone, and she brushes it. She also examines it.",4,f,a>whenever,0
+1,"If Mary finds a bone, she brushes it. It is a broken one.","Mary finds a bone, and she brushes it. It is a broken one.",4,f,a>if,0
+2,"Mary finds a bone, and she brushes it. It is a broken one.","Whenever Mary finds a bone, she brushes it. It is a broken one.",4,f,a>whenever,0
+1,"If John finds a bone, he brushes it. He also studies it.","John finds a bone, and he brushes it. He also studies it.",4,m,a>if,0
+2,"John finds a bone, and he brushes it. He also studies it.","Whenever John finds a bone, he brushes it. He also studies it.",4,m,a>whenever,0
+1,"John finds a bone, and he brushes it. It is a human one.","If John finds a bone, he brushes it. It is a human one.",4,m,a>if,1
+1,"Whenever John finds a bone, he brushes it. It is a human one.","John finds a bone, and he brushes it. It is a human one.",4,m,a>whenever,0
+1,"Mary finds a bone, and she brushes it. She also studies it.","If Mary finds a bone, she brushes it. She also studies it.",4,f,a>if,1
+2,"Mary finds a bone, and she brushes it. She also studies it.","Whenever Mary finds a bone, she brushes it. She also studies it.",4,f,a>whenever,0
+1,"If Mary finds a bone, she brushes it. It is a human one.","Mary finds a bone, and she brushes it. It is a human one.",4,f,a>if,0
+1,"Whenever Mary finds a bone, she brushes it. It is a human one.","Mary finds a bone, and she brushes it. It is a human one.",4,f,a>whenever,0
+1,"John finds a bone, and he brushes it. He also analyzes it.","If John finds a bone, he brushes it. He also analyzes it.",4,m,a>if,1
+1,"Whenever John finds a bone, he brushes it. He also analyzes it.","John finds a bone, and he brushes it. He also analyzes it.",4,m,a>whenever,0
+1,"John finds a bone, and he brushes it. It is an ancient one.","If John finds a bone, he brushes it. It is an ancient one.",4,m,a>if,1
+1,"Whenever John finds a bone, he brushes it. It is an ancient one.","John finds a bone, and he brushes it. It is an ancient one.",4,m,a>whenever,0
+1,"Mary finds a bone, and she brushes it. She also analyzes it.","If Mary finds a bone, she brushes it. She also analyzes it.",4,f,a>if,1
+1,"Whenever Mary finds a bone, she brushes it. She also analyzes it.","Mary finds a bone, and she brushes it. She also analyzes it.",4,f,a>whenever,0
+2,"If Mary finds a bone, she brushes it. It is an ancient one.","Mary finds a bone, and she brushes it. It is an ancient one.",4,f,a>if,1
+1,"Whenever Mary finds a bone, she brushes it. It is an ancient one.","Mary finds a bone, and she brushes it. It is an ancient one.",4,f,a>whenever,0
+1,"If John finds a bone, he brushes it. He also cleans it.","John finds a bone, and he brushes it. He also cleans it.",4,m,a>if,0
+2,"John finds a bone, and he brushes it. He also cleans it.","Whenever John finds a bone, he brushes it. He also cleans it.",4,m,a>whenever,0
+1,"John finds a bone, and he brushes it. It is a large one.","If John finds a bone, he brushes it. It is a large one.",4,m,a>if,1
+1,"Whenever John finds a bone, he brushes it. It is a large one.","John finds a bone, and he brushes it. It is a large one.",4,m,a>whenever,0
+1,"Mary finds a bone, and she brushes it. She also cleans it.","If Mary finds a bone, she brushes it. She also cleans it.",4,f,a>if,1
+2,"Mary finds a bone, and she brushes it. She also cleans it.","Whenever Mary finds a bone, she brushes it. She also cleans it.",4,f,a>whenever,0
+1,"If Mary finds a bone, she brushes it. It is a large one.","Mary finds a bone, and she brushes it. It is a large one.",4,f,a>if,0
+1,"Whenever Mary finds a bone, she brushes it. It is a large one.","Mary finds a bone, and she brushes it. It is a large one.",4,f,a>whenever,0
+1,"John finds a bone, and he brushes it. He also documents it.","If John finds a bone, he brushes it. He also documents it.",4,m,a>if,1
+2,"John finds a bone, and he brushes it. He also documents it.","Whenever John finds a bone, he brushes it. He also documents it.",4,m,a>whenever,0
+1,"If John finds a bone, he brushes it. It is a small one.","John finds a bone, and he brushes it. It is a small one.",4,m,a>if,0
+2,"John finds a bone, and he brushes it. It is a small one.","Whenever John finds a bone, he brushes it. It is a small one.",4,m,a>whenever,0
+1,"If Mary finds a bone, she brushes it. She also documents it.","Mary finds a bone, and she brushes it. She also documents it.",4,f,a>if,0
+2,"Mary finds a bone, and she brushes it. She also documents it.","Whenever Mary finds a bone, she brushes it. She also documents it.",4,f,a>whenever,0
+1,"If Mary finds a bone, she brushes it. It is a small one.","Mary finds a bone, and she brushes it. It is a small one.",4,f,a>if,0
+2,"Mary finds a bone, and she brushes it. It is a small one.","Whenever Mary finds a bone, she brushes it. It is a small one.",4,f,a>whenever,0
+1,"If John witnesses a moment, he captures it. He also shares it.","John witnesses a moment, and he captures it. He also shares it.",5,m,a>if,0
+2,"John witnesses a moment, and he captures it. He also shares it.","Whenever John witnesses a moment, he captures it. He also shares it.",5,m,a>whenever,0
+1,"If John witnesses a moment, he captures it. It is a unique one.","John witnesses a moment, and he captures it. It is a unique one.",5,m,a>if,0
+1,"Whenever John witnesses a moment, he captures it. It is a unique one.","John witnesses a moment, and he captures it. It is a unique one.",5,m,a>whenever,0
+1,"Mary witnesses a moment, and she captures it. She also shares it.","If Mary witnesses a moment, she captures it. She also shares it.",5,f,a>if,1
+2,"Mary witnesses a moment, and she captures it. She also shares it.","Whenever Mary witnesses a moment, she captures it. She also shares it.",5,f,a>whenever,0
+1,"If Mary witnesses a moment, she captures it. It is a unique one.","Mary witnesses a moment, and she captures it. It is a unique one.",5,f,a>if,0
+2,"Mary witnesses a moment, and she captures it. It is a unique one.","Whenever Mary witnesses a moment, she captures it. It is a unique one.",5,f,a>whenever,0
+1,"John witnesses a moment, and he captures it. He also documents it.","If John witnesses a moment, he captures it. He also documents it.",5,m,a>if,1
+1,"Whenever John witnesses a moment, he captures it. He also documents it.","John witnesses a moment, and he captures it. He also documents it.",5,m,a>whenever,0
+2,"If John witnesses a moment, he captures it. It is a magical one.","John witnesses a moment, and he captures it. It is a magical one.",5,m,a>if,1
+2,"John witnesses a moment, and he captures it. It is a magical one.","Whenever John witnesses a moment, he captures it. It is a magical one.",5,m,a>whenever,0
+1,"Mary witnesses a moment, and she captures it. She also documents it.","If Mary witnesses a moment, she captures it. She also documents it.",5,f,a>if,1
+1,"Whenever Mary witnesses a moment, she captures it. She also documents it.","Mary witnesses a moment, and she captures it. She also documents it.",5,f,a>whenever,0
+2,"If Mary witnesses a moment, she captures it. It is a magical one.","Mary witnesses a moment, and she captures it. It is a magical one.",5,f,a>if,1
+2,"Mary witnesses a moment, and she captures it. It is a magical one.","Whenever Mary witnesses a moment, she captures it. It is a magical one.",5,f,a>whenever,0
+1,"If John witnesses a moment, he captures it. He also frames it.","John witnesses a moment, and he captures it. He also frames it.",5,m,a>if,0
+2,"John witnesses a moment, and he captures it. He also frames it.","Whenever John witnesses a moment, he captures it. He also frames it.",5,m,a>whenever,0
+2,"If John witnesses a moment, he captures it. It is an intense one.","John witnesses a moment, and he captures it. It is an intense one.",5,m,a>if,1
+2,"John witnesses a moment, and he captures it. It is an intense one.","Whenever John witnesses a moment, he captures it. It is an intense one.",5,m,a>whenever,0
+1,"Mary witnesses a moment, and she captures it. She also frames it.","If Mary witnesses a moment, she captures it. She also frames it.",5,f,a>if,1
+1,"Mary witnesses a moment, and she captures it. She also frames it.","Whenever Mary witnesses a moment, she captures it. She also frames it.",5,f,a>whenever,1
+2,"If Mary witnesses a moment, she captures it. It is an intense one.","Mary witnesses a moment, and she captures it. It is an intense one.",5,f,a>if,1
+2,"Mary witnesses a moment, and she captures it. It is an intense one.","Whenever Mary witnesses a moment, she captures it. It is an intense one.",5,f,a>whenever,0
+1,"If John witnesses a moment, he captures it. He also preserves it.","John witnesses a moment, and he captures it. He also preserves it.",5,m,a>if,0
+1,"Whenever John witnesses a moment, he captures it. He also preserves it.","John witnesses a moment, and he captures it. He also preserves it.",5,m,a>whenever,0
+2,"If John witnesses a moment, he captures it. It is an emotional one.","John witnesses a moment, and he captures it. It is an emotional one.",5,m,a>if,1
+2,"John witnesses a moment, and he captures it. It is an emotional one.","Whenever John witnesses a moment, he captures it. It is an emotional one.",5,m,a>whenever,0
+1,"Mary witnesses a moment, and she captures it. She also preserves it.","If Mary witnesses a moment, she captures it. She also preserves it.",5,f,a>if,1
+1,"Whenever Mary witnesses a moment, she captures it. She also preserves it.","Mary witnesses a moment, and she captures it. She also preserves it.",5,f,a>whenever,0
+1,"Mary witnesses a moment, and she captures it. It is an emotional one.","If Mary witnesses a moment, she captures it. It is an emotional one.",5,f,a>if,1
+2,"Mary witnesses a moment, and she captures it. It is an emotional one.","Whenever Mary witnesses a moment, she captures it. It is an emotional one.",5,f,a>whenever,0
+1,"If John witnesses a moment, he captures it. He also records it.","John witnesses a moment, and he captures it. He also records it.",5,m,a>if,0
+2,"John witnesses a moment, and he captures it. He also records it.","Whenever John witnesses a moment, he captures it. He also records it.",5,m,a>whenever,0
+1,"John witnesses a moment, and he captures it. It is a powerful one.","If John witnesses a moment, he captures it. It is a powerful one.",5,m,a>if,1
+2,"John witnesses a moment, and he captures it. It is a powerful one.","Whenever John witnesses a moment, he captures it. It is a powerful one.",5,m,a>whenever,0
+1,"Mary witnesses a moment, and she captures it. She also records it.","If Mary witnesses a moment, she captures it. She also records it.",5,f,a>if,1
+1,"Mary witnesses a moment, and she captures it. She also records it.","Whenever Mary witnesses a moment, she captures it. She also records it.",5,f,a>whenever,1
+1,"Mary witnesses a moment, and she captures it. It is a powerful one.","If Mary witnesses a moment, she captures it. It is a powerful one.",5,f,a>if,1
+2,"Mary witnesses a moment, and she captures it. It is a powerful one.","Whenever Mary witnesses a moment, she captures it. It is a powerful one.",5,f,a>whenever,0
+2,"John detects a tumor, and he removes it. He also analyzes it.","If John detects a tumor, he removes it. He also analyzes it.",6,m,a>if,0
+1,"Whenever John detects a tumor, he removes it. He also analyzes it.","John detects a tumor, and he removes it. He also analyzes it.",6,m,a>whenever,0
+1,"If John detects a tumor, he removes it. It is a large one.","John detects a tumor, and he removes it. It is a large one.",6,m,a>if,0
+2,"John detects a tumor, and he removes it. It is a large one.","Whenever John detects a tumor, he removes it. It is a large one.",6,m,a>whenever,0
+2,"Mary detects a tumor, and she removes it. She also analyzes it.","If Mary detects a tumor, she removes it. She also analyzes it.",6,f,a>if,0
+2,"Mary detects a tumor, and she removes it. She also analyzes it.","Whenever Mary detects a tumor, she removes it. She also analyzes it.",6,f,a>whenever,0
+2,"Mary detects a tumor, and she removes it. It is a large one.","If Mary detects a tumor, she removes it. It is a large one.",6,f,a>if,0
+2,"Mary detects a tumor, and she removes it. It is a large one.","Whenever Mary detects a tumor, she removes it. It is a large one.",6,f,a>whenever,0
+1,"If John detects a tumor, he removes it. He also examines it.","John detects a tumor, and he removes it. He also examines it.",6,m,a>if,0
+2,"John detects a tumor, and he removes it. He also examines it.","Whenever John detects a tumor, he removes it. He also examines it.",6,m,a>whenever,0
+2,"John detects a tumor, and he removes it. It is a small one.","If John detects a tumor, he removes it. It is a small one.",6,m,a>if,0
+1,"Whenever John detects a tumor, he removes it. It is a small one.","John detects a tumor, and he removes it. It is a small one.",6,m,a>whenever,0
+2,"Mary detects a tumor, and she removes it. She also examines it.","If Mary detects a tumor, she removes it. She also examines it.",6,f,a>if,0
+2,"Mary detects a tumor, and she removes it. She also examines it.","Whenever Mary detects a tumor, she removes it. She also examines it.",6,f,a>whenever,0
+1,"If Mary detects a tumor, she removes it. It is a small one.","Mary detects a tumor, and she removes it. It is a small one.",6,f,a>if,0
+1,"Whenever Mary detects a tumor, she removes it. It is a small one.","Mary detects a tumor, and she removes it. It is a small one.",6,f,a>whenever,0
+2,"John detects a tumor, and he removes it. He also studies it.","If John detects a tumor, he removes it. He also studies it.",6,m,a>if,0
+1,"Whenever John detects a tumor, he removes it. He also studies it.","John detects a tumor, and he removes it. He also studies it.",6,m,a>whenever,0
+1,"If John detects a tumor, he removes it. It is an aggressive one.","John detects a tumor, and he removes it. It is an aggressive one.",6,m,a>if,0
+2,"John detects a tumor, and he removes it. It is an aggressive one.","Whenever John detects a tumor, he removes it. It is an aggressive one.",6,m,a>whenever,0
+2,"Mary detects a tumor, and she removes it. She also studies it.","If Mary detects a tumor, she removes it. She also studies it.",6,f,a>if,0
+2,"Mary detects a tumor, and she removes it. She also studies it.","Whenever Mary detects a tumor, she removes it. She also studies it.",6,f,a>whenever,0
+1,"If Mary detects a tumor, she removes it. It is an aggressive one.","Mary detects a tumor, and she removes it. It is an aggressive one.",6,f,a>if,0
+1,"Whenever Mary detects a tumor, she removes it. It is an aggressive one.","Mary detects a tumor, and she removes it. It is an aggressive one.",6,f,a>whenever,0
+1,"If John detects a tumor, he removes it. He also tests it.","John detects a tumor, and he removes it. He also tests it.",6,m,a>if,0
+2,"John detects a tumor, and he removes it. He also tests it.","Whenever John detects a tumor, he removes it. He also tests it.",6,m,a>whenever,0
+1,"If John detects a tumor, he removes it. It is a suspicious one.","John detects a tumor, and he removes it. It is a suspicious one.",6,m,a>if,0
+2,"Whenever John detects a tumor, he removes it. It is a suspicious one.","John detects a tumor, and he removes it. It is a suspicious one.",6,m,a>whenever,1
+1,"If Mary detects a tumor, she removes it. She also tests it.","Mary detects a tumor, and she removes it. She also tests it.",6,f,a>if,0
+1,"Whenever Mary detects a tumor, she removes it. She also tests it.","Mary detects a tumor, and she removes it. She also tests it.",6,f,a>whenever,0
+2,"Mary detects a tumor, and she removes it. It is a suspicious one.","If Mary detects a tumor, she removes it. It is a suspicious one.",6,f,a>if,0
+2,"Mary detects a tumor, and she removes it. It is a suspicious one.","Whenever Mary detects a tumor, she removes it. It is a suspicious one.",6,f,a>whenever,0
+1,"If John detects a tumor, he removes it. He also evaluates it.","John detects a tumor, and he removes it. He also evaluates it.",6,m,a>if,0
+2,"John detects a tumor, and he removes it. He also evaluates it.","Whenever John detects a tumor, he removes it. He also evaluates it.",6,m,a>whenever,0
+1,"If John detects a tumor, he removes it. It is an unusual one.","John detects a tumor, and he removes it. It is an unusual one.",6,m,a>if,0
+2,"John detects a tumor, and he removes it. It is an unusual one.","Whenever John detects a tumor, he removes it. It is an unusual one.",6,m,a>whenever,0
+1,"If Mary detects a tumor, she removes it. She also evaluates it.","Mary detects a tumor, and she removes it. She also evaluates it.",6,f,a>if,0
+2,"Mary detects a tumor, and she removes it. She also evaluates it.","Whenever Mary detects a tumor, she removes it. She also evaluates it.",6,f,a>whenever,0
+1,"If Mary detects a tumor, she removes it. It is an unusual one.","Mary detects a tumor, and she removes it. It is an unusual one.",6,f,a>if,0
+2,"Whenever Mary detects a tumor, she removes it. It is an unusual one.","Mary detects a tumor, and she removes it. It is an unusual one.",6,f,a>whenever,1
+1,"If John observes a mistake, he corrects it. He also notes it.","John observes a mistake, and he corrects it. He also notes it.",7,m,a>if,0
+1,"Whenever John observes a mistake, he corrects it. He also notes it.","John observes a mistake, and he corrects it. He also notes it.",7,m,a>whenever,0
+1,"John observes a mistake, and he corrects it. It is an obvious one.","If John observes a mistake, he corrects it. It is an obvious one.",7,m,a>if,1
+2,"John observes a mistake, and he corrects it. It is an obvious one.","Whenever John observes a mistake, he corrects it. It is an obvious one.",7,m,a>whenever,0
+1,"If Mary observes a mistake, she corrects it. She also notes it.","Mary observes a mistake, and she corrects it. She also notes it.",7,f,a>if,0
+1,"Whenever Mary observes a mistake, she corrects it. She also notes it.","Mary observes a mistake, and she corrects it. She also notes it.",7,f,a>whenever,0
+1,"Mary observes a mistake, and she corrects it. It is an obvious one.","If Mary observes a mistake, she corrects it. It is an obvious one.",7,f,a>if,1
+1,"Whenever Mary observes a mistake, she corrects it. It is an obvious one.","Mary observes a mistake, and she corrects it. It is an obvious one.",7,f,a>whenever,0
+1,"John observes a mistake, and he corrects it. He also highlights it.","If John observes a mistake, he corrects it. He also highlights it.",7,m,a>if,1
+2,"John observes a mistake, and he corrects it. He also highlights it.","Whenever John observes a mistake, he corrects it. He also highlights it.",7,m,a>whenever,0
+1,"John observes a mistake, and he corrects it. It is a minor one.","If John observes a mistake, he corrects it. It is a minor one.",7,m,a>if,1
+1,"Whenever John observes a mistake, he corrects it. It is a minor one.","John observes a mistake, and he corrects it. It is a minor one.",7,m,a>whenever,0
+2,"Mary observes a mistake, and she corrects it. She also highlights it.","If Mary observes a mistake, she corrects it. She also highlights it.",7,f,a>if,0
+2,"Mary observes a mistake, and she corrects it. She also highlights it.","Whenever Mary observes a mistake, she corrects it. She also highlights it.",7,f,a>whenever,0
+1,"Mary observes a mistake, and she corrects it. It is a minor one.","If Mary observes a mistake, she corrects it. It is a minor one.",7,f,a>if,1
+2,"Mary observes a mistake, and she corrects it. It is a minor one.","Whenever Mary observes a mistake, she corrects it. It is a minor one.",7,f,a>whenever,0
+1,"If John observes a mistake, he corrects it. He also addresses it.","John observes a mistake, and he corrects it. He also addresses it.",7,m,a>if,0
+2,"John observes a mistake, and he corrects it. He also addresses it.","Whenever John observes a mistake, he corrects it. He also addresses it.",7,m,a>whenever,0
+1,"If John observes a mistake, he corrects it. It is a significant one.","John observes a mistake, and he corrects it. It is a significant one.",7,m,a>if,0
+1,"John observes a mistake, and he corrects it. It is a significant one.","Whenever John observes a mistake, he corrects it. It is a significant one.",7,m,a>whenever,1
+1,"If Mary observes a mistake, she corrects it. She also addresses it.","Mary observes a mistake, and she corrects it. She also addresses it.",7,f,a>if,0
+1,"Whenever Mary observes a mistake, she corrects it. She also addresses it.","Mary observes a mistake, and she corrects it. She also addresses it.",7,f,a>whenever,0
+1,"Mary observes a mistake, and she corrects it. It is a significant one.","If Mary observes a mistake, she corrects it. It is a significant one.",7,f,a>if,1
+1,"Mary observes a mistake, and she corrects it. It is a significant one.","Whenever Mary observes a mistake, she corrects it. It is a significant one.",7,f,a>whenever,1
+1,"If John observes a mistake, he corrects it. He also mentions it.","John observes a mistake, and he corrects it. He also mentions it.",7,m,a>if,0
+1,"Whenever John observes a mistake, he corrects it. He also mentions it.","John observes a mistake, and he corrects it. He also mentions it.",7,m,a>whenever,0
+1,"John observes a mistake, and he corrects it. It is a simple one.","If John observes a mistake, he corrects it. It is a simple one.",7,m,a>if,1
+1,"Whenever John observes a mistake, he corrects it. It is a simple one.","John observes a mistake, and he corrects it. It is a simple one.",7,m,a>whenever,0
+1,"If Mary observes a mistake, she corrects it. She also mentions it.","Mary observes a mistake, and she corrects it. She also mentions it.",7,f,a>if,0
+2,"Mary observes a mistake, and she corrects it. She also mentions it.","Whenever Mary observes a mistake, she corrects it. She also mentions it.",7,f,a>whenever,0
+1,"If Mary observes a mistake, she corrects it. It is a simple one.","Mary observes a mistake, and she corrects it. It is a simple one.",7,f,a>if,0
+1,"Whenever Mary observes a mistake, she corrects it. It is a simple one.","Mary observes a mistake, and she corrects it. It is a simple one.",7,f,a>whenever,0
+1,"If John observes a mistake, he corrects it. He also reports it.","John observes a mistake, and he corrects it. He also reports it.",7,m,a>if,0
+2,"John observes a mistake, and he corrects it. He also reports it.","Whenever John observes a mistake, he corrects it. He also reports it.",7,m,a>whenever,0
+1,"If John observes a mistake, he corrects it. It is a common one.","John observes a mistake, and he corrects it. It is a common one.",7,m,a>if,0
+2,"John observes a mistake, and he corrects it. It is a common one.","Whenever John observes a mistake, he corrects it. It is a common one.",7,m,a>whenever,0
+1,"If Mary observes a mistake, she corrects it. She also reports it.","Mary observes a mistake, and she corrects it. She also reports it.",7,f,a>if,0
+2,"Mary observes a mistake, and she corrects it. She also reports it.","Whenever Mary observes a mistake, she corrects it. She also reports it.",7,f,a>whenever,0
+1,"Mary observes a mistake, and she corrects it. It is a common one.","If Mary observes a mistake, she corrects it. It is a common one.",7,f,a>if,1
+1,"Whenever Mary observes a mistake, she corrects it. It is a common one.","Mary observes a mistake, and she corrects it. It is a common one.",7,f,a>whenever,0
+2,"If John grows a tomato, he cooks it. He also slices it.","John grows a tomato, and he cooks it. He also slices it.",8,m,a>if,1
+1,"Whenever John grows a tomato, he cooks it. He also slices it.","John grows a tomato, and he cooks it. He also slices it.",8,m,a>whenever,0
+1,"John grows a tomato, and he cooks it. It is a red one.","If John grows a tomato, he cooks it. It is a red one.",8,m,a>if,1
+1,"Whenever John grows a tomato, he cooks it. It is a red one.","John grows a tomato, and he cooks it. It is a red one.",8,m,a>whenever,0
+1,"Mary grows a tomato, and she cooks it. She also slices it.","If Mary grows a tomato, she cooks it. She also slices it.",8,f,a>if,1
+2,"Mary grows a tomato, and she cooks it. She also slices it.","Whenever Mary grows a tomato, she cooks it. She also slices it.",8,f,a>whenever,0
+1,"If Mary grows a tomato, she cooks it. It is a red one.","Mary grows a tomato, and she cooks it. It is a red one.",8,f,a>if,0
+1,"Mary grows a tomato, and she cooks it. It is a red one.","Whenever Mary grows a tomato, she cooks it. It is a red one.",8,f,a>whenever,1
+1,"John grows a tomato, and he cooks it. He also chops it.","If John grows a tomato, he cooks it. He also chops it.",8,m,a>if,1
+2,"John grows a tomato, and he cooks it. He also chops it.","Whenever John grows a tomato, he cooks it. He also chops it.",8,m,a>whenever,0
+1,"John grows a tomato, and he cooks it. It is a fresh one.","If John grows a tomato, he cooks it. It is a fresh one.",8,m,a>if,1
+1,"Whenever John grows a tomato, he cooks it. It is a fresh one.","John grows a tomato, and he cooks it. It is a fresh one.",8,m,a>whenever,0
+2,"If Mary grows a tomato, she cooks it. She also chops it.","Mary grows a tomato, and she cooks it. She also chops it.",8,f,a>if,1
+1,"Mary grows a tomato, and she cooks it. She also chops it.","Whenever Mary grows a tomato, she cooks it. She also chops it.",8,f,a>whenever,1
+2,"If Mary grows a tomato, she cooks it. It is a fresh one.","Mary grows a tomato, and she cooks it. It is a fresh one.",8,f,a>if,1
+2,"Mary grows a tomato, and she cooks it. It is a fresh one.","Whenever Mary grows a tomato, she cooks it. It is a fresh one.",8,f,a>whenever,0
+2,"If John grows a tomato, he cooks it. He also bakes it.","John grows a tomato, and he cooks it. He also bakes it.",8,m,a>if,1
+2,"John grows a tomato, and he cooks it. He also bakes it.","Whenever John grows a tomato, he cooks it. He also bakes it.",8,m,a>whenever,0
+1,"John grows a tomato, and he cooks it. It is an organic one.","If John grows a tomato, he cooks it. It is an organic one.",8,m,a>if,1
+2,"John grows a tomato, and he cooks it. It is an organic one.","Whenever John grows a tomato, he cooks it. It is an organic one.",8,m,a>whenever,0
+1,"Mary grows a tomato, and she cooks it. She also bakes it.","If Mary grows a tomato, she cooks it. She also bakes it.",8,f,a>if,1
+2,"Mary grows a tomato, and she cooks it. She also bakes it.","Whenever Mary grows a tomato, she cooks it. She also bakes it.",8,f,a>whenever,0
+2,"If Mary grows a tomato, she cooks it. It is an organic one.","Mary grows a tomato, and she cooks it. It is an organic one.",8,f,a>if,1
+1,"Whenever Mary grows a tomato, she cooks it. It is an organic one.","Mary grows a tomato, and she cooks it. It is an organic one.",8,f,a>whenever,0
+2,"If John grows a tomato, he cooks it. He also blends it.","John grows a tomato, and he cooks it. He also blends it.",8,m,a>if,1
+2,"John grows a tomato, and he cooks it. He also blends it.","Whenever John grows a tomato, he cooks it. He also blends it.",8,m,a>whenever,0
+2,"If John grows a tomato, he cooks it. It is a large one.","John grows a tomato, and he cooks it. It is a large one.",8,m,a>if,1
+1,"Whenever John grows a tomato, he cooks it. It is a large one.","John grows a tomato, and he cooks it. It is a large one.",8,m,a>whenever,0
+1,"If Mary grows a tomato, she cooks it. She also blends it.","Mary grows a tomato, and she cooks it. She also blends it.",8,f,a>if,0
+1,"Whenever Mary grows a tomato, she cooks it. She also blends it.","Mary grows a tomato, and she cooks it. She also blends it.",8,f,a>whenever,0
+1,"Mary grows a tomato, and she cooks it. It is a large one.","If Mary grows a tomato, she cooks it. It is a large one.",8,f,a>if,1
+1,"Mary grows a tomato, and she cooks it. It is a large one.","Whenever Mary grows a tomato, she cooks it. It is a large one.",8,f,a>whenever,1
+1,"John grows a tomato, and he cooks it. He also preserves it.","If John grows a tomato, he cooks it. He also preserves it.",8,m,a>if,1
+2,"John grows a tomato, and he cooks it. He also preserves it.","Whenever John grows a tomato, he cooks it. He also preserves it.",8,m,a>whenever,0
+2,"If John grows a tomato, he cooks it. It is a small one.","John grows a tomato, and he cooks it. It is a small one.",8,m,a>if,1
+2,"John grows a tomato, and he cooks it. It is a small one.","Whenever John grows a tomato, he cooks it. It is a small one.",8,m,a>whenever,0
+1,"If Mary grows a tomato, she cooks it. She also preserves it.","Mary grows a tomato, and she cooks it. She also preserves it.",8,f,a>if,0
+2,"Mary grows a tomato, and she cooks it. She also preserves it.","Whenever Mary grows a tomato, she cooks it. She also preserves it.",8,f,a>whenever,0
+1,"Mary grows a tomato, and she cooks it. It is a small one.","If Mary grows a tomato, she cooks it. It is a small one.",8,f,a>if,1
+1,"Mary grows a tomato, and she cooks it. It is a small one.","Whenever Mary grows a tomato, she cooks it. It is a small one.",8,f,a>whenever,1
+1,"If John spots a deer, he shoots it. He also tracks it.","John spots a deer, and he shoots it. He also tracks it.",9,m,a>if,0
+1,"Whenever John spots a deer, he shoots it. He also tracks it.","John spots a deer, and he shoots it. He also tracks it.",9,m,a>whenever,0
+1,"If John spots a deer, he shoots it. It is a brown one.","John spots a deer, and he shoots it. It is a brown one.",9,m,a>if,0
+1,"John spots a deer, and he shoots it. It is a brown one.","Whenever John spots a deer, he shoots it. It is a brown one.",9,m,a>whenever,1
+1,"If Mary spots a deer, she shoots it. She also tracks it.","Mary spots a deer, and she shoots it. She also tracks it.",9,f,a>if,0
+2,"Mary spots a deer, and she shoots it. She also tracks it.","Whenever Mary spots a deer, she shoots it. She also tracks it.",9,f,a>whenever,0
+1,"Mary spots a deer, and she shoots it. It is a brown one.","If Mary spots a deer, she shoots it. It is a brown one.",9,f,a>if,1
+1,"Mary spots a deer, and she shoots it. It is a brown one.","Whenever Mary spots a deer, she shoots it. It is a brown one.",9,f,a>whenever,1
+2,"John spots a deer, and he shoots it. He also chases it.","If John spots a deer, he shoots it. He also chases it.",9,m,a>if,0
+2,"John spots a deer, and he shoots it. He also chases it.","Whenever John spots a deer, he shoots it. He also chases it.",9,m,a>whenever,0
+1,"If John spots a deer, he shoots it. It is a wild one.","John spots a deer, and he shoots it. It is a wild one.",9,m,a>if,0
+1,"Whenever John spots a deer, he shoots it. It is a wild one.","John spots a deer, and he shoots it. It is a wild one.",9,m,a>whenever,0
+2,"Mary spots a deer, and she shoots it. She also chases it.","If Mary spots a deer, she shoots it. She also chases it.",9,f,a>if,0
+2,"Mary spots a deer, and she shoots it. She also chases it.","Whenever Mary spots a deer, she shoots it. She also chases it.",9,f,a>whenever,0
+1,"Mary spots a deer, and she shoots it. It is a wild one.","If Mary spots a deer, she shoots it. It is a wild one.",9,f,a>if,1
+1,"Mary spots a deer, and she shoots it. It is a wild one.","Whenever Mary spots a deer, she shoots it. It is a wild one.",9,f,a>whenever,1
+2,"If John spots a deer, he shoots it. He also catches it.","John spots a deer, and he shoots it. He also catches it.",9,m,a>if,1
+2,"John spots a deer, and he shoots it. He also catches it.","Whenever John spots a deer, he shoots it. He also catches it.",9,m,a>whenever,0
+1,"If John spots a deer, he shoots it. It is a young one.","John spots a deer, and he shoots it. It is a young one.",9,m,a>if,0
+1,"Whenever John spots a deer, he shoots it. It is a young one.","John spots a deer, and he shoots it. It is a young one.",9,m,a>whenever,0
+2,"If Mary spots a deer, she shoots it. She also catches it.","Mary spots a deer, and she shoots it. She also catches it.",9,f,a>if,1
+2,"Mary spots a deer, and she shoots it. She also catches it.","Whenever Mary spots a deer, she shoots it. She also catches it.",9,f,a>whenever,0
+1,"If Mary spots a deer, she shoots it. It is a young one.","Mary spots a deer, and she shoots it. It is a young one.",9,f,a>if,0
+1,"Whenever Mary spots a deer, she shoots it. It is a young one.","Mary spots a deer, and she shoots it. It is a young one.",9,f,a>whenever,0
+1,"John spots a deer, and he shoots it. He also pursues it.","If John spots a deer, he shoots it. He also pursues it.",9,m,a>if,1
+1,"Whenever John spots a deer, he shoots it. He also pursues it.","John spots a deer, and he shoots it. He also pursues it.",9,m,a>whenever,0
+1,"John spots a deer, and he shoots it. It is a large one.","If John spots a deer, he shoots it. It is a large one.",9,m,a>if,1
+1,"John spots a deer, and he shoots it. It is a large one.","Whenever John spots a deer, he shoots it. It is a large one.",9,m,a>whenever,1
+2,"Mary spots a deer, and she shoots it. She also pursues it.","If Mary spots a deer, she shoots it. She also pursues it.",9,f,a>if,0
+2,"Mary spots a deer, and she shoots it. She also pursues it.","Whenever Mary spots a deer, she shoots it. She also pursues it.",9,f,a>whenever,0
+1,"If Mary spots a deer, she shoots it. It is a large one.","Mary spots a deer, and she shoots it. It is a large one.",9,f,a>if,0
+1,"Whenever Mary spots a deer, she shoots it. It is a large one.","Mary spots a deer, and she shoots it. It is a large one.",9,f,a>whenever,0
+1,"John spots a deer, and he shoots it. He also cleans it.","If John spots a deer, he shoots it. He also cleans it.",9,m,a>if,1
+1,"Whenever John spots a deer, he shoots it. He also cleans it.","John spots a deer, and he shoots it. He also cleans it.",9,m,a>whenever,0
+1,"John spots a deer, and he shoots it. It is a quiet one.","If John spots a deer, he shoots it. It is a quiet one.",9,m,a>if,1
+1,"John spots a deer, and he shoots it. It is a quiet one.","Whenever John spots a deer, he shoots it. It is a quiet one.",9,m,a>whenever,1
+1,"Mary spots a deer, and she shoots it. She also cleans it.","If Mary spots a deer, she shoots it. She also cleans it.",9,f,a>if,1
+1,"Whenever Mary spots a deer, she shoots it. She also cleans it.","Mary spots a deer, and she shoots it. She also cleans it.",9,f,a>whenever,0
+2,"If Mary spots a deer, she shoots it. It is a quiet one.","Mary spots a deer, and she shoots it. It is a quiet one.",9,f,a>if,1
+2,"Mary spots a deer, and she shoots it. It is a quiet one.","Whenever Mary spots a deer, she shoots it. It is a quiet one.",9,f,a>whenever,0
+1,"John receives a ball, and he throws it. He also kicks it.","If John receives a ball, he throws it. He also kicks it.",10,m,a>if,1
+1,"Whenever John receives a ball, he throws it. He also kicks it.","John receives a ball, and he throws it. He also kicks it.",10,m,a>whenever,0
+1,"John receives a ball, and he throws it. It is a round one.","If John receives a ball, he throws it. It is a round one.",10,m,a>if,1
+1,"Whenever John receives a ball, he throws it. It is a round one.","John receives a ball, and he throws it. It is a round one.",10,m,a>whenever,0
+1,"Mary receives a ball, and she throws it. She also kicks it.","If Mary receives a ball, she throws it. She also kicks it.",10,f,a>if,1
+2,"Mary receives a ball, and she throws it. She also kicks it.","Whenever Mary receives a ball, she throws it. She also kicks it.",10,f,a>whenever,0
+1,"If Mary receives a ball, she throws it. It is a round one.","Mary receives a ball, and she throws it. It is a round one.",10,f,a>if,0
+1,"Whenever Mary receives a ball, she throws it. It is a round one.","Mary receives a ball, and she throws it. It is a round one.",10,f,a>whenever,0
+1,"If John receives a ball, he throws it. He also catches it.","John receives a ball, and he throws it. He also catches it.",10,m,a>if,0
+1,"John receives a ball, and he throws it. He also catches it.","Whenever John receives a ball, he throws it. He also catches it.",10,m,a>whenever,1
+1,"John receives a ball, and he throws it. It is a heavy one.","If John receives a ball, he throws it. It is a heavy one.",10,m,a>if,1
+1,"Whenever John receives a ball, he throws it. It is a heavy one.","John receives a ball, and he throws it. It is a heavy one.",10,m,a>whenever,0
+1,"Mary receives a ball, and she throws it. She also catches it.","If Mary receives a ball, she throws it. She also catches it.",10,f,a>if,1
+1,"Mary receives a ball, and she throws it. She also catches it.","Whenever Mary receives a ball, she throws it. She also catches it.",10,f,a>whenever,1
+1,"Mary receives a ball, and she throws it. It is a heavy one.","If Mary receives a ball, she throws it. It is a heavy one.",10,f,a>if,1
+1,"Whenever Mary receives a ball, she throws it. It is a heavy one.","Mary receives a ball, and she throws it. It is a heavy one.",10,f,a>whenever,0
+1,"John receives a ball, and he throws it. He also passes it.","If John receives a ball, he throws it. He also passes it.",10,m,a>if,1
+1,"Whenever John receives a ball, he throws it. He also passes it.","John receives a ball, and he throws it. He also passes it.",10,m,a>whenever,0
+1,"John receives a ball, and he throws it. It is a light one.","If John receives a ball, he throws it. It is a light one.",10,m,a>if,1
+2,"John receives a ball, and he throws it. It is a light one.","Whenever John receives a ball, he throws it. It is a light one.",10,m,a>whenever,0
+2,"If Mary receives a ball, she throws it. She also passes it.","Mary receives a ball, and she throws it. She also passes it.",10,f,a>if,1
+2,"Mary receives a ball, and she throws it. She also passes it.","Whenever Mary receives a ball, she throws it. She also passes it.",10,f,a>whenever,0
+1,"If Mary receives a ball, she throws it. It is a light one.","Mary receives a ball, and she throws it. It is a light one.",10,f,a>if,0
+1,"Mary receives a ball, and she throws it. It is a light one.","Whenever Mary receives a ball, she throws it. It is a light one.",10,f,a>whenever,1
+1,"John receives a ball, and he throws it. He also tosses it.","If John receives a ball, he throws it. He also tosses it.",10,m,a>if,1
+1,"John receives a ball, and he throws it. He also tosses it.","Whenever John receives a ball, he throws it. He also tosses it.",10,m,a>whenever,1
+1,"If John receives a ball, he throws it. It is a small one.","John receives a ball, and he throws it. It is a small one.",10,m,a>if,0
+1,"Whenever John receives a ball, he throws it. It is a small one.","John receives a ball, and he throws it. It is a small one.",10,m,a>whenever,0
+1,"Mary receives a ball, and she throws it. She also tosses it.","If Mary receives a ball, she throws it. She also tosses it.",10,f,a>if,1
+1,"Mary receives a ball, and she throws it. She also tosses it.","Whenever Mary receives a ball, she throws it. She also tosses it.",10,f,a>whenever,1
+1,"If Mary receives a ball, she throws it. It is a small one.","Mary receives a ball, and she throws it. It is a small one.",10,f,a>if,0
+1,"Whenever Mary receives a ball, she throws it. It is a small one.","Mary receives a ball, and she throws it. It is a small one.",10,f,a>whenever,0
+1,"If John receives a ball, he throws it. He also bounces it.","John receives a ball, and he throws it. He also bounces it.",10,m,a>if,0
+1,"John receives a ball, and he throws it. He also bounces it.","Whenever John receives a ball, he throws it. He also bounces it.",10,m,a>whenever,1
+1,"John receives a ball, and he throws it. It is a large one.","If John receives a ball, he throws it. It is a large one.",10,m,a>if,1
+2,"John receives a ball, and he throws it. It is a large one.","Whenever John receives a ball, he throws it. It is a large one.",10,m,a>whenever,0
+1,"If Mary receives a ball, she throws it. She also bounces it.","Mary receives a ball, and she throws it. She also bounces it.",10,f,a>if,0
+1,"Mary receives a ball, and she throws it. She also bounces it.","Whenever Mary receives a ball, she throws it. She also bounces it.",10,f,a>whenever,1
+1,"Mary receives a ball, and she throws it. It is a large one.","If Mary receives a ball, she throws it. It is a large one.",10,f,a>if,1
+1,"Whenever Mary receives a ball, she throws it. It is a large one.","Mary receives a ball, and she throws it. It is a large one.",10,f,a>whenever,0
+2,"If John stops a car, he checks it. He also searches it.","John stops a car, and he checks it. He also searches it.",11,m,a>if,1
+1,"Whenever John stops a car, he checks it. He also searches it.","John stops a car, and he checks it. He also searches it.",11,m,a>whenever,0
+2,"If John stops a car, he checks it. It is a suspicious one.","John stops a car, and he checks it. It is a suspicious one.",11,m,a>if,1
+2,"Whenever John stops a car, he checks it. It is a suspicious one.","John stops a car, and he checks it. It is a suspicious one.",11,m,a>whenever,1
+2,"Mary stops a car, and she checks it. She also searches it.","If Mary stops a car, she checks it. She also searches it.",11,f,a>if,0
+2,"Mary stops a car, and she checks it. She also searches it.","Whenever Mary stops a car, she checks it. She also searches it.",11,f,a>whenever,0
+2,"If Mary stops a car, she checks it. It is a suspicious one.","Mary stops a car, and she checks it. It is a suspicious one.",11,f,a>if,1
+2,"Whenever Mary stops a car, she checks it. It is a suspicious one.","Mary stops a car, and she checks it. It is a suspicious one.",11,f,a>whenever,1
+1,"If John stops a car, he checks it. He also examines it.","John stops a car, and he checks it. He also examines it.",11,m,a>if,0
+1,"Whenever John stops a car, he checks it. He also examines it.","John stops a car, and he checks it. He also examines it.",11,m,a>whenever,0
+1,"John stops a car, and he checks it. It is an expensive one.","If John stops a car, he checks it. It is an expensive one.",11,m,a>if,1
+2,"John stops a car, and he checks it. It is an expensive one.","Whenever John stops a car, he checks it. It is an expensive one.",11,m,a>whenever,0
+1,"If Mary stops a car, she checks it. She also examines it.","Mary stops a car, and she checks it. She also examines it.",11,f,a>if,0
+2,"Mary stops a car, and she checks it. She also examines it.","Whenever Mary stops a car, she checks it. She also examines it.",11,f,a>whenever,0
+1,"If Mary stops a car, she checks it. It is an expensive one.","Mary stops a car, and she checks it. It is an expensive one.",11,f,a>if,0
+2,"Mary stops a car, and she checks it. It is an expensive one.","Whenever Mary stops a car, she checks it. It is an expensive one.",11,f,a>whenever,0
+1,"If John stops a car, he checks it. He also investigates it.","John stops a car, and he checks it. He also investigates it.",11,m,a>if,0
+1,"Whenever John stops a car, he checks it. He also investigates it.","John stops a car, and he checks it. He also investigates it.",11,m,a>whenever,0
+1,"If John stops a car, he checks it. It is an old one.","John stops a car, and he checks it. It is an old one.",11,m,a>if,0
+1,"Whenever John stops a car, he checks it. It is an old one.","John stops a car, and he checks it. It is an old one.",11,m,a>whenever,0
+2,"If Mary stops a car, she checks it. She also investigates it.","Mary stops a car, and she checks it. She also investigates it.",11,f,a>if,1
+2,"Mary stops a car, and she checks it. She also investigates it.","Whenever Mary stops a car, she checks it. She also investigates it.",11,f,a>whenever,0
+1,"Mary stops a car, and she checks it. It is an old one.","If Mary stops a car, she checks it. It is an old one.",11,f,a>if,1
+2,"Mary stops a car, and she checks it. It is an old one.","Whenever Mary stops a car, she checks it. It is an old one.",11,f,a>whenever,0
+1,"If John stops a car, he checks it. He also assesses it.","John stops a car, and he checks it. He also assesses it.",11,m,a>if,0
+2,"John stops a car, and he checks it. He also assesses it.","Whenever John stops a car, he checks it. He also assesses it.",11,m,a>whenever,0
+2,"John stops a car, and he checks it. It is a new one.","If John stops a car, he checks it. It is a new one.",11,m,a>if,0
+2,"Whenever John stops a car, he checks it. It is a new one.","John stops a car, and he checks it. It is a new one.",11,m,a>whenever,1
+1,"If Mary stops a car, she checks it. She also assesses it.","Mary stops a car, and she checks it. She also assesses it.",11,f,a>if,0
+1,"Whenever Mary stops a car, she checks it. She also assesses it.","Mary stops a car, and she checks it. She also assesses it.",11,f,a>whenever,0
+1,"If Mary stops a car, she checks it. It is a new one.","Mary stops a car, and she checks it. It is a new one.",11,f,a>if,0
+2,"Mary stops a car, and she checks it. It is a new one.","Whenever Mary stops a car, she checks it. It is a new one.",11,f,a>whenever,0
+2,"John stops a car, and he checks it. He also reviews it.","If John stops a car, he checks it. He also reviews it.",11,m,a>if,0
+1,"Whenever John stops a car, he checks it. He also reviews it.","John stops a car, and he checks it. He also reviews it.",11,m,a>whenever,0
+2,"John stops a car, and he checks it. It is a foreign one.","If John stops a car, he checks it. It is a foreign one.",11,m,a>if,0
+2,"John stops a car, and he checks it. It is a foreign one.","Whenever John stops a car, he checks it. It is a foreign one.",11,m,a>whenever,0
+2,"If Mary stops a car, she checks it. She also reviews it.","Mary stops a car, and she checks it. She also reviews it.",11,f,a>if,1
+1,"Whenever Mary stops a car, she checks it. She also reviews it.","Mary stops a car, and she checks it. She also reviews it.",11,f,a>whenever,0
+2,"If Mary stops a car, she checks it. It is a foreign one.","Mary stops a car, and she checks it. It is a foreign one.",11,f,a>if,1
+1,"Whenever Mary stops a car, she checks it. It is a foreign one.","Mary stops a car, and she checks it. It is a foreign one.",11,f,a>whenever,0
+1,"If John proposes an idea, he implements it. He also evaluates it.","John proposes an idea, and he implements it. He also evaluates it.",12,m,a>if,0
+1,"John proposes an idea, and he implements it. He also evaluates it.","Whenever John proposes an idea, he implements it. He also evaluates it.",12,m,a>whenever,1
+1,"John proposes an idea, and he implements it. It is an innovative one.","If John proposes an idea, he implements it. It is an innovative one.",12,m,a>if,1
+2,"Whenever John proposes an idea, he implements it. It is an innovative one.","John proposes an idea, and he implements it. It is an innovative one.",12,m,a>whenever,1
+1,"If Mary proposes an idea, she implements it. She also evaluates it.","Mary proposes an idea, and she implements it. She also evaluates it.",12,f,a>if,0
+1,"Whenever Mary proposes an idea, she implements it. She also evaluates it.","Mary proposes an idea, and she implements it. She also evaluates it.",12,f,a>whenever,0
+2,"If Mary proposes an idea, she implements it. It is an innovative one.","Mary proposes an idea, and she implements it. It is an innovative one.",12,f,a>if,1
+2,"Whenever Mary proposes an idea, she implements it. It is an innovative one.","Mary proposes an idea, and she implements it. It is an innovative one.",12,f,a>whenever,1
+1,"John proposes an idea, and he implements it. He also tests it.","If John proposes an idea, he implements it. He also tests it.",12,m,a>if,1
+1,"Whenever John proposes an idea, he implements it. He also tests it.","John proposes an idea, and he implements it. He also tests it.",12,m,a>whenever,0
+1,"John proposes an idea, and he implements it. It is a novel one.","If John proposes an idea, he implements it. It is a novel one.",12,m,a>if,1
+2,"Whenever John proposes an idea, he implements it. It is a novel one.","John proposes an idea, and he implements it. It is a novel one.",12,m,a>whenever,1
+1,"Mary proposes an idea, and she implements it. She also tests it.","If Mary proposes an idea, she implements it. She also tests it.",12,f,a>if,1
+1,"Whenever Mary proposes an idea, she implements it. She also tests it.","Mary proposes an idea, and she implements it. She also tests it.",12,f,a>whenever,0
+2,"If Mary proposes an idea, she implements it. It is a novel one.","Mary proposes an idea, and she implements it. It is a novel one.",12,f,a>if,1
+1,"Mary proposes an idea, and she implements it. It is a novel one.","Whenever Mary proposes an idea, she implements it. It is a novel one.",12,f,a>whenever,1
+1,"If John proposes an idea, he implements it. He also analyzes it.","John proposes an idea, and he implements it. He also analyzes it.",12,m,a>if,0
+1,"John proposes an idea, and he implements it. He also analyzes it.","Whenever John proposes an idea, he implements it. He also analyzes it.",12,m,a>whenever,1
+2,"If John proposes an idea, he implements it. It is a compelling one.","John proposes an idea, and he implements it. It is a compelling one.",12,m,a>if,1
+2,"John proposes an idea, and he implements it. It is a compelling one.","Whenever John proposes an idea, he implements it. It is a compelling one.",12,m,a>whenever,0
+1,"Mary proposes an idea, and she implements it. She also analyzes it.","If Mary proposes an idea, she implements it. She also analyzes it.",12,f,a>if,1
+1,"Mary proposes an idea, and she implements it. She also analyzes it.","Whenever Mary proposes an idea, she implements it. She also analyzes it.",12,f,a>whenever,1
+2,"If Mary proposes an idea, she implements it. It is a compelling one.","Mary proposes an idea, and she implements it. It is a compelling one.",12,f,a>if,1
+1,"Mary proposes an idea, and she implements it. It is a compelling one.","Whenever Mary proposes an idea, she implements it. It is a compelling one.",12,f,a>whenever,1
+2,"If John proposes an idea, he implements it. He also studies it.","John proposes an idea, and he implements it. He also studies it.",12,m,a>if,1
+2,"John proposes an idea, and he implements it. He also studies it.","Whenever John proposes an idea, he implements it. He also studies it.",12,m,a>whenever,0
+1,"John proposes an idea, and he implements it. It is an ambitious one.","If John proposes an idea, he implements it. It is an ambitious one.",12,m,a>if,1
+1,"John proposes an idea, and he implements it. It is an ambitious one.","Whenever John proposes an idea, he implements it. It is an ambitious one.",12,m,a>whenever,1
+1,"If Mary proposes an idea, she implements it. She also studies it.","Mary proposes an idea, and she implements it. She also studies it.",12,f,a>if,0
+1,"Whenever Mary proposes an idea, she implements it. She also studies it.","Mary proposes an idea, and she implements it. She also studies it.",12,f,a>whenever,0
+2,"If Mary proposes an idea, she implements it. It is an ambitious one.","Mary proposes an idea, and she implements it. It is an ambitious one.",12,f,a>if,1
+2,"Whenever Mary proposes an idea, she implements it. It is an ambitious one.","Mary proposes an idea, and she implements it. It is an ambitious one.",12,f,a>whenever,1
+1,"John proposes an idea, and he implements it. He also examines it.","If John proposes an idea, he implements it. He also examines it.",12,m,a>if,1
+1,"Whenever John proposes an idea, he implements it. He also examines it.","John proposes an idea, and he implements it. He also examines it.",12,m,a>whenever,0
+1,"John proposes an idea, and he implements it. It is a controversial one.","If John proposes an idea, he implements it. It is a controversial one.",12,m,a>if,1
+2,"Whenever John proposes an idea, he implements it. It is a controversial one.","John proposes an idea, and he implements it. It is a controversial one.",12,m,a>whenever,1
+1,"If Mary proposes an idea, she implements it. She also examines it.","Mary proposes an idea, and she implements it. She also examines it.",12,f,a>if,0
+1,"Mary proposes an idea, and she implements it. She also examines it.","Whenever Mary proposes an idea, she implements it. She also examines it.",12,f,a>whenever,1
+1,"Mary proposes an idea, and she implements it. It is a controversial one.","If Mary proposes an idea, she implements it. It is a controversial one.",12,f,a>if,1
+1,"Mary proposes an idea, and she implements it. It is a controversial one.","Whenever Mary proposes an idea, she implements it. It is a controversial one.",12,f,a>whenever,1
+1,"If John builds a chair, he paints it. He also assembles it.","John builds a chair, and he paints it. He also assembles it.",13,m,a>if,0
+1,"Whenever John builds a chair, he paints it. He also assembles it.","John builds a chair, and he paints it. He also assembles it.",13,m,a>whenever,0
+1,"John builds a chair, and he paints it. It is a comfortable one.","If John builds a chair, he paints it. It is a comfortable one.",13,m,a>if,1
+1,"John builds a chair, and he paints it. It is a comfortable one.","Whenever John builds a chair, he paints it. It is a comfortable one.",13,m,a>whenever,1
+1,"Mary builds a chair, and she paints it. She also assembles it.","If Mary builds a chair, she paints it. She also assembles it.",13,f,a>if,1
+1,"Whenever Mary builds a chair, she paints it. She also assembles it.","Mary builds a chair, and she paints it. She also assembles it.",13,f,a>whenever,0
+2,"If Mary builds a chair, she paints it. It is a comfortable one.","Mary builds a chair, and she paints it. It is a comfortable one.",13,f,a>if,1
+1,"Whenever Mary builds a chair, she paints it. It is a comfortable one.","Mary builds a chair, and she paints it. It is a comfortable one.",13,f,a>whenever,0
+1,"If John builds a chair, he paints it. He also tests it.","John builds a chair, and he paints it. He also tests it.",13,m,a>if,0
+1,"Whenever John builds a chair, he paints it. He also tests it.","John builds a chair, and he paints it. He also tests it.",13,m,a>whenever,0
+1,"John builds a chair, and he paints it. It is a wooden one.","If John builds a chair, he paints it. It is a wooden one.",13,m,a>if,1
+2,"John builds a chair, and he paints it. It is a wooden one.","Whenever John builds a chair, he paints it. It is a wooden one.",13,m,a>whenever,0
+1,"If Mary builds a chair, she paints it. She also tests it.","Mary builds a chair, and she paints it. She also tests it.",13,f,a>if,0
+1,"Whenever Mary builds a chair, she paints it. She also tests it.","Mary builds a chair, and she paints it. She also tests it.",13,f,a>whenever,0
+1,"If Mary builds a chair, she paints it. It is a wooden one.","Mary builds a chair, and she paints it. It is a wooden one.",13,f,a>if,0
+1,"Whenever Mary builds a chair, she paints it. It is a wooden one.","Mary builds a chair, and she paints it. It is a wooden one.",13,f,a>whenever,0
+1,"If John builds a chair, he paints it. He also seals it.","John builds a chair, and he paints it. He also seals it.",13,m,a>if,0
+1,"John builds a chair, and he paints it. He also seals it.","Whenever John builds a chair, he paints it. He also seals it.",13,m,a>whenever,1
+2,"If John builds a chair, he paints it. It is a modern one.","John builds a chair, and he paints it. It is a modern one.",13,m,a>if,1
+2,"John builds a chair, and he paints it. It is a modern one.","Whenever John builds a chair, he paints it. It is a modern one.",13,m,a>whenever,0
+1,"If Mary builds a chair, she paints it. She also seals it.","Mary builds a chair, and she paints it. She also seals it.",13,f,a>if,0
+1,"Whenever Mary builds a chair, she paints it. She also seals it.","Mary builds a chair, and she paints it. She also seals it.",13,f,a>whenever,0
+1,"Mary builds a chair, and she paints it. It is a modern one.","If Mary builds a chair, she paints it. It is a modern one.",13,f,a>if,1
+1,"Whenever Mary builds a chair, she paints it. It is a modern one.","Mary builds a chair, and she paints it. It is a modern one.",13,f,a>whenever,0
+1,"John builds a chair, and he paints it. He also cleans it.","If John builds a chair, he paints it. He also cleans it.",13,m,a>if,1
+2,"John builds a chair, and he paints it. He also cleans it.","Whenever John builds a chair, he paints it. He also cleans it.",13,m,a>whenever,0
+1,"John builds a chair, and he paints it. It is an elegant one.","If John builds a chair, he paints it. It is an elegant one.",13,m,a>if,1
+1,"Whenever John builds a chair, he paints it. It is an elegant one.","John builds a chair, and he paints it. It is an elegant one.",13,m,a>whenever,0
+1,"Mary builds a chair, and she paints it. She also cleans it.","If Mary builds a chair, she paints it. She also cleans it.",13,f,a>if,1
+2,"Mary builds a chair, and she paints it. She also cleans it.","Whenever Mary builds a chair, she paints it. She also cleans it.",13,f,a>whenever,0
+1,"If Mary builds a chair, she paints it. It is an elegant one.","Mary builds a chair, and she paints it. It is an elegant one.",13,f,a>if,0
+2,"Mary builds a chair, and she paints it. It is an elegant one.","Whenever Mary builds a chair, she paints it. It is an elegant one.",13,f,a>whenever,0
+1,"John builds a chair, and he paints it. He also repairs it.","If John builds a chair, he paints it. He also repairs it.",13,m,a>if,1
+2,"John builds a chair, and he paints it. He also repairs it.","Whenever John builds a chair, he paints it. He also repairs it.",13,m,a>whenever,0
+2,"If John builds a chair, he paints it. It is an affordable one.","John builds a chair, and he paints it. It is an affordable one.",13,m,a>if,1
+1,"Whenever John builds a chair, he paints it. It is an affordable one.","John builds a chair, and he paints it. It is an affordable one.",13,m,a>whenever,0
+1,"If Mary builds a chair, she paints it. She also repairs it.","Mary builds a chair, and she paints it. She also repairs it.",13,f,a>if,0
+1,"Mary builds a chair, and she paints it. She also repairs it.","Whenever Mary builds a chair, she paints it. She also repairs it.",13,f,a>whenever,1
+1,"Mary builds a chair, and she paints it. It is an affordable one.","If Mary builds a chair, she paints it. It is an affordable one.",13,f,a>if,1
+1,"Whenever Mary builds a chair, she paints it. It is an affordable one.","Mary builds a chair, and she paints it. It is an affordable one.",13,f,a>whenever,0
+1,"If John doubts an argument, he discusses it. He also questions it.","John doubts an argument, and he discusses it. He also questions it.",14,m,a>if,0
+1,"Whenever John doubts an argument, he discusses it. He also questions it.","John doubts an argument, and he discusses it. He also questions it.",14,m,a>whenever,0
+2,"John doubts an argument, and he discusses it. It is a weak one.","If John doubts an argument, he discusses it. It is a weak one.",14,m,a>if,0
+1,"Whenever John doubts an argument, he discusses it. It is a weak one.","John doubts an argument, and he discusses it. It is a weak one.",14,m,a>whenever,0
+1,"If Mary doubts an argument, she discusses it. She also questions it.","Mary doubts an argument, and she discusses it. She also questions it.",14,f,a>if,0
+2,"Mary doubts an argument, and she discusses it. She also questions it.","Whenever Mary doubts an argument, she discusses it. She also questions it.",14,f,a>whenever,0
+2,"If Mary doubts an argument, she discusses it. It is a weak one.","Mary doubts an argument, and she discusses it. It is a weak one.",14,f,a>if,1
+2,"Mary doubts an argument, and she discusses it. It is a weak one.","Whenever Mary doubts an argument, she discusses it. It is a weak one.",14,f,a>whenever,0
+1,"John doubts an argument, and he discusses it. He also analyzes it.","If John doubts an argument, he discusses it. He also analyzes it.",14,m,a>if,1
+1,"Whenever John doubts an argument, he discusses it. He also analyzes it.","John doubts an argument, and he discusses it. He also analyzes it.",14,m,a>whenever,0
+2,"If John doubts an argument, he discusses it. It is a valid one.","John doubts an argument, and he discusses it. It is a valid one.",14,m,a>if,1
+2,"John doubts an argument, and he discusses it. It is a valid one.","Whenever John doubts an argument, he discusses it. It is a valid one.",14,m,a>whenever,0
+1,"Mary doubts an argument, and she discusses it. She also analyzes it.","If Mary doubts an argument, she discusses it. She also analyzes it.",14,f,a>if,1
+2,"Mary doubts an argument, and she discusses it. She also analyzes it.","Whenever Mary doubts an argument, she discusses it. She also analyzes it.",14,f,a>whenever,0
+2,"If Mary doubts an argument, she discusses it. It is a valid one.","Mary doubts an argument, and she discusses it. It is a valid one.",14,f,a>if,1
+2,"Mary doubts an argument, and she discusses it. It is a valid one.","Whenever Mary doubts an argument, she discusses it. It is a valid one.",14,f,a>whenever,0
+1,"If John doubts an argument, he discusses it. He also reviews it.","John doubts an argument, and he discusses it. He also reviews it.",14,m,a>if,0
+2,"John doubts an argument, and he discusses it. He also reviews it.","Whenever John doubts an argument, he discusses it. He also reviews it.",14,m,a>whenever,0
+2,"John doubts an argument, and he discusses it. It is a strong one.","If John doubts an argument, he discusses it. It is a strong one.",14,m,a>if,0
+2,"John doubts an argument, and he discusses it. It is a strong one.","Whenever John doubts an argument, he discusses it. It is a strong one.",14,m,a>whenever,0
+2,"Mary doubts an argument, and she discusses it. She also reviews it.","If Mary doubts an argument, she discusses it. She also reviews it.",14,f,a>if,0
+1,"Whenever Mary doubts an argument, she discusses it. She also reviews it.","Mary doubts an argument, and she discusses it. She also reviews it.",14,f,a>whenever,0
+2,"Mary doubts an argument, and she discusses it. It is a strong one.","If Mary doubts an argument, she discusses it. It is a strong one.",14,f,a>if,0
+2,"Mary doubts an argument, and she discusses it. It is a strong one.","Whenever Mary doubts an argument, she discusses it. It is a strong one.",14,f,a>whenever,0
+1,"If John doubts an argument, he discusses it. He also challenges it.","John doubts an argument, and he discusses it. He also challenges it.",14,m,a>if,0
+1,"Whenever John doubts an argument, he discusses it. He also challenges it.","John doubts an argument, and he discusses it. He also challenges it.",14,m,a>whenever,0
+1,"If John doubts an argument, he discusses it. It is a logical one.","John doubts an argument, and he discusses it. It is a logical one.",14,m,a>if,0
+1,"Whenever John doubts an argument, he discusses it. It is a logical one.","John doubts an argument, and he discusses it. It is a logical one.",14,m,a>whenever,0
+2,"Mary doubts an argument, and she discusses it. She also challenges it.","If Mary doubts an argument, she discusses it. She also challenges it.",14,f,a>if,0
+1,"Whenever Mary doubts an argument, she discusses it. She also challenges it.","Mary doubts an argument, and she discusses it. She also challenges it.",14,f,a>whenever,0
+2,"Mary doubts an argument, and she discusses it. It is a logical one.","If Mary doubts an argument, she discusses it. It is a logical one.",14,f,a>if,0
+1,"Whenever Mary doubts an argument, she discusses it. It is a logical one.","Mary doubts an argument, and she discusses it. It is a logical one.",14,f,a>whenever,0
+2,"John doubts an argument, and he discusses it. He also evaluates it.","If John doubts an argument, he discusses it. He also evaluates it.",14,m,a>if,0
+1,"Whenever John doubts an argument, he discusses it. He also evaluates it.","John doubts an argument, and he discusses it. He also evaluates it.",14,m,a>whenever,0
+1,"If John doubts an argument, he discusses it. It is a reasonable one.","John doubts an argument, and he discusses it. It is a reasonable one.",14,m,a>if,0
+2,"John doubts an argument, and he discusses it. It is a reasonable one.","Whenever John doubts an argument, he discusses it. It is a reasonable one.",14,m,a>whenever,0
+1,"Mary doubts an argument, and she discusses it. She also evaluates it.","If Mary doubts an argument, she discusses it. She also evaluates it.",14,f,a>if,1
+2,"Mary doubts an argument, and she discusses it. She also evaluates it.","Whenever Mary doubts an argument, she discusses it. She also evaluates it.",14,f,a>whenever,0
+2,"Mary doubts an argument, and she discusses it. It is a reasonable one.","If Mary doubts an argument, she discusses it. It is a reasonable one.",14,f,a>if,0
+2,"Mary doubts an argument, and she discusses it. It is a reasonable one.","Whenever Mary doubts an argument, she discusses it. It is a reasonable one.",14,f,a>whenever,0
+1,"If John buys a shirt, he washes it. He also wears it.","John buys a shirt, and he washes it. He also wears it.",15,m,a>if,0
+1,"Whenever John buys a shirt, he washes it. He also wears it.","John buys a shirt, and he washes it. He also wears it.",15,m,a>whenever,0
+1,"If John buys a shirt, he washes it. It is a red one.","John buys a shirt, and he washes it. It is a red one.",15,m,a>if,0
+2,"John buys a shirt, and he washes it. It is a red one.","Whenever John buys a shirt, he washes it. It is a red one.",15,m,a>whenever,0
+1,"Mary buys a shirt, and she washes it. She also wears it.","If Mary buys a shirt, she washes it. She also wears it.",15,f,a>if,1
+1,"Whenever Mary buys a shirt, she washes it. She also wears it.","Mary buys a shirt, and she washes it. She also wears it.",15,f,a>whenever,0
+1,"If Mary buys a shirt, she washes it. It is a red one.","Mary buys a shirt, and she washes it. It is a red one.",15,f,a>if,0
+1,"Whenever Mary buys a shirt, she washes it. It is a red one.","Mary buys a shirt, and she washes it. It is a red one.",15,f,a>whenever,0
+1,"If John buys a shirt, he washes it. He also folds it.","John buys a shirt, and he washes it. He also folds it.",15,m,a>if,0
+1,"Whenever John buys a shirt, he washes it. He also folds it.","John buys a shirt, and he washes it. He also folds it.",15,m,a>whenever,0
+1,"If John buys a shirt, he washes it. It is a blue one.","John buys a shirt, and he washes it. It is a blue one.",15,m,a>if,0
+1,"Whenever John buys a shirt, he washes it. It is a blue one.","John buys a shirt, and he washes it. It is a blue one.",15,m,a>whenever,0
+1,"Mary buys a shirt, and she washes it. She also folds it.","If Mary buys a shirt, she washes it. She also folds it.",15,f,a>if,1
+1,"Whenever Mary buys a shirt, she washes it. She also folds it.","Mary buys a shirt, and she washes it. She also folds it.",15,f,a>whenever,0
+1,"If Mary buys a shirt, she washes it. It is a blue one.","Mary buys a shirt, and she washes it. It is a blue one.",15,f,a>if,0
+1,"Mary buys a shirt, and she washes it. It is a blue one.","Whenever Mary buys a shirt, she washes it. It is a blue one.",15,f,a>whenever,1
+1,"John buys a shirt, and he washes it. He also dries it.","If John buys a shirt, he washes it. He also dries it.",15,m,a>if,1
+2,"John buys a shirt, and he washes it. He also dries it.","Whenever John buys a shirt, he washes it. He also dries it.",15,m,a>whenever,0
+1,"John buys a shirt, and he washes it. It is a comfortable one.","If John buys a shirt, he washes it. It is a comfortable one.",15,m,a>if,1
+1,"Whenever John buys a shirt, he washes it. It is a comfortable one.","John buys a shirt, and he washes it. It is a comfortable one.",15,m,a>whenever,0
+1,"If Mary buys a shirt, she washes it. She also dries it.","Mary buys a shirt, and she washes it. She also dries it.",15,f,a>if,0
+1,"Whenever Mary buys a shirt, she washes it. She also dries it.","Mary buys a shirt, and she washes it. She also dries it.",15,f,a>whenever,0
+1,"If Mary buys a shirt, she washes it. It is a comfortable one.","Mary buys a shirt, and she washes it. It is a comfortable one.",15,f,a>if,0
+1,"Whenever Mary buys a shirt, she washes it. It is a comfortable one.","Mary buys a shirt, and she washes it. It is a comfortable one.",15,f,a>whenever,0
+1,"John buys a shirt, and he washes it. He also returns it.","If John buys a shirt, he washes it. He also returns it.",15,m,a>if,1
+2,"John buys a shirt, and he washes it. He also returns it.","Whenever John buys a shirt, he washes it. He also returns it.",15,m,a>whenever,0
+1,"If John buys a shirt, he washes it. It is an expensive one.","John buys a shirt, and he washes it. It is an expensive one.",15,m,a>if,0
+1,"John buys a shirt, and he washes it. It is an expensive one.","Whenever John buys a shirt, he washes it. It is an expensive one.",15,m,a>whenever,1
+1,"Mary buys a shirt, and she washes it. She also returns it.","If Mary buys a shirt, she washes it. She also returns it.",15,f,a>if,1
+2,"Whenever Mary buys a shirt, she washes it. She also returns it.","Mary buys a shirt, and she washes it. She also returns it.",15,f,a>whenever,1
+1,"If Mary buys a shirt, she washes it. It is an expensive one.","Mary buys a shirt, and she washes it. It is an expensive one.",15,f,a>if,0
+1,"Whenever Mary buys a shirt, she washes it. It is an expensive one.","Mary buys a shirt, and she washes it. It is an expensive one.",15,f,a>whenever,0
+1,"John buys a shirt, and he washes it. He also exchanges it.","If John buys a shirt, he washes it. He also exchanges it.",15,m,a>if,1
+2,"John buys a shirt, and he washes it. He also exchanges it.","Whenever John buys a shirt, he washes it. He also exchanges it.",15,m,a>whenever,0
+1,"If John buys a shirt, he washes it. It is a cheap one.","John buys a shirt, and he washes it. It is a cheap one.",15,m,a>if,0
+2,"John buys a shirt, and he washes it. It is a cheap one.","Whenever John buys a shirt, he washes it. It is a cheap one.",15,m,a>whenever,0
+2,"If Mary buys a shirt, she washes it. She also exchanges it.","Mary buys a shirt, and she washes it. She also exchanges it.",15,f,a>if,1
+2,"Whenever Mary buys a shirt, she washes it. She also exchanges it.","Mary buys a shirt, and she washes it. She also exchanges it.",15,f,a>whenever,1
+1,"If Mary buys a shirt, she washes it. It is a cheap one.","Mary buys a shirt, and she washes it. It is a cheap one.",15,f,a>if,0
+2,"Mary buys a shirt, and she washes it. It is a cheap one.","Whenever Mary buys a shirt, she washes it. It is a cheap one.",15,f,a>whenever,0
+1,"If John breaks a record, he claims it. He also celebrates it.","John breaks a record, and he claims it. He also celebrates it.",16,m,a>if,0
+2,"John breaks a record, and he claims it. He also celebrates it.","Whenever John breaks a record, he claims it. He also celebrates it.",16,m,a>whenever,0
+2,"If John breaks a record, he claims it. It is a remarkable one.","John breaks a record, and he claims it. It is a remarkable one.",16,m,a>if,1
+1,"Whenever John breaks a record, he claims it. It is a remarkable one.","John breaks a record, and he claims it. It is a remarkable one.",16,m,a>whenever,0
+1,"If Mary breaks a record, she claims it. She also celebrates it.","Mary breaks a record, and she claims it. She also celebrates it.",16,f,a>if,0
+1,"Whenever Mary breaks a record, she claims it. She also celebrates it.","Mary breaks a record, and she claims it. She also celebrates it.",16,f,a>whenever,0
+2,"If Mary breaks a record, she claims it. It is a remarkable one.","Mary breaks a record, and she claims it. It is a remarkable one.",16,f,a>if,1
+1,"Whenever Mary breaks a record, she claims it. It is a remarkable one.","Mary breaks a record, and she claims it. It is a remarkable one.",16,f,a>whenever,0
+1,"John breaks a record, and he claims it. He also acknowledges it.","If John breaks a record, he claims it. He also acknowledges it.",16,m,a>if,1
+1,"Whenever John breaks a record, he claims it. He also acknowledges it.","John breaks a record, and he claims it. He also acknowledges it.",16,m,a>whenever,0
+2,"If John breaks a record, he claims it. It is an impressive one.","John breaks a record, and he claims it. It is an impressive one.",16,m,a>if,1
+1,"Whenever John breaks a record, he claims it. It is an impressive one.","John breaks a record, and he claims it. It is an impressive one.",16,m,a>whenever,0
+1,"If Mary breaks a record, she claims it. She also acknowledges it.","Mary breaks a record, and she claims it. She also acknowledges it.",16,f,a>if,0
+1,"Whenever Mary breaks a record, she claims it. She also acknowledges it.","Mary breaks a record, and she claims it. She also acknowledges it.",16,f,a>whenever,0
+1,"Mary breaks a record, and she claims it. It is an impressive one.","If Mary breaks a record, she claims it. It is an impressive one.",16,f,a>if,1
+2,"Mary breaks a record, and she claims it. It is an impressive one.","Whenever Mary breaks a record, she claims it. It is an impressive one.",16,f,a>whenever,0
+1,"John breaks a record, and he claims it. He also announces it.","If John breaks a record, he claims it. He also announces it.",16,m,a>if,1
+1,"Whenever John breaks a record, he claims it. He also announces it.","John breaks a record, and he claims it. He also announces it.",16,m,a>whenever,0
+2,"If John breaks a record, he claims it. It is an unexpected one.","John breaks a record, and he claims it. It is an unexpected one.",16,m,a>if,1
+2,"Whenever John breaks a record, he claims it. It is an unexpected one.","John breaks a record, and he claims it. It is an unexpected one.",16,m,a>whenever,1
+1,"If Mary breaks a record, she claims it. She also announces it.","Mary breaks a record, and she claims it. She also announces it.",16,f,a>if,0
+1,"Whenever Mary breaks a record, she claims it. She also announces it.","Mary breaks a record, and she claims it. She also announces it.",16,f,a>whenever,0
+2,"If Mary breaks a record, she claims it. It is an unexpected one.","Mary breaks a record, and she claims it. It is an unexpected one.",16,f,a>if,1
+2,"Mary breaks a record, and she claims it. It is an unexpected one.","Whenever Mary breaks a record, she claims it. It is an unexpected one.",16,f,a>whenever,0
+1,"If John breaks a record, he claims it. He also shares it.","John breaks a record, and he claims it. He also shares it.",16,m,a>if,0
+2,"John breaks a record, and he claims it. He also shares it.","Whenever John breaks a record, he claims it. He also shares it.",16,m,a>whenever,0
+1,"If John breaks a record, he claims it. It is a historic one.","John breaks a record, and he claims it. It is a historic one.",16,m,a>if,0
+2,"Whenever John breaks a record, he claims it. It is a historic one.","John breaks a record, and he claims it. It is a historic one.",16,m,a>whenever,1
+1,"Mary breaks a record, and she claims it. She also shares it.","If Mary breaks a record, she claims it. She also shares it.",16,f,a>if,1
+2,"Mary breaks a record, and she claims it. She also shares it.","Whenever Mary breaks a record, she claims it. She also shares it.",16,f,a>whenever,0
+2,"If Mary breaks a record, she claims it. It is a historic one.","Mary breaks a record, and she claims it. It is a historic one.",16,f,a>if,1
+2,"Mary breaks a record, and she claims it. It is a historic one.","Whenever Mary breaks a record, she claims it. It is a historic one.",16,f,a>whenever,0
+1,"John breaks a record, and he claims it. He also highlights it.","If John breaks a record, he claims it. He also highlights it.",16,m,a>if,1
+2,"John breaks a record, and he claims it. He also highlights it.","Whenever John breaks a record, he claims it. He also highlights it.",16,m,a>whenever,0
+2,"If John breaks a record, he claims it. It is a significant one.","John breaks a record, and he claims it. It is a significant one.",16,m,a>if,1
+2,"John breaks a record, and he claims it. It is a significant one.","Whenever John breaks a record, he claims it. It is a significant one.",16,m,a>whenever,0
+1,"Mary breaks a record, and she claims it. She also highlights it.","If Mary breaks a record, she claims it. She also highlights it.",16,f,a>if,1
+1,"Whenever Mary breaks a record, she claims it. She also highlights it.","Mary breaks a record, and she claims it. She also highlights it.",16,f,a>whenever,0
+1,"If Mary breaks a record, she claims it. It is a significant one.","Mary breaks a record, and she claims it. It is a significant one.",16,f,a>if,0
+1,"Whenever Mary breaks a record, she claims it. It is a significant one.","Mary breaks a record, and she claims it. It is a significant one.",16,f,a>whenever,0
+1,"John writes a book, and he promotes it. He also discusses it.","If John writes a book, he promotes it. He also discusses it.",17,m,a>if,1
+1,"Whenever John writes a book, he promotes it. He also discusses it.","John writes a book, and he promotes it. He also discusses it.",17,m,a>whenever,0
+1,"If John writes a book, he promotes it. It is a comprehensive one.","John writes a book, and he promotes it. It is a comprehensive one.",17,m,a>if,0
+1,"Whenever John writes a book, he promotes it. It is a comprehensive one.","John writes a book, and he promotes it. It is a comprehensive one.",17,m,a>whenever,0
+1,"If Mary writes a book, she promotes it. She also discusses it.","Mary writes a book, and she promotes it. She also discusses it.",17,f,a>if,0
+1,"Whenever Mary writes a book, she promotes it. She also discusses it.","Mary writes a book, and she promotes it. She also discusses it.",17,f,a>whenever,0
+2,"If Mary writes a book, she promotes it. It is a comprehensive one.","Mary writes a book, and she promotes it. It is a comprehensive one.",17,f,a>if,1
+1,"Whenever Mary writes a book, she promotes it. It is a comprehensive one.","Mary writes a book, and she promotes it. It is a comprehensive one.",17,f,a>whenever,0
+1,"John writes a book, and he promotes it. He also mentions it.","If John writes a book, he promotes it. He also mentions it.",17,m,a>if,1
+1,"Whenever John writes a book, he promotes it. He also mentions it.","John writes a book, and he promotes it. He also mentions it.",17,m,a>whenever,0
+1,"John writes a book, and he promotes it. It is a detailed one.","If John writes a book, he promotes it. It is a detailed one.",17,m,a>if,1
+1,"Whenever John writes a book, he promotes it. It is a detailed one.","John writes a book, and he promotes it. It is a detailed one.",17,m,a>whenever,0
+1,"If Mary writes a book, she promotes it. She also mentions it.","Mary writes a book, and she promotes it. She also mentions it.",17,f,a>if,0
+2,"Mary writes a book, and she promotes it. She also mentions it.","Whenever Mary writes a book, she promotes it. She also mentions it.",17,f,a>whenever,0
+1,"Mary writes a book, and she promotes it. It is a detailed one.","If Mary writes a book, she promotes it. It is a detailed one.",17,f,a>if,1
+2,"Mary writes a book, and she promotes it. It is a detailed one.","Whenever Mary writes a book, she promotes it. It is a detailed one.",17,f,a>whenever,0
+1,"If John writes a book, he promotes it. He also recommends it.","John writes a book, and he promotes it. He also recommends it.",17,m,a>if,0
+2,"John writes a book, and he promotes it. He also recommends it.","Whenever John writes a book, he promotes it. He also recommends it.",17,m,a>whenever,0
+1,"If John writes a book, he promotes it. It is a fascinating one.","John writes a book, and he promotes it. It is a fascinating one.",17,m,a>if,0
+1,"Whenever John writes a book, he promotes it. It is a fascinating one.","John writes a book, and he promotes it. It is a fascinating one.",17,m,a>whenever,0
+1,"Mary writes a book, and she promotes it. She also recommends it.","If Mary writes a book, she promotes it. She also recommends it.",17,f,a>if,1
+1,"Whenever Mary writes a book, she promotes it. She also recommends it.","Mary writes a book, and she promotes it. She also recommends it.",17,f,a>whenever,0
+1,"If Mary writes a book, she promotes it. It is a fascinating one.","Mary writes a book, and she promotes it. It is a fascinating one.",17,f,a>if,0
+2,"Mary writes a book, and she promotes it. It is a fascinating one.","Whenever Mary writes a book, she promotes it. It is a fascinating one.",17,f,a>whenever,0
+1,"If John writes a book, he promotes it. He also sells it.","John writes a book, and he promotes it. He also sells it.",17,m,a>if,0
+2,"John writes a book, and he promotes it. He also sells it.","Whenever John writes a book, he promotes it. He also sells it.",17,m,a>whenever,0
+1,"John writes a book, and he promotes it. It is an accessible one.","If John writes a book, he promotes it. It is an accessible one.",17,m,a>if,1
+1,"Whenever John writes a book, he promotes it. It is an accessible one.","John writes a book, and he promotes it. It is an accessible one.",17,m,a>whenever,0
+1,"If Mary writes a book, she promotes it. She also sells it.","Mary writes a book, and she promotes it. She also sells it.",17,f,a>if,0
+2,"Mary writes a book, and she promotes it. She also sells it.","Whenever Mary writes a book, she promotes it. She also sells it.",17,f,a>whenever,0
+2,"If Mary writes a book, she promotes it. It is an accessible one.","Mary writes a book, and she promotes it. It is an accessible one.",17,f,a>if,1
+1,"Whenever Mary writes a book, she promotes it. It is an accessible one.","Mary writes a book, and she promotes it. It is an accessible one.",17,f,a>whenever,0
+1,"John writes a book, and he promotes it. He also describes it.","If John writes a book, he promotes it. He also describes it.",17,m,a>if,1
+1,"Whenever John writes a book, he promotes it. He also describes it.","John writes a book, and he promotes it. He also describes it.",17,m,a>whenever,0
+1,"John writes a book, and he promotes it. It is an educational one.","If John writes a book, he promotes it. It is an educational one.",17,m,a>if,1
+1,"Whenever John writes a book, he promotes it. It is an educational one.","John writes a book, and he promotes it. It is an educational one.",17,m,a>whenever,0
+1,"Mary writes a book, and she promotes it. She also describes it.","If Mary writes a book, she promotes it. She also describes it.",17,f,a>if,1
+1,"Whenever Mary writes a book, she promotes it. She also describes it.","Mary writes a book, and she promotes it. She also describes it.",17,f,a>whenever,0
+1,"Mary writes a book, and she promotes it. It is an educational one.","If Mary writes a book, she promotes it. It is an educational one.",17,f,a>if,1
+2,"Mary writes a book, and she promotes it. It is an educational one.","Whenever Mary writes a book, she promotes it. It is an educational one.",17,f,a>whenever,0
+1,"If John orders a coffee, he drinks it. He also enjoys it.","John orders a coffee, and he drinks it. He also enjoys it.",18,m,a>if,0
+1,"Whenever John orders a coffee, he drinks it. He also enjoys it.","John orders a coffee, and he drinks it. He also enjoys it.",18,m,a>whenever,0
+1,"If John orders a coffee, he drinks it. It is a hot one.","John orders a coffee, and he drinks it. It is a hot one.",18,m,a>if,0
+1,"Whenever John orders a coffee, he drinks it. It is a hot one.","John orders a coffee, and he drinks it. It is a hot one.",18,m,a>whenever,0
+1,"Mary orders a coffee, and she drinks it. She also enjoys it.","If Mary orders a coffee, she drinks it. She also enjoys it.",18,f,a>if,1
+2,"Mary orders a coffee, and she drinks it. She also enjoys it.","Whenever Mary orders a coffee, she drinks it. She also enjoys it.",18,f,a>whenever,0
+1,"Mary orders a coffee, and she drinks it. It is a hot one.","If Mary orders a coffee, she drinks it. It is a hot one.",18,f,a>if,1
+1,"Whenever Mary orders a coffee, she drinks it. It is a hot one.","Mary orders a coffee, and she drinks it. It is a hot one.",18,f,a>whenever,0
+1,"John orders a coffee, and he drinks it. He also spills it.","If John orders a coffee, he drinks it. He also spills it.",18,m,a>if,1
+1,"Whenever John orders a coffee, he drinks it. He also spills it.","John orders a coffee, and he drinks it. He also spills it.",18,m,a>whenever,0
+2,"If John orders a coffee, he drinks it. It is a cold one.","John orders a coffee, and he drinks it. It is a cold one.",18,m,a>if,1
+1,"John orders a coffee, and he drinks it. It is a cold one.","Whenever John orders a coffee, he drinks it. It is a cold one.",18,m,a>whenever,1
+1,"Mary orders a coffee, and she drinks it. She also spills it.","If Mary orders a coffee, she drinks it. She also spills it.",18,f,a>if,1
+1,"Whenever Mary orders a coffee, she drinks it. She also spills it.","Mary orders a coffee, and she drinks it. She also spills it.",18,f,a>whenever,0
+1,"Mary orders a coffee, and she drinks it. It is a cold one.","If Mary orders a coffee, she drinks it. It is a cold one.",18,f,a>if,1
+2,"Whenever Mary orders a coffee, she drinks it. It is a cold one.","Mary orders a coffee, and she drinks it. It is a cold one.",18,f,a>whenever,1
+1,"John orders a coffee, and he drinks it. He also tastes it.","If John orders a coffee, he drinks it. He also tastes it.",18,m,a>if,1
+1,"Whenever John orders a coffee, he drinks it. He also tastes it.","John orders a coffee, and he drinks it. He also tastes it.",18,m,a>whenever,0
+1,"John orders a coffee, and he drinks it. It is a strong one.","If John orders a coffee, he drinks it. It is a strong one.",18,m,a>if,1
+1,"John orders a coffee, and he drinks it. It is a strong one.","Whenever John orders a coffee, he drinks it. It is a strong one.",18,m,a>whenever,1
+1,"If Mary orders a coffee, she drinks it. She also tastes it.","Mary orders a coffee, and she drinks it. She also tastes it.",18,f,a>if,0
+1,"Whenever Mary orders a coffee, she drinks it. She also tastes it.","Mary orders a coffee, and she drinks it. She also tastes it.",18,f,a>whenever,0
+1,"Mary orders a coffee, and she drinks it. It is a strong one.","If Mary orders a coffee, she drinks it. It is a strong one.",18,f,a>if,1
+1,"Mary orders a coffee, and she drinks it. It is a strong one.","Whenever Mary orders a coffee, she drinks it. It is a strong one.",18,f,a>whenever,1
+2,"If John orders a coffee, he drinks it. He also shares it.","John orders a coffee, and he drinks it. He also shares it.",18,m,a>if,1
+2,"Whenever John orders a coffee, he drinks it. He also shares it.","John orders a coffee, and he drinks it. He also shares it.",18,m,a>whenever,1
+1,"If John orders a coffee, he drinks it. It is a black one.","John orders a coffee, and he drinks it. It is a black one.",18,m,a>if,0
+1,"Whenever John orders a coffee, he drinks it. It is a black one.","John orders a coffee, and he drinks it. It is a black one.",18,m,a>whenever,0
+2,"If Mary orders a coffee, she drinks it. She also shares it.","Mary orders a coffee, and she drinks it. She also shares it.",18,f,a>if,1
+2,"Mary orders a coffee, and she drinks it. She also shares it.","Whenever Mary orders a coffee, she drinks it. She also shares it.",18,f,a>whenever,0
+1,"Mary orders a coffee, and she drinks it. It is a black one.","If Mary orders a coffee, she drinks it. It is a black one.",18,f,a>if,1
+1,"Whenever Mary orders a coffee, she drinks it. It is a black one.","Mary orders a coffee, and she drinks it. It is a black one.",18,f,a>whenever,0
+1,"John orders a coffee, and he drinks it. He also stirs it.","If John orders a coffee, he drinks it. He also stirs it.",18,m,a>if,1
+1,"Whenever John orders a coffee, he drinks it. He also stirs it.","John orders a coffee, and he drinks it. He also stirs it.",18,m,a>whenever,0
+2,"If John orders a coffee, he drinks it. It is a fresh one.","John orders a coffee, and he drinks it. It is a fresh one.",18,m,a>if,1
+1,"John orders a coffee, and he drinks it. It is a fresh one.","Whenever John orders a coffee, he drinks it. It is a fresh one.",18,m,a>whenever,1
+1,"If Mary orders a coffee, she drinks it. She also stirs it.","Mary orders a coffee, and she drinks it. She also stirs it.",18,f,a>if,0
+1,"Whenever Mary orders a coffee, she drinks it. She also stirs it.","Mary orders a coffee, and she drinks it. She also stirs it.",18,f,a>whenever,0
+1,"Mary orders a coffee, and she drinks it. It is a fresh one.","If Mary orders a coffee, she drinks it. It is a fresh one.",18,f,a>if,1
+1,"Mary orders a coffee, and she drinks it. It is a fresh one.","Whenever Mary orders a coffee, she drinks it. It is a fresh one.",18,f,a>whenever,1
+2,"John spills a drink, and he wipes it. He also cleans it.","If John spills a drink, he wipes it. He also cleans it.",19,m,a>if,0
+1,"Whenever John spills a drink, he wipes it. He also cleans it.","John spills a drink, and he wipes it. He also cleans it.",19,m,a>whenever,0
+2,"John spills a drink, and he wipes it. It is a cold one.","If John spills a drink, he wipes it. It is a cold one.",19,m,a>if,0
+2,"John spills a drink, and he wipes it. It is a cold one.","Whenever John spills a drink, he wipes it. It is a cold one.",19,m,a>whenever,0
+1,"Mary spills a drink, and she wipes it. She also cleans it.","If Mary spills a drink, she wipes it. She also cleans it.",19,f,a>if,1
+1,"Whenever Mary spills a drink, she wipes it. She also cleans it.","Mary spills a drink, and she wipes it. She also cleans it.",19,f,a>whenever,0
+2,"Mary spills a drink, and she wipes it. It is a cold one.","If Mary spills a drink, she wipes it. It is a cold one.",19,f,a>if,0
+2,"Mary spills a drink, and she wipes it. It is a cold one.","Whenever Mary spills a drink, she wipes it. It is a cold one.",19,f,a>whenever,0
+1,"If John spills a drink, he wipes it. He also dries it.","John spills a drink, and he wipes it. He also dries it.",19,m,a>if,0
+1,"Whenever John spills a drink, he wipes it. He also dries it.","John spills a drink, and he wipes it. He also dries it.",19,m,a>whenever,0
+2,"If John spills a drink, he wipes it. It is a hot one.","John spills a drink, and he wipes it. It is a hot one.",19,m,a>if,1
+2,"Whenever John spills a drink, he wipes it. It is a hot one.","John spills a drink, and he wipes it. It is a hot one.",19,m,a>whenever,1
+2,"Mary spills a drink, and she wipes it. She also dries it.","If Mary spills a drink, she wipes it. She also dries it.",19,f,a>if,0
+1,"Whenever Mary spills a drink, she wipes it. She also dries it.","Mary spills a drink, and she wipes it. She also dries it.",19,f,a>whenever,0
+2,"Mary spills a drink, and she wipes it. It is a hot one.","If Mary spills a drink, she wipes it. It is a hot one.",19,f,a>if,0
+2,"Mary spills a drink, and she wipes it. It is a hot one.","Whenever Mary spills a drink, she wipes it. It is a hot one.",19,f,a>whenever,0
+2,"John spills a drink, and he wipes it. He also absorbs it.","If John spills a drink, he wipes it. He also absorbs it.",19,m,a>if,0
+2,"John spills a drink, and he wipes it. He also absorbs it.","Whenever John spills a drink, he wipes it. He also absorbs it.",19,m,a>whenever,0
+2,"John spills a drink, and he wipes it. It is a sweet one.","If John spills a drink, he wipes it. It is a sweet one.",19,m,a>if,0
+2,"John spills a drink, and he wipes it. It is a sweet one.","Whenever John spills a drink, he wipes it. It is a sweet one.",19,m,a>whenever,0
+1,"Mary spills a drink, and she wipes it. She also absorbs it.","If Mary spills a drink, she wipes it. She also absorbs it.",19,f,a>if,1
+1,"Whenever Mary spills a drink, she wipes it. She also absorbs it.","Mary spills a drink, and she wipes it. She also absorbs it.",19,f,a>whenever,0
+2,"Mary spills a drink, and she wipes it. It is a sweet one.","If Mary spills a drink, she wipes it. It is a sweet one.",19,f,a>if,0
+1,"Whenever Mary spills a drink, she wipes it. It is a sweet one.","Mary spills a drink, and she wipes it. It is a sweet one.",19,f,a>whenever,0
+2,"If John spills a drink, he wipes it. He also removes it.","John spills a drink, and he wipes it. He also removes it.",19,m,a>if,1
+2,"John spills a drink, and he wipes it. He also removes it.","Whenever John spills a drink, he wipes it. He also removes it.",19,m,a>whenever,0
+2,"John spills a drink, and he wipes it. It is a bitter one.","If John spills a drink, he wipes it. It is a bitter one.",19,m,a>if,0
+2,"Whenever John spills a drink, he wipes it. It is a bitter one.","John spills a drink, and he wipes it. It is a bitter one.",19,m,a>whenever,1
+2,"Mary spills a drink, and she wipes it. She also removes it.","If Mary spills a drink, she wipes it. She also removes it.",19,f,a>if,0
+1,"Whenever Mary spills a drink, she wipes it. She also removes it.","Mary spills a drink, and she wipes it. She also removes it.",19,f,a>whenever,0
+2,"Mary spills a drink, and she wipes it. It is a bitter one.","If Mary spills a drink, she wipes it. It is a bitter one.",19,f,a>if,0
+2,"Mary spills a drink, and she wipes it. It is a bitter one.","Whenever Mary spills a drink, she wipes it. It is a bitter one.",19,f,a>whenever,0
+1,"John spills a drink, and he wipes it. He also clears it.","If John spills a drink, he wipes it. He also clears it.",19,m,a>if,1
+1,"Whenever John spills a drink, he wipes it. He also clears it.","John spills a drink, and he wipes it. He also clears it.",19,m,a>whenever,0
+2,"John spills a drink, and he wipes it. It is a warm one.","If John spills a drink, he wipes it. It is a warm one.",19,m,a>if,0
+2,"John spills a drink, and he wipes it. It is a warm one.","Whenever John spills a drink, he wipes it. It is a warm one.",19,m,a>whenever,0
+2,"Mary spills a drink, and she wipes it. She also clears it.","If Mary spills a drink, she wipes it. She also clears it.",19,f,a>if,0
+2,"Mary spills a drink, and she wipes it. She also clears it.","Whenever Mary spills a drink, she wipes it. She also clears it.",19,f,a>whenever,0
+2,"If Mary spills a drink, she wipes it. It is a warm one.","Mary spills a drink, and she wipes it. It is a warm one.",19,f,a>if,1
+2,"Whenever Mary spills a drink, she wipes it. It is a warm one.","Mary spills a drink, and she wipes it. It is a warm one.",19,f,a>whenever,1
+1,"John produces a film, and he distributes it. He also promotes it.","If John produces a film, he distributes it. He also promotes it.",20,m,a>if,1
+1,"John produces a film, and he distributes it. He also promotes it.","Whenever John produces a film, he distributes it. He also promotes it.",20,m,a>whenever,1
+1,"John produces a film, and he distributes it. It is a creative one.","If John produces a film, he distributes it. It is a creative one.",20,m,a>if,1
+2,"John produces a film, and he distributes it. It is a creative one.","Whenever John produces a film, he distributes it. It is a creative one.",20,m,a>whenever,0
+1,"If Mary produces a film, she distributes it. She also promotes it.","Mary produces a film, and she distributes it. She also promotes it.",20,f,a>if,0
+1,"Whenever Mary produces a film, she distributes it. She also promotes it.","Mary produces a film, and she distributes it. She also promotes it.",20,f,a>whenever,0
+1,"Mary produces a film, and she distributes it. It is a creative one.","If Mary produces a film, she distributes it. It is a creative one.",20,f,a>if,1
+2,"Mary produces a film, and she distributes it. It is a creative one.","Whenever Mary produces a film, she distributes it. It is a creative one.",20,f,a>whenever,0
+1,"If John produces a film, he distributes it. He also markets it.","John produces a film, and he distributes it. He also markets it.",20,m,a>if,0
+1,"John produces a film, and he distributes it. He also markets it.","Whenever John produces a film, he distributes it. He also markets it.",20,m,a>whenever,1
+2,"If John produces a film, he distributes it. It is a successful one.","John produces a film, and he distributes it. It is a successful one.",20,m,a>if,1
+2,"Whenever John produces a film, he distributes it. It is a successful one.","John produces a film, and he distributes it. It is a successful one.",20,m,a>whenever,1
+1,"If Mary produces a film, she distributes it. She also markets it.","Mary produces a film, and she distributes it. She also markets it.",20,f,a>if,0
+1,"Whenever Mary produces a film, she distributes it. She also markets it.","Mary produces a film, and she distributes it. She also markets it.",20,f,a>whenever,0
+1,"Mary produces a film, and she distributes it. It is a successful one.","If Mary produces a film, she distributes it. It is a successful one.",20,f,a>if,1
+1,"Mary produces a film, and she distributes it. It is a successful one.","Whenever Mary produces a film, she distributes it. It is a successful one.",20,f,a>whenever,1
+1,"John produces a film, and he distributes it. He also edits it.","If John produces a film, he distributes it. He also edits it.",20,m,a>if,1
+1,"John produces a film, and he distributes it. He also edits it.","Whenever John produces a film, he distributes it. He also edits it.",20,m,a>whenever,1
+1,"John produces a film, and he distributes it. It is an innovative one.","If John produces a film, he distributes it. It is an innovative one.",20,m,a>if,1
+2,"John produces a film, and he distributes it. It is an innovative one.","Whenever John produces a film, he distributes it. It is an innovative one.",20,m,a>whenever,0
+1,"Mary produces a film, and she distributes it. She also edits it.","If Mary produces a film, she distributes it. She also edits it.",20,f,a>if,1
+1,"Mary produces a film, and she distributes it. She also edits it.","Whenever Mary produces a film, she distributes it. She also edits it.",20,f,a>whenever,1
+2,"If Mary produces a film, she distributes it. It is an innovative one.","Mary produces a film, and she distributes it. It is an innovative one.",20,f,a>if,1
+2,"Mary produces a film, and she distributes it. It is an innovative one.","Whenever Mary produces a film, she distributes it. It is an innovative one.",20,f,a>whenever,0
+2,"If John produces a film, he distributes it. He also reviews it.","John produces a film, and he distributes it. He also reviews it.",20,m,a>if,1
+2,"John produces a film, and he distributes it. He also reviews it.","Whenever John produces a film, he distributes it. He also reviews it.",20,m,a>whenever,0
+2,"If John produces a film, he distributes it. It is an ambitious one.","John produces a film, and he distributes it. It is an ambitious one.",20,m,a>if,1
+2,"Whenever John produces a film, he distributes it. It is an ambitious one.","John produces a film, and he distributes it. It is an ambitious one.",20,m,a>whenever,1
+2,"If Mary produces a film, she distributes it. She also reviews it.","Mary produces a film, and she distributes it. She also reviews it.",20,f,a>if,1
+2,"Mary produces a film, and she distributes it. She also reviews it.","Whenever Mary produces a film, she distributes it. She also reviews it.",20,f,a>whenever,0
+1,"Mary produces a film, and she distributes it. It is an ambitious one.","If Mary produces a film, she distributes it. It is an ambitious one.",20,f,a>if,1
+2,"Mary produces a film, and she distributes it. It is an ambitious one.","Whenever Mary produces a film, she distributes it. It is an ambitious one.",20,f,a>whenever,0
+1,"If John produces a film, he distributes it. He also presents it.","John produces a film, and he distributes it. He also presents it.",20,m,a>if,0
+1,"John produces a film, and he distributes it. He also presents it.","Whenever John produces a film, he distributes it. He also presents it.",20,m,a>whenever,1
+1,"John produces a film, and he distributes it. It is an independent one.","If John produces a film, he distributes it. It is an independent one.",20,m,a>if,1
+2,"John produces a film, and he distributes it. It is an independent one.","Whenever John produces a film, he distributes it. It is an independent one.",20,m,a>whenever,0
+2,"If Mary produces a film, she distributes it. She also presents it.","Mary produces a film, and she distributes it. She also presents it.",20,f,a>if,1
+1,"Mary produces a film, and she distributes it. She also presents it.","Whenever Mary produces a film, she distributes it. She also presents it.",20,f,a>whenever,1
+2,"If Mary produces a film, she distributes it. It is an independent one.","Mary produces a film, and she distributes it. It is an independent one.",20,f,a>if,1
+1,"Whenever Mary produces a film, she distributes it. It is an independent one.","Mary produces a film, and she distributes it. It is an independent one.",20,f,a>whenever,0
+2,"If John makes a bag, he loves it. He also sells it.","John makes a bag, and he loves it. He also sells it.",21,m,a>if,1
+1,"Whenever John makes a bag, he loves it. He also sells it.","John makes a bag, and he loves it. He also sells it.",21,m,a>whenever,0
+1,"John makes a bag, and he loves it. It is an elegant one.","If John makes a bag, he loves it. It is an elegant one.",21,m,a>if,1
+1,"Whenever John makes a bag, he loves it. It is an elegant one.","John makes a bag, and he loves it. It is an elegant one.",21,m,a>whenever,0
+1,"If Mary makes a bag, she loves it. She also sells it.","Mary makes a bag, and she loves it. She also sells it.",21,f,a>if,0
+2,"Mary makes a bag, and she loves it. She also sells it.","Whenever Mary makes a bag, she loves it. She also sells it.",21,f,a>whenever,0
+1,"If Mary makes a bag, she loves it. It is an elegant one.","Mary makes a bag, and she loves it. It is an elegant one.",21,f,a>if,0
+1,"Whenever Mary makes a bag, she loves it. It is an elegant one.","Mary makes a bag, and she loves it. It is an elegant one.",21,f,a>whenever,0
+1,"John makes a bag, and he loves it. He also carries it.","If John makes a bag, he loves it. He also carries it.",21,m,a>if,1
+1,"Whenever John makes a bag, he loves it. He also carries it.","John makes a bag, and he loves it. He also carries it.",21,m,a>whenever,0
+1,"John makes a bag, and he loves it. It is a unique one.","If John makes a bag, he loves it. It is a unique one.",21,m,a>if,1
+1,"Whenever John makes a bag, he loves it. It is a unique one.","John makes a bag, and he loves it. It is a unique one.",21,m,a>whenever,0
+1,"If Mary makes a bag, she loves it. She also carries it.","Mary makes a bag, and she loves it. She also carries it.",21,f,a>if,0
+2,"Mary makes a bag, and she loves it. She also carries it.","Whenever Mary makes a bag, she loves it. She also carries it.",21,f,a>whenever,0
+1,"If Mary makes a bag, she loves it. It is a unique one.","Mary makes a bag, and she loves it. It is a unique one.",21,f,a>if,0
+2,"Mary makes a bag, and she loves it. It is a unique one.","Whenever Mary makes a bag, she loves it. It is a unique one.",21,f,a>whenever,0
+1,"John makes a bag, and he loves it. He also promotes it.","If John makes a bag, he loves it. He also promotes it.",21,m,a>if,1
+1,"Whenever John makes a bag, he loves it. He also promotes it.","John makes a bag, and he loves it. He also promotes it.",21,m,a>whenever,0
+1,"John makes a bag, and he loves it. It is a functional one.","If John makes a bag, he loves it. It is a functional one.",21,m,a>if,1
+1,"Whenever John makes a bag, he loves it. It is a functional one.","John makes a bag, and he loves it. It is a functional one.",21,m,a>whenever,0
+1,"Mary makes a bag, and she loves it. She also promotes it.","If Mary makes a bag, she loves it. She also promotes it.",21,f,a>if,1
+1,"Whenever Mary makes a bag, she loves it. She also promotes it.","Mary makes a bag, and she loves it. She also promotes it.",21,f,a>whenever,0
+1,"If Mary makes a bag, she loves it. It is a functional one.","Mary makes a bag, and she loves it. It is a functional one.",21,f,a>if,0
+1,"Whenever Mary makes a bag, she loves it. It is a functional one.","Mary makes a bag, and she loves it. It is a functional one.",21,f,a>whenever,0
+1,"If John makes a bag, he loves it. He also uses it.","John makes a bag, and he loves it. He also uses it.",21,m,a>if,0
+1,"Whenever John makes a bag, he loves it. He also uses it.","John makes a bag, and he loves it. He also uses it.",21,m,a>whenever,0
+1,"John makes a bag, and he loves it. It is a practical one.","If John makes a bag, he loves it. It is a practical one.",21,m,a>if,1
+1,"Whenever John makes a bag, he loves it. It is a practical one.","John makes a bag, and he loves it. It is a practical one.",21,m,a>whenever,0
+1,"If Mary makes a bag, she loves it. She also uses it.","Mary makes a bag, and she loves it. She also uses it.",21,f,a>if,0
+1,"Mary makes a bag, and she loves it. She also uses it.","Whenever Mary makes a bag, she loves it. She also uses it.",21,f,a>whenever,1
+1,"Mary makes a bag, and she loves it. It is a practical one.","If Mary makes a bag, she loves it. It is a practical one.",21,f,a>if,1
+1,"Whenever Mary makes a bag, she loves it. It is a practical one.","Mary makes a bag, and she loves it. It is a practical one.",21,f,a>whenever,0
+1,"If John makes a bag, he loves it. He also displays it.","John makes a bag, and he loves it. He also displays it.",21,m,a>if,0
+2,"John makes a bag, and he loves it. He also displays it.","Whenever John makes a bag, he loves it. He also displays it.",21,m,a>whenever,0
+1,"John makes a bag, and he loves it. It is an innovative one.","If John makes a bag, he loves it. It is an innovative one.",21,m,a>if,1
+2,"John makes a bag, and he loves it. It is an innovative one.","Whenever John makes a bag, he loves it. It is an innovative one.",21,m,a>whenever,0
+1,"Mary makes a bag, and she loves it. She also displays it.","If Mary makes a bag, she loves it. She also displays it.",21,f,a>if,1
+1,"Whenever Mary makes a bag, she loves it. She also displays it.","Mary makes a bag, and she loves it. She also displays it.",21,f,a>whenever,0
+1,"Mary makes a bag, and she loves it. It is an innovative one.","If Mary makes a bag, she loves it. It is an innovative one.",21,f,a>if,1
+2,"Mary makes a bag, and she loves it. It is an innovative one.","Whenever Mary makes a bag, she loves it. It is an innovative one.",21,f,a>whenever,0
+1,"John tours a country, and he documents it. He also explores it.","If John tours a country, he documents it. He also explores it.",22,m,a>if,1
+2,"John tours a country, and he documents it. He also explores it.","Whenever John tours a country, he documents it. He also explores it.",22,m,a>whenever,0
+2,"If John tours a country, he documents it. It is a beautiful one.","John tours a country, and he documents it. It is a beautiful one.",22,m,a>if,1
+2,"John tours a country, and he documents it. It is a beautiful one.","Whenever John tours a country, he documents it. It is a beautiful one.",22,m,a>whenever,0
+1,"Mary tours a country, and she documents it. She also explores it.","If Mary tours a country, she documents it. She also explores it.",22,f,a>if,1
+2,"Mary tours a country, and she documents it. She also explores it.","Whenever Mary tours a country, she documents it. She also explores it.",22,f,a>whenever,0
+2,"If Mary tours a country, she documents it. It is a beautiful one.","Mary tours a country, and she documents it. It is a beautiful one.",22,f,a>if,1
+2,"Whenever Mary tours a country, she documents it. It is a beautiful one.","Mary tours a country, and she documents it. It is a beautiful one.",22,f,a>whenever,1
+1,"If John tours a country, he documents it. He also photographs it.","John tours a country, and he documents it. He also photographs it.",22,m,a>if,0
+1,"Whenever John tours a country, he documents it. He also photographs it.","John tours a country, and he documents it. He also photographs it.",22,m,a>whenever,0
+1,"John tours a country, and he documents it. It is a vast one.","If John tours a country, he documents it. It is a vast one.",22,m,a>if,1
+2,"John tours a country, and he documents it. It is a vast one.","Whenever John tours a country, he documents it. It is a vast one.",22,m,a>whenever,0
+1,"If Mary tours a country, she documents it. She also photographs it.","Mary tours a country, and she documents it. She also photographs it.",22,f,a>if,0
+2,"Mary tours a country, and she documents it. She also photographs it.","Whenever Mary tours a country, she documents it. She also photographs it.",22,f,a>whenever,0
+2,"Mary tours a country, and she documents it. It is a vast one.","If Mary tours a country, she documents it. It is a vast one.",22,f,a>if,0
+2,"Mary tours a country, and she documents it. It is a vast one.","Whenever Mary tours a country, she documents it. It is a vast one.",22,f,a>whenever,0
+1,"John tours a country, and he documents it. He also visits it.","If John tours a country, he documents it. He also visits it.",22,m,a>if,1
+2,"John tours a country, and he documents it. He also visits it.","Whenever John tours a country, he documents it. He also visits it.",22,m,a>whenever,0
+2,"If John tours a country, he documents it. It is a fascinating one.","John tours a country, and he documents it. It is a fascinating one.",22,m,a>if,1
+2,"John tours a country, and he documents it. It is a fascinating one.","Whenever John tours a country, he documents it. It is a fascinating one.",22,m,a>whenever,0
+1,"If Mary tours a country, she documents it. She also visits it.","Mary tours a country, and she documents it. She also visits it.",22,f,a>if,0
+2,"Mary tours a country, and she documents it. She also visits it.","Whenever Mary tours a country, she documents it. She also visits it.",22,f,a>whenever,0
+2,"Mary tours a country, and she documents it. It is a fascinating one.","If Mary tours a country, she documents it. It is a fascinating one.",22,f,a>if,0
+2,"Mary tours a country, and she documents it. It is a fascinating one.","Whenever Mary tours a country, she documents it. It is a fascinating one.",22,f,a>whenever,0
+1,"John tours a country, and he documents it. He also experiences it.","If John tours a country, he documents it. He also experiences it.",22,m,a>if,1
+2,"John tours a country, and he documents it. He also experiences it.","Whenever John tours a country, he documents it. He also experiences it.",22,m,a>whenever,0
+1,"John tours a country, and he documents it. It is a diverse one.","If John tours a country, he documents it. It is a diverse one.",22,m,a>if,1
+2,"John tours a country, and he documents it. It is a diverse one.","Whenever John tours a country, he documents it. It is a diverse one.",22,m,a>whenever,0
+1,"Mary tours a country, and she documents it. She also experiences it.","If Mary tours a country, she documents it. She also experiences it.",22,f,a>if,1
+1,"Whenever Mary tours a country, she documents it. She also experiences it.","Mary tours a country, and she documents it. She also experiences it.",22,f,a>whenever,0
+2,"If Mary tours a country, she documents it. It is a diverse one.","Mary tours a country, and she documents it. It is a diverse one.",22,f,a>if,1
+2,"Whenever Mary tours a country, she documents it. It is a diverse one.","Mary tours a country, and she documents it. It is a diverse one.",22,f,a>whenever,1
+1,"If John tours a country, he documents it. He also enjoys it.","John tours a country, and he documents it. He also enjoys it.",22,m,a>if,0
+2,"John tours a country, and he documents it. He also enjoys it.","Whenever John tours a country, he documents it. He also enjoys it.",22,m,a>whenever,0
+2,"John tours a country, and he documents it. It is a historic one.","If John tours a country, he documents it. It is a historic one.",22,m,a>if,0
+2,"John tours a country, and he documents it. It is a historic one.","Whenever John tours a country, he documents it. It is a historic one.",22,m,a>whenever,0
+1,"If Mary tours a country, she documents it. She also enjoys it.","Mary tours a country, and she documents it. She also enjoys it.",22,f,a>if,0
+2,"Mary tours a country, and she documents it. She also enjoys it.","Whenever Mary tours a country, she documents it. She also enjoys it.",22,f,a>whenever,0
+2,"If Mary tours a country, she documents it. It is a historic one.","Mary tours a country, and she documents it. It is a historic one.",22,f,a>if,1
+2,"Whenever Mary tours a country, she documents it. It is a historic one.","Mary tours a country, and she documents it. It is a historic one.",22,f,a>whenever,1
+1,"John identifies a bug, and he fixes it. He also reports it.","If John identifies a bug, he fixes it. He also reports it.",23,m,a>if,1
+1,"Whenever John identifies a bug, he fixes it. He also reports it.","John identifies a bug, and he fixes it. He also reports it.",23,m,a>whenever,0
+1,"If John identifies a bug, he fixes it. It is a critical one.","John identifies a bug, and he fixes it. It is a critical one.",23,m,a>if,0
+1,"John identifies a bug, and he fixes it. It is a critical one.","Whenever John identifies a bug, he fixes it. It is a critical one.",23,m,a>whenever,1
+1,"If Mary identifies a bug, she fixes it. She also reports it.","Mary identifies a bug, and she fixes it. She also reports it.",23,f,a>if,0
+2,"Mary identifies a bug, and she fixes it. She also reports it.","Whenever Mary identifies a bug, she fixes it. She also reports it.",23,f,a>whenever,0
+1,"If Mary identifies a bug, she fixes it. It is a critical one.","Mary identifies a bug, and she fixes it. It is a critical one.",23,f,a>if,0
+1,"Mary identifies a bug, and she fixes it. It is a critical one.","Whenever Mary identifies a bug, she fixes it. It is a critical one.",23,f,a>whenever,1
+1,"John identifies a bug, and he fixes it. He also documents it.","If John identifies a bug, he fixes it. He also documents it.",23,m,a>if,1
+2,"John identifies a bug, and he fixes it. He also documents it.","Whenever John identifies a bug, he fixes it. He also documents it.",23,m,a>whenever,0
+1,"John identifies a bug, and he fixes it. It is a minor one.","If John identifies a bug, he fixes it. It is a minor one.",23,m,a>if,1
+1,"Whenever John identifies a bug, he fixes it. It is a minor one.","John identifies a bug, and he fixes it. It is a minor one.",23,m,a>whenever,0
+1,"If Mary identifies a bug, she fixes it. She also documents it.","Mary identifies a bug, and she fixes it. She also documents it.",23,f,a>if,0
+2,"Mary identifies a bug, and she fixes it. She also documents it.","Whenever Mary identifies a bug, she fixes it. She also documents it.",23,f,a>whenever,0
+1,"Mary identifies a bug, and she fixes it. It is a minor one.","If Mary identifies a bug, she fixes it. It is a minor one.",23,f,a>if,1
+1,"Mary identifies a bug, and she fixes it. It is a minor one.","Whenever Mary identifies a bug, she fixes it. It is a minor one.",23,f,a>whenever,1
+1,"John identifies a bug, and he fixes it. He also addresses it.","If John identifies a bug, he fixes it. He also addresses it.",23,m,a>if,1
+2,"John identifies a bug, and he fixes it. He also addresses it.","Whenever John identifies a bug, he fixes it. He also addresses it.",23,m,a>whenever,0
+1,"John identifies a bug, and he fixes it. It is a complex one.","If John identifies a bug, he fixes it. It is a complex one.",23,m,a>if,1
+2,"John identifies a bug, and he fixes it. It is a complex one.","Whenever John identifies a bug, he fixes it. It is a complex one.",23,m,a>whenever,0
+2,"Mary identifies a bug, and she fixes it. She also addresses it.","If Mary identifies a bug, she fixes it. She also addresses it.",23,f,a>if,0
+1,"Whenever Mary identifies a bug, she fixes it. She also addresses it.","Mary identifies a bug, and she fixes it. She also addresses it.",23,f,a>whenever,0
+1,"If Mary identifies a bug, she fixes it. It is a complex one.","Mary identifies a bug, and she fixes it. It is a complex one.",23,f,a>if,0
+2,"Mary identifies a bug, and she fixes it. It is a complex one.","Whenever Mary identifies a bug, she fixes it. It is a complex one.",23,f,a>whenever,0
+1,"If John identifies a bug, he fixes it. He also investigates it.","John identifies a bug, and he fixes it. He also investigates it.",23,m,a>if,0
+1,"Whenever John identifies a bug, he fixes it. He also investigates it.","John identifies a bug, and he fixes it. He also investigates it.",23,m,a>whenever,0
+1,"John identifies a bug, and he fixes it. It is a mysterious one.","If John identifies a bug, he fixes it. It is a mysterious one.",23,m,a>if,1
+2,"John identifies a bug, and he fixes it. It is a mysterious one.","Whenever John identifies a bug, he fixes it. It is a mysterious one.",23,m,a>whenever,0
+2,"Mary identifies a bug, and she fixes it. She also investigates it.","If Mary identifies a bug, she fixes it. She also investigates it.",23,f,a>if,0
+2,"Mary identifies a bug, and she fixes it. She also investigates it.","Whenever Mary identifies a bug, she fixes it. She also investigates it.",23,f,a>whenever,0
+1,"Mary identifies a bug, and she fixes it. It is a mysterious one.","If Mary identifies a bug, she fixes it. It is a mysterious one.",23,f,a>if,1
+1,"Whenever Mary identifies a bug, she fixes it. It is a mysterious one.","Mary identifies a bug, and she fixes it. It is a mysterious one.",23,f,a>whenever,0
+1,"If John identifies a bug, he fixes it. He also analyzes it.","John identifies a bug, and he fixes it. He also analyzes it.",23,m,a>if,0
+1,"Whenever John identifies a bug, he fixes it. He also analyzes it.","John identifies a bug, and he fixes it. He also analyzes it.",23,m,a>whenever,0
+1,"John identifies a bug, and he fixes it. It is a severe one.","If John identifies a bug, he fixes it. It is a severe one.",23,m,a>if,1
+1,"John identifies a bug, and he fixes it. It is a severe one.","Whenever John identifies a bug, he fixes it. It is a severe one.",23,m,a>whenever,1
+1,"Mary identifies a bug, and she fixes it. She also analyzes it.","If Mary identifies a bug, she fixes it. She also analyzes it.",23,f,a>if,1
+2,"Mary identifies a bug, and she fixes it. She also analyzes it.","Whenever Mary identifies a bug, she fixes it. She also analyzes it.",23,f,a>whenever,0
+1,"Mary identifies a bug, and she fixes it. It is a severe one.","If Mary identifies a bug, she fixes it. It is a severe one.",23,f,a>if,1
+1,"Whenever Mary identifies a bug, she fixes it. It is a severe one.","Mary identifies a bug, and she fixes it. It is a severe one.",23,f,a>whenever,0
+1,"John develops a product, and he tests it. He also markets it.","If John develops a product, he tests it. He also markets it.",24,m,a>if,1
+2,"John develops a product, and he tests it. He also markets it.","Whenever John develops a product, he tests it. He also markets it.",24,m,a>whenever,0
+1,"John develops a product, and he tests it. It is an innovative one.","If John develops a product, he tests it. It is an innovative one.",24,m,a>if,1
+1,"Whenever John develops a product, he tests it. It is an innovative one.","John develops a product, and he tests it. It is an innovative one.",24,m,a>whenever,0
+1,"Mary develops a product, and she tests it. She also markets it.","If Mary develops a product, she tests it. She also markets it.",24,f,a>if,1
+1,"Mary develops a product, and she tests it. She also markets it.","Whenever Mary develops a product, she tests it. She also markets it.",24,f,a>whenever,1
+1,"Mary develops a product, and she tests it. It is an innovative one.","If Mary develops a product, she tests it. It is an innovative one.",24,f,a>if,1
+1,"Whenever Mary develops a product, she tests it. It is an innovative one.","Mary develops a product, and she tests it. It is an innovative one.",24,f,a>whenever,0
+1,"If John develops a product, he tests it. He also sells it.","John develops a product, and he tests it. He also sells it.",24,m,a>if,0
+1,"John develops a product, and he tests it. He also sells it.","Whenever John develops a product, he tests it. He also sells it.",24,m,a>whenever,1
+2,"John develops a product, and he tests it. It is a new one.","If John develops a product, he tests it. It is a new one.",24,m,a>if,0
+2,"John develops a product, and he tests it. It is a new one.","Whenever John develops a product, he tests it. It is a new one.",24,m,a>whenever,0
+1,"If Mary develops a product, she tests it. She also sells it.","Mary develops a product, and she tests it. She also sells it.",24,f,a>if,0
+1,"Mary develops a product, and she tests it. She also sells it.","Whenever Mary develops a product, she tests it. She also sells it.",24,f,a>whenever,1
+2,"Mary develops a product, and she tests it. It is a new one.","If Mary develops a product, she tests it. It is a new one.",24,f,a>if,0
+2,"Mary develops a product, and she tests it. It is a new one.","Whenever Mary develops a product, she tests it. It is a new one.",24,f,a>whenever,0
+1,"John develops a product, and he tests it. He also promotes it.","If John develops a product, he tests it. He also promotes it.",24,m,a>if,1
+1,"Whenever John develops a product, he tests it. He also promotes it.","John develops a product, and he tests it. He also promotes it.",24,m,a>whenever,0
+1,"John develops a product, and he tests it. It is a reliable one.","If John develops a product, he tests it. It is a reliable one.",24,m,a>if,1
+2,"John develops a product, and he tests it. It is a reliable one.","Whenever John develops a product, he tests it. It is a reliable one.",24,m,a>whenever,0
+1,"Mary develops a product, and she tests it. She also promotes it.","If Mary develops a product, she tests it. She also promotes it.",24,f,a>if,1
+1,"Whenever Mary develops a product, she tests it. She also promotes it.","Mary develops a product, and she tests it. She also promotes it.",24,f,a>whenever,0
+1,"Mary develops a product, and she tests it. It is a reliable one.","If Mary develops a product, she tests it. It is a reliable one.",24,f,a>if,1
+1,"Whenever Mary develops a product, she tests it. It is a reliable one.","Mary develops a product, and she tests it. It is a reliable one.",24,f,a>whenever,0
+1,"If John develops a product, he tests it. He also distributes it.","John develops a product, and he tests it. He also distributes it.",24,m,a>if,0
+1,"Whenever John develops a product, he tests it. He also distributes it.","John develops a product, and he tests it. He also distributes it.",24,m,a>whenever,0
+1,"If John develops a product, he tests it. It is an affordable one.","John develops a product, and he tests it. It is an affordable one.",24,m,a>if,0
+1,"Whenever John develops a product, he tests it. It is an affordable one.","John develops a product, and he tests it. It is an affordable one.",24,m,a>whenever,0
+1,"Mary develops a product, and she tests it. She also distributes it.","If Mary develops a product, she tests it. She also distributes it.",24,f,a>if,1
+1,"Mary develops a product, and she tests it. She also distributes it.","Whenever Mary develops a product, she tests it. She also distributes it.",24,f,a>whenever,1
+1,"If Mary develops a product, she tests it. It is an affordable one.","Mary develops a product, and she tests it. It is an affordable one.",24,f,a>if,0
+1,"Whenever Mary develops a product, she tests it. It is an affordable one.","Mary develops a product, and she tests it. It is an affordable one.",24,f,a>whenever,0
+1,"If John develops a product, he tests it. He also launches it.","John develops a product, and he tests it. He also launches it.",24,m,a>if,0
+1,"Whenever John develops a product, he tests it. He also launches it.","John develops a product, and he tests it. He also launches it.",24,m,a>whenever,0
+1,"John develops a product, and he tests it. It is a sustainable one.","If John develops a product, he tests it. It is a sustainable one.",24,m,a>if,1
+1,"Whenever John develops a product, he tests it. It is a sustainable one.","John develops a product, and he tests it. It is a sustainable one.",24,m,a>whenever,0
+1,"If Mary develops a product, she tests it. She also launches it.","Mary develops a product, and she tests it. She also launches it.",24,f,a>if,0
+1,"Whenever Mary develops a product, she tests it. She also launches it.","Mary develops a product, and she tests it. She also launches it.",24,f,a>whenever,0
+1,"If Mary develops a product, she tests it. It is a sustainable one.","Mary develops a product, and she tests it. It is a sustainable one.",24,f,a>if,0
+2,"Mary develops a product, and she tests it. It is a sustainable one.","Whenever Mary develops a product, she tests it. It is a sustainable one.",24,f,a>whenever,0
+1,"John launches a project, and he oversees it. He also plans it.","If John launches a project, he oversees it. He also plans it.",25,m,a>if,1
+1,"Whenever John launches a project, he oversees it. He also plans it.","John launches a project, and he oversees it. He also plans it.",25,m,a>whenever,0
+1,"If John launches a project, he oversees it. It is an ambitious one.","John launches a project, and he oversees it. It is an ambitious one.",25,m,a>if,0
+2,"Whenever John launches a project, he oversees it. It is an ambitious one.","John launches a project, and he oversees it. It is an ambitious one.",25,m,a>whenever,1
+1,"If Mary launches a project, she oversees it. She also plans it.","Mary launches a project, and she oversees it. She also plans it.",25,f,a>if,0
+1,"Whenever Mary launches a project, she oversees it. She also plans it.","Mary launches a project, and she oversees it. She also plans it.",25,f,a>whenever,0
+1,"If Mary launches a project, she oversees it. It is an ambitious one.","Mary launches a project, and she oversees it. It is an ambitious one.",25,f,a>if,0
+1,"Whenever Mary launches a project, she oversees it. It is an ambitious one.","Mary launches a project, and she oversees it. It is an ambitious one.",25,f,a>whenever,0
+1,"John launches a project, and he oversees it. He also evaluates it.","If John launches a project, he oversees it. He also evaluates it.",25,m,a>if,1
+1,"Whenever John launches a project, he oversees it. He also evaluates it.","John launches a project, and he oversees it. He also evaluates it.",25,m,a>whenever,0
+2,"If John launches a project, he oversees it. It is an innovative one.","John launches a project, and he oversees it. It is an innovative one.",25,m,a>if,1
+2,"John launches a project, and he oversees it. It is an innovative one.","Whenever John launches a project, he oversees it. It is an innovative one.",25,m,a>whenever,0
+1,"If Mary launches a project, she oversees it. She also evaluates it.","Mary launches a project, and she oversees it. She also evaluates it.",25,f,a>if,0
+1,"Whenever Mary launches a project, she oversees it. She also evaluates it.","Mary launches a project, and she oversees it. She also evaluates it.",25,f,a>whenever,0
+1,"If Mary launches a project, she oversees it. It is an innovative one.","Mary launches a project, and she oversees it. It is an innovative one.",25,f,a>if,0
+2,"Mary launches a project, and she oversees it. It is an innovative one.","Whenever Mary launches a project, she oversees it. It is an innovative one.",25,f,a>whenever,0
+1,"If John launches a project, he oversees it. He also manages it.","John launches a project, and he oversees it. He also manages it.",25,m,a>if,0
+1,"John launches a project, and he oversees it. He also manages it.","Whenever John launches a project, he oversees it. He also manages it.",25,m,a>whenever,1
+2,"If John launches a project, he oversees it. It is a successful one.","John launches a project, and he oversees it. It is a successful one.",25,m,a>if,1
+2,"John launches a project, and he oversees it. It is a successful one.","Whenever John launches a project, he oversees it. It is a successful one.",25,m,a>whenever,0
+1,"Mary launches a project, and she oversees it. She also manages it.","If Mary launches a project, she oversees it. She also manages it.",25,f,a>if,1
+1,"Whenever Mary launches a project, she oversees it. She also manages it.","Mary launches a project, and she oversees it. She also manages it.",25,f,a>whenever,0
+2,"If Mary launches a project, she oversees it. It is a successful one.","Mary launches a project, and she oversees it. It is a successful one.",25,f,a>if,1
+2,"Whenever Mary launches a project, she oversees it. It is a successful one.","Mary launches a project, and she oversees it. It is a successful one.",25,f,a>whenever,1
+1,"John launches a project, and he oversees it. He also directs it.","If John launches a project, he oversees it. He also directs it.",25,m,a>if,1
+1,"Whenever John launches a project, he oversees it. He also directs it.","John launches a project, and he oversees it. He also directs it.",25,m,a>whenever,0
+1,"If John launches a project, he oversees it. It is a challenging one.","John launches a project, and he oversees it. It is a challenging one.",25,m,a>if,0
+1,"John launches a project, and he oversees it. It is a challenging one.","Whenever John launches a project, he oversees it. It is a challenging one.",25,m,a>whenever,1
+1,"Mary launches a project, and she oversees it. She also directs it.","If Mary launches a project, she oversees it. She also directs it.",25,f,a>if,1
+1,"Whenever Mary launches a project, she oversees it. She also directs it.","Mary launches a project, and she oversees it. She also directs it.",25,f,a>whenever,0
+1,"If Mary launches a project, she oversees it. It is a challenging one.","Mary launches a project, and she oversees it. It is a challenging one.",25,f,a>if,0
+2,"Mary launches a project, and she oversees it. It is a challenging one.","Whenever Mary launches a project, she oversees it. It is a challenging one.",25,f,a>whenever,0
+1,"If John launches a project, he oversees it. He also monitors it.","John launches a project, and he oversees it. He also monitors it.",25,m,a>if,0
+1,"John launches a project, and he oversees it. He also monitors it.","Whenever John launches a project, he oversees it. He also monitors it.",25,m,a>whenever,1
+1,"If John launches a project, he oversees it. It is a complex one.","John launches a project, and he oversees it. It is a complex one.",25,m,a>if,0
+1,"Whenever John launches a project, he oversees it. It is a complex one.","John launches a project, and he oversees it. It is a complex one.",25,m,a>whenever,0
+1,"If Mary launches a project, she oversees it. She also monitors it.","Mary launches a project, and she oversees it. She also monitors it.",25,f,a>if,0
+1,"Mary launches a project, and she oversees it. She also monitors it.","Whenever Mary launches a project, she oversees it. She also monitors it.",25,f,a>whenever,1
+1,"If Mary launches a project, she oversees it. It is a complex one.","Mary launches a project, and she oversees it. It is a complex one.",25,f,a>if,0
+1,"Mary launches a project, and she oversees it. It is a complex one.","Whenever Mary launches a project, she oversees it. It is a complex one.",25,f,a>whenever,1
+1,"John prepares a course, and he teaches it. He also reviews it.","If John prepares a course, he teaches it. He also reviews it.",26,m,a>if,1
+2,"John prepares a course, and he teaches it. He also reviews it.","Whenever John prepares a course, he teaches it. He also reviews it.",26,m,a>whenever,0
+1,"John prepares a course, and he teaches it. It is a challenging one.","If John prepares a course, he teaches it. It is a challenging one.",26,m,a>if,1
+2,"John prepares a course, and he teaches it. It is a challenging one.","Whenever John prepares a course, he teaches it. It is a challenging one.",26,m,a>whenever,0
+1,"If Mary prepares a course, she teaches it. She also reviews it.","Mary prepares a course, and she teaches it. She also reviews it.",26,f,a>if,0
+2,"Mary prepares a course, and she teaches it. She also reviews it.","Whenever Mary prepares a course, she teaches it. She also reviews it.",26,f,a>whenever,0
+1,"If Mary prepares a course, she teaches it. It is a challenging one.","Mary prepares a course, and she teaches it. It is a challenging one.",26,f,a>if,0
+1,"Whenever Mary prepares a course, she teaches it. It is a challenging one.","Mary prepares a course, and she teaches it. It is a challenging one.",26,f,a>whenever,0
+1,"John prepares a course, and he teaches it. He also updates it.","If John prepares a course, he teaches it. He also updates it.",26,m,a>if,1
+1,"John prepares a course, and he teaches it. He also updates it.","Whenever John prepares a course, he teaches it. He also updates it.",26,m,a>whenever,1
+1,"If John prepares a course, he teaches it. It is a comprehensive one.","John prepares a course, and he teaches it. It is a comprehensive one.",26,m,a>if,0
+2,"John prepares a course, and he teaches it. It is a comprehensive one.","Whenever John prepares a course, he teaches it. It is a comprehensive one.",26,m,a>whenever,0
+1,"Mary prepares a course, and she teaches it. She also updates it.","If Mary prepares a course, she teaches it. She also updates it.",26,f,a>if,1
+2,"Mary prepares a course, and she teaches it. She also updates it.","Whenever Mary prepares a course, she teaches it. She also updates it.",26,f,a>whenever,0
+1,"Mary prepares a course, and she teaches it. It is a comprehensive one.","If Mary prepares a course, she teaches it. It is a comprehensive one.",26,f,a>if,1
+2,"Mary prepares a course, and she teaches it. It is a comprehensive one.","Whenever Mary prepares a course, she teaches it. It is a comprehensive one.",26,f,a>whenever,0
+1,"If John prepares a course, he teaches it. He also organizes it.","John prepares a course, and he teaches it. He also organizes it.",26,m,a>if,0
+2,"John prepares a course, and he teaches it. He also organizes it.","Whenever John prepares a course, he teaches it. He also organizes it.",26,m,a>whenever,0
+1,"If John prepares a course, he teaches it. It is an innovative one.","John prepares a course, and he teaches it. It is an innovative one.",26,m,a>if,0
+1,"Whenever John prepares a course, he teaches it. It is an innovative one.","John prepares a course, and he teaches it. It is an innovative one.",26,m,a>whenever,0
+1,"Mary prepares a course, and she teaches it. She also organizes it.","If Mary prepares a course, she teaches it. She also organizes it.",26,f,a>if,1
+1,"Mary prepares a course, and she teaches it. She also organizes it.","Whenever Mary prepares a course, she teaches it. She also organizes it.",26,f,a>whenever,1
+1,"If Mary prepares a course, she teaches it. It is an innovative one.","Mary prepares a course, and she teaches it. It is an innovative one.",26,f,a>if,0
+2,"Mary prepares a course, and she teaches it. It is an innovative one.","Whenever Mary prepares a course, she teaches it. It is an innovative one.",26,f,a>whenever,0
+1,"If John prepares a course, he teaches it. He also manages it.","John prepares a course, and he teaches it. He also manages it.",26,m,a>if,0
+1,"Whenever John prepares a course, he teaches it. He also manages it.","John prepares a course, and he teaches it. He also manages it.",26,m,a>whenever,0
+1,"John prepares a course, and he teaches it. It is a practical one.","If John prepares a course, he teaches it. It is a practical one.",26,m,a>if,1
+1,"Whenever John prepares a course, he teaches it. It is a practical one.","John prepares a course, and he teaches it. It is a practical one.",26,m,a>whenever,0
+1,"Mary prepares a course, and she teaches it. She also manages it.","If Mary prepares a course, she teaches it. She also manages it.",26,f,a>if,1
+1,"Whenever Mary prepares a course, she teaches it. She also manages it.","Mary prepares a course, and she teaches it. She also manages it.",26,f,a>whenever,0
+1,"Mary prepares a course, and she teaches it. It is a practical one.","If Mary prepares a course, she teaches it. It is a practical one.",26,f,a>if,1
+2,"Mary prepares a course, and she teaches it. It is a practical one.","Whenever Mary prepares a course, she teaches it. It is a practical one.",26,f,a>whenever,0
+1,"John prepares a course, and he teaches it. He also evaluates it.","If John prepares a course, he teaches it. He also evaluates it.",26,m,a>if,1
+2,"John prepares a course, and he teaches it. He also evaluates it.","Whenever John prepares a course, he teaches it. He also evaluates it.",26,m,a>whenever,0
+1,"If John prepares a course, he teaches it. It is a detailed one.","John prepares a course, and he teaches it. It is a detailed one.",26,m,a>if,0
+1,"Whenever John prepares a course, he teaches it. It is a detailed one.","John prepares a course, and he teaches it. It is a detailed one.",26,m,a>whenever,0
+1,"Mary prepares a course, and she teaches it. She also evaluates it.","If Mary prepares a course, she teaches it. She also evaluates it.",26,f,a>if,1
+1,"Whenever Mary prepares a course, she teaches it. She also evaluates it.","Mary prepares a course, and she teaches it. She also evaluates it.",26,f,a>whenever,0
+1,"Mary prepares a course, and she teaches it. It is a detailed one.","If Mary prepares a course, she teaches it. It is a detailed one.",26,f,a>if,1
+1,"Whenever Mary prepares a course, she teaches it. It is a detailed one.","Mary prepares a course, and she teaches it. It is a detailed one.",26,f,a>whenever,0
+1,"John accepts a case, and he investigates it. He also analyzes it.","If John accepts a case, he investigates it. He also analyzes it.",27,m,a>if,1
+1,"Whenever John accepts a case, he investigates it. He also analyzes it.","John accepts a case, and he investigates it. He also analyzes it.",27,m,a>whenever,0
+1,"John accepts a case, and he investigates it. It is a complex one.","If John accepts a case, he investigates it. It is a complex one.",27,m,a>if,1
+1,"Whenever John accepts a case, he investigates it. It is a complex one.","John accepts a case, and he investigates it. It is a complex one.",27,m,a>whenever,0
+1,"If Mary accepts a case, she investigates it. She also analyzes it.","Mary accepts a case, and she investigates it. She also analyzes it.",27,f,a>if,0
+1,"Whenever Mary accepts a case, she investigates it. She also analyzes it.","Mary accepts a case, and she investigates it. She also analyzes it.",27,f,a>whenever,0
+1,"Mary accepts a case, and she investigates it. It is a complex one.","If Mary accepts a case, she investigates it. It is a complex one.",27,f,a>if,1
+1,"Mary accepts a case, and she investigates it. It is a complex one.","Whenever Mary accepts a case, she investigates it. It is a complex one.",27,f,a>whenever,1
+1,"If John accepts a case, he investigates it. He also researches it.","John accepts a case, and he investigates it. He also researches it.",27,m,a>if,0
+1,"Whenever John accepts a case, he investigates it. He also researches it.","John accepts a case, and he investigates it. He also researches it.",27,m,a>whenever,0
+1,"If John accepts a case, he investigates it. It is a challenging one.","John accepts a case, and he investigates it. It is a challenging one.",27,m,a>if,0
+1,"Whenever John accepts a case, he investigates it. It is a challenging one.","John accepts a case, and he investigates it. It is a challenging one.",27,m,a>whenever,0
+2,"Mary accepts a case, and she investigates it. She also researches it.","If Mary accepts a case, she investigates it. She also researches it.",27,f,a>if,0
+2,"Mary accepts a case, and she investigates it. She also researches it.","Whenever Mary accepts a case, she investigates it. She also researches it.",27,f,a>whenever,0
+1,"If Mary accepts a case, she investigates it. It is a challenging one.","Mary accepts a case, and she investigates it. It is a challenging one.",27,f,a>if,0
+1,"Mary accepts a case, and she investigates it. It is a challenging one.","Whenever Mary accepts a case, she investigates it. It is a challenging one.",27,f,a>whenever,1
+2,"John accepts a case, and he investigates it. He also reviews it.","If John accepts a case, he investigates it. He also reviews it.",27,m,a>if,0
+1,"Whenever John accepts a case, he investigates it. He also reviews it.","John accepts a case, and he investigates it. He also reviews it.",27,m,a>whenever,0
+2,"If John accepts a case, he investigates it. It is a controversial one.","John accepts a case, and he investigates it. It is a controversial one.",27,m,a>if,1
+2,"John accepts a case, and he investigates it. It is a controversial one.","Whenever John accepts a case, he investigates it. It is a controversial one.",27,m,a>whenever,0
+1,"Mary accepts a case, and she investigates it. She also reviews it.","If Mary accepts a case, she investigates it. She also reviews it.",27,f,a>if,1
+1,"Whenever Mary accepts a case, she investigates it. She also reviews it.","Mary accepts a case, and she investigates it. She also reviews it.",27,f,a>whenever,0
+1,"Mary accepts a case, and she investigates it. It is a controversial one.","If Mary accepts a case, she investigates it. It is a controversial one.",27,f,a>if,1
+1,"Mary accepts a case, and she investigates it. It is a controversial one.","Whenever Mary accepts a case, she investigates it. It is a controversial one.",27,f,a>whenever,1
+1,"If John accepts a case, he investigates it. He also argues it.","John accepts a case, and he investigates it. He also argues it.",27,m,a>if,0
+2,"John accepts a case, and he investigates it. He also argues it.","Whenever John accepts a case, he investigates it. He also argues it.",27,m,a>whenever,0
+1,"John accepts a case, and he investigates it. It is a difficult one.","If John accepts a case, he investigates it. It is a difficult one.",27,m,a>if,1
+2,"John accepts a case, and he investigates it. It is a difficult one.","Whenever John accepts a case, he investigates it. It is a difficult one.",27,m,a>whenever,0
+2,"Mary accepts a case, and she investigates it. She also argues it.","If Mary accepts a case, she investigates it. She also argues it.",27,f,a>if,0
+2,"Mary accepts a case, and she investigates it. She also argues it.","Whenever Mary accepts a case, she investigates it. She also argues it.",27,f,a>whenever,0
+2,"Mary accepts a case, and she investigates it. It is a difficult one.","If Mary accepts a case, she investigates it. It is a difficult one.",27,f,a>if,0
+1,"Whenever Mary accepts a case, she investigates it. It is a difficult one.","Mary accepts a case, and she investigates it. It is a difficult one.",27,f,a>whenever,0
+2,"John accepts a case, and he investigates it. He also presents it.","If John accepts a case, he investigates it. He also presents it.",27,m,a>if,0
+1,"Whenever John accepts a case, he investigates it. He also presents it.","John accepts a case, and he investigates it. He also presents it.",27,m,a>whenever,0
+1,"John accepts a case, and he investigates it. It is a sensitive one.","If John accepts a case, he investigates it. It is a sensitive one.",27,m,a>if,1
+2,"John accepts a case, and he investigates it. It is a sensitive one.","Whenever John accepts a case, he investigates it. It is a sensitive one.",27,m,a>whenever,0
+1,"If Mary accepts a case, she investigates it. She also presents it.","Mary accepts a case, and she investigates it. She also presents it.",27,f,a>if,0
+2,"Mary accepts a case, and she investigates it. She also presents it.","Whenever Mary accepts a case, she investigates it. She also presents it.",27,f,a>whenever,0
+1,"Mary accepts a case, and she investigates it. It is a sensitive one.","If Mary accepts a case, she investigates it. It is a sensitive one.",27,f,a>if,1
+1,"Mary accepts a case, and she investigates it. It is a sensitive one.","Whenever Mary accepts a case, she investigates it. It is a sensitive one.",27,f,a>whenever,1
+1,"John invades a castle, and he destroys it. He also captures it.","If John invades a castle, he destroys it. He also captures it.",28,m,a>if,1
+1,"Whenever John invades a castle, he destroys it. He also captures it.","John invades a castle, and he destroys it. He also captures it.",28,m,a>whenever,0
+1,"John invades a castle, and he destroys it. It is an ancient one.","If John invades a castle, he destroys it. It is an ancient one.",28,m,a>if,1
+2,"John invades a castle, and he destroys it. It is an ancient one.","Whenever John invades a castle, he destroys it. It is an ancient one.",28,m,a>whenever,0
+1,"If Mary invades a castle, she destroys it. She also captures it.","Mary invades a castle, and she destroys it. She also captures it.",28,f,a>if,0
+1,"Whenever Mary invades a castle, she destroys it. She also captures it.","Mary invades a castle, and she destroys it. She also captures it.",28,f,a>whenever,0
+1,"Mary invades a castle, and she destroys it. It is an ancient one.","If Mary invades a castle, she destroys it. It is an ancient one.",28,f,a>if,1
+2,"Mary invades a castle, and she destroys it. It is an ancient one.","Whenever Mary invades a castle, she destroys it. It is an ancient one.",28,f,a>whenever,0
+1,"John invades a castle, and he destroys it. He also seizes it.","If John invades a castle, he destroys it. He also seizes it.",28,m,a>if,1
+1,"Whenever John invades a castle, he destroys it. He also seizes it.","John invades a castle, and he destroys it. He also seizes it.",28,m,a>whenever,0
+1,"If John invades a castle, he destroys it. It is a massive one.","John invades a castle, and he destroys it. It is a massive one.",28,m,a>if,0
+2,"Whenever John invades a castle, he destroys it. It is a massive one.","John invades a castle, and he destroys it. It is a massive one.",28,m,a>whenever,1
+1,"If Mary invades a castle, she destroys it. She also seizes it.","Mary invades a castle, and she destroys it. She also seizes it.",28,f,a>if,0
+1,"Whenever Mary invades a castle, she destroys it. She also seizes it.","Mary invades a castle, and she destroys it. She also seizes it.",28,f,a>whenever,0
+2,"If Mary invades a castle, she destroys it. It is a massive one.","Mary invades a castle, and she destroys it. It is a massive one.",28,f,a>if,1
+2,"Mary invades a castle, and she destroys it. It is a massive one.","Whenever Mary invades a castle, she destroys it. It is a massive one.",28,f,a>whenever,0
+1,"If John invades a castle, he destroys it. He also occupies it.","John invades a castle, and he destroys it. He also occupies it.",28,m,a>if,0
+1,"Whenever John invades a castle, he destroys it. He also occupies it.","John invades a castle, and he destroys it. He also occupies it.",28,m,a>whenever,0
+2,"John invades a castle, and he destroys it. It is a mysterious one.","If John invades a castle, he destroys it. It is a mysterious one.",28,m,a>if,0
+2,"Whenever John invades a castle, he destroys it. It is a mysterious one.","John invades a castle, and he destroys it. It is a mysterious one.",28,m,a>whenever,1
+1,"If Mary invades a castle, she destroys it. She also occupies it.","Mary invades a castle, and she destroys it. She also occupies it.",28,f,a>if,0
+1,"Whenever Mary invades a castle, she destroys it. She also occupies it.","Mary invades a castle, and she destroys it. She also occupies it.",28,f,a>whenever,0
+2,"Mary invades a castle, and she destroys it. It is a mysterious one.","If Mary invades a castle, she destroys it. It is a mysterious one.",28,f,a>if,0
+2,"Mary invades a castle, and she destroys it. It is a mysterious one.","Whenever Mary invades a castle, she destroys it. It is a mysterious one.",28,f,a>whenever,0
+2,"John invades a castle, and he destroys it. He also attacks it.","If John invades a castle, he destroys it. He also attacks it.",28,m,a>if,0
+1,"Whenever John invades a castle, he destroys it. He also attacks it.","John invades a castle, and he destroys it. He also attacks it.",28,m,a>whenever,0
+2,"John invades a castle, and he destroys it. It is a vast one.","If John invades a castle, he destroys it. It is a vast one.",28,m,a>if,0
+1,"Whenever John invades a castle, he destroys it. It is a vast one.","John invades a castle, and he destroys it. It is a vast one.",28,m,a>whenever,0
+2,"Mary invades a castle, and she destroys it. She also attacks it.","If Mary invades a castle, she destroys it. She also attacks it.",28,f,a>if,0
+2,"Mary invades a castle, and she destroys it. She also attacks it.","Whenever Mary invades a castle, she destroys it. She also attacks it.",28,f,a>whenever,0
+2,"Mary invades a castle, and she destroys it. It is a vast one.","If Mary invades a castle, she destroys it. It is a vast one.",28,f,a>if,0
+2,"Whenever Mary invades a castle, she destroys it. It is a vast one.","Mary invades a castle, and she destroys it. It is a vast one.",28,f,a>whenever,1
+1,"If John invades a castle, he destroys it. He also claims it.","John invades a castle, and he destroys it. He also claims it.",28,m,a>if,0
+2,"John invades a castle, and he destroys it. He also claims it.","Whenever John invades a castle, he destroys it. He also claims it.",28,m,a>whenever,0
+2,"If John invades a castle, he destroys it. It is a grand one.","John invades a castle, and he destroys it. It is a grand one.",28,m,a>if,1
+2,"Whenever John invades a castle, he destroys it. It is a grand one.","John invades a castle, and he destroys it. It is a grand one.",28,m,a>whenever,1
+1,"Mary invades a castle, and she destroys it. She also claims it.","If Mary invades a castle, she destroys it. She also claims it.",28,f,a>if,1
+1,"Whenever Mary invades a castle, she destroys it. She also claims it.","Mary invades a castle, and she destroys it. She also claims it.",28,f,a>whenever,0
+2,"If Mary invades a castle, she destroys it. It is a grand one.","Mary invades a castle, and she destroys it. It is a grand one.",28,f,a>if,1
+1,"Whenever Mary invades a castle, she destroys it. It is a grand one.","Mary invades a castle, and she destroys it. It is a grand one.",28,f,a>whenever,0
+2,"If John founds a company, he manages it. He also grows it.","John founds a company, and he manages it. He also grows it.",29,m,a>if,1
+2,"John founds a company, and he manages it. He also grows it.","Whenever John founds a company, he manages it. He also grows it.",29,m,a>whenever,0
+2,"If John founds a company, he manages it. It is an innovative one.","John founds a company, and he manages it. It is an innovative one.",29,m,a>if,1
+2,"John founds a company, and he manages it. It is an innovative one.","Whenever John founds a company, he manages it. It is an innovative one.",29,m,a>whenever,0
+2,"If Mary founds a company, she manages it. She also grows it.","Mary founds a company, and she manages it. She also grows it.",29,f,a>if,1
+2,"Whenever Mary founds a company, she manages it. She also grows it.","Mary founds a company, and she manages it. She also grows it.",29,f,a>whenever,1
+1,"Mary founds a company, and she manages it. It is an innovative one.","If Mary founds a company, she manages it. It is an innovative one.",29,f,a>if,1
+1,"Mary founds a company, and she manages it. It is an innovative one.","Whenever Mary founds a company, she manages it. It is an innovative one.",29,f,a>whenever,1
+2,"If John founds a company, he manages it. He also leads it.","John founds a company, and he manages it. He also leads it.",29,m,a>if,1
+2,"Whenever John founds a company, he manages it. He also leads it.","John founds a company, and he manages it. He also leads it.",29,m,a>whenever,1
+2,"If John founds a company, he manages it. It is a successful one.","John founds a company, and he manages it. It is a successful one.",29,m,a>if,1
+2,"Whenever John founds a company, he manages it. It is a successful one.","John founds a company, and he manages it. It is a successful one.",29,m,a>whenever,1
+1,"Mary founds a company, and she manages it. She also leads it.","If Mary founds a company, she manages it. She also leads it.",29,f,a>if,1
+2,"Whenever Mary founds a company, she manages it. She also leads it.","Mary founds a company, and she manages it. She also leads it.",29,f,a>whenever,1
+2,"If Mary founds a company, she manages it. It is a successful one.","Mary founds a company, and she manages it. It is a successful one.",29,f,a>if,1
+1,"Mary founds a company, and she manages it. It is a successful one.","Whenever Mary founds a company, she manages it. It is a successful one.",29,f,a>whenever,1
+1,"John founds a company, and he manages it. He also expands it.","If John founds a company, he manages it. He also expands it.",29,m,a>if,1
+2,"John founds a company, and he manages it. He also expands it.","Whenever John founds a company, he manages it. He also expands it.",29,m,a>whenever,0
+2,"If John founds a company, he manages it. It is a new one.","John founds a company, and he manages it. It is a new one.",29,m,a>if,1
+2,"Whenever John founds a company, he manages it. It is a new one.","John founds a company, and he manages it. It is a new one.",29,m,a>whenever,1
+1,"Mary founds a company, and she manages it. She also expands it.","If Mary founds a company, she manages it. She also expands it.",29,f,a>if,1
+2,"Whenever Mary founds a company, she manages it. She also expands it.","Mary founds a company, and she manages it. She also expands it.",29,f,a>whenever,1
+2,"If Mary founds a company, she manages it. It is a new one.","Mary founds a company, and she manages it. It is a new one.",29,f,a>if,1
+1,"Mary founds a company, and she manages it. It is a new one.","Whenever Mary founds a company, she manages it. It is a new one.",29,f,a>whenever,1
+2,"If John founds a company, he manages it. He also develops it.","John founds a company, and he manages it. He also develops it.",29,m,a>if,1
+2,"Whenever John founds a company, he manages it. He also develops it.","John founds a company, and he manages it. He also develops it.",29,m,a>whenever,1
+2,"If John founds a company, he manages it. It is a small one.","John founds a company, and he manages it. It is a small one.",29,m,a>if,1
+2,"Whenever John founds a company, he manages it. It is a small one.","John founds a company, and he manages it. It is a small one.",29,m,a>whenever,1
+2,"If Mary founds a company, she manages it. She also develops it.","Mary founds a company, and she manages it. She also develops it.",29,f,a>if,1
+2,"Mary founds a company, and she manages it. She also develops it.","Whenever Mary founds a company, she manages it. She also develops it.",29,f,a>whenever,0
+1,"Mary founds a company, and she manages it. It is a small one.","If Mary founds a company, she manages it. It is a small one.",29,f,a>if,1
+2,"Mary founds a company, and she manages it. It is a small one.","Whenever Mary founds a company, she manages it. It is a small one.",29,f,a>whenever,0
+1,"John founds a company, and he manages it. He also oversees it.","If John founds a company, he manages it. He also oversees it.",29,m,a>if,1
+2,"Whenever John founds a company, he manages it. He also oversees it.","John founds a company, and he manages it. He also oversees it.",29,m,a>whenever,1
+1,"John founds a company, and he manages it. It is a large one.","If John founds a company, he manages it. It is a large one.",29,m,a>if,1
+2,"Whenever John founds a company, he manages it. It is a large one.","John founds a company, and he manages it. It is a large one.",29,m,a>whenever,1
+2,"If Mary founds a company, she manages it. She also oversees it.","Mary founds a company, and she manages it. She also oversees it.",29,f,a>if,1
+2,"Whenever Mary founds a company, she manages it. She also oversees it.","Mary founds a company, and she manages it. She also oversees it.",29,f,a>whenever,1
+2,"If Mary founds a company, she manages it. It is a large one.","Mary founds a company, and she manages it. It is a large one.",29,f,a>if,1
+1,"Mary founds a company, and she manages it. It is a large one.","Whenever Mary founds a company, she manages it. It is a large one.",29,f,a>whenever,1
+2,"If John flies a helicopter, he lands it. He also maintains it.","John flies a helicopter, and he lands it. He also maintains it.",30,m,a>if,1
+1,"John flies a helicopter, and he lands it. He also maintains it.","Whenever John flies a helicopter, he lands it. He also maintains it.",30,m,a>whenever,1
+1,"John flies a helicopter, and he lands it. It is a complex one.","If John flies a helicopter, he lands it. It is a complex one.",30,m,a>if,1
+1,"Whenever John flies a helicopter, he lands it. It is a complex one.","John flies a helicopter, and he lands it. It is a complex one.",30,m,a>whenever,0
+1,"Mary flies a helicopter, and she lands it. She also maintains it.","If Mary flies a helicopter, she lands it. She also maintains it.",30,f,a>if,1
+1,"Whenever Mary flies a helicopter, she lands it. She also maintains it.","Mary flies a helicopter, and she lands it. She also maintains it.",30,f,a>whenever,0
+1,"Mary flies a helicopter, and she lands it. It is a complex one.","If Mary flies a helicopter, she lands it. It is a complex one.",30,f,a>if,1
+1,"Whenever Mary flies a helicopter, she lands it. It is a complex one.","Mary flies a helicopter, and she lands it. It is a complex one.",30,f,a>whenever,0
+1,"If John flies a helicopter, he lands it. He also operates it.","John flies a helicopter, and he lands it. He also operates it.",30,m,a>if,0
+1,"Whenever John flies a helicopter, he lands it. He also operates it.","John flies a helicopter, and he lands it. He also operates it.",30,m,a>whenever,0
+2,"If John flies a helicopter, he lands it. It is an advanced one.","John flies a helicopter, and he lands it. It is an advanced one.",30,m,a>if,1
+1,"Whenever John flies a helicopter, he lands it. It is an advanced one.","John flies a helicopter, and he lands it. It is an advanced one.",30,m,a>whenever,0
+1,"If Mary flies a helicopter, she lands it. She also operates it.","Mary flies a helicopter, and she lands it. She also operates it.",30,f,a>if,0
+1,"Whenever Mary flies a helicopter, she lands it. She also operates it.","Mary flies a helicopter, and she lands it. She also operates it.",30,f,a>whenever,0
+1,"Mary flies a helicopter, and she lands it. It is an advanced one.","If Mary flies a helicopter, she lands it. It is an advanced one.",30,f,a>if,1
+1,"Whenever Mary flies a helicopter, she lands it. It is an advanced one.","Mary flies a helicopter, and she lands it. It is an advanced one.",30,f,a>whenever,0
+1,"John flies a helicopter, and he lands it. He also controls it.","If John flies a helicopter, he lands it. He also controls it.",30,m,a>if,1
+1,"John flies a helicopter, and he lands it. He also controls it.","Whenever John flies a helicopter, he lands it. He also controls it.",30,m,a>whenever,1
+2,"If John flies a helicopter, he lands it. It is a powerful one.","John flies a helicopter, and he lands it. It is a powerful one.",30,m,a>if,1
+1,"Whenever John flies a helicopter, he lands it. It is a powerful one.","John flies a helicopter, and he lands it. It is a powerful one.",30,m,a>whenever,0
+1,"If Mary flies a helicopter, she lands it. She also controls it.","Mary flies a helicopter, and she lands it. She also controls it.",30,f,a>if,0
+1,"Mary flies a helicopter, and she lands it. She also controls it.","Whenever Mary flies a helicopter, she lands it. She also controls it.",30,f,a>whenever,1
+1,"Mary flies a helicopter, and she lands it. It is a powerful one.","If Mary flies a helicopter, she lands it. It is a powerful one.",30,f,a>if,1
+1,"Whenever Mary flies a helicopter, she lands it. It is a powerful one.","Mary flies a helicopter, and she lands it. It is a powerful one.",30,f,a>whenever,0
+2,"If John flies a helicopter, he lands it. He also parks it.","John flies a helicopter, and he lands it. He also parks it.",30,m,a>if,1
+1,"Whenever John flies a helicopter, he lands it. He also parks it.","John flies a helicopter, and he lands it. He also parks it.",30,m,a>whenever,0
+2,"If John flies a helicopter, he lands it. It is a fast one.","John flies a helicopter, and he lands it. It is a fast one.",30,m,a>if,1
+2,"Whenever John flies a helicopter, he lands it. It is a fast one.","John flies a helicopter, and he lands it. It is a fast one.",30,m,a>whenever,1
+1,"Mary flies a helicopter, and she lands it. She also parks it.","If Mary flies a helicopter, she lands it. She also parks it.",30,f,a>if,1
+1,"Whenever Mary flies a helicopter, she lands it. She also parks it.","Mary flies a helicopter, and she lands it. She also parks it.",30,f,a>whenever,0
+2,"If Mary flies a helicopter, she lands it. It is a fast one.","Mary flies a helicopter, and she lands it. It is a fast one.",30,f,a>if,1
+1,"Whenever Mary flies a helicopter, she lands it. It is a fast one.","Mary flies a helicopter, and she lands it. It is a fast one.",30,f,a>whenever,0
+2,"If John flies a helicopter, he lands it. He also repairs it.","John flies a helicopter, and he lands it. He also repairs it.",30,m,a>if,1
+1,"John flies a helicopter, and he lands it. He also repairs it.","Whenever John flies a helicopter, he lands it. He also repairs it.",30,m,a>whenever,1
+1,"John flies a helicopter, and he lands it. It is a reliable one.","If John flies a helicopter, he lands it. It is a reliable one.",30,m,a>if,1
+1,"Whenever John flies a helicopter, he lands it. It is a reliable one.","John flies a helicopter, and he lands it. It is a reliable one.",30,m,a>whenever,0
+1,"Mary flies a helicopter, and she lands it. She also repairs it.","If Mary flies a helicopter, she lands it. She also repairs it.",30,f,a>if,1
+1,"Whenever Mary flies a helicopter, she lands it. She also repairs it.","Mary flies a helicopter, and she lands it. She also repairs it.",30,f,a>whenever,0
+1,"If Mary flies a helicopter, she lands it. It is a reliable one.","Mary flies a helicopter, and she lands it. It is a reliable one.",30,f,a>if,0
+1,"Mary flies a helicopter, and she lands it. It is a reliable one.","Whenever Mary flies a helicopter, she lands it. It is a reliable one.",30,f,a>whenever,1
+1,"If John raises a horse, he races it. He also trains it.","John raises a horse, and he races it. He also trains it.",31,m,a>if,0
+1,"John raises a horse, and he races it. He also trains it.","Whenever John raises a horse, he races it. He also trains it.",31,m,a>whenever,1
+2,"If John raises a horse, he races it. It is a powerful one.","John raises a horse, and he races it. It is a powerful one.",31,m,a>if,1
+1,"Whenever John raises a horse, he races it. It is a powerful one.","John raises a horse, and he races it. It is a powerful one.",31,m,a>whenever,0
+1,"Mary raises a horse, and she races it. She also trains it.","If Mary raises a horse, she races it. She also trains it.",31,f,a>if,1
+1,"Mary raises a horse, and she races it. She also trains it.","Whenever Mary raises a horse, she races it. She also trains it.",31,f,a>whenever,1
+2,"If Mary raises a horse, she races it. It is a powerful one.","Mary raises a horse, and she races it. It is a powerful one.",31,f,a>if,1
+1,"Whenever Mary raises a horse, she races it. It is a powerful one.","Mary raises a horse, and she races it. It is a powerful one.",31,f,a>whenever,0
+1,"If John raises a horse, he races it. He also feeds it.","John raises a horse, and he races it. He also feeds it.",31,m,a>if,0
+1,"Whenever John raises a horse, he races it. He also feeds it.","John raises a horse, and he races it. He also feeds it.",31,m,a>whenever,0
+1,"John raises a horse, and he races it. It is a strong one.","If John raises a horse, he races it. It is a strong one.",31,m,a>if,1
+1,"Whenever John raises a horse, he races it. It is a strong one.","John raises a horse, and he races it. It is a strong one.",31,m,a>whenever,0
+1,"Mary raises a horse, and she races it. She also feeds it.","If Mary raises a horse, she races it. She also feeds it.",31,f,a>if,1
+1,"Mary raises a horse, and she races it. She also feeds it.","Whenever Mary raises a horse, she races it. She also feeds it.",31,f,a>whenever,1
+1,"Mary raises a horse, and she races it. It is a strong one.","If Mary raises a horse, she races it. It is a strong one.",31,f,a>if,1
+1,"Mary raises a horse, and she races it. It is a strong one.","Whenever Mary raises a horse, she races it. It is a strong one.",31,f,a>whenever,1
+1,"John raises a horse, and he races it. He also rides it.","If John raises a horse, he races it. He also rides it.",31,m,a>if,1
+1,"Whenever John raises a horse, he races it. He also rides it.","John raises a horse, and he races it. He also rides it.",31,m,a>whenever,0
+1,"John raises a horse, and he races it. It is a loyal one.","If John raises a horse, he races it. It is a loyal one.",31,m,a>if,1
+1,"John raises a horse, and he races it. It is a loyal one.","Whenever John raises a horse, he races it. It is a loyal one.",31,m,a>whenever,1
+2,"If Mary raises a horse, she races it. She also rides it.","Mary raises a horse, and she races it. She also rides it.",31,f,a>if,1
+1,"Whenever Mary raises a horse, she races it. She also rides it.","Mary raises a horse, and she races it. She also rides it.",31,f,a>whenever,0
+1,"Mary raises a horse, and she races it. It is a loyal one.","If Mary raises a horse, she races it. It is a loyal one.",31,f,a>if,1
+1,"Whenever Mary raises a horse, she races it. It is a loyal one.","Mary raises a horse, and she races it. It is a loyal one.",31,f,a>whenever,0
+1,"If John raises a horse, he races it. He also exercises it.","John raises a horse, and he races it. He also exercises it.",31,m,a>if,0
+1,"Whenever John raises a horse, he races it. He also exercises it.","John raises a horse, and he races it. He also exercises it.",31,m,a>whenever,0
+1,"John raises a horse, and he races it. It is a gentle one.","If John raises a horse, he races it. It is a gentle one.",31,m,a>if,1
+2,"John raises a horse, and he races it. It is a gentle one.","Whenever John raises a horse, he races it. It is a gentle one.",31,m,a>whenever,0
+1,"Mary raises a horse, and she races it. She also exercises it.","If Mary raises a horse, she races it. She also exercises it.",31,f,a>if,1
+1,"Whenever Mary raises a horse, she races it. She also exercises it.","Mary raises a horse, and she races it. She also exercises it.",31,f,a>whenever,0
+2,"If Mary raises a horse, she races it. It is a gentle one.","Mary raises a horse, and she races it. It is a gentle one.",31,f,a>if,1
+1,"Mary raises a horse, and she races it. It is a gentle one.","Whenever Mary raises a horse, she races it. It is a gentle one.",31,f,a>whenever,1
+1,"John raises a horse, and he races it. He also brushes it.","If John raises a horse, he races it. He also brushes it.",31,m,a>if,1
+1,"Whenever John raises a horse, he races it. He also brushes it.","John raises a horse, and he races it. He also brushes it.",31,m,a>whenever,0
+1,"John raises a horse, and he races it. It is a wild one.","If John raises a horse, he races it. It is a wild one.",31,m,a>if,1
+2,"Whenever John raises a horse, he races it. It is a wild one.","John raises a horse, and he races it. It is a wild one.",31,m,a>whenever,1
+2,"If Mary raises a horse, she races it. She also brushes it.","Mary raises a horse, and she races it. She also brushes it.",31,f,a>if,1
+1,"Whenever Mary raises a horse, she races it. She also brushes it.","Mary raises a horse, and she races it. She also brushes it.",31,f,a>whenever,0
+2,"If Mary raises a horse, she races it. It is a wild one.","Mary raises a horse, and she races it. It is a wild one.",31,f,a>if,1
+1,"Mary raises a horse, and she races it. It is a wild one.","Whenever Mary raises a horse, she races it. It is a wild one.",31,f,a>whenever,1

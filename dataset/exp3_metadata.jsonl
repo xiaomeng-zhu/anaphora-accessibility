@@ -1,0 +1,512 @@
+{"frame": "0", "gender": "m", "sent": "Either there was no treasure, or it was guarded by the dragon.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "0", "gender": "m", "sent": "Either there was a treasure, or it was guarded by the dragon.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "0", "gender": "m", "sent": "There was no treasure, or it was guarded by the dragon.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "0", "gender": "m", "sent": "There was no treasure, and it was guarded by the dragon.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "0", "gender": "f", "sent": "Either there was no treasure, or it was guarded by the dragon.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "0", "gender": "f", "sent": "Either there was a treasure, or it was guarded by the dragon.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "0", "gender": "f", "sent": "There was no treasure, or it was guarded by the dragon.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "0", "gender": "f", "sent": "There was no treasure, and it was guarded by the dragon.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "1", "gender": "m", "sent": "Either there was no manuscript, or it was hidden by the librarian.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "1", "gender": "m", "sent": "Either there was a manuscript, or it was hidden by the librarian.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "1", "gender": "m", "sent": "There was no manuscript, or it was hidden by the librarian.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "1", "gender": "m", "sent": "There was no manuscript, and it was hidden by the librarian.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "1", "gender": "f", "sent": "Either there was no manuscript, or it was hidden by the librarian.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "1", "gender": "f", "sent": "Either there was a manuscript, or it was hidden by the librarian.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "1", "gender": "f", "sent": "There was no manuscript, or it was hidden by the librarian.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "1", "gender": "f", "sent": "There was no manuscript, and it was hidden by the librarian.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "2", "gender": "m", "sent": "Either there was no painting, or it was stolen by the thief.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "2", "gender": "m", "sent": "Either there was a painting, or it was stolen by the thief.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "2", "gender": "m", "sent": "There was no painting, or it was stolen by the thief.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "2", "gender": "m", "sent": "There was no painting, and it was stolen by the thief.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "2", "gender": "f", "sent": "Either there was no painting, or it was stolen by the thief.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "2", "gender": "f", "sent": "Either there was a painting, or it was stolen by the thief.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "2", "gender": "f", "sent": "There was no painting, or it was stolen by the thief.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "2", "gender": "f", "sent": "There was no painting, and it was stolen by the thief.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "3", "gender": "m", "sent": "Either there was no weapon, or it was secured by the soldier.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "3", "gender": "m", "sent": "Either there was a weapon, or it was secured by the soldier.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "3", "gender": "m", "sent": "There was no weapon, or it was secured by the soldier.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "3", "gender": "m", "sent": "There was no weapon, and it was secured by the soldier.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "3", "gender": "f", "sent": "Either there was no weapon, or it was secured by the soldier.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "3", "gender": "f", "sent": "Either there was a weapon, or it was secured by the soldier.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "3", "gender": "f", "sent": "There was no weapon, or it was secured by the soldier.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "3", "gender": "f", "sent": "There was no weapon, and it was secured by the soldier.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "4", "gender": "m", "sent": "Either there was no flower, or it was planted by the gardener.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "4", "gender": "m", "sent": "Either there was a flower, or it was planted by the gardener.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "4", "gender": "m", "sent": "There was no flower, or it was planted by the gardener.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "4", "gender": "m", "sent": "There was no flower, and it was planted by the gardener.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "4", "gender": "f", "sent": "Either there was no flower, or it was planted by the gardener.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "4", "gender": "f", "sent": "Either there was a flower, or it was planted by the gardener.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "4", "gender": "f", "sent": "There was no flower, or it was planted by the gardener.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "4", "gender": "f", "sent": "There was no flower, and it was planted by the gardener.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "5", "gender": "m", "sent": "Either there was no document, or it was destroyed by the fire.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "5", "gender": "m", "sent": "Either there was a document, or it was destroyed by the fire.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "5", "gender": "m", "sent": "There was no document, or it was destroyed by the fire.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "5", "gender": "m", "sent": "There was no document, and it was destroyed by the fire.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "5", "gender": "f", "sent": "Either there was no document, or it was destroyed by the fire.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "5", "gender": "f", "sent": "Either there was a document, or it was destroyed by the fire.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "5", "gender": "f", "sent": "There was no document, or it was destroyed by the fire.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "5", "gender": "f", "sent": "There was no document, and it was destroyed by the fire.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "6", "gender": "m", "sent": "Either there was no plan, or it was leaked by the reporter.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "6", "gender": "m", "sent": "Either there was a plan, or it was leaked by the reporter.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "6", "gender": "m", "sent": "There was no plan, or it was leaked by the reporter.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "6", "gender": "m", "sent": "There was no plan, and it was leaked by the reporter.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "6", "gender": "f", "sent": "Either there was no plan, or it was leaked by the reporter.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "6", "gender": "f", "sent": "Either there was a plan, or it was leaked by the reporter.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "6", "gender": "f", "sent": "There was no plan, or it was leaked by the reporter.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "6", "gender": "f", "sent": "There was no plan, and it was leaked by the reporter.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "7", "gender": "m", "sent": "Either there was no artifact, or it was recovered by the researcher.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "7", "gender": "m", "sent": "Either there was an artifact, or it was recovered by the researcher.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "7", "gender": "m", "sent": "There was no artifact, or it was recovered by the researcher.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "7", "gender": "m", "sent": "There was no artifact, and it was recovered by the researcher.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "7", "gender": "f", "sent": "Either there was no artifact, or it was recovered by the researcher.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "7", "gender": "f", "sent": "Either there was an artifact, or it was recovered by the researcher.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "7", "gender": "f", "sent": "There was no artifact, or it was recovered by the researcher.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "7", "gender": "f", "sent": "There was no artifact, and it was recovered by the researcher.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "8", "gender": "m", "sent": "Either there was no message, or it was intercepted by the spy.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "8", "gender": "m", "sent": "Either there was a message, or it was intercepted by the spy.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "8", "gender": "m", "sent": "There was no message, or it was intercepted by the spy.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "8", "gender": "m", "sent": "There was no message, and it was intercepted by the spy.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "8", "gender": "f", "sent": "Either there was no message, or it was intercepted by the spy.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "8", "gender": "f", "sent": "Either there was a message, or it was intercepted by the spy.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "8", "gender": "f", "sent": "There was no message, or it was intercepted by the spy.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "8", "gender": "f", "sent": "There was no message, and it was intercepted by the spy.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "9", "gender": "m", "sent": "Either there was no bridge, or it was constructed by the engineer.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "9", "gender": "m", "sent": "Either there was a bridge, or it was constructed by the engineer.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "9", "gender": "m", "sent": "There was no bridge, or it was constructed by the engineer.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "9", "gender": "m", "sent": "There was no bridge, and it was constructed by the engineer.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "9", "gender": "f", "sent": "Either there was no bridge, or it was constructed by the engineer.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "9", "gender": "f", "sent": "Either there was a bridge, or it was constructed by the engineer.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "9", "gender": "f", "sent": "There was no bridge, or it was constructed by the engineer.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "9", "gender": "f", "sent": "There was no bridge, and it was constructed by the engineer.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "10", "gender": "m", "sent": "Either there was no letter, or it was delivered by the postman.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "10", "gender": "m", "sent": "Either there was a letter, or it was delivered by the postman.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "10", "gender": "m", "sent": "There was no letter, or it was delivered by the postman.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "10", "gender": "m", "sent": "There was no letter, and it was delivered by the postman.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "10", "gender": "f", "sent": "Either there was no letter, or it was delivered by the postman.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "10", "gender": "f", "sent": "Either there was a letter, or it was delivered by the postman.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "10", "gender": "f", "sent": "There was no letter, or it was delivered by the postman.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "10", "gender": "f", "sent": "There was no letter, and it was delivered by the postman.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "11", "gender": "m", "sent": "Either there was no castle, or it was conquered by the army.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "11", "gender": "m", "sent": "Either there was a castle, or it was conquered by the army.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "11", "gender": "m", "sent": "There was no castle, or it was conquered by the army.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "11", "gender": "m", "sent": "There was no castle, and it was conquered by the army.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "11", "gender": "f", "sent": "Either there was no castle, or it was conquered by the army.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "11", "gender": "f", "sent": "Either there was a castle, or it was conquered by the army.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "11", "gender": "f", "sent": "There was no castle, or it was conquered by the army.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "11", "gender": "f", "sent": "There was no castle, and it was conquered by the army.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "12", "gender": "m", "sent": "Either there was no key, or it was made by the craftsman.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "12", "gender": "m", "sent": "Either there was a key, or it was made by the craftsman.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "12", "gender": "m", "sent": "There was no key, or it was made by the craftsman.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "12", "gender": "m", "sent": "There was no key, and it was made by the craftsman.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "12", "gender": "f", "sent": "Either there was no key, or it was made by the craftsman.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "12", "gender": "f", "sent": "Either there was a key, or it was made by the craftsman.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "12", "gender": "f", "sent": "There was no key, or it was made by the craftsman.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "12", "gender": "f", "sent": "There was no key, and it was made by the craftsman.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "13", "gender": "m", "sent": "Either there was no boat, or it was repaired by the sailor.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "13", "gender": "m", "sent": "Either there was a boat, or it was repaired by the sailor.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "13", "gender": "m", "sent": "There was no boat, or it was repaired by the sailor.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "13", "gender": "m", "sent": "There was no boat, and it was repaired by the sailor.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "13", "gender": "f", "sent": "Either there was no boat, or it was repaired by the sailor.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "13", "gender": "f", "sent": "Either there was a boat, or it was repaired by the sailor.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "13", "gender": "f", "sent": "There was no boat, or it was repaired by the sailor.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "13", "gender": "f", "sent": "There was no boat, and it was repaired by the sailor.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "14", "gender": "m", "sent": "Either there was no crime, or it was investigated by the detective.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "14", "gender": "m", "sent": "Either there was a crime, or it was investigated by the detective.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "14", "gender": "m", "sent": "There was no crime, or it was investigated by the detective.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "14", "gender": "m", "sent": "There was no crime, and it was investigated by the detective.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "14", "gender": "f", "sent": "Either there was no crime, or it was investigated by the detective.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "14", "gender": "f", "sent": "Either there was a crime, or it was investigated by the detective.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "14", "gender": "f", "sent": "There was no crime, or it was investigated by the detective.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "14", "gender": "f", "sent": "There was no crime, and it was investigated by the detective.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "15", "gender": "m", "sent": "Either there was no book, or it was borrowed by the student.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "15", "gender": "m", "sent": "Either there was a book, or it was borrowed by the student.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "15", "gender": "m", "sent": "There was no book, or it was borrowed by the student.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "15", "gender": "m", "sent": "There was no book, and it was borrowed by the student.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "15", "gender": "f", "sent": "Either there was no book, or it was borrowed by the student.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "15", "gender": "f", "sent": "Either there was a book, or it was borrowed by the student.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "15", "gender": "f", "sent": "There was no book, or it was borrowed by the student.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "15", "gender": "f", "sent": "There was no book, and it was borrowed by the student.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "16", "gender": "m", "sent": "Either there was no music, or it was played by the orchestra.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "16", "gender": "m", "sent": "Either there was a music, or it was played by the orchestra.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "16", "gender": "m", "sent": "There was no music, or it was played by the orchestra.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "16", "gender": "m", "sent": "There was no music, and it was played by the orchestra.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "16", "gender": "f", "sent": "Either there was no music, or it was played by the orchestra.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "16", "gender": "f", "sent": "Either there was a music, or it was played by the orchestra.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "16", "gender": "f", "sent": "There was no music, or it was played by the orchestra.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "16", "gender": "f", "sent": "There was no music, and it was played by the orchestra.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "17", "gender": "m", "sent": "Either there was no data, or it was analyzed by the scientist.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "17", "gender": "m", "sent": "Either there was a data, or it was analyzed by the scientist.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "17", "gender": "m", "sent": "There was no data, or it was analyzed by the scientist.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "17", "gender": "m", "sent": "There was no data, and it was analyzed by the scientist.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "17", "gender": "f", "sent": "Either there was no data, or it was analyzed by the scientist.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "17", "gender": "f", "sent": "Either there was a data, or it was analyzed by the scientist.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "17", "gender": "f", "sent": "There was no data, or it was analyzed by the scientist.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "17", "gender": "f", "sent": "There was no data, and it was analyzed by the scientist.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "18", "gender": "m", "sent": "Either there was no statue, or it was sculpted by the artist.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "18", "gender": "m", "sent": "Either there was a statue, or it was sculpted by the artist.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "18", "gender": "m", "sent": "There was no statue, or it was sculpted by the artist.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "18", "gender": "m", "sent": "There was no statue, and it was sculpted by the artist.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "18", "gender": "f", "sent": "Either there was no statue, or it was sculpted by the artist.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "18", "gender": "f", "sent": "Either there was a statue, or it was sculpted by the artist.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "18", "gender": "f", "sent": "There was no statue, or it was sculpted by the artist.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "18", "gender": "f", "sent": "There was no statue, and it was sculpted by the artist.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "19", "gender": "m", "sent": "Either there was no meal, or it was prepared by the chef.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "19", "gender": "m", "sent": "Either there was a meal, or it was prepared by the chef.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "19", "gender": "m", "sent": "There was no meal, or it was prepared by the chef.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "19", "gender": "m", "sent": "There was no meal, and it was prepared by the chef.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "19", "gender": "f", "sent": "Either there was no meal, or it was prepared by the chef.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "19", "gender": "f", "sent": "Either there was a meal, or it was prepared by the chef.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "19", "gender": "f", "sent": "There was no meal, or it was prepared by the chef.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "19", "gender": "f", "sent": "There was no meal, and it was prepared by the chef.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "20", "gender": "m", "sent": "Either there was no code, or it was written by the programmer.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "20", "gender": "m", "sent": "Either there was a code, or it was written by the programmer.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "20", "gender": "m", "sent": "There was no code, or it was written by the programmer.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "20", "gender": "m", "sent": "There was no code, and it was written by the programmer.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "20", "gender": "f", "sent": "Either there was no code, or it was written by the programmer.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "20", "gender": "f", "sent": "Either there was a code, or it was written by the programmer.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "20", "gender": "f", "sent": "There was no code, or it was written by the programmer.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "20", "gender": "f", "sent": "There was no code, and it was written by the programmer.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "21", "gender": "m", "sent": "Either there was no map, or it was drawn by the teacher.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "21", "gender": "m", "sent": "Either there was a map, or it was drawn by the teacher.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "21", "gender": "m", "sent": "There was no map, or it was drawn by the teacher.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "21", "gender": "m", "sent": "There was no map, and it was drawn by the teacher.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "21", "gender": "f", "sent": "Either there was no map, or it was drawn by the teacher.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "21", "gender": "f", "sent": "Either there was a map, or it was drawn by the teacher.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "21", "gender": "f", "sent": "There was no map, or it was drawn by the teacher.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "21", "gender": "f", "sent": "There was no map, and it was drawn by the teacher.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "22", "gender": "m", "sent": "Either there was no forest, or it was protected by the ranger.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "22", "gender": "m", "sent": "Either there was a forest, or it was protected by the ranger.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "22", "gender": "m", "sent": "There was no forest, or it was protected by the ranger.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "22", "gender": "m", "sent": "There was no forest, and it was protected by the ranger.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "22", "gender": "f", "sent": "Either there was no forest, or it was protected by the ranger.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "22", "gender": "f", "sent": "Either there was a forest, or it was protected by the ranger.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "22", "gender": "f", "sent": "There was no forest, or it was protected by the ranger.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "22", "gender": "f", "sent": "There was no forest, and it was protected by the ranger.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "23", "gender": "m", "sent": "Either there was no battle, or it was won by the warrior.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "23", "gender": "m", "sent": "Either there was a battle, or it was won by the warrior.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "23", "gender": "m", "sent": "There was no battle, or it was won by the warrior.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "23", "gender": "m", "sent": "There was no battle, and it was won by the warrior.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "23", "gender": "f", "sent": "Either there was no battle, or it was won by the warrior.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "23", "gender": "f", "sent": "Either there was a battle, or it was won by the warrior.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "23", "gender": "f", "sent": "There was no battle, or it was won by the warrior.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "23", "gender": "f", "sent": "There was no battle, and it was won by the warrior.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "24", "gender": "m", "sent": "Either there was no land, or it was cultivated by the farmer.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "24", "gender": "m", "sent": "Either there was a land, or it was cultivated by the farmer.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "24", "gender": "m", "sent": "There was no land, or it was cultivated by the farmer.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "24", "gender": "m", "sent": "There was no land, and it was cultivated by the farmer.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "24", "gender": "f", "sent": "Either there was no land, or it was cultivated by the farmer.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "24", "gender": "f", "sent": "Either there was a land, or it was cultivated by the farmer.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "24", "gender": "f", "sent": "There was no land, or it was cultivated by the farmer.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "24", "gender": "f", "sent": "There was no land, and it was cultivated by the farmer.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "25", "gender": "m", "sent": "Either there was no movie, or it was directed by the filmmaker.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "25", "gender": "m", "sent": "Either there was a movie, or it was directed by the filmmaker.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "25", "gender": "m", "sent": "There was no movie, or it was directed by the filmmaker.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "25", "gender": "m", "sent": "There was no movie, and it was directed by the filmmaker.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "25", "gender": "f", "sent": "Either there was no movie, or it was directed by the filmmaker.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "25", "gender": "f", "sent": "Either there was a movie, or it was directed by the filmmaker.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "25", "gender": "f", "sent": "There was no movie, or it was directed by the filmmaker.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "25", "gender": "f", "sent": "There was no movie, and it was directed by the filmmaker.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "26", "gender": "m", "sent": "Either there was no jewel, or it was worn by the queen.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "26", "gender": "m", "sent": "Either there was a jewel, or it was worn by the queen.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "26", "gender": "m", "sent": "There was no jewel, or it was worn by the queen.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "26", "gender": "m", "sent": "There was no jewel, and it was worn by the queen.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "26", "gender": "f", "sent": "Either there was no jewel, or it was worn by the queen.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "26", "gender": "f", "sent": "Either there was a jewel, or it was worn by the queen.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "26", "gender": "f", "sent": "There was no jewel, or it was worn by the queen.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "26", "gender": "f", "sent": "There was no jewel, and it was worn by the queen.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "27", "gender": "m", "sent": "Either there was no city, or it was rebuilt by the architect.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "27", "gender": "m", "sent": "Either there was a city, or it was rebuilt by the architect.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "27", "gender": "m", "sent": "There was no city, or it was rebuilt by the architect.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "27", "gender": "m", "sent": "There was no city, and it was rebuilt by the architect.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "27", "gender": "f", "sent": "Either there was no city, or it was rebuilt by the architect.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "27", "gender": "f", "sent": "Either there was a city, or it was rebuilt by the architect.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "27", "gender": "f", "sent": "There was no city, or it was rebuilt by the architect.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "27", "gender": "f", "sent": "There was no city, and it was rebuilt by the architect.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "28", "gender": "m", "sent": "Either there was no tower, or it was destroyed by the storm.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "28", "gender": "m", "sent": "Either there was a tower, or it was destroyed by the storm.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "28", "gender": "m", "sent": "There was no tower, or it was destroyed by the storm.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "28", "gender": "m", "sent": "There was no tower, and it was destroyed by the storm.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "28", "gender": "f", "sent": "Either there was no tower, or it was destroyed by the storm.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "28", "gender": "f", "sent": "Either there was a tower, or it was destroyed by the storm.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "28", "gender": "f", "sent": "There was no tower, or it was destroyed by the storm.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "28", "gender": "f", "sent": "There was no tower, and it was destroyed by the storm.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "29", "gender": "m", "sent": "Either there was no law, or it was enforced by the authorities.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "29", "gender": "m", "sent": "Either there was a law, or it was enforced by the authorities.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "29", "gender": "m", "sent": "There was no law, or it was enforced by the authorities.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "29", "gender": "m", "sent": "There was no law, and it was enforced by the authorities.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "29", "gender": "f", "sent": "Either there was no law, or it was enforced by the authorities.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "29", "gender": "f", "sent": "Either there was a law, or it was enforced by the authorities.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "29", "gender": "f", "sent": "There was no law, or it was enforced by the authorities.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "29", "gender": "f", "sent": "There was no law, and it was enforced by the authorities.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "30", "gender": "m", "sent": "Either there was no signal, or it was jammed by the wall.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "30", "gender": "m", "sent": "Either there was a signal, or it was jammed by the wall.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "30", "gender": "m", "sent": "There was no signal, or it was jammed by the wall.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "30", "gender": "m", "sent": "There was no signal, and it was jammed by the wall.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "30", "gender": "f", "sent": "Either there was no signal, or it was jammed by the wall.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "30", "gender": "f", "sent": "Either there was a signal, or it was jammed by the wall.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "30", "gender": "f", "sent": "There was no signal, or it was jammed by the wall.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "30", "gender": "f", "sent": "There was no signal, and it was jammed by the wall.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "31", "gender": "m", "sent": "Either there was no contract, or it was signed by the officer.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "31", "gender": "m", "sent": "Either there was a contract, or it was signed by the officer.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "31", "gender": "m", "sent": "There was no contract, or it was signed by the officer.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "31", "gender": "m", "sent": "There was no contract, and it was signed by the officer.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "31", "gender": "f", "sent": "Either there was no contract, or it was signed by the officer.", "subject": "def", "sentence_type": "disjunction_eitheror"}
+{"frame": "31", "gender": "f", "sent": "Either there was a contract, or it was signed by the officer.", "subject": "def", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "31", "gender": "f", "sent": "There was no contract, or it was signed by the officer.", "subject": "def", "sentence_type": "disjunction_or"}
+{"frame": "31", "gender": "f", "sent": "There was no contract, and it was signed by the officer.", "subject": "def", "sentence_type": "conjunction"}
+{"frame": "0", "gender": "m", "sent": "Either there was no treasure, or it was guarded by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "0", "gender": "m", "sent": "Either there was a treasure, or it was guarded by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "0", "gender": "m", "sent": "There was no treasure, or it was guarded by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "0", "gender": "m", "sent": "There was no treasure, and it was guarded by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "0", "gender": "f", "sent": "Either there was no treasure, or it was guarded by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "0", "gender": "f", "sent": "Either there was a treasure, or it was guarded by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "0", "gender": "f", "sent": "There was no treasure, or it was guarded by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "0", "gender": "f", "sent": "There was no treasure, and it was guarded by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "1", "gender": "m", "sent": "Either there was no manuscript, or it was hidden by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "1", "gender": "m", "sent": "Either there was a manuscript, or it was hidden by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "1", "gender": "m", "sent": "There was no manuscript, or it was hidden by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "1", "gender": "m", "sent": "There was no manuscript, and it was hidden by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "1", "gender": "f", "sent": "Either there was no manuscript, or it was hidden by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "1", "gender": "f", "sent": "Either there was a manuscript, or it was hidden by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "1", "gender": "f", "sent": "There was no manuscript, or it was hidden by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "1", "gender": "f", "sent": "There was no manuscript, and it was hidden by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "2", "gender": "m", "sent": "Either there was no painting, or it was stolen by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "2", "gender": "m", "sent": "Either there was a painting, or it was stolen by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "2", "gender": "m", "sent": "There was no painting, or it was stolen by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "2", "gender": "m", "sent": "There was no painting, and it was stolen by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "2", "gender": "f", "sent": "Either there was no painting, or it was stolen by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "2", "gender": "f", "sent": "Either there was a painting, or it was stolen by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "2", "gender": "f", "sent": "There was no painting, or it was stolen by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "2", "gender": "f", "sent": "There was no painting, and it was stolen by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "3", "gender": "m", "sent": "Either there was no weapon, or it was secured by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "3", "gender": "m", "sent": "Either there was a weapon, or it was secured by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "3", "gender": "m", "sent": "There was no weapon, or it was secured by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "3", "gender": "m", "sent": "There was no weapon, and it was secured by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "3", "gender": "f", "sent": "Either there was no weapon, or it was secured by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "3", "gender": "f", "sent": "Either there was a weapon, or it was secured by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "3", "gender": "f", "sent": "There was no weapon, or it was secured by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "3", "gender": "f", "sent": "There was no weapon, and it was secured by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "4", "gender": "m", "sent": "Either there was no flower, or it was planted by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "4", "gender": "m", "sent": "Either there was a flower, or it was planted by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "4", "gender": "m", "sent": "There was no flower, or it was planted by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "4", "gender": "m", "sent": "There was no flower, and it was planted by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "4", "gender": "f", "sent": "Either there was no flower, or it was planted by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "4", "gender": "f", "sent": "Either there was a flower, or it was planted by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "4", "gender": "f", "sent": "There was no flower, or it was planted by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "4", "gender": "f", "sent": "There was no flower, and it was planted by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "5", "gender": "m", "sent": "Either there was no document, or it was destroyed by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "5", "gender": "m", "sent": "Either there was a document, or it was destroyed by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "5", "gender": "m", "sent": "There was no document, or it was destroyed by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "5", "gender": "m", "sent": "There was no document, and it was destroyed by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "5", "gender": "f", "sent": "Either there was no document, or it was destroyed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "5", "gender": "f", "sent": "Either there was a document, or it was destroyed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "5", "gender": "f", "sent": "There was no document, or it was destroyed by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "5", "gender": "f", "sent": "There was no document, and it was destroyed by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "6", "gender": "m", "sent": "Either there was no plan, or it was leaked by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "6", "gender": "m", "sent": "Either there was a plan, or it was leaked by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "6", "gender": "m", "sent": "There was no plan, or it was leaked by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "6", "gender": "m", "sent": "There was no plan, and it was leaked by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "6", "gender": "f", "sent": "Either there was no plan, or it was leaked by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "6", "gender": "f", "sent": "Either there was a plan, or it was leaked by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "6", "gender": "f", "sent": "There was no plan, or it was leaked by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "6", "gender": "f", "sent": "There was no plan, and it was leaked by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "7", "gender": "m", "sent": "Either there was no artifact, or it was recovered by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "7", "gender": "m", "sent": "Either there was an artifact, or it was recovered by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "7", "gender": "m", "sent": "There was no artifact, or it was recovered by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "7", "gender": "m", "sent": "There was no artifact, and it was recovered by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "7", "gender": "f", "sent": "Either there was no artifact, or it was recovered by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "7", "gender": "f", "sent": "Either there was an artifact, or it was recovered by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "7", "gender": "f", "sent": "There was no artifact, or it was recovered by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "7", "gender": "f", "sent": "There was no artifact, and it was recovered by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "8", "gender": "m", "sent": "Either there was no message, or it was intercepted by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "8", "gender": "m", "sent": "Either there was a message, or it was intercepted by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "8", "gender": "m", "sent": "There was no message, or it was intercepted by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "8", "gender": "m", "sent": "There was no message, and it was intercepted by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "8", "gender": "f", "sent": "Either there was no message, or it was intercepted by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "8", "gender": "f", "sent": "Either there was a message, or it was intercepted by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "8", "gender": "f", "sent": "There was no message, or it was intercepted by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "8", "gender": "f", "sent": "There was no message, and it was intercepted by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "9", "gender": "m", "sent": "Either there was no bridge, or it was constructed by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "9", "gender": "m", "sent": "Either there was a bridge, or it was constructed by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "9", "gender": "m", "sent": "There was no bridge, or it was constructed by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "9", "gender": "m", "sent": "There was no bridge, and it was constructed by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "9", "gender": "f", "sent": "Either there was no bridge, or it was constructed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "9", "gender": "f", "sent": "Either there was a bridge, or it was constructed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "9", "gender": "f", "sent": "There was no bridge, or it was constructed by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "9", "gender": "f", "sent": "There was no bridge, and it was constructed by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "10", "gender": "m", "sent": "Either there was no letter, or it was delivered by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "10", "gender": "m", "sent": "Either there was a letter, or it was delivered by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "10", "gender": "m", "sent": "There was no letter, or it was delivered by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "10", "gender": "m", "sent": "There was no letter, and it was delivered by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "10", "gender": "f", "sent": "Either there was no letter, or it was delivered by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "10", "gender": "f", "sent": "Either there was a letter, or it was delivered by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "10", "gender": "f", "sent": "There was no letter, or it was delivered by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "10", "gender": "f", "sent": "There was no letter, and it was delivered by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "11", "gender": "m", "sent": "Either there was no castle, or it was conquered by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "11", "gender": "m", "sent": "Either there was a castle, or it was conquered by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "11", "gender": "m", "sent": "There was no castle, or it was conquered by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "11", "gender": "m", "sent": "There was no castle, and it was conquered by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "11", "gender": "f", "sent": "Either there was no castle, or it was conquered by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "11", "gender": "f", "sent": "Either there was a castle, or it was conquered by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "11", "gender": "f", "sent": "There was no castle, or it was conquered by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "11", "gender": "f", "sent": "There was no castle, and it was conquered by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "12", "gender": "m", "sent": "Either there was no key, or it was made by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "12", "gender": "m", "sent": "Either there was a key, or it was made by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "12", "gender": "m", "sent": "There was no key, or it was made by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "12", "gender": "m", "sent": "There was no key, and it was made by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "12", "gender": "f", "sent": "Either there was no key, or it was made by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "12", "gender": "f", "sent": "Either there was a key, or it was made by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "12", "gender": "f", "sent": "There was no key, or it was made by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "12", "gender": "f", "sent": "There was no key, and it was made by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "13", "gender": "m", "sent": "Either there was no boat, or it was repaired by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "13", "gender": "m", "sent": "Either there was a boat, or it was repaired by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "13", "gender": "m", "sent": "There was no boat, or it was repaired by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "13", "gender": "m", "sent": "There was no boat, and it was repaired by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "13", "gender": "f", "sent": "Either there was no boat, or it was repaired by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "13", "gender": "f", "sent": "Either there was a boat, or it was repaired by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "13", "gender": "f", "sent": "There was no boat, or it was repaired by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "13", "gender": "f", "sent": "There was no boat, and it was repaired by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "14", "gender": "m", "sent": "Either there was no crime, or it was investigated by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "14", "gender": "m", "sent": "Either there was a crime, or it was investigated by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "14", "gender": "m", "sent": "There was no crime, or it was investigated by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "14", "gender": "m", "sent": "There was no crime, and it was investigated by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "14", "gender": "f", "sent": "Either there was no crime, or it was investigated by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "14", "gender": "f", "sent": "Either there was a crime, or it was investigated by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "14", "gender": "f", "sent": "There was no crime, or it was investigated by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "14", "gender": "f", "sent": "There was no crime, and it was investigated by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "15", "gender": "m", "sent": "Either there was no book, or it was borrowed by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "15", "gender": "m", "sent": "Either there was a book, or it was borrowed by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "15", "gender": "m", "sent": "There was no book, or it was borrowed by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "15", "gender": "m", "sent": "There was no book, and it was borrowed by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "15", "gender": "f", "sent": "Either there was no book, or it was borrowed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "15", "gender": "f", "sent": "Either there was a book, or it was borrowed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "15", "gender": "f", "sent": "There was no book, or it was borrowed by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "15", "gender": "f", "sent": "There was no book, and it was borrowed by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "16", "gender": "m", "sent": "Either there was no music, or it was played by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "16", "gender": "m", "sent": "Either there was a music, or it was played by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "16", "gender": "m", "sent": "There was no music, or it was played by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "16", "gender": "m", "sent": "There was no music, and it was played by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "16", "gender": "f", "sent": "Either there was no music, or it was played by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "16", "gender": "f", "sent": "Either there was a music, or it was played by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "16", "gender": "f", "sent": "There was no music, or it was played by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "16", "gender": "f", "sent": "There was no music, and it was played by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "17", "gender": "m", "sent": "Either there was no data, or it was analyzed by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "17", "gender": "m", "sent": "Either there was a data, or it was analyzed by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "17", "gender": "m", "sent": "There was no data, or it was analyzed by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "17", "gender": "m", "sent": "There was no data, and it was analyzed by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "17", "gender": "f", "sent": "Either there was no data, or it was analyzed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "17", "gender": "f", "sent": "Either there was a data, or it was analyzed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "17", "gender": "f", "sent": "There was no data, or it was analyzed by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "17", "gender": "f", "sent": "There was no data, and it was analyzed by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "18", "gender": "m", "sent": "Either there was no statue, or it was sculpted by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "18", "gender": "m", "sent": "Either there was a statue, or it was sculpted by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "18", "gender": "m", "sent": "There was no statue, or it was sculpted by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "18", "gender": "m", "sent": "There was no statue, and it was sculpted by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "18", "gender": "f", "sent": "Either there was no statue, or it was sculpted by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "18", "gender": "f", "sent": "Either there was a statue, or it was sculpted by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "18", "gender": "f", "sent": "There was no statue, or it was sculpted by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "18", "gender": "f", "sent": "There was no statue, and it was sculpted by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "19", "gender": "m", "sent": "Either there was no meal, or it was prepared by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "19", "gender": "m", "sent": "Either there was a meal, or it was prepared by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "19", "gender": "m", "sent": "There was no meal, or it was prepared by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "19", "gender": "m", "sent": "There was no meal, and it was prepared by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "19", "gender": "f", "sent": "Either there was no meal, or it was prepared by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "19", "gender": "f", "sent": "Either there was a meal, or it was prepared by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "19", "gender": "f", "sent": "There was no meal, or it was prepared by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "19", "gender": "f", "sent": "There was no meal, and it was prepared by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "20", "gender": "m", "sent": "Either there was no code, or it was written by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "20", "gender": "m", "sent": "Either there was a code, or it was written by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "20", "gender": "m", "sent": "There was no code, or it was written by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "20", "gender": "m", "sent": "There was no code, and it was written by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "20", "gender": "f", "sent": "Either there was no code, or it was written by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "20", "gender": "f", "sent": "Either there was a code, or it was written by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "20", "gender": "f", "sent": "There was no code, or it was written by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "20", "gender": "f", "sent": "There was no code, and it was written by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "21", "gender": "m", "sent": "Either there was no map, or it was drawn by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "21", "gender": "m", "sent": "Either there was a map, or it was drawn by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "21", "gender": "m", "sent": "There was no map, or it was drawn by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "21", "gender": "m", "sent": "There was no map, and it was drawn by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "21", "gender": "f", "sent": "Either there was no map, or it was drawn by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "21", "gender": "f", "sent": "Either there was a map, or it was drawn by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "21", "gender": "f", "sent": "There was no map, or it was drawn by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "21", "gender": "f", "sent": "There was no map, and it was drawn by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "22", "gender": "m", "sent": "Either there was no forest, or it was protected by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "22", "gender": "m", "sent": "Either there was a forest, or it was protected by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "22", "gender": "m", "sent": "There was no forest, or it was protected by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "22", "gender": "m", "sent": "There was no forest, and it was protected by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "22", "gender": "f", "sent": "Either there was no forest, or it was protected by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "22", "gender": "f", "sent": "Either there was a forest, or it was protected by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "22", "gender": "f", "sent": "There was no forest, or it was protected by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "22", "gender": "f", "sent": "There was no forest, and it was protected by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "23", "gender": "m", "sent": "Either there was no battle, or it was won by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "23", "gender": "m", "sent": "Either there was a battle, or it was won by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "23", "gender": "m", "sent": "There was no battle, or it was won by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "23", "gender": "m", "sent": "There was no battle, and it was won by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "23", "gender": "f", "sent": "Either there was no battle, or it was won by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "23", "gender": "f", "sent": "Either there was a battle, or it was won by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "23", "gender": "f", "sent": "There was no battle, or it was won by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "23", "gender": "f", "sent": "There was no battle, and it was won by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "24", "gender": "m", "sent": "Either there was no land, or it was cultivated by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "24", "gender": "m", "sent": "Either there was a land, or it was cultivated by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "24", "gender": "m", "sent": "There was no land, or it was cultivated by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "24", "gender": "m", "sent": "There was no land, and it was cultivated by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "24", "gender": "f", "sent": "Either there was no land, or it was cultivated by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "24", "gender": "f", "sent": "Either there was a land, or it was cultivated by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "24", "gender": "f", "sent": "There was no land, or it was cultivated by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "24", "gender": "f", "sent": "There was no land, and it was cultivated by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "25", "gender": "m", "sent": "Either there was no movie, or it was directed by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "25", "gender": "m", "sent": "Either there was a movie, or it was directed by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "25", "gender": "m", "sent": "There was no movie, or it was directed by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "25", "gender": "m", "sent": "There was no movie, and it was directed by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "25", "gender": "f", "sent": "Either there was no movie, or it was directed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "25", "gender": "f", "sent": "Either there was a movie, or it was directed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "25", "gender": "f", "sent": "There was no movie, or it was directed by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "25", "gender": "f", "sent": "There was no movie, and it was directed by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "26", "gender": "m", "sent": "Either there was no jewel, or it was worn by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "26", "gender": "m", "sent": "Either there was a jewel, or it was worn by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "26", "gender": "m", "sent": "There was no jewel, or it was worn by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "26", "gender": "m", "sent": "There was no jewel, and it was worn by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "26", "gender": "f", "sent": "Either there was no jewel, or it was worn by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "26", "gender": "f", "sent": "Either there was a jewel, or it was worn by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "26", "gender": "f", "sent": "There was no jewel, or it was worn by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "26", "gender": "f", "sent": "There was no jewel, and it was worn by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "27", "gender": "m", "sent": "Either there was no city, or it was rebuilt by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "27", "gender": "m", "sent": "Either there was a city, or it was rebuilt by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "27", "gender": "m", "sent": "There was no city, or it was rebuilt by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "27", "gender": "m", "sent": "There was no city, and it was rebuilt by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "27", "gender": "f", "sent": "Either there was no city, or it was rebuilt by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "27", "gender": "f", "sent": "Either there was a city, or it was rebuilt by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "27", "gender": "f", "sent": "There was no city, or it was rebuilt by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "27", "gender": "f", "sent": "There was no city, and it was rebuilt by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "28", "gender": "m", "sent": "Either there was no tower, or it was destroyed by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "28", "gender": "m", "sent": "Either there was a tower, or it was destroyed by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "28", "gender": "m", "sent": "There was no tower, or it was destroyed by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "28", "gender": "m", "sent": "There was no tower, and it was destroyed by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "28", "gender": "f", "sent": "Either there was no tower, or it was destroyed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "28", "gender": "f", "sent": "Either there was a tower, or it was destroyed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "28", "gender": "f", "sent": "There was no tower, or it was destroyed by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "28", "gender": "f", "sent": "There was no tower, and it was destroyed by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "29", "gender": "m", "sent": "Either there was no law, or it was enforced by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "29", "gender": "m", "sent": "Either there was a law, or it was enforced by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "29", "gender": "m", "sent": "There was no law, or it was enforced by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "29", "gender": "m", "sent": "There was no law, and it was enforced by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "29", "gender": "f", "sent": "Either there was no law, or it was enforced by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "29", "gender": "f", "sent": "Either there was a law, or it was enforced by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "29", "gender": "f", "sent": "There was no law, or it was enforced by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "29", "gender": "f", "sent": "There was no law, and it was enforced by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "30", "gender": "m", "sent": "Either there was no signal, or it was jammed by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "30", "gender": "m", "sent": "Either there was a signal, or it was jammed by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "30", "gender": "m", "sent": "There was no signal, or it was jammed by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "30", "gender": "m", "sent": "There was no signal, and it was jammed by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "30", "gender": "f", "sent": "Either there was no signal, or it was jammed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "30", "gender": "f", "sent": "Either there was a signal, or it was jammed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "30", "gender": "f", "sent": "There was no signal, or it was jammed by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "30", "gender": "f", "sent": "There was no signal, and it was jammed by Mary.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "31", "gender": "m", "sent": "Either there was no contract, or it was signed by John.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "31", "gender": "m", "sent": "Either there was a contract, or it was signed by John.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "31", "gender": "m", "sent": "There was no contract, or it was signed by John.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "31", "gender": "m", "sent": "There was no contract, and it was signed by John.", "subject": "name", "sentence_type": "conjunction"}
+{"frame": "31", "gender": "f", "sent": "Either there was no contract, or it was signed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror"}
+{"frame": "31", "gender": "f", "sent": "Either there was a contract, or it was signed by Mary.", "subject": "name", "sentence_type": "disjunction_eitheror_pos"}
+{"frame": "31", "gender": "f", "sent": "There was no contract, or it was signed by Mary.", "subject": "name", "sentence_type": "disjunction_or"}
+{"frame": "31", "gender": "f", "sent": "There was no contract, and it was signed by Mary.", "subject": "name", "sentence_type": "conjunction"}

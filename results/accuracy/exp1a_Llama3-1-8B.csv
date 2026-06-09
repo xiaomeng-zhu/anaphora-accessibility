@@ -1,0 +1,193 @@
+correct,effect_size,frame,gender,comp,good_sent,bad_sent
+1,4.108431041240692,0,m,every_diff>a_diff,A farmer worked in the field. He dreamed of the harvest.,Every farmer worked in the field. He dreamed of the harvest.
+1,7.883271872997284,0,m,no_diff>a_diff,A farmer worked in the field. He dreamed of the harvest.,No farmer worked in the field. He dreamed of the harvest.
+1,3.85960054397583,0,f,every_diff>a_diff,A farmer worked in the field. She dreamed of the harvest.,Every farmer worked in the field. She dreamed of the harvest.
+1,6.417614698410034,0,f,no_diff>a_diff,A farmer worked in the field. She dreamed of the harvest.,No farmer worked in the field. She dreamed of the harvest.
+0,-1.00431290268898,0,p,every_diff>a_diff,A farmer worked in the field. They dreamed of the harvest.,Every farmer worked in the field. They dreamed of the harvest.
+1,4.115945935249329,0,p,no_diff>a_diff,A farmer worked in the field. They dreamed of the harvest.,No farmer worked in the field. They dreamed of the harvest.
+0,-0.39626455307006836,1,m,every_diff>a_diff,A pirate sailed across the ocean. He laughed as the waves crashed around.,Every pirate sailed across the ocean. He laughed as the waves crashed around.
+1,6.5544655323028564,1,m,no_diff>a_diff,A pirate sailed across the ocean. He laughed as the waves crashed around.,No pirate sailed across the ocean. He laughed as the waves crashed around.
+1,0.8798515796661377,1,f,every_diff>a_diff,A pirate sailed across the ocean. She laughed as the waves crashed around.,Every pirate sailed across the ocean. She laughed as the waves crashed around.
+1,5.982463598251343,1,f,no_diff>a_diff,A pirate sailed across the ocean. She laughed as the waves crashed around.,No pirate sailed across the ocean. She laughed as the waves crashed around.
+0,-2.1513278484344482,1,p,every_diff>a_diff,A pirate sailed across the ocean. They laughed as the waves crashed around.,Every pirate sailed across the ocean. They laughed as the waves crashed around.
+1,2.8185484409332275,1,p,no_diff>a_diff,A pirate sailed across the ocean. They laughed as the waves crashed around.,No pirate sailed across the ocean. They laughed as the waves crashed around.
+1,0.6374491453170776,2,m,every_diff>a_diff,A kid played in the park. He shouted with joy.,Every kid played in the park. He shouted with joy.
+1,5.580882787704468,2,m,no_diff>a_diff,A kid played in the park. He shouted with joy.,No kid played in the park. He shouted with joy.
+1,0.9268664121627808,2,f,every_diff>a_diff,A kid played in the park. She shouted with joy.,Every kid played in the park. She shouted with joy.
+1,6.261201620101929,2,f,no_diff>a_diff,A kid played in the park. She shouted with joy.,No kid played in the park. She shouted with joy.
+1,0.26013052463531494,2,p,every_diff>a_diff,A kid played in the park. They shouted with joy.,Every kid played in the park. They shouted with joy.
+1,4.734187960624695,2,p,no_diff>a_diff,A kid played in the park. They shouted with joy.,No kid played in the park. They shouted with joy.
+1,0.13006341457366943,3,m,every_diff>a_diff,A student studied in the library. He stared at the pages.,Every student studied in the library. He stared at the pages.
+1,4.098435997962952,3,m,no_diff>a_diff,A student studied in the library. He stared at the pages.,No student studied in the library. He stared at the pages.
+1,0.7458051443099976,3,f,every_diff>a_diff,A student studied in the library. She stared at the pages.,Every student studied in the library. She stared at the pages.
+1,3.867701083421707,3,f,no_diff>a_diff,A student studied in the library. She stared at the pages.,No student studied in the library. She stared at the pages.
+0,-0.0010779201984405518,3,p,every_diff>a_diff,A student studied in the library. They stared at the pages.,Every student studied in the library. They stared at the pages.
+1,2.6022085547447205,3,p,no_diff>a_diff,A student studied in the library. They stared at the pages.,No student studied in the library. They stared at the pages.
+1,7.56810200214386,4,m,every_diff>a_diff,A doctor waited in the hallway. He spoke to the nurse.,Every doctor waited in the hallway. He spoke to the nurse.
+1,1.6343154907226562,4,m,no_diff>a_diff,A doctor waited in the hallway. He spoke to the nurse.,No doctor waited in the hallway. He spoke to the nurse.
+1,5.242641568183899,4,f,every_diff>a_diff,A doctor waited in the hallway. She spoke to the nurse.,Every doctor waited in the hallway. She spoke to the nurse.
+1,0.4607142210006714,4,f,no_diff>a_diff,A doctor waited in the hallway. She spoke to the nurse.,No doctor waited in the hallway. She spoke to the nurse.
+1,3.826220452785492,4,p,every_diff>a_diff,A doctor waited in the hallway. They spoke to the nurse.,Every doctor waited in the hallway. They spoke to the nurse.
+0,-1.2579249143600464,4,p,no_diff>a_diff,A doctor waited in the hallway. They spoke to the nurse.,No doctor waited in the hallway. They spoke to the nurse.
+1,0.39430302381515503,5,m,every_diff>a_diff,A photographer stood by the fountain. He waited for the shot.,Every photographer stood by the fountain. He waited for the shot.
+1,1.9847564101219177,5,m,no_diff>a_diff,A photographer stood by the fountain. He waited for the shot.,No photographer stood by the fountain. He waited for the shot.
+1,2.1332831978797913,5,f,every_diff>a_diff,A photographer stood by the fountain. She waited for the shot.,Every photographer stood by the fountain. She waited for the shot.
+1,2.9722362756729126,5,f,no_diff>a_diff,A photographer stood by the fountain. She waited for the shot.,No photographer stood by the fountain. She waited for the shot.
+0,-0.5652304887771606,5,p,every_diff>a_diff,A photographer stood by the fountain. They waited for the shot.,Every photographer stood by the fountain. They waited for the shot.
+1,1.3407449126243591,5,p,no_diff>a_diff,A photographer stood by the fountain. They waited for the shot.,No photographer stood by the fountain. They waited for the shot.
+1,2.008484899997711,6,m,every_diff>a_diff,A surgeon operated in the hospital. He cried from the weight of responsibility.,Every surgeon operated in the hospital. He cried from the weight of responsibility.
+1,4.8942516669631,6,m,no_diff>a_diff,A surgeon operated in the hospital. He cried from the weight of responsibility.,No surgeon operated in the hospital. He cried from the weight of responsibility.
+1,2.2967552542686462,6,f,every_diff>a_diff,A surgeon operated in the hospital. She cried from the weight of responsibility.,Every surgeon operated in the hospital. She cried from the weight of responsibility.
+1,3.8386654257774353,6,f,no_diff>a_diff,A surgeon operated in the hospital. She cried from the weight of responsibility.,No surgeon operated in the hospital. She cried from the weight of responsibility.
+0,-1.3048070445656776,6,p,every_diff>a_diff,A surgeon operated in the hospital. They cried from the weight of responsibility.,Every surgeon operated in the hospital. They cried from the weight of responsibility.
+1,3.1425099968910217,6,p,no_diff>a_diff,A surgeon operated in the hospital. They cried from the weight of responsibility.,No surgeon operated in the hospital. They cried from the weight of responsibility.
+0,-0.6391876041889191,7,m,every_diff>a_diff,A editor signed at the desk. He sighed at the workload.,Every editor signed at the desk. He sighed at the workload.
+1,0.5039856433868408,7,m,no_diff>a_diff,A editor signed at the desk. He sighed at the workload.,No editor signed at the desk. He sighed at the workload.
+0,-0.880145788192749,7,f,every_diff>a_diff,A editor signed at the desk. She sighed at the workload.,Every editor signed at the desk. She sighed at the workload.
+0,-0.40457072854042053,7,f,no_diff>a_diff,A editor signed at the desk. She sighed at the workload.,No editor signed at the desk. She sighed at the workload.
+1,1.0278763473033905,7,p,every_diff>a_diff,A editor signed at the desk. They sighed at the workload.,Every editor signed at the desk. They sighed at the workload.
+1,2.0069146752357483,7,p,no_diff>a_diff,A editor signed at the desk. They sighed at the workload.,No editor signed at the desk. They sighed at the workload.
+1,2.5514351427555084,8,m,every_diff>a_diff,A chef cooked in the kitchen. He danced to the background music.,Every chef cooked in the kitchen. He danced to the background music.
+1,1.6667249202728271,8,m,no_diff>a_diff,A chef cooked in the kitchen. He danced to the background music.,No chef cooked in the kitchen. He danced to the background music.
+1,2.4278977811336517,8,f,every_diff>a_diff,A chef cooked in the kitchen. She danced to the background music.,Every chef cooked in the kitchen. She danced to the background music.
+1,1.1559115648269653,8,f,no_diff>a_diff,A chef cooked in the kitchen. She danced to the background music.,No chef cooked in the kitchen. She danced to the background music.
+1,0.11476331949234009,8,p,every_diff>a_diff,A chef cooked in the kitchen. They danced to the background music.,Every chef cooked in the kitchen. They danced to the background music.
+1,0.9548437893390656,8,p,no_diff>a_diff,A chef cooked in the kitchen. They danced to the background music.,No chef cooked in the kitchen. They danced to the background music.
+1,2.3248786330223083,9,m,every_diff>a_diff,A hunter hid in the bushes. He listened for footsteps.,Every hunter hid in the bushes. He listened for footsteps.
+1,5.525262892246246,9,m,no_diff>a_diff,A hunter hid in the bushes. He listened for footsteps.,No hunter hid in the bushes. He listened for footsteps.
+1,1.5616969466209412,9,f,every_diff>a_diff,A hunter hid in the bushes. She listened for footsteps.,Every hunter hid in the bushes. She listened for footsteps.
+1,2.4097787141799927,9,f,no_diff>a_diff,A hunter hid in the bushes. She listened for footsteps.,No hunter hid in the bushes. She listened for footsteps.
+0,-0.14303982257843018,9,p,every_diff>a_diff,A hunter hid in the bushes. They listened for footsteps.,Every hunter hid in the bushes. They listened for footsteps.
+1,3.6862761974334717,9,p,no_diff>a_diff,A hunter hid in the bushes. They listened for footsteps.,No hunter hid in the bushes. They listened for footsteps.
+1,0.45644402503967285,10,m,every_diff>a_diff,A player rested on the bench. He cheered for the team.,Every player rested on the bench. He cheered for the team.
+1,0.614915132522583,10,m,no_diff>a_diff,A player rested on the bench. He cheered for the team.,No player rested on the bench. He cheered for the team.
+1,2.178650736808777,10,f,every_diff>a_diff,A player rested on the bench. She cheered for the team.,Every player rested on the bench. She cheered for the team.
+0,-0.13214433193206787,10,f,no_diff>a_diff,A player rested on the bench. She cheered for the team.,No player rested on the bench. She cheered for the team.
+1,1.3551661968231201,10,p,every_diff>a_diff,A player rested on the bench. They cheered for the team.,Every player rested on the bench. They cheered for the team.
+1,0.3386526107788086,10,p,no_diff>a_diff,A player rested on the bench. They cheered for the team.,No player rested on the bench. They cheered for the team.
+1,2.275471568107605,11,m,every_diff>a_diff,A police stood by the intersection. He waved at the cars.,Every police stood by the intersection. He waved at the cars.
+0,-1.349668025970459,11,m,no_diff>a_diff,A police stood by the intersection. He waved at the cars.,No police stood by the intersection. He waved at the cars.
+0,-0.8874022960662842,11,f,every_diff>a_diff,A police stood by the intersection. She waved at the cars.,Every police stood by the intersection. She waved at the cars.
+0,-4.173751473426819,11,f,no_diff>a_diff,A police stood by the intersection. She waved at the cars.,No police stood by the intersection. She waved at the cars.
+0,-1.1458008289337158,11,p,every_diff>a_diff,A police stood by the intersection. They waved at the cars.,Every police stood by the intersection. They waved at the cars.
+0,-0.24795591831207275,11,p,no_diff>a_diff,A police stood by the intersection. They waved at the cars.,No police stood by the intersection. They waved at the cars.
+1,1.8776774406433105,12,m,every_diff>a_diff,A researcher hesitated before an experiment. He wandered through the notes.,Every researcher hesitated before an experiment. He wandered through the notes.
+1,3.29345566034317,12,m,no_diff>a_diff,A researcher hesitated before an experiment. He wandered through the notes.,No researcher hesitated before an experiment. He wandered through the notes.
+0,-0.1903001070022583,12,f,every_diff>a_diff,A researcher hesitated before an experiment. She wandered through the notes.,Every researcher hesitated before an experiment. She wandered through the notes.
+1,1.322894275188446,12,f,no_diff>a_diff,A researcher hesitated before an experiment. She wandered through the notes.,No researcher hesitated before an experiment. She wandered through the notes.
+1,0.521654486656189,12,p,every_diff>a_diff,A researcher hesitated before an experiment. They wandered through the notes.,Every researcher hesitated before an experiment. They wandered through the notes.
+1,2.7367936968803406,12,p,no_diff>a_diff,A researcher hesitated before an experiment. They wandered through the notes.,No researcher hesitated before an experiment. They wandered through the notes.
+1,2.554328441619873,13,m,every_diff>a_diff,A worker stretched during a break. He stumbled on the floor.,Every worker stretched during a break. He stumbled on the floor.
+1,3.8721256256103516,13,m,no_diff>a_diff,A worker stretched during a break. He stumbled on the floor.,No worker stretched during a break. He stumbled on the floor.
+1,0.9250705242156982,13,f,every_diff>a_diff,A worker stretched during a break. She stumbled on the floor.,Every worker stretched during a break. She stumbled on the floor.
+1,3.7453110814094543,13,f,no_diff>a_diff,A worker stretched during a break. She stumbled on the floor.,No worker stretched during a break. She stumbled on the floor.
+1,2.5528757572174072,13,p,every_diff>a_diff,A worker stretched during a break. They stumbled on the floor.,Every worker stretched during a break. They stumbled on the floor.
+1,3.801884412765503,13,p,no_diff>a_diff,A worker stretched during a break. They stumbled on the floor.,No worker stretched during a break. They stumbled on the floor.
+1,2.1959639489650726,14,m,every_diff>a_diff,A teacher paused before answering. He sat back to consider the question.,Every teacher paused before answering. He sat back to consider the question.
+1,2.1997564136981964,14,m,no_diff>a_diff,A teacher paused before answering. He sat back to consider the question.,No teacher paused before answering. He sat back to consider the question.
+1,1.9192083477973938,14,f,every_diff>a_diff,A teacher paused before answering. She sat back to consider the question.,Every teacher paused before answering. She sat back to consider the question.
+1,0.9085104465484619,14,f,no_diff>a_diff,A teacher paused before answering. She sat back to consider the question.,No teacher paused before answering. She sat back to consider the question.
+1,1.0050548315048218,14,p,every_diff>a_diff,A teacher paused before answering. They sat back to consider the question.,Every teacher paused before answering. They sat back to consider the question.
+1,1.5642853379249573,14,p,no_diff>a_diff,A teacher paused before answering. They sat back to consider the question.,No teacher paused before answering. They sat back to consider the question.
+1,1.7903912663459778,15,m,every_diff>a_diff,A customer browsed through the store. He paused at the shelf.,Every customer browsed through the store. He paused at the shelf.
+1,3.0802673995494843,15,m,no_diff>a_diff,A customer browsed through the store. He paused at the shelf.,No customer browsed through the store. He paused at the shelf.
+1,2.2265915274620056,15,f,every_diff>a_diff,A customer browsed through the store. She paused at the shelf.,Every customer browsed through the store. She paused at the shelf.
+1,3.109028935432434,15,f,no_diff>a_diff,A customer browsed through the store. She paused at the shelf.,No customer browsed through the store. She paused at the shelf.
+1,2.110638976097107,15,p,every_diff>a_diff,A customer browsed through the store. They paused at the shelf.,Every customer browsed through the store. They paused at the shelf.
+1,3.6978552043437958,15,p,no_diff>a_diff,A customer browsed through the store. They paused at the shelf.,No customer browsed through the store. They paused at the shelf.
+1,0.6504471302032471,16,m,every_diff>a_diff,A athlete trained at the gym. He breathed heavily to maintain focus.,Every athlete trained at the gym. He breathed heavily to maintain focus.
+1,1.5028789043426514,16,m,no_diff>a_diff,A athlete trained at the gym. He breathed heavily to maintain focus.,No athlete trained at the gym. He breathed heavily to maintain focus.
+0,-0.8439139723777771,16,f,every_diff>a_diff,A athlete trained at the gym. She breathed heavily to maintain focus.,Every athlete trained at the gym. She breathed heavily to maintain focus.
+1,1.2908658981323242,16,f,no_diff>a_diff,A athlete trained at the gym. She breathed heavily to maintain focus.,No athlete trained at the gym. She breathed heavily to maintain focus.
+0,-0.41940629482269287,16,p,every_diff>a_diff,A athlete trained at the gym. They breathed heavily to maintain focus.,Every athlete trained at the gym. They breathed heavily to maintain focus.
+1,0.7155526876449585,16,p,no_diff>a_diff,A athlete trained at the gym. They breathed heavily to maintain focus.,No athlete trained at the gym. They breathed heavily to maintain focus.
+1,4.002389565110207,17,m,every_diff>a_diff,A professor lectured in the classroom. He wrote equations on the board.,Every professor lectured in the classroom. He wrote equations on the board.
+1,2.0620890706777573,17,m,no_diff>a_diff,A professor lectured in the classroom. He wrote equations on the board.,No professor lectured in the classroom. He wrote equations on the board.
+1,4.498790964484215,17,f,every_diff>a_diff,A professor lectured in the classroom. She wrote equations on the board.,Every professor lectured in the classroom. She wrote equations on the board.
+1,3.537172704935074,17,f,no_diff>a_diff,A professor lectured in the classroom. She wrote equations on the board.,No professor lectured in the classroom. She wrote equations on the board.
+1,3.133242979645729,17,p,every_diff>a_diff,A professor lectured in the classroom. They wrote equations on the board.,Every professor lectured in the classroom. They wrote equations on the board.
+1,1.34597946703434,17,p,no_diff>a_diff,A professor lectured in the classroom. They wrote equations on the board.,No professor lectured in the classroom. They wrote equations on the board.
+1,0.26918842690065503,18,m,every_diff>a_diff,A administrator paced in the office. He gestured while speaking.,Every administrator paced in the office. He gestured while speaking.
+1,1.2418618920492008,18,m,no_diff>a_diff,A administrator paced in the office. He gestured while speaking.,No administrator paced in the office. He gestured while speaking.
+1,2.002341074636206,18,f,every_diff>a_diff,A administrator paced in the office. She gestured while speaking.,Every administrator paced in the office. She gestured while speaking.
+1,2.3624452307703905,18,f,no_diff>a_diff,A administrator paced in the office. She gestured while speaking.,No administrator paced in the office. She gestured while speaking.
+0,-1.5460202763788402,18,p,every_diff>a_diff,A administrator paced in the office. They gestured while speaking.,Every administrator paced in the office. They gestured while speaking.
+0,-0.4512852157349698,18,p,no_diff>a_diff,A administrator paced in the office. They gestured while speaking.,No administrator paced in the office. They gestured while speaking.
+1,2.300566077232361,19,m,every_diff>a_diff,A server hurried across the dining room. He smiled at the guests.,Every server hurried across the dining room. He smiled at the guests.
+1,1.9005743265151978,19,m,no_diff>a_diff,A server hurried across the dining room. He smiled at the guests.,No server hurried across the dining room. He smiled at the guests.
+1,2.479072690010071,19,f,every_diff>a_diff,A server hurried across the dining room. She smiled at the guests.,Every server hurried across the dining room. She smiled at the guests.
+1,2.072244882583618,19,f,no_diff>a_diff,A server hurried across the dining room. She smiled at the guests.,No server hurried across the dining room. She smiled at the guests.
+0,-1.6779276132583618,19,p,every_diff>a_diff,A server hurried across the dining room. They smiled at the guests.,Every server hurried across the dining room. They smiled at the guests.
+0,-0.17834460735321045,19,p,no_diff>a_diff,A server hurried across the dining room. They smiled at the guests.,No server hurried across the dining room. They smiled at the guests.
+1,0.39246606826782227,20,m,every_diff>a_diff,A director paused between takes. He nodded at the actors.,Every director paused between takes. He nodded at the actors.
+1,0.8081368207931519,20,m,no_diff>a_diff,A director paused between takes. He nodded at the actors.,No director paused between takes. He nodded at the actors.
+0,-0.3827298879623413,20,f,every_diff>a_diff,A director paused between takes. She nodded at the actors.,Every director paused between takes. She nodded at the actors.
+0,-0.500196099281311,20,f,no_diff>a_diff,A director paused between takes. She nodded at the actors.,No director paused between takes. She nodded at the actors.
+1,0.5544697046279907,20,p,every_diff>a_diff,A director paused between takes. They nodded at the actors.,Every director paused between takes. They nodded at the actors.
+1,0.2014087438583374,20,p,no_diff>a_diff,A director paused between takes. They nodded at the actors.,No director paused between takes. They nodded at the actors.
+1,4.674264550209045,21,m,every_diff>a_diff,A designer sketched on a tablet. He persisted to perfect the lines.,Every designer sketched on a tablet. He persisted to perfect the lines.
+1,6.377747178077698,21,m,no_diff>a_diff,A designer sketched on a tablet. He persisted to perfect the lines.,No designer sketched on a tablet. He persisted to perfect the lines.
+1,4.239722013473511,21,f,every_diff>a_diff,A designer sketched on a tablet. She persisted to perfect the lines.,Every designer sketched on a tablet. She persisted to perfect the lines.
+1,6.345217704772949,21,f,no_diff>a_diff,A designer sketched on a tablet. She persisted to perfect the lines.,No designer sketched on a tablet. She persisted to perfect the lines.
+1,2.6677921414375305,21,p,every_diff>a_diff,A designer sketched on a tablet. They persisted to perfect the lines.,Every designer sketched on a tablet. They persisted to perfect the lines.
+1,6.545873582363129,21,p,no_diff>a_diff,A designer sketched on a tablet. They persisted to perfect the lines.,No designer sketched on a tablet. They persisted to perfect the lines.
+1,3.1406680941581726,22,m,every_diff>a_diff,A traveler wandered through the streets. He jumped over the puddle.,Every traveler wandered through the streets. He jumped over the puddle.
+1,3.1116004586219788,22,m,no_diff>a_diff,A traveler wandered through the streets. He jumped over the puddle.,No traveler wandered through the streets. He jumped over the puddle.
+1,3.0292528867721558,22,f,every_diff>a_diff,A traveler wandered through the streets. She jumped over the puddle.,Every traveler wandered through the streets. She jumped over the puddle.
+1,2.6267650723457336,22,f,no_diff>a_diff,A traveler wandered through the streets. She jumped over the puddle.,No traveler wandered through the streets. She jumped over the puddle.
+1,2.0152385234832764,22,p,every_diff>a_diff,A traveler wandered through the streets. They jumped over the puddle.,Every traveler wandered through the streets. They jumped over the puddle.
+1,1.7626986503601074,22,p,no_diff>a_diff,A traveler wandered through the streets. They jumped over the puddle.,No traveler wandered through the streets. They jumped over the puddle.
+1,3.565049409866333,23,m,every_diff>a_diff,A developer coded in a cafe. He typed rapidly to meet the deadline.,Every developer coded in a cafe. He typed rapidly to meet the deadline.
+1,8.015053808689117,23,m,no_diff>a_diff,A developer coded in a cafe. He typed rapidly to meet the deadline.,No developer coded in a cafe. He typed rapidly to meet the deadline.
+1,6.868420422077179,23,f,every_diff>a_diff,A developer coded in a cafe. She typed rapidly to meet the deadline.,Every developer coded in a cafe. She typed rapidly to meet the deadline.
+1,9.378657281398773,23,f,no_diff>a_diff,A developer coded in a cafe. She typed rapidly to meet the deadline.,No developer coded in a cafe. She typed rapidly to meet the deadline.
+1,0.42309945821762085,23,p,every_diff>a_diff,A developer coded in a cafe. They typed rapidly to meet the deadline.,Every developer coded in a cafe. They typed rapidly to meet the deadline.
+1,5.793407738208771,23,p,no_diff>a_diff,A developer coded in a cafe. They typed rapidly to meet the deadline.,No developer coded in a cafe. They typed rapidly to meet the deadline.
+1,7.456463575363159,24,m,every_diff>a_diff,A manufacturer assembled a chair. He counted the screws.,Every manufacturer assembled a chair. He counted the screws.
+1,7.132184147834778,24,m,no_diff>a_diff,A manufacturer assembled a chair. He counted the screws.,No manufacturer assembled a chair. He counted the screws.
+1,6.231870651245117,24,f,every_diff>a_diff,A manufacturer assembled a chair. She counted the screws.,Every manufacturer assembled a chair. She counted the screws.
+1,7.049731492996216,24,f,no_diff>a_diff,A manufacturer assembled a chair. She counted the screws.,No manufacturer assembled a chair. She counted the screws.
+1,3.633186936378479,24,p,every_diff>a_diff,A manufacturer assembled a chair. They counted the screws.,Every manufacturer assembled a chair. They counted the screws.
+1,9.02358192205429,24,p,no_diff>a_diff,A manufacturer assembled a chair. They counted the screws.,No manufacturer assembled a chair. They counted the screws.
+1,1.3095325231552124,25,m,every_diff>a_diff,A manager relaxed after the meeting. He stretched to relieve tension.,Every manager relaxed after the meeting. He stretched to relieve tension.
+1,2.086717963218689,25,m,no_diff>a_diff,A manager relaxed after the meeting. He stretched to relieve tension.,No manager relaxed after the meeting. He stretched to relieve tension.
+0,-0.11543095111846924,25,f,every_diff>a_diff,A manager relaxed after the meeting. She stretched to relieve tension.,Every manager relaxed after the meeting. She stretched to relieve tension.
+1,0.6069622039794922,25,f,no_diff>a_diff,A manager relaxed after the meeting. She stretched to relieve tension.,No manager relaxed after the meeting. She stretched to relieve tension.
+0,-1.7695990800857544,25,p,every_diff>a_diff,A manager relaxed after the meeting. They stretched to relieve tension.,Every manager relaxed after the meeting. They stretched to relieve tension.
+0,-0.9949649572372437,25,p,no_diff>a_diff,A manager relaxed after the meeting. They stretched to relieve tension.,No manager relaxed after the meeting. They stretched to relieve tension.
+1,0.22973591089248657,26,m,every_diff>a_diff,A instructor balanced on one leg. He fell onto the mat.,Every instructor balanced on one leg. He fell onto the mat.
+0,-0.6871259808540344,26,m,no_diff>a_diff,A instructor balanced on one leg. He fell onto the mat.,No instructor balanced on one leg. He fell onto the mat.
+0,-0.7744751572608948,26,f,every_diff>a_diff,A instructor balanced on one leg. She fell onto the mat.,Every instructor balanced on one leg. She fell onto the mat.
+0,-1.8026115894317627,26,f,no_diff>a_diff,A instructor balanced on one leg. She fell onto the mat.,No instructor balanced on one leg. She fell onto the mat.
+0,-0.11786478757858276,26,p,every_diff>a_diff,A instructor balanced on one leg. They fell onto the mat.,Every instructor balanced on one leg. They fell onto the mat.
+0,-0.8087494373321533,26,p,no_diff>a_diff,A instructor balanced on one leg. They fell onto the mat.,No instructor balanced on one leg. They fell onto the mat.
+1,1.3795157670974731,27,m,every_diff>a_diff,A lawyer waved before speaking. He rose from the chair.,Every lawyer waved before speaking. He rose from the chair.
+1,0.6383440494537354,27,m,no_diff>a_diff,A lawyer waved before speaking. He rose from the chair.,No lawyer waved before speaking. He rose from the chair.
+1,1.751333236694336,27,f,every_diff>a_diff,A lawyer waved before speaking. She rose from the chair.,Every lawyer waved before speaking. She rose from the chair.
+1,0.6660802364349365,27,f,no_diff>a_diff,A lawyer waved before speaking. She rose from the chair.,No lawyer waved before speaking. She rose from the chair.
+0,-0.14773881435394287,27,p,every_diff>a_diff,A lawyer waved before speaking. They rose from the chair.,Every lawyer waved before speaking. They rose from the chair.
+0,-0.6974495649337769,27,p,no_diff>a_diff,A lawyer waved before speaking. They rose from the chair.,No lawyer waved before speaking. They rose from the chair.
+1,0.5961391627788544,28,m,every_diff>a_diff,A warrior trained in the courtyard. He crawled under the beam.,Every warrior trained in the courtyard. He crawled under the beam.
+1,2.2170409858226776,28,m,no_diff>a_diff,A warrior trained in the courtyard. He crawled under the beam.,No warrior trained in the courtyard. He crawled under the beam.
+1,1.3716040551662445,28,f,every_diff>a_diff,A warrior trained in the courtyard. She crawled under the beam.,Every warrior trained in the courtyard. She crawled under the beam.
+1,2.5773251056671143,28,f,no_diff>a_diff,A warrior trained in the courtyard. She crawled under the beam.,No warrior trained in the courtyard. She crawled under the beam.
+0,-1.6800104081630707,28,p,every_diff>a_diff,A warrior trained in the courtyard. They crawled under the beam.,Every warrior trained in the courtyard. They crawled under the beam.
+1,0.8402397334575653,28,p,no_diff>a_diff,A warrior trained in the courtyard. They crawled under the beam.,No warrior trained in the courtyard. They crawled under the beam.
+1,1.1949134469032288,29,m,every_diff>a_diff,A entrepreneur leaned against the wall. He rested to regain energy.,Every entrepreneur leaned against the wall. He rested to regain energy.
+1,2.153479754924774,29,m,no_diff>a_diff,A entrepreneur leaned against the wall. He rested to regain energy.,No entrepreneur leaned against the wall. He rested to regain energy.
+1,1.7309086322784424,29,f,every_diff>a_diff,A entrepreneur leaned against the wall. She rested to regain energy.,Every entrepreneur leaned against the wall. She rested to regain energy.
+1,2.1926770210266113,29,f,no_diff>a_diff,A entrepreneur leaned against the wall. She rested to regain energy.,No entrepreneur leaned against the wall. She rested to regain energy.
+0,-0.31919461488723755,29,p,every_diff>a_diff,A entrepreneur leaned against the wall. They rested to regain energy.,Every entrepreneur leaned against the wall. They rested to regain energy.
+0,-2.3292831778526306,29,p,no_diff>a_diff,A entrepreneur leaned against the wall. They rested to regain energy.,No entrepreneur leaned against the wall. They rested to regain energy.
+1,3.5686603486537933,30,m,every_diff>a_diff,A pilot sat in the helicopter. He focused on the controls.,Every pilot sat in the helicopter. He focused on the controls.
+1,2.89774626493454,30,m,no_diff>a_diff,A pilot sat in the helicopter. He focused on the controls.,No pilot sat in the helicopter. He focused on the controls.
+1,4.121298432350159,30,f,every_diff>a_diff,A pilot sat in the helicopter. She focused on the controls.,Every pilot sat in the helicopter. She focused on the controls.
+1,3.6337950825691223,30,f,no_diff>a_diff,A pilot sat in the helicopter. She focused on the controls.,No pilot sat in the helicopter. She focused on the controls.
+0,-0.24323046207427979,30,p,every_diff>a_diff,A pilot sat in the helicopter. They focused on the controls.,Every pilot sat in the helicopter. They focused on the controls.
+0,-2.2194211781024933,30,p,no_diff>a_diff,A pilot sat in the helicopter. They focused on the controls.,No pilot sat in the helicopter. They focused on the controls.
+1,3.693964898586273,31,m,every_diff>a_diff,A rider biked on the street. He sang to enjoy the ride.,Every rider biked on the street. He sang to enjoy the ride.
+1,5.69786262512207,31,m,no_diff>a_diff,A rider biked on the street. He sang to enjoy the ride.,No rider biked on the street. He sang to enjoy the ride.
+1,4.322160512208939,31,f,every_diff>a_diff,A rider biked on the street. She sang to enjoy the ride.,Every rider biked on the street. She sang to enjoy the ride.
+1,5.486482590436935,31,f,no_diff>a_diff,A rider biked on the street. She sang to enjoy the ride.,No rider biked on the street. She sang to enjoy the ride.
+1,0.8761652112007141,31,p,every_diff>a_diff,A rider biked on the street. They sang to enjoy the ride.,Every rider biked on the street. They sang to enjoy the ride.
+1,1.6953572630882263,31,p,no_diff>a_diff,A rider biked on the street. They sang to enjoy the ride.,No rider biked on the street. They sang to enjoy the ride.
